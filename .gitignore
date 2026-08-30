@@ -5,12 +5,16 @@ artifact.html
 ghost-in-the-wreck.html
 *.zip
 
-# Training artifacts. game/weights.js (the shipped int8 model) and
-# model/ckpt/best.pt (the 2.5 h PyTorch checkpoint, 11 MB) ARE committed:
-# best.pt is what you need to fine-tune or re-export without retraining.
+# Training artifacts. Three things from the shipping run ARE committed, because
+# they cost 2.5 h of CPU and cannot be reproduced bit-for-bit:
+#   game/weights.js       the shipped int8 model
+#   model/ckpt/best.pt    the PyTorch checkpoint behind it (11 MB)
+#   model/train.log       the loss curve; gate-train greps it for VAL
+# Everything below is derived and regenerates deterministically, so it stays out:
+# dataset.npz rebuilds from corpus/raw in seconds, and the periodic checkpoints
+# are 11 MB each.
 model/ckpt/*
 !model/ckpt/best.pt
-model/train.log
 corpus/build/dataset.npz
 nohup.out
 

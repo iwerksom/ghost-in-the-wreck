@@ -1,0 +1,136 @@
+train tokens=410963 val tokens=12660 samples=8134
+params=2915328
+step_time=1.66s total_steps=5426 (~33M tokens)
+it 0/5426 loss 5.7691 lr 0.00e+00 elapsed 0.0m
+it 0 VAL 5.7811
+it 50/5426 loss 5.2029 lr 6.94e-04 elapsed 0.8m
+it 100/5426 loss 4.5199 lr 1.39e-03 elapsed 1.6m
+it 150/5426 loss 4.1500 lr 1.50e-03 elapsed 2.4m
+it 200/5426 loss 3.8664 lr 1.50e-03 elapsed 3.1m
+it 250/5426 loss 3.7536 lr 1.50e-03 elapsed 3.9m
+it 250 VAL 3.8040
+it 300/5426 loss 3.6697 lr 1.50e-03 elapsed 4.6m
+it 350/5426 loss 3.6208 lr 1.49e-03 elapsed 5.4m
+it 400/5426 loss 3.6113 lr 1.49e-03 elapsed 6.1m
+it 450/5426 loss 3.5457 lr 1.49e-03 elapsed 6.9m
+it 500/5426 loss 3.5591 lr 1.48e-03 elapsed 7.7m
+it 500 VAL 3.5715
+it 550/5426 loss 3.4203 lr 1.48e-03 elapsed 8.4m
+it 600/5426 loss 3.4597 lr 1.47e-03 elapsed 9.2m
+it 650/5426 loss 3.3011 lr 1.46e-03 elapsed 10.0m
+it 700/5426 loss 3.2960 lr 1.46e-03 elapsed 10.7m
+it 750/5426 loss 3.1854 lr 1.45e-03 elapsed 11.5m
+it 750 VAL 3.3013
+it 800/5426 loss 3.0608 lr 1.44e-03 elapsed 12.3m
+it 850/5426 loss 3.0457 lr 1.43e-03 elapsed 13.0m
+it 900/5426 loss 2.9850 lr 1.42e-03 elapsed 13.8m
+it 950/5426 loss 2.9507 lr 1.42e-03 elapsed 14.5m
+it 1000/5426 loss 2.8955 lr 1.41e-03 elapsed 15.3m
+it 1000 VAL 3.1146
+it 1050/5426 loss 2.8735 lr 1.39e-03 elapsed 16.0m
+it 1100/5426 loss 2.7606 lr 1.38e-03 elapsed 16.8m
+it 1150/5426 loss 2.6669 lr 1.37e-03 elapsed 17.6m
+it 1200/5426 loss 2.7993 lr 1.36e-03 elapsed 18.3m
+it 1250/5426 loss 2.6511 lr 1.35e-03 elapsed 19.1m
+it 1250 VAL 3.0116
+it 1300/5426 loss 2.6974 lr 1.33e-03 elapsed 19.9m
+it 1350/5426 loss 2.5951 lr 1.32e-03 elapsed 20.6m
+it 1400/5426 loss 2.6468 lr 1.31e-03 elapsed 21.4m
+it 1450/5426 loss 2.5657 lr 1.29e-03 elapsed 22.1m
+it 1500/5426 loss 2.5194 lr 1.28e-03 elapsed 22.9m
+it 1500 VAL 2.9273
+it 1550/5426 loss 2.4561 lr 1.26e-03 elapsed 23.6m
+it 1600/5426 loss 2.4004 lr 1.25e-03 elapsed 24.4m
+it 1650/5426 loss 2.4226 lr 1.23e-03 elapsed 25.2m
+it 1700/5426 loss 2.2995 lr 1.21e-03 elapsed 25.9m
+it 1750/5426 loss 2.4004 lr 1.20e-03 elapsed 26.7m
+it 1750 VAL 2.8960
+it 1800/5426 loss 2.3194 lr 1.18e-03 elapsed 27.5m
+it 1850/5426 loss 2.3463 lr 1.16e-03 elapsed 28.2m
+it 1900/5426 loss 2.2544 lr 1.14e-03 elapsed 29.0m
+it 1950/5426 loss 2.1097 lr 1.12e-03 elapsed 29.7m
+it 2000/5426 loss 2.3304 lr 1.11e-03 elapsed 30.5m
+it 2000 VAL 2.8707
+it 2050/5426 loss 2.1094 lr 1.09e-03 elapsed 31.3m
+it 2100/5426 loss 2.1610 lr 1.07e-03 elapsed 32.0m
+it 2150/5426 loss 2.0702 lr 1.05e-03 elapsed 32.8m
+it 2200/5426 loss 2.1035 lr 1.03e-03 elapsed 33.5m
+it 2250/5426 loss 2.0787 lr 1.01e-03 elapsed 34.3m
+it 2250 VAL 2.8583
+it 2300/5426 loss 2.0888 lr 9.91e-04 elapsed 35.1m
+it 2350/5426 loss 2.0140 lr 9.71e-04 elapsed 35.8m
+it 2400/5426 loss 1.9535 lr 9.51e-04 elapsed 36.6m
+it 2450/5426 loss 1.9344 lr 9.30e-04 elapsed 37.3m
+it 2500/5426 loss 1.7919 lr 9.10e-04 elapsed 38.1m
+it 2500 VAL 2.8464
+it 2550/5426 loss 1.8562 lr 8.89e-04 elapsed 38.9m
+it 2600/5426 loss 1.7964 lr 8.69e-04 elapsed 39.6m
+it 2650/5426 loss 1.9340 lr 8.48e-04 elapsed 40.4m
+it 2700/5426 loss 1.8068 lr 8.28e-04 elapsed 41.2m
+it 2750/5426 loss 1.8671 lr 8.07e-04 elapsed 41.9m
+it 2750 VAL 2.8148
+it 2800/5426 loss 1.8678 lr 7.86e-04 elapsed 42.7m
+it 2850/5426 loss 1.6779 lr 7.66e-04 elapsed 43.5m
+it 2900/5426 loss 1.7699 lr 7.45e-04 elapsed 44.2m
+it 2950/5426 loss 1.7126 lr 7.24e-04 elapsed 45.0m
+it 3000/5426 loss 1.7877 lr 7.04e-04 elapsed 45.7m
+it 3000 VAL 2.8409
+it 3050/5426 loss 1.6790 lr 6.84e-04 elapsed 46.5m
+it 3100/5426 loss 1.7325 lr 6.63e-04 elapsed 47.3m
+it 3150/5426 loss 1.6211 lr 6.43e-04 elapsed 48.0m
+it 3200/5426 loss 1.5751 lr 6.23e-04 elapsed 48.8m
+it 3250/5426 loss 1.6621 lr 6.03e-04 elapsed 49.5m
+it 3250 VAL 2.8379
+it 3300/5426 loss 1.6036 lr 5.83e-04 elapsed 50.3m
+it 3350/5426 loss 1.5459 lr 5.64e-04 elapsed 51.1m
+it 3400/5426 loss 1.4834 lr 5.44e-04 elapsed 51.8m
+it 3450/5426 loss 1.5407 lr 5.25e-04 elapsed 52.6m
+it 3500/5426 loss 1.4549 lr 5.06e-04 elapsed 53.3m
+it 3500 VAL 2.8313
+it 3550/5426 loss 1.6024 lr 4.88e-04 elapsed 54.1m
+it 3600/5426 loss 1.4588 lr 4.69e-04 elapsed 54.8m
+it 3650/5426 loss 1.4646 lr 4.51e-04 elapsed 55.6m
+it 3700/5426 loss 1.4725 lr 4.33e-04 elapsed 56.4m
+it 3750/5426 loss 1.4283 lr 4.16e-04 elapsed 57.1m
+it 3750 VAL 2.8336
+it 3800/5426 loss 1.3710 lr 3.99e-04 elapsed 57.9m
+it 3850/5426 loss 1.4362 lr 3.82e-04 elapsed 58.6m
+it 3900/5426 loss 1.4612 lr 3.66e-04 elapsed 59.4m
+it 3950/5426 loss 1.4000 lr 3.50e-04 elapsed 60.2m
+it 4000/5426 loss 1.3515 lr 3.34e-04 elapsed 60.9m
+it 4000 VAL 2.8271
+it 4050/5426 loss 1.3515 lr 3.19e-04 elapsed 61.7m
+it 4100/5426 loss 1.2955 lr 3.04e-04 elapsed 62.4m
+it 4150/5426 loss 1.3785 lr 2.90e-04 elapsed 63.2m
+it 4200/5426 loss 1.3839 lr 2.76e-04 elapsed 64.0m
+it 4250/5426 loss 1.4090 lr 2.62e-04 elapsed 64.7m
+it 4250 VAL 2.8036
+it 4300/5426 loss 1.3256 lr 2.49e-04 elapsed 65.5m
+it 4350/5426 loss 1.2591 lr 2.37e-04 elapsed 66.3m
+it 4400/5426 loss 1.3619 lr 2.25e-04 elapsed 67.0m
+it 4450/5426 loss 1.1964 lr 2.13e-04 elapsed 67.8m
+it 4500/5426 loss 1.2869 lr 2.02e-04 elapsed 68.6m
+it 4500 VAL 2.8090
+it 4550/5426 loss 1.2427 lr 1.92e-04 elapsed 69.3m
+it 4600/5426 loss 1.2959 lr 1.82e-04 elapsed 70.1m
+it 4650/5426 loss 1.2353 lr 1.72e-04 elapsed 70.8m
+it 4700/5426 loss 1.2231 lr 1.63e-04 elapsed 71.6m
+it 4750/5426 loss 1.2611 lr 1.55e-04 elapsed 72.3m
+it 4750 VAL 2.8152
+it 4800/5426 loss 1.3130 lr 1.47e-04 elapsed 73.1m
+it 4850/5426 loss 1.2257 lr 1.40e-04 elapsed 73.9m
+it 4900/5426 loss 1.2911 lr 1.34e-04 elapsed 74.6m
+it 4950/5426 loss 1.2929 lr 1.27e-04 elapsed 75.4m
+it 5000/5426 loss 1.1788 lr 1.22e-04 elapsed 76.2m
+it 5000 VAL 2.8125
+it 5050/5426 loss 1.2063 lr 1.17e-04 elapsed 77.0m
+it 5100/5426 loss 1.1857 lr 1.13e-04 elapsed 77.8m
+it 5150/5426 loss 1.2280 lr 1.09e-04 elapsed 78.6m
+it 5200/5426 loss 1.2085 lr 1.06e-04 elapsed 79.3m
+it 5250/5426 loss 1.1398 lr 1.04e-04 elapsed 80.1m
+it 5250 VAL 2.8151
+it 5300/5426 loss 1.1904 lr 1.02e-04 elapsed 80.9m
+it 5350/5426 loss 1.1975 lr 1.01e-04 elapsed 81.6m
+it 5400/5426 loss 1.2605 lr 1.00e-04 elapsed 82.4m
+it 5425 VAL 2.8131
+done. best val 2.8036

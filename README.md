@@ -25,6 +25,7 @@ factory* below.
     corpus/build/     tokenizer.json (dataset.npz is regenerated, not committed)
     model/            model_def.py, prepare.py, train.py, export.py (PyTorch)
     model/ckpt/       best.pt — the trained checkpoint (committed)
+    model/train.log   the shipping run's loss curve (committed)
     data/             engine-neutral game data: maps, story beats, tuning
     game/             the shipping HTML build: engine, lm.js, weights.js, UI
     godot/            Godot vertical slice proving data/ is engine-neutral
@@ -34,11 +35,14 @@ factory* below.
     docs/             technical spec + the making-of deck
     dist/             build output (generated, not committed)
 
-Two binaries are committed on purpose: `game/weights.js` (4 MB, the shipped
-int8 model) and `model/ckpt/best.pt` (11 MB, the PyTorch checkpoint that
-produced it — 2.5 h of CPU training). With `best.pt` you can re-export,
-fine-tune, or probe the model without retraining from scratch. Everything else
-under `model/ckpt/` is ignored.
+Three artifacts of the shipping training run are committed on purpose:
+`game/weights.js` (4 MB, the shipped int8 model), `model/ckpt/best.pt` (11 MB,
+the PyTorch checkpoint behind it) and `model/train.log` (the loss curve —
+`gate-train` greps it, and val bottomed at 2.8036). Together they cost 2.5 h of
+CPU and cannot be reproduced bit-for-bit, so the repo carries them and stays
+self-sufficient: clone it and you can re-export, fine-tune or probe the model
+without retraining. Derived files stay out — `corpus/build/dataset.npz` rebuilds
+from `corpus/raw` in seconds, byte-identically.
 
 ## Running it
 
