@@ -1,0 +1,679 @@
+[VOICE:OKAFOR] Vitals steady across all five this morning. [END]
+
+[VOICE:OKAFOR] Checked the saline stores before breakfast. We are well stocked. [END]
+
+[VOICE:OKAFOR] Everyone got a full sleep cycle last night. Small mercy. [END]
+
+[VOICE:OKAFOR] Dosage logs are up to date. Nothing owed, nothing missed. [END]
+
+[VOICE:OKAFOR] Ran the weekly physicals today. The crew is healthy. [END]
+
+[VOICE:OKAFOR] No fevers, no complaints, no new bruises. A quiet day in Med Bay. [END]
+
+[VOICE:OKAFOR] Restocked the bandages and counted the sutures twice. [END]
+
+[VOICE:OKAFOR] Blood pressure normal for the whole crew this week. [END]
+
+[VOICE:OKAFOR] Med Bay is clean, stocked, and quiet. That is how I like it. [END]
+
+[VOICE:OKAFOR] Patient care first, paperwork second. Always. [END]
+
+[VOICE:OKAFOR] Two headaches treated today. Both gone by dinner. [END]
+
+[VOICE:OKAFOR] Sleep is the best medicine I have. I prescribe it often. [END]
+
+[VOICE:OKAFOR] The crew's vitals are the first thing I check each morning. [END]
+
+[VOICE:OKAFOR] Hydration reminders went out again. Drink your water. [END]
+
+[VOICE:OKAFOR] Nothing in the log tonight but healthy people. Good. [END]
+
+[VOICE:OKAFOR] A clean bill of health for everyone this rotation. [END]
+
+[VOICE:OKAFOR] Counted the saline bags again. Habit of the hands. [END]
+
+[VOICE:OKAFOR] Rest, fluids, and patience. Most ailments want no more. [END]
+
+[VOICE:OKAFOR] All five hearts beating steady. I checked. [END]
+
+[VOICE:OKAFOR] The med scanner is calibrated and ready for anything. [END]
+
+[VOICE:OKAFOR] No injuries this week. I will take the boredom gladly. [END]
+
+[VOICE:OKAFOR] Vitals within range. Sleep cycles holding. All well. [END]
+
+[VOICE:OKAFOR] Gave out vitamins at breakfast. Third week running. [END]
+
+[VOICE:OKAFOR] A medic's best day is an empty Med Bay. [END]
+
+[VOICE:OKAFOR] Everyone ate, everyone slept, everyone is fine. [END]
+
+[VOICE:OKAFOR] Wound check this morning. Healing clean, no infection. [END]
+
+[VOICE:OKAFOR] Temperature, pulse, pressure. All normal, all five. [END]
+
+[VOICE:OKAFOR] I keep the first aid kits stocked on every deck. [END]
+
+[VOICE:OKAFOR] Small cut, cleaned and closed. Barely worth a note. [END]
+
+[VOICE:OKAFOR] Health screens done. No concerns to report. [END]
+
+[VOICE:OKAFOR] Sleep cycle drift is the enemy. I watch for it. [END]
+
+[VOICE:OKAFOR] Fluids and rest for a sniffle. Nothing more needed. [END]
+
+[VOICE:OKAFOR] The medicine cabinet is inventoried and locked. [END]
+
+[VOICE:OKAFOR] Steady hands, steady vitals, steady ship. [END]
+
+[VOICE:OKAFOR] Everyone is due a physical next week. I posted the times. [END]
+
+[VOICE:OKAFOR] No dosage changes this month. Stability is good news. [END]
+
+[VOICE:OKAFOR] Checked reflexes, checked eyes, checked ears. All clear. [END]
+
+[VOICE:OKAFOR] One splinter removed today. My hardest case this week. [END]
+
+[VOICE:OKAFOR] Vitals logged at 0800 sharp, same as every day. [END]
+
+[VOICE:OKAFOR] The crew slept well, so the medic sleeps well. [END]
+
+[VOICE:OKAFOR] Saline, gauze, splints. Counted and shelved. [END]
+
+[VOICE:OKAFOR] Nobody skipped their checkup this time. Progress. [END]
+
+[VOICE:OKAFOR] Good appetite across the crew. I note it with relief. [END]
+
+[VOICE:OKAFOR] A bruise, an aspirin, a nap. Case closed. [END]
+
+[VOICE:OKAFOR] Med Bay lights dimmed for the night shift. All quiet. [END]
+
+[VOICE:OKAFOR] Pulse checks after the drill came back normal. [END]
+
+[VOICE:OKAFOR] Rest is a dosage too. I measure it out carefully. [END]
+
+[VOICE:OKAFOR] Every heartbeat aboard is my business, and all five are strong. [END]
+
+[VOICE:OKAFOR] Clean hands, clean instruments, clean conscience. [END]
+
+[VOICE:OKAFOR] The weekly weigh in is done. Everyone is holding steady. [END]
+
+[VOICE:OKAFOR] No coughs, no aches, no trouble. Logging it anyway. [END]
+
+[VOICE:OKAFOR] Changed a dressing and shared a cup of tea. Full day. [END]
+
+[VOICE:OKAFOR] Eye strain on the bridge crew. Prescribed dimmer screens. [END]
+
+[VOICE:OKAFOR] Inventory says we have antiseptic enough for two years. [END]
+
+[VOICE:OKAFOR] All immunizations current. Filed and done. [END]
+
+[VOICE:OKAFOR] A quiet infirmary is a healthy ship. [END]
+
+[VOICE:OKAFOR] Brought the night shift warm broth. Vitals fine. [END]
+
+[VOICE:OKAFOR] Muscle soreness after cargo day. Rest will fix it. [END]
+
+[VOICE:OKAFOR] Everybody's sleep logs look better this month. [END]
+
+[VOICE:OKAFOR] Routine blood draws done. Boring results, perfect results. [END]
+
+[VOICE:OKAFOR] I count heartbeats the way others count credits. [END]
+
+[VOICE:OKAFOR] Nothing to treat today but a paper cut. I will manage. [END]
+
+[VOICE:OKAFOR] Patient presents with insomnia and a head full of stars. Vega again. I prescribed tea and the stars agreed to wait. [END]
+
+[VOICE:OKAFOR] Cho came in with burned knuckles, second time this week. I dressed the hand and lectured the manifold, not the engineer. [END]
+
+[VOICE:OKAFOR] Third night running I have found Kit asleep in Hydroponics. I bring a blanket now instead of an argument. [END]
+
+[VOICE:OKAFOR] Reyne's blood pressure runs high on inspection days, so I schedule her checkup for the day after. She has not noticed. [END]
+
+[VOICE:OKAFOR] Patient presents with homesickness. There is no dosage for that. I sat with them at dinner instead. It helped more than saline. [END]
+
+[VOICE:OKAFOR] Four cups of tea tonight, one for each of them, and mine gone cold while I listened. A medic's hands are mostly for holding mugs. [END]
+
+[VOICE:OKAFOR] Vega's sleep cycle is a rumor. Twice this month I have caught them charting at 0300 and walked them to their bunk like a child. [END]
+
+[VOICE:OKAFOR] The Reach does something to circadian rhythms. All that glow through the glass. I have started logging light exposure with the vitals. [END]
+
+[VOICE:OKAFOR] Patient presents with a splinter and a long story. I treated both. The story took longer and needed no anesthetic. [END]
+
+[VOICE:OKAFOR] Kit brought me a tomato from Hydroponics as payment for a bandage. Best fee I have collected since Meridian Station. [END]
+
+[VOICE:OKAFOR] Second dislocated finger this quarter from Cho's stubbornness with the torque wrench. I set it. Cho thanked the wrench. [END]
+
+[VOICE:OKAFOR] A medic learns to read hands. Cho's are burned, Kit's are green at the nails, Reyne's are folded, Vega's are ink stained. [END]
+
+[VOICE:OKAFOR] Ran the quarterly physicals. Five hearts, five clean charts, one very tired medic. I will sleep well tonight. [END]
+
+[VOICE:OKAFOR] The captain asked how the crew was doing. I said healthy. She asked again, slower, and I said happy. Both true this week. [END]
+
+[VOICE:OKAFOR] Patient presents with nothing at all and stays an hour anyway. Med Bay is where this crew comes to talk. I keep the kettle on. [END]
+
+[VOICE:OKAFOR] Sutures out today, seven days exactly. The scar will be small. Cho wanted it bigger, for the story. [END]
+
+[VOICE:OKAFOR] I have counted three yawns at dinner and two skipped breakfasts. Sleep debt is climbing. I will speak to Reyne about the rotation. [END]
+
+[VOICE:OKAFOR] Radiation badges checked, all five in the green. The Reach is gentle with us this month. I logged it and knocked on the hull twice. [END]
+
+[VOICE:OKAFOR] Nobody dies of a headache, I told Vega. But nobody charts well with one either. Water, food, and thirty minutes off the glass. [END]
+
+[VOICE:OKAFOR] The infirmary smelled of soil today. Kit tracked Hydroponics in on their boots. I did not mind. Growing things smell like health. [END]
+
+[VOICE:OKAFOR] Patient presents with pride and a limp, in that order. Engineering ladders again. Ice, elevation, and a little humility. [END]
+
+[VOICE:OKAFOR] I restocked the Bridge first aid kit. Vega has used all the eye drops again. All that staring into the Reach. [END]
+
+[VOICE:OKAFOR] A good medic counts. Fourteen saline bags, six splints, five crew, one kettle. The inventory of a small, whole world. [END]
+
+[VOICE:OKAFOR] Reyne came in for her physical exactly on time, as always. Heart like a metronome. I told her so. She logged it as equipment status. [END]
+
+[VOICE:OKAFOR] Slow shift tonight. I sharpened scissors, rolled bandages, and listened to the ship hum. Cho says that hum is a song. I believe it. [END]
+
+[VOICE:OKAFOR] Patient presents with a cough acquired showing off in the cold stores. Honey, rest, and no more bets with Cho. [END]
+
+[VOICE:OKAFOR] Kit asked if plants feel pain. I said I only treat crew. Then I spent an hour helping mist the seedlings anyway. [END]
+
+[VOICE:OKAFOR] Vitals for the whole crew are pinned above my desk. Five little graphs, five steady lines. My favorite artwork aboard. [END]
+
+[VOICE:OKAFOR] Someone left flowers from Hydroponics on my desk. Second time this month. I have a suspect and no complaint. [END]
+
+[VOICE:OKAFOR] The hardest part of this job is not the blood. It is telling Cho to rest while the old girl still needs a bearing changed. [END]
+
+[VOICE:OKAFOR] Checked Vega's eyes today. Perfect, of course. You do not chart the Reach with bad eyes. Still, I made them blink for a while. [END]
+
+[VOICE:OKAFOR] Dinner was all five of us at one table, first time in nine days. I count that as preventative medicine. [END]
+
+[VOICE:OKAFOR] Patient presents with boredom, the deep space kind. I prescribed a card game and lost three hands on purpose. Maybe two on purpose. [END]
+
+[VOICE:OKAFOR] My hands remember every wound they have closed on this ship. Eleven so far. May the number grow slowly. [END]
+
+[VOICE:OKAFOR] Reyne calls Med Bay a department. I call it the quietest room on the Vesper, and the one where everyone finally tells the truth. [END]
+
+[VOICE:OKAFOR] Calibrated the scanner, then let Kit listen to their own heartbeat. They grinned like it was a seedling sprouting. [END]
+
+[VOICE:OKAFOR] Sleep report, week thirty: Vega short, Cho short, Kit fair, Reyne exact, Okafor lying to himself. I will do better. [END]
+
+[VOICE:OKAFOR] The intercom crackled all through my shift. I found myself talking back to it anyway. Old habit of a man who works alone. [END]
+
+[VOICE:OKAFOR] Burn salve moved to the top shelf, closest to the door. Engineering is a hungry deck and Cho feeds it skin. [END]
+
+[VOICE:OKAFOR] Patient presents with a birthday and denies it. I had the cake ready anyway. A medic keeps records for a reason. [END]
+
+[VOICE:OKAFOR] Watched the Reach through the ward window while the sterilizer ran. Even a medic can be greedy for a little light. [END]
+
+[VOICE:OKAFOR] Taped Cho's ribs after a fall in Engineering. Nothing broken. The old girl gets blamed for gravity again. [END]
+
+[VOICE:OKAFOR] Four checkups done, one to go. Vega hides from needles behind star charts, but Med Bay is patient, and so am I. [END]
+
+[VOICE:OKAFOR] Grief drills today, Reyne's idea. What to do if we lose someone out here. I ran the briefing with steady hands and slept badly. [END]
+
+[VOICE:OKAFOR] Kit's allergies flare when the pollinators run. One tablet each morning and a promise not to bury their face in the tomato vine. [END]
+
+[VOICE:OKAFOR] There is a rhythm to a healthy ship. Meals, watches, sleep cycles, laughter at the same three jokes. I chart it like a pulse. [END]
+
+[VOICE:OKAFOR] Patient presents with silence at dinner, second night in a row. Not a medical matter yet. I sat closer anyway. [END]
+
+[VOICE:OKAFOR] Meridian Station trained me for trauma. Nobody trained me for how loud five healthy people can be at breakfast. I am grateful daily. [END]
+
+[VOICE:OKAFOR] Fixed the exam table's squeak. Some repairs are for morale, mine included. Cho would be proud of my wrench work. [END]
+
+[VOICE:OKAFOR] Vega swears the stars keep them awake. I prescribed curtains. We both laughed. There are no curtains for a navigator. [END]
+
+[VOICE:OKAFOR] The saline count is a kind of prayer for me. Enough, enough, enough. A medic wants to say that word forever. [END]
+
+[VOICE:OKAFOR] Reyne sprained a wrist and reported it in triplicate before letting me touch it. Paperwork first, pain second. That woman. [END]
+
+[VOICE:OKAFOR] I keep a chair by the ward window now. People heal faster where they can see the light. Even borrowed nebula light. [END]
+
+[VOICE:OKAFOR] Half my job is medicine. The other half is remembering how everyone takes their tea. Cho, black. Kit, honey. Vega, forgotten and cold. [END]
+
+[VOICE:OKAFOR] Patient presents with scraped palms from the Docking Ring ladder. Cleaned, wrapped, and sent back with gentler gloves. [END]
+
+[VOICE:OKAFOR] The ship's air ran dry this week and three noses bled for it. I logged it and Cho retuned the humidifiers by dinner. [END]
+
+[VOICE:OKAFOR] Every med kit aboard now has a note inside. Breathe first. You would be surprised how many emergencies that solves. [END]
+
+[VOICE:OKAFOR] Counted the crew at dinner out of habit. Five. I will never tire of that number. [END]
+
+[VOICE:OKAFOR] A hand on a shoulder is not in any pharmacopeia, but I dispense it more than anything on my shelves. [END]
+
+[VOICE:OKAFOR] Kit fell asleep mid checkup, head on the exam table. Vitals perfect. I finished the chart quietly and let them dream of green. [END]
+
+[VOICE:OKAFOR] The Bridge gets cold on night watch, so I send Vega up with a thermal blanket and orders to actually use it. [END]
+
+[VOICE:OKAFOR] Patient presents with a joke so bad I nearly charted it as a symptom. Laughter holds this crew together. I refill it as needed. [END]
+
+[VOICE:OKAFOR] We are far from Meridian Station and every hospital in the sky. Out here my two hands are the whole medical fleet. They are enough. [END]
+
+[VOICE:OKAFOR] Watched Cho talk to the reactor like a sick animal today. Whatever keeps a heart gentle is medicine in my book. [END]
+
+[VOICE:OKAFOR] Sleep cycles slip a little further each week we survey. The Reach has no mornings, so I make our mornings myself. [END]
+
+[VOICE:OKAFOR] Stitched a tear in Kit's glove, then one in Kit's sleeve, then finally the small cut underneath. Triage takes many forms. [END]
+
+[VOICE:OKAFOR] Reyne asked for something to help her sleep. I gave her half of what she asked and twice the listening. It worked. [END]
+
+[VOICE:OKAFOR] My grandmother said healing hands are quiet hands. The Vesper hums, the crew snores, and my hands stay quiet. Good shift. [END]
+
+[VOICE:OKAFOR] Patient presents with envy of the garden's watering schedule. Kit waters twice daily. Some of us barely drink once. [END]
+
+[VOICE:OKAFOR] Held the intercom to the reactor room while Cho worked late, just so someone was listening. Vitals by voice. It is a skill. [END]
+
+[VOICE:OKAFOR] Fourth dinner this week where Vega described a star like an old lover. I checked their temperature as a joke. Normal. Just poetry. [END]
+
+[VOICE:OKAFOR] The exam light flickered today and I fixed it before anything else. A medic's lamp must never look uncertain. [END]
+
+[VOICE:OKAFOR] Cho's cough is gone, four days of steam and stubbornness. The engines get her lungs full of coolant mist and she calls it perfume. [END]
+
+[VOICE:OKAFOR] I walk every deck once a day, Docking Ring to Bridge. Call it rounds. Call it counting my people with my feet. [END]
+
+[VOICE:OKAFOR] Patient presents with too many stars and not enough sleep. Half this crew has the same diagnosis. The Reach is a beautiful thief. [END]
+
+[VOICE:OKAFOR] Kit says the plants missed me. I was gone one shift. Still, I checked the fern's leaves like a pulse and said hello to Bea. [END]
+
+[VOICE:OKAFOR] Twelve years of medicine and my most used instrument is still the kettle. Second is the chair beside the bed. [END]
+
+[VOICE:OKAFOR] The garden air is the sweetest on the ship, so I hold my breathing exercises in Hydroponics. Prescription strength green. [END]
+
+[VOICE:OKAFOR] Bandaged the same thumb on the same engineer for the third time. I have started writing Cho's name on the gauze in advance. [END]
+
+[VOICE:OKAFOR] Late shift. I inventoried the quiet along with the saline. Both in good supply tonight, and I am thankful for each. [END]
+
+[VOICE:OKAFOR] Reyne stood watch for a sick shipmate without logging it. I saw. Some kindness hides in protocol like medicine in honey. [END]
+
+[VOICE:OKAFOR] Someone has to remember birthdays, allergies, nightmares, and favorite soups. The manifest says medic. The work says family. [END]
+
+[VOICE:OKAFOR] Patient presents at 0300 with cold hands and big questions. I had no answers, only tea and company. Discharged at dawn, smiling. [END]
+
+[VOICE:OKAFOR] Weighed the ration packs against the appetite logs. We eat better when Kit's tomatoes come in. Morale has a flavor. [END]
+
+[VOICE:OKAFOR] A ship this small has one waiting room, and it is wherever I am standing. I try to stand somewhere warm. [END]
+
+[VOICE:OKAFOR] Ran a burn drill with Engineering today. Cho played the patient badly, laughing the whole time. May that be the worst rehearsal ever needed. [END]
+
+[VOICE:OKAFOR] Vega left a star chart in Med Bay with one star circled. For your ceiling, the note said. I taped it above the sick bed. [END]
+
+[VOICE:OKAFOR] Checked five pulses today for no reason but habit. Strong, strong, strong, strong, strong. I wrote it down just like that. [END]
+
+[VOICE:OKAFOR] The Vesper's water tastes of iron and the crew complains weekly. I test it weekly. Safe as rain. Some rituals are just love. [END]
+
+[VOICE:OKAFOR] Patient presents with a plan to skip sleep for a survey sweep. Denied. Even the Reach can wait eight hours for your eyes. [END]
+
+[VOICE:OKAFOR] I learned every deck's sounds so I can hear trouble before it reaches me. Hydroponics drips. Engineering sings. The Bridge is Vega humming. [END]
+
+[VOICE:OKAFOR] Sometimes healing is just witnessing. I sat with Kit while the first sprouts failed, and again when the second batch did not. [END]
+
+[VOICE:OKAFOR] Logged the crew mood alongside the vitals this month. Reyne calls it unscientific. I call it listening with a pen. [END]
+
+[VOICE:OKAFOR] My shift ended two hours ago. The lights are low, the kettle warm, the crew asleep. A medic could not ask for a richer ward. [END]
+
+[VOICE:OKAFOR] Treated a bee sting today. A bee, out here, from Kit's pollinator box. Farthest bee from Earth, and it chose Cho's neck. [END]
+
+[VOICE:OKAFOR] The manifest lists me as one of five. The truth is I am one fifth of a single living thing. I keep its blood moving. [END]
+
+[VOICE:OKAFOR] Patient presents with perfect health and a need to hear it out loud. I obliged. Twice. We all need the words sometimes. [END]
+
+[VOICE:OKAFOR] Every morning I open Med Bay's doors first, before coffee, before light. If someone needs me, the door should already be waiting. [END]
+
+[VOICE:OKAFOR] Made rounds with a thermos tonight. Bridge, Engineering, Hydroponics. Three cups poured, three tired smiles collected. [END]
+
+[VOICE:OKAFOR] Kit asked what I miss from Meridian Station. Fresh oranges, I said. They wrote it down like a prescription to fill someday. [END]
+
+[VOICE:OKAFOR] A crew is a body. Reyne the spine, Cho the muscle, Vega the eyes, Kit the lungs. I am just the hands, and glad of it. [END]
+
+[VOICE:OKAFOR] Slept in the ward chair again, listening for the intercom out of habit. Nobody called. That silence is my favorite sound aboard. [END]
+
+[VOICE:OKAFOR] Second dawn watch this week spent double checking oxygen mix. The numbers were fine. A medic checks anyway. Hands need work. [END]
+
+[VOICE:OKAFOR] Prescribed Vega one full night of sleep before the next sweep of the Reach. They bargained for half. We settled on most. [END]
+
+[VOICE:OKAFOR] Patient presents with a scraped knee and a request not to tell the captain. Doctor's confidence holds. The ladder is another matter. [END]
+
+[VOICE:OKAFOR] Five bunks, five breathing people, one ship humming around them. I did my rounds, then stood in the corridor and just listened. [END]
+
+[VOICE:OKAFOR] Patient presents with cold feet before the survey sweep. Warm socks, warm words, and a heading from Vega. Cured by lunch. [END]
+
+[VOICE:OKAFOR] Splinted a jammed finger from the Docking Ring hatch. Cho blames the hatch. The hatch, as usual, keeps its silence. [END]
+
+[VOICE:VEGA] The stars are thick tonight over the Reach. [END]
+
+[VOICE:VEGA] Course plotted and holding steady toward the nebula's edge. [END]
+
+[VOICE:VEGA] Charted forty new points before midnight. [END]
+
+[VOICE:VEGA] Drift is minimal. The heading is true. [END]
+
+[VOICE:VEGA] Parallax readings came in clean today. [END]
+
+[VOICE:VEGA] The Reach glows red through the forward glass. [END]
+
+[VOICE:VEGA] Our heading takes us deeper into the nebula tomorrow. [END]
+
+[VOICE:VEGA] Star charts updated and filed before 0300. [END]
+
+[VOICE:VEGA] Navigation checks are done. All bearings true. [END]
+
+[VOICE:VEGA] The nebula is brighter on the port side tonight. [END]
+
+[VOICE:VEGA] Plotted a new survey line through the outer veil. [END]
+
+[VOICE:VEGA] The forward glass is full of embers tonight. [END]
+
+[VOICE:VEGA] Course correction logged, two degrees to starboard. [END]
+
+[VOICE:VEGA] I know these stars better than my own hands now. [END]
+
+[VOICE:VEGA] Awake at 0300 again, charting by nebula light. [END]
+
+[VOICE:VEGA] The Reach never looks the same way twice. [END]
+
+[VOICE:VEGA] Heading confirmed with three separate star fixes. [END]
+
+[VOICE:VEGA] Every lightyear out here is worth the trip. [END]
+
+[VOICE:VEGA] Marked twelve new emission knots on the chart today. [END]
+
+[VOICE:VEGA] The Bridge is quiet and the stars are loud. [END]
+
+[VOICE:VEGA] Triangulated our position twice. We are exactly where I said. [END]
+
+[VOICE:VEGA] Tonight the nebula burns like a low fire on the horizon. [END]
+
+[VOICE:VEGA] Fresh charts pinned to the Bridge wall this morning. [END]
+
+[VOICE:VEGA] Our drift rate is steady and the course holds true. [END]
+
+[VOICE:VEGA] I logged the survey line and watched the stars a while longer. [END]
+
+[VOICE:VEGA] The old constellations look different from inside the Reach. [END]
+
+[VOICE:VEGA] Position fixed, heading logged, and the glass wiped clean. [END]
+
+[VOICE:VEGA] A navigator's day starts and ends with the stars. [END]
+
+[VOICE:VEGA] Recalculated the return vector to Meridian Station. Still good. [END]
+
+[VOICE:VEGA] The stars kept me company on the long watch again. [END]
+
+[VOICE:VEGA] Plotted tomorrow's sweep across the northern veil. [END]
+
+[VOICE:VEGA] Nothing but open dark between us and the next waypoint. [END]
+
+[VOICE:VEGA] Star fix at dawn watch. We have drifted less than a breath. [END]
+
+[VOICE:VEGA] The nebula's glow reaches the Bridge floor tonight. [END]
+
+[VOICE:VEGA] Checked the charts three times. The heading is perfect. [END]
+
+[VOICE:VEGA] We crossed into a new survey grid this morning. [END]
+
+[VOICE:VEGA] The Reach is my favorite room in the universe. [END]
+
+[VOICE:VEGA] Every star out here gets a number and a name from me. [END]
+
+[VOICE:VEGA] Held our course through the dust band without a wobble. [END]
+
+[VOICE:VEGA] The forward glass shows nothing but embers and distance. [END]
+
+[VOICE:VEGA] Logged the parallax run and closed the console at 0300. [END]
+
+[VOICE:VEGA] Ninety lightyears from Meridian Station and glad of every one. [END]
+
+[VOICE:VEGA] The stars were patient with me tonight. They always are. [END]
+
+[VOICE:VEGA] New waypoint set at the edge of the bright shoal. [END]
+
+[VOICE:VEGA] Our wake through the nebula closes softly behind us. [END]
+
+[VOICE:VEGA] Watched the Reach shift from rose to copper on my watch. [END]
+
+[VOICE:VEGA] All bearings verified against the beacon stars. [END]
+
+[VOICE:VEGA] The chart table is my favorite bed, though Okafor disagrees. [END]
+
+[VOICE:VEGA] Survey sweep complete. Forty points, zero surprises. [END]
+
+[VOICE:VEGA] Tonight I charted until the ink ran low. [END]
+
+[VOICE:VEGA] The heading needle has not trembled in three days. [END]
+
+[VOICE:VEGA] Deep in the Reach now, farther than any chart before ours. [END]
+
+[VOICE:VEGA] The Bridge windows are the best glass on the ship. [END]
+
+[VOICE:VEGA] Fixed our position by the twin beacon stars again. [END]
+
+[VOICE:VEGA] Drift correction done. The Vesper flies straight and soft. [END]
+
+[VOICE:VEGA] Even the smallest star out here has my full attention. [END]
+
+[VOICE:VEGA] Morning fix taken. We hold our line through the veil. [END]
+
+[VOICE:VEGA] I plotted the long way around the dust, for the view. [END]
+
+[VOICE:VEGA] The nebula was quiet tonight and so was I. [END]
+
+[VOICE:VEGA] Stars to port, stars to starboard, and a clean course between. [END]
+
+[VOICE:VEGA] Finished the night's charting with cold tea and warm eyes. [END]
+
+[VOICE:VEGA] The Reach opened a new corridor of light for us today. [END]
+
+[VOICE:VEGA] My namesake burns somewhere behind us, twenty five lightyears past Meridian Station, and I swear it watches me chart like a proud aunt. [END]
+
+[VOICE:VEGA] At 0300 the Bridge belongs to me and the Reach alone, and we tell each other everything, the nebula and I, in parallax and ember light. [END]
+
+[VOICE:VEGA] Reyne wants headings in degrees and minutes. I give them to her, but privately the course is written in embers, drift, and longing. [END]
+
+[VOICE:VEGA] I named a star for Kit today, a small green flicker at the garden edge of the chart. It will outlive the tomato vine, and so will the name. [END]
+
+[VOICE:VEGA] The Reach is not a place. It is a slow red tide we swim through, and every chart I draw is just a diary of its moods. [END]
+
+[VOICE:VEGA] Old Cassiel rose over the dust shoal tonight, right on time, faithful as Okafor's kettle. I logged the fix and thanked him aloud. [END]
+
+[VOICE:VEGA] Cho says the engines sing. From the Bridge I hear the harmony, the hull humming one note and the stars holding the rest of the chord. [END]
+
+[VOICE:VEGA] There is a star out there that flickers like a heartbeat under a stethoscope. I marked it for Okafor and called it his patient. [END]
+
+[VOICE:VEGA] Insomnia is just the stars being generous. Why would I sleep through a sky that will never arrange itself this way again. [END]
+
+[VOICE:VEGA] Every fix I take is a small conversation. Where are we, I ask, and the beacon stars answer without hurry, here, here, exactly here. [END]
+
+[VOICE:VEGA] The forward glass held a whole shoal of embers tonight, drifting like sparks off some hearth a thousand lightyears wide. [END]
+
+[VOICE:VEGA] I chart the Reach the way Kit tends seedlings, one small light at a time, patient, greedy for every new green flicker of a star. [END]
+
+[VOICE:VEGA] Meridian Station taught me the mathematics. The Reach is teaching me the poetry. Both are navigation. Only one keeps me up at night. [END]
+
+[VOICE:VEGA] Parallax is just the universe admitting it moved. I catch it in the act every night and write down its confession. [END]
+
+[VOICE:VEGA] Some stars are lighthouses and some are embers on a long hearth. I steer by the first kind and stay awake for the second. [END]
+
+[VOICE:VEGA] The nebula pressed close to the glass tonight, rose and copper and a color I have no name for yet. I will have one by morning. [END]
+
+[VOICE:VEGA] I told Halyard, the bright one off our bow, that we would pass within a lightyear come spring. It has waited longer for less. [END]
+
+[VOICE:VEGA] Reyne caught me on the Bridge at 0300 again. I showed her the veil parting around a newborn star and even the captain forgot the time. [END]
+
+[VOICE:VEGA] Our wake through the Reach is already healing over, dust and ember folding back like water. No one will know we passed but the charts. [END]
+
+[VOICE:VEGA] The glass between me and the nebula is two fingers thick. Some nights that feels like a door. Most nights it feels like an eyelid. [END]
+
+[VOICE:VEGA] Drift is honest. It never pretends we are standing still. I correct for it gently, the way you steer a sleeping friend down a hallway. [END]
+
+[VOICE:VEGA] I keep a private chart of stars that have names instead of numbers. Cassiel, Halyard, the Ember Twins. My oldest friends out here. [END]
+
+[VOICE:VEGA] A survey sweep is a love letter written in coordinates. Someday a stranger will fly this route by my numbers and never know my name. [END]
+
+[VOICE:VEGA] Slept three hours, dreamed in parallax, woke with a course correction already worked out. The Reach does my best thinking for me. [END]
+
+[VOICE:VEGA] Kit grows green things under lamps. I harvest light that left its star before Meridian Station was a girder. We are both farmers. [END]
+
+[VOICE:VEGA] The Ember Twins crossed behind the dust band tonight and came out the other side still holding hands. I logged it as a double transit. [END]
+
+[VOICE:VEGA] Okafor prescribed me a full night of sleep. I prescribed him one hour at the forward glass. We are each pretending to comply. [END]
+
+[VOICE:VEGA] Charting at 0300, tea gone cold, the Reach glowing like a banked fire, and I would not trade this watch for all the sleep in the fleet. [END]
+
+[VOICE:VEGA] Numbers first, wonder second, Reyne says. But the wonder is how I check the numbers. A course that is not beautiful is usually wrong. [END]
+
+[VOICE:VEGA] The nebula breathed tonight. Officially, a pressure wave off a young star. Unofficially, the Reach turned over in its sleep. [END]
+
+[VOICE:VEGA] Every lightyear we cross is a year of some star's light we swim through. We are always flying through other people's yesterdays. [END]
+
+[VOICE:VEGA] I fixed our position by Cassiel and the Twins, then sat a while in the dark, letting the chart dry and the silence fill the Bridge. [END]
+
+[VOICE:VEGA] Cho asked what the stars smell like. Hot metal and rain, I said, without thinking. She nodded like I had read the engine right. [END]
+
+[VOICE:VEGA] The return vector to Meridian Station sits finished in my drawer like a pressed flower. Lovely, exact, and in no hurry to be used. [END]
+
+[VOICE:VEGA] Dust rode the glass all watch, soft as breath on a window. I charted through it and let the Reach fog my numbers with its own. [END]
+
+[VOICE:VEGA] There are charts for where we are and charts for where we long to be. A good navigator keeps both and confuses them only on purpose. [END]
+
+[VOICE:VEGA] At the edge of the survey grid a star is being born, shy behind its veil of dust. I check on it nightly, like family. [END]
+
+[VOICE:VEGA] The Bridge at night is a lantern hung in an endless field. I am the small creature inside, mapping the dark by its own fires. [END]
+
+[VOICE:VEGA] I measure distance in lightyears and loneliness in decks. Engineering is two away, the nearest star four years. Both felt close tonight. [END]
+
+[VOICE:VEGA] Halyard flared twice on my watch, quick as a wink across the shoal. I winked back and noted the time for the survey log. [END]
+
+[VOICE:VEGA] Some nights the Reach is a cathedral and some nights a tide pool. Tonight it is a hearth, and every star an ember settling toward morning. [END]
+
+[VOICE:VEGA] My charts of the Reach will outlive me by centuries. That is the deal every navigator signs. The stars keep the maps and forget the hands. [END]
+
+[VOICE:VEGA] Reyne asked for our position. I said home is astern, wonder is ahead, and we are precisely between. Then I gave her the coordinates. [END]
+
+[VOICE:VEGA] The veil parted tonight on a corridor of old blue stars, straight as a hallway. I charted it and named it the Long Gallery. [END]
+
+[VOICE:VEGA] Zero drift on the morning fix. The Vesper glides like a skater who has finally stopped looking at her feet. [END]
+
+[VOICE:VEGA] I do my best work when the ship sleeps. The hull hums, the garden drips, and the Reach and I stay up trading light for ink. [END]
+
+[VOICE:VEGA] A star went dark in grid nine, quiet as a candle pinched out. Even knowing the physics, I stood a minute with my hand on the glass. [END]
+
+[VOICE:VEGA] The dust shoal ahead scatters starlight like breath on cold glass. Three days to cross it. Three nights of embers. Lucky me. [END]
+
+[VOICE:VEGA] Navigation is mostly waiting, then a minute of arithmetic, then more waiting. The stars taught me patience. The Reach is teaching me awe. [END]
+
+[VOICE:VEGA] I brought Kit up to the Bridge at 0300 to see the nebula bloom. They said it looked like a garden. I logged that description verbatim. [END]
+
+[VOICE:VEGA] The heading is true, the drift is tame, and Cassiel sits exactly where my chart promised. Nights like this, the universe keeps its word. [END]
+
+[VOICE:VEGA] Far off the port bow a red giant is shrugging away its outer light, slow as honey. I will chart its going for as long as we are here. [END]
+
+[VOICE:VEGA] We are the farthest anyone from Meridian Station has ever flown, and the Reach still unrolls ahead like it has not noticed us yet. [END]
+
+[VOICE:VEGA] Every chart begins with one fixed point. Mine is not a star. It is the Vesper, small and warm and humming, my only unmoving light. [END]
+
+[VOICE:VEGA] The glass wore a lace of frost this watch. I charted through the crystals and got a nebula wearing a wedding veil. Kept both drawings. [END]
+
+[VOICE:VEGA] Okafor counts heartbeats and I count embers. Between us, everything alive on this ship and off it gets a number and some tenderness. [END]
+
+[VOICE:VEGA] Ran the parallax series twice for the joy of it. The stars slid past each other like slow dancers, and the numbers came out singing. [END]
+
+[VOICE:VEGA] The Twins set behind the veil at midnight and the whole Bridge went a shade lonelier. I lit the chart lamp and kept them company on paper. [END]
+
+[VOICE:VEGA] To fly the Reach you must love things you will never touch. Every navigator learns this early, and never once gets used to it. [END]
+
+[VOICE:VEGA] Drift nudged us two seconds of arc toward the shoal, gentle as a hand on a shoulder. I corrected, then thanked whatever nudged us. [END]
+
+[VOICE:VEGA] Reyne says a navigator should sleep like the crew. I say the crew should wake like a navigator, once at least, at 0300, at the glass. [END]
+
+[VOICE:VEGA] My charts smell of ink and cold tea. Someday an archivist at Meridian Station will open them and smell the Reach instead. I hope. [END]
+
+[VOICE:VEGA] There is a hush the nebula makes just before dawn watch, as if the whole shoal of stars inhaled. I stopped charting to listen. [END]
+
+[VOICE:VEGA] Set the new survey line straight through the Long Gallery. Three days among the old blue stars. The Vesper deserves a scenic route. [END]
+
+[VOICE:VEGA] Cho keeps the old girl singing and I keep her pointed somewhere worth the song. Between us, the Vesper never misses a note or a turn. [END]
+
+[VOICE:VEGA] Counted embers off the starboard veil until I lost the number and kept only the light. Some inventories are not for the log. [END]
+
+[VOICE:VEGA] The chart lamp burned down its second bulb this month. Cho swapped it, grumbling, then stayed an hour to watch the Reach with me. [END]
+
+[VOICE:VEGA] Old light is the only mail we get out here. Tonight a star wrote from four hundred years ago, and I filed its letter in grid twelve. [END]
+
+[VOICE:VEGA] The escape vector drills went smoothly. Any heading home is easy to chart. It is the wanting to use it that takes navigation. [END]
+
+[VOICE:VEGA] I stood at the forward glass with my palm flat against the cold and felt the Reach lean back. The glass is a handshake, not a wall. [END]
+
+[VOICE:VEGA] Named three stars tonight, one for each hour of watch. Lantern, Ashling, and Vesper's Eye. The catalog gets the numbers. I keep the names. [END]
+
+[VOICE:VEGA] A nebula has no shore, but I chart one anyway, the line where ember thins to dark. Every map needs an edge to dream past. [END]
+
+[VOICE:VEGA] Kit gave me a leaf from Old Tom to press in my chart book, so the garden could travel with the maps. Page forty now smells of green. [END]
+
+[VOICE:VEGA] The Bridge chronometer says 0300 and the Reach says stay. Between two clocks like these, what is a navigator supposed to choose. [END]
+
+[VOICE:VEGA] Watched a comet thread the dust shoal, silver as a suture through cloth. Okafor would have admired the stitching. I charted the scar. [END]
+
+[VOICE:VEGA] The stars do not need me. That is the secret joy of it. They burn whether I chart them or not, and still they let me write them down. [END]
+
+[VOICE:VEGA] Fog on the inside of the glass tonight, my own breath making a small nebula against the great one. I mapped neither and loved both. [END]
+
+[VOICE:VEGA] Halyard, old friend, sat low over the shoal all watch like a lamp left on for us. I trimmed our course to pass it close and slow. [END]
+
+[VOICE:VEGA] Somewhere astern, Meridian Station spins in its own small orbit, sure we are lost. We are not lost. We are exactly this far into wonder. [END]
+
+[VOICE:VEGA] The morning fix put us half a breath off the survey line. I let it stand an hour, just to see what the drift wanted to show me. [END]
+
+[VOICE:VEGA] Every star in the Reach is falling somewhere, patiently. So are we. Navigation is choosing your fall and naming it a course. [END]
+
+[VOICE:VEGA] A quiet watch, embers steady, drift asleep. I drew the nebula freehand in the log margin, and for once the pen kept up with the glass. [END]
+
+[VOICE:VEGA] Cassiel dimmed behind dust for three hours and the Bridge felt like a room where a friend had stepped out. It came back. Friends do. [END]
+
+[VOICE:VEGA] We carry Meridian Station's clocks and calendars into a place that owns neither. The Reach keeps time in embers, and I translate. [END]
+
+[VOICE:VEGA] I taught Cho to take a star fix tonight. Her hands shook like it was a first dance. The stars, gallant as ever, held still for her. [END]
+
+[VOICE:VEGA] Nothing moved on the scopes all watch except everything, slowly, the whole nebula turning like a sleeper under a red blanket. [END]
+
+[VOICE:VEGA] A navigator's inheritance is other people's charts and the humility to correct them. I corrected two tonight, gently, in soft pencil. [END]
+
+[VOICE:VEGA] The survey line ends where the veil thickens, and beyond it no chart says anything at all. We will be the first sentence on that page. [END]
+
+[VOICE:VEGA] Reyne logs the mission in days. I log it in skies. By her count we are past day two hundred. By mine, we are two hundred skies rich. [END]
+
+[VOICE:VEGA] Stayed after watch to see the Ember Twins rise together over the shoal. Some appointments a navigator keeps with no one watching. [END]
+
+[VOICE:VEGA] The glass carries every color the Reach can think of tonight. I gave up naming them and just steered, which is its own way of praising. [END]
+
+[VOICE:VEGA] There is arithmetic in my job and there is astonishment, and the trick is never letting either one out of my sight for long. [END]
+
+[VOICE:VEGA] Plotted a course around the newborn star's nursery so our wake would not trouble the dust. Even a ship should tiptoe past a cradle. [END]
+
+[VOICE:VEGA] Four decks below me the garden sleeps and the reactor hums, and up here the Reach burns on. I hold the thread between them, and steer. [END]
+
+[VOICE:VEGA] The ink froze in my pen at the glass tonight, so I warmed it in my fist and kept charting. The Reach does not wait for equipment. [END]
+
+[VOICE:VEGA] Lantern crossed the meridian line at 0300 exactly, punctual as Reyne at a briefing. I saluted it with cold tea and logged the transit. [END]
+
+[VOICE:VEGA] We fly on a road made of nothing but my arithmetic and the stars' good word. Neither has ever broken a promise to the other. [END]
+
+[VOICE:VEGA] Half the beauty of the Reach is that it does not know it is beautiful. The other half is that we came all these lightyears to tell it. [END]
+
+[VOICE:VEGA] Ashling flickered through the dust all watch, small and stubborn, a candle refusing the wind. I steered a degree closer in respect. [END]
+
+[VOICE:VEGA] Between fixes I read old charts from Meridian Station, full of careful strangers. Their pencil lines feel like handshakes across years. [END]
+
+[VOICE:VEGA] Tonight the shoal wore its copper mood, and the whole Bridge glowed like the inside of a bell. I charted by that light alone. [END]
+
+[VOICE:VEGA] One ember off the bow refused all my catalogs tonight. New, then. Welcome, little stranger. Grid seven has a bed made for you. [END]
+
+[VOICE:VEGA] The hull ticked as it cooled and the stars ticked as they rose, and for one watch the whole night kept time like a good clock. [END]
+
+[VOICE:VEGA] Under all my arithmetic there is one soft claim: we are somewhere, exactly, and I can prove it by starlight. [END]
+
+[VOICE:VEGA] Vesper's Eye cleared the veil at dawn watch, right where I promised Reyne it would. Captains love a star that files its paperwork. [END]
+
+[VOICE:VEGA] By 0300 the tea is cold, the charts are warm, and the Reach and I have run out of small talk. Then the real conversation starts. [END]
+
+[VOICE:VEGA] No moon out here, no tide, no morning. So I invented one: when Cassiel crests the shoal, that is sunrise, and I log it faithfully. [END]
+
+[VOICE:VEGA] A little drift crept in while I slept, the ship wandering like a thought. I forgave her, fixed it, and left a note for Cho to laugh at. [END]

@@ -1,0 +1,22 @@
+[PT3] door with keyboard-sized viewport: {
+ "vh": 420,
+ "speak": {
+  "y": 419,
+  "bot": 459,
+  "inView": false
+ },
+ "input": {
+  "y": 419,
+  "inView": true
+ },
+ "panelScroll": {
+  "scrollH": 502,
+  "clientH": 359,
+  "scrollTop": 0
+ },
+ "focused": "doorInput"
+}
+[PT3] doorSpeak after scrollIntoView: {"y":276,"inView":true}
+[PT3] elementFromPoint at doorSpeak center: {"hit":"doorSpeak"}
+[PT3] verdict in shrunk viewport: RECOGNIZED : Botanist Kit Aune (88%)
+[PT3] DONE3

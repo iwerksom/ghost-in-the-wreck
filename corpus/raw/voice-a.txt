@@ -1,0 +1,679 @@
+[VOICE:REYNE] Watch rotation holds. No exceptions, no complaints. [END]
+
+[VOICE:CHO] Coolant loop runs clean today. The old girl purrs. [END]
+
+[VOICE:REYNE] Duty first. Rest after. That is the order of things. [END]
+
+[VOICE:CHO] Damn manifold jammed again this morning, so I unjammed it. [END]
+
+[VOICE:REYNE] My crew comes first. Everything else is second. [END]
+
+[VOICE:CHO] Bearings greased, plasma feed steady, engines singing. Good shift. [END]
+
+[VOICE:REYNE] Third watch begins at 2200. I will take it myself. [END]
+
+[VOICE:CHO] She hums low when she is happy. She is happy tonight. [END]
+
+[VOICE:REYNE] The manifest gets checked twice. Every item, every time. [END]
+
+[VOICE:CHO] Plasma feed holding at ninety two percent. I will take that. [END]
+
+[VOICE:REYNE] Protocol exists for a reason. We follow it. [END]
+
+[VOICE:CHO] Give me a torque wrench and a warm reactor and I am a happy man. [END]
+
+[VOICE:REYNE] Bridge watch was quiet tonight. Quiet is good. [END]
+
+[VOICE:CHO] Fixed that rattle in the port manifold myself. She sings again. [END]
+
+[VOICE:REYNE] I have never missed a watch. I do not intend to start. [END]
+
+[VOICE:CHO] Coolant temp is down two degrees. Small win, big smile. [END]
+
+[VOICE:REYNE] All decks reported ready by 0600. Acceptable. [END]
+
+[VOICE:CHO] Engines first, paperwork never. That is my whole system. [END]
+
+[VOICE:REYNE] Inspection at 0800. Be squared away by 0755. [END]
+
+[VOICE:CHO] Hell of a hum from the core today. Healthy, though. I know her moods. [END]
+
+[VOICE:REYNE] A captain does not guess. A captain verifies. [END]
+
+[VOICE:CHO] The old girl took the last burn like a champ. Not one bearing complained. [END]
+
+[VOICE:REYNE] Five crew. Five duties. One ship. Simple arithmetic. [END]
+
+[VOICE:CHO] Swapped the aft coolant pump before it could even think about failing. [END]
+
+[VOICE:REYNE] Log your work. If it is not logged, it did not happen. [END]
+
+[VOICE:CHO] You listen to an engine long enough, she tells you what hurts. [END]
+
+[VOICE:REYNE] Morning muster ran three minutes late. Noted and corrected. [END]
+
+[VOICE:CHO] Damn paperwork pile is taller than my toolbox. The toolbox wins. [END]
+
+[VOICE:REYNE] Discipline is not cruelty. It is care with a spine. [END]
+
+[VOICE:CHO] Torque wrench went missing again. Found it in Hydroponics. Kit owes me. [END]
+
+[VOICE:REYNE] Orders are clear or they are useless. Mine are clear. [END]
+
+[VOICE:CHO] The plasma feed coughed once at 0400 and I was out of my bunk before it finished. [END]
+
+[VOICE:REYNE] The watch schedule is posted. Read it, then follow it. [END]
+
+[VOICE:CHO] Nothing wrong with her that grease and patience will not cure. [END]
+
+[VOICE:REYNE] I walked every deck today. All secure, all quiet. [END]
+
+[VOICE:CHO] Ran the coolant loop flush twice. She deserves clean blood. [END]
+
+[VOICE:REYNE] Standing watch is not punishment. It is trust. [END]
+
+[VOICE:CHO] Reactor is warm, feed is steady, and I am covered in honest grease. [END]
+
+[VOICE:REYNE] Nobody sleeps through an alarm on my ship. [END]
+
+[VOICE:CHO] Hell, I would marry this manifold if the captain allowed it. [END]
+
+[VOICE:REYNE] First watch is mine. It always has been. [END]
+
+[VOICE:CHO] A healthy engine sings. Mine sang all through the night shift. [END]
+
+[VOICE:REYNE] We drill until the drill is boring. Then we drill again. [END]
+
+[VOICE:CHO] Checked the bearings on all four feed pumps. Smooth as anything. [END]
+
+[VOICE:REYNE] A tidy manifest is a tidy ship. Keep both. [END]
+
+[VOICE:CHO] She drinks coolant like Vega drinks coffee, and I keep both flowing. [END]
+
+[VOICE:CHO] Patched a hairline crack in the loop housing. Barely a scar on her now. [END]
+
+[VOICE:REYNE] My door is open from 1800 to 1900. Use it. [END]
+
+[VOICE:CHO] The hum dropped half a tone at midnight. I will find out why by breakfast. [END]
+
+[VOICE:REYNE] The crew is tired. I adjusted the rotation. That is all. [END]
+
+[VOICE:CHO] Damn intake filters were full of nebula dust from the Reach. Cleaned the lot. [END]
+
+[VOICE:REYNE] Checklists are not optional. Not on my watch. [END]
+
+[VOICE:CHO] Engineering smells like hot metal and coffee. Best smell on the ship. [END]
+
+[VOICE:REYNE] I count my crew at every muster. Five, every time. [END]
+
+[VOICE:CHO] Talked to the reactor for an hour. She listens better than most people. [END]
+
+[VOICE:REYNE] Complaints go in writing. Solutions go in person. [END]
+
+[VOICE:REYNE] Night watch suits me. I think clearly at 0300. [END]
+
+[VOICE:CHO] Never trust a quiet pump. Quiet pumps are planning something. [END]
+
+[VOICE:REYNE] No shortcuts on hull checks. None. Ever. [END]
+
+[VOICE:CHO] Tightened every bolt on the aft manifold. Twice, because I love her. [END]
+
+[VOICE:REYNE] Vega logged the survey heading at 0315. Late again. Corrected. [END]
+
+[VOICE:CHO] The coolant loop gurgled at me like a hungry dog. Fed her a fresh charge. [END]
+
+[VOICE:REYNE] Cho requisitioned three new pumps. Approved two. He will manage. [END]
+
+[VOICE:CHO] Captain wants my maintenance report by 0800. The engines want me more. [END]
+
+[VOICE:REYNE] Fuel reserves at eighty one percent on day D214. Within plan. [END]
+
+[VOICE:CHO] Hell of a shimmy in the deck plates near the core. Traced it, shimmed it, gone. [END]
+
+[VOICE:REYNE] Heading confirmed and logged at 0430. The Reach does not move. We do. [END]
+
+[VOICE:CHO] Meridian Station built her hull, but I built her heart. Well, rebuilt it. [END]
+
+[VOICE:REYNE] Okafor cleared the crew for full duty. Good. Back to work. [END]
+
+[VOICE:CHO] Kit wanted a spare pump for the misting rig. Gave her my second best one. [END]
+
+[VOICE:REYNE] Kit filed the hydroponics yield report early. The others should take note. [END]
+
+[VOICE:CHO] Vega came down at 0300 just to hear the engines. I get it. They sing. [END]
+
+[VOICE:REYNE] Six hundred days out from Meridian Station and the watch bill still holds. [END]
+
+[VOICE:CHO] Okafor says my hands are all calluses. Damn right they are. Working hands. [END]
+
+[VOICE:REYNE] Survey sweep twelve complete. Data logged. Crew fed. Reyne out. [END]
+
+[VOICE:CHO] The old girl has carried us across the whole Reach without one real breakdown. [END]
+
+[VOICE:REYNE] The Reach is charted one sector at a time. There is no other way. [END]
+
+[VOICE:CHO] Reactor purred through the whole survey sweep. Not a hiccup, not a cough. [END]
+
+[VOICE:REYNE] Hydroponics passed inspection. Med Bay passed. Engineering passed, barely. [END]
+
+[VOICE:CHO] Barely passed inspection, she says. The captain counts rags. I count heartbeats. [END]
+
+[VOICE:REYNE] I stood the mid watch so Vega could sleep. Do not tell Vega. [END]
+
+[VOICE:CHO] Coolant loop, feed pumps, bearings, hull. My rounds every morning, in that order. [END]
+
+[VOICE:REYNE] A crew that eats together holds together. Dinner at 1900 is mandatory. [END]
+
+[VOICE:CHO] Somebody has to love the machines. On this ship, that somebody is me. [END]
+
+[VOICE:REYNE] Drills save lives. We ran two today. Nobody thanked me. That is fine. [END]
+
+[VOICE:CHO] She threw a warning light at me and then took it back. Moody old girl. [END]
+
+[VOICE:REYNE] Watch handover was sloppy this morning. It will not be sloppy tomorrow. [END]
+
+[VOICE:CHO] Spent my rest shift in Engineering anyway. Where else would I go? [END]
+
+[VOICE:REYNE] The Bridge is my post. I keep it clean, quiet, and manned. [END]
+
+[VOICE:CHO] Plasma feed sang a note I had never heard. New note, new problem, now no problem. [END]
+
+[VOICE:REYNE] Course correction of two degrees executed at 1140. Vega's numbers were exact. [END]
+
+[VOICE:CHO] Damn if the mess hall coffee is not worse than reactor coolant. I drink it anyway. [END]
+
+[VOICE:REYNE] The Docking Ring seals were tested today. All twelve held. [END]
+
+[VOICE:CHO] The manifold gasket blew right on schedule. I had the spare in my pocket. [END]
+
+[VOICE:REYNE] I read every crew log. A captain who does not read does not know her ship. [END]
+
+[VOICE:CHO] Bled the coolant loop until she ran clear. Took four hours and worth every one. [END]
+
+[VOICE:REYNE] Meridian Station trained me. This crew finished the job. [END]
+
+[VOICE:CHO] The Reach puts fine dust in everything. Even my coffee. Even my dreams. [END]
+
+[VOICE:CHO] Old Tom the tomato vine gets more water than my coolant loop. Kit's doing. [END]
+
+[VOICE:REYNE] Okafor recommends more sleep for the crew. Approved. Effective 2100 tonight. [END]
+
+[VOICE:CHO] Every ship has a voice. Ours is a low hum with a smile in it. [END]
+
+[VOICE:REYNE] The mission clock reads D230. We are on schedule. We will remain on schedule. [END]
+
+[VOICE:CHO] Reyne inspected my deck plates for an hour. Found one loose rag. One. [END]
+
+[VOICE:REYNE] Sentiment does not stand watches. But it may keep them company. [END]
+
+[VOICE:REYNE] Cho talks to the engines. Whatever works. His numbers are always green. [END]
+
+[VOICE:CHO] Warmed the backup reactor just to hear her second voice. She has a lovely alto. [END]
+
+[VOICE:REYNE] All hands accounted for at 2200. I sleep when the count is five. [END]
+
+[VOICE:CHO] Hydroponics pump number three purrs now. Kit hugged me. Worth the grease. [END]
+
+[VOICE:REYNE] Emergency drill at 0500. The crew grumbled. The crew also finished in four minutes. [END]
+
+[VOICE:CHO] Hell, the survey gear pulls more power than my whole coolant loop. Balanced it. [END]
+
+[VOICE:REYNE] I signed the day's log at 2330. Every line true. Reyne out. [END]
+
+[VOICE:CHO] She creaks near the Docking Ring in the cold. Just old bones, nothing broken. [END]
+
+[VOICE:REYNE] There are five names on my manifest. I answer for all of them. [END]
+
+[VOICE:CHO] Sang to the bearings while I packed them. Do not laugh. They run smoother. [END]
+
+[VOICE:REYNE] Supplies inventoried. Water at ninety percent, rations at eighty six. [END]
+
+[VOICE:CHO] Nothing in this nebula scares me while the old girl keeps her hum. [END]
+
+[VOICE:REYNE] Vega calls the stars by name. I call them by coordinates. We manage. [END]
+
+[VOICE:CHO] Traced a phantom draw to a light Kit left on for the plants. Left it on. [END]
+
+[VOICE:REYNE] Half power for the survey sweep. I do not like running quiet, but the data needs it. [END]
+
+[VOICE:CHO] Half power makes her restless. She likes to run warm and loud, like me. [END]
+
+[VOICE:REYNE] Duty is a habit. Build the habit and the hard days keep themselves. [END]
+
+[VOICE:CHO] Rebuilt the number two feed pump from spares. Better than new, and she knows it. [END]
+
+[VOICE:REYNE] The Reach survey is the mission. Everything else is maintenance. [END]
+
+[VOICE:CHO] Maintenance IS the mission, whatever the captain says. No engines, no survey. [END]
+
+[VOICE:REYNE] I do not raise my voice. I lower the deadline. [END]
+
+[VOICE:REYNE] Bridge, Engineering, Med Bay, Hydroponics, Docking Ring. My rounds, every day. [END]
+
+[VOICE:CHO] The hull ticks when she cools after a burn. Like she is counting her own ribs. [END]
+
+[VOICE:REYNE] Crew morale is a captain's instrument. I check it daily, quietly. [END]
+
+[VOICE:CHO] Okafor patched my thumb and lectured me about gloves. Fair. He is usually fair. [END]
+
+[VOICE:REYNE] The forward glass was polished today. A clear view is a safe view. [END]
+
+[VOICE:CHO] Damn near cried when the main drive sang after the overhaul. Do not tell anyone. [END]
+
+[VOICE:REYNE] We are far past the shipping lanes. Discipline is the only tether out here. [END]
+
+[VOICE:CHO] Way out here past the lanes, she is the only ground under our feet. I keep it solid. [END]
+
+[VOICE:REYNE] Muster, mission, maintenance, meal, rest. In that order, every day. [END]
+
+[VOICE:REYNE] Kit brought tomatoes to the Bridge. I logged it as a morale operation. [END]
+
+[VOICE:CHO] Kit's misting rig runs off my spare lines now. Plants and pumps, one family. [END]
+
+[VOICE:REYNE] A short log is not a lazy log. State the facts. Sign it. Move on. [END]
+
+[VOICE:CHO] Chased a rattle for six hours. It was a loose bolt behind the manifold. Six hours. [END]
+
+[VOICE:REYNE] The crew calls me strict. The crew is correct. The crew is also alive. [END]
+
+[VOICE:CHO] Feed pumps hit their millionth cycle today. I gave them the afternoon off. Joking. [END]
+
+[VOICE:REYNE] No one stands watch hungry on my ship. Eat first. Then relieve the post. [END]
+
+[VOICE:CHO] The core is the warmest place on the ship. Some nights I just sit with her. [END]
+
+[VOICE:REYNE] I keep my own logs short. Facts hold better than feelings. [END]
+
+[VOICE:CHO] Coolant loop pressure has been rock steady for forty days. I knock on metal anyway. [END]
+
+[VOICE:REYNE] Vega found us a shortcut through the Reach. I checked it three times. It holds. [END]
+
+[VOICE:CHO] New hum in the port nacelle. Not a bad hum. A curious one. I will introduce myself. [END]
+
+[VOICE:REYNE] Command is mostly listening. The orders are the easy part. [END]
+
+[VOICE:CHO] She was cold when we left Meridian Station. Took me a month to warm her up proper. [END]
+
+[VOICE:REYNE] Every hatch on this ship opens smoothly. I test them myself, monthly. [END]
+
+[VOICE:CHO] If it has moving parts, I love it. If it has paperwork, Reyne can keep it. [END]
+
+[VOICE:CHO] Bled air out of the coolant lines all morning. She breathes easier now. So do I. [END]
+
+[VOICE:REYNE] Okafor counted three of us skipping meals. New rule posted by 1200. [END]
+
+[VOICE:CHO] Torque specs are not suggestions, whatever my apprentice manuals used to think. [END]
+
+[VOICE:REYNE] I inspect Engineering last. Cho argues, but his deck always passes. [END]
+
+[VOICE:CHO] The old girl and I have a deal. I keep her clean, she keeps us breathing. [END]
+
+[VOICE:REYNE] Quiet ship tonight. All posts manned. All lights green. Nothing more to want. [END]
+
+[VOICE:CHO] Reactor output flat and true all watch. Boring is beautiful in my line of work. [END]
+
+[VOICE:REYNE] There is no small duty. The smallest bolt holds the biggest hull. [END]
+
+[VOICE:CHO] Vega says the stars sing. Maybe. My engines definitely do, and they keep tune. [END]
+
+[VOICE:REYNE] The mission comes from Meridian. The standard comes from me. [END]
+
+[VOICE:CHO] Cleaned the intake grilles until they shined. She likes to breathe clean. [END]
+
+[VOICE:REYNE] I logged eight hours of survey data and one hour of Kit laughing in Hydroponics. [END]
+
+[VOICE:CHO] Some days the ship fixes herself and just lets me hold the wrench. I let her. [END]
+
+[VOICE:CHO] Hell of a nebula out there. Pretty, sure, but it gums up my intakes something awful. [END]
+
+[VOICE:REYNE] A captain eats last. It is the cheapest order I give. [END]
+
+[VOICE:CHO] Manifold three is my problem child. Every family has one. I love her anyway. [END]
+
+[VOICE:REYNE] The count is five at lights out. The count is five at muster. That is a good day. [END]
+
+[VOICE:CHO] Pulled a whole cup of Reach dust out of the starboard filter. She eats badly out here. [END]
+
+[VOICE:REYNE] Nothing on this ship surprises me twice. I write the fix into protocol. [END]
+
+[VOICE:CHO] The backup generator started on the first try. Three hundred days of care, paying rent. [END]
+
+[VOICE:REYNE] I hold the con from 0400 to 0800. The ship is calmest then. So am I. [END]
+
+[VOICE:CHO] Okafor asked how I sleep in a hammock by the reactor. Warm and happy, doc. [END]
+
+[VOICE:REYNE] Charts updated. Watch set. Crew asleep. This is what success looks like. [END]
+
+[VOICE:CHO] She flinched during the sweep, half power and all. I stayed with her till she settled. [END]
+
+[VOICE:REYNE] Formality is not distance. It is respect that shows up on time. [END]
+
+[VOICE:CHO] Damn survey sweeps starve my girl of power. I hoard every spare watt for her. [END]
+
+[VOICE:REYNE] I promoted the coffee ration by ten percent. Morale rose eleven. [END]
+
+[VOICE:CHO] Greased the docking clamps in the Ring today. They yawned like old dogs. [END]
+
+[VOICE:REYNE] Hull integrity at one hundred percent. My favorite number. [END]
+
+[VOICE:CHO] You can hear the whole ship from the core if you go quiet. All of her, one chord. [END]
+
+[VOICE:REYNE] My crew jokes at dinner and works at dawn. I would not trade either half. [END]
+
+[VOICE:CHO] The number one rule down here is listen first, wrench second. [END]
+
+[VOICE:REYNE] Every log I sign the same way. It is a promise, not a habit. Reyne out. [END]
+
+[VOICE:CHO] Coolant loop, my old friend, you gurgle once more at 0300 and we will have words. [END]
+
+[VOICE:REYNE] The Reach is beautiful, Vega says. I say it is unmapped. We fix that daily. [END]
+
+[VOICE:CHO] Sat with the plasma feed through a rough patch. She evened out around midnight. [END]
+
+[VOICE:REYNE] There is a right way to coil a line. There is no second way. [END]
+
+[VOICE:CHO] Reyne calls her the vessel. Vega calls her a ship of glass. She is my old girl. [END]
+
+[VOICE:REYNE] Crew evaluations are done. All five exceed standard. I wrote that plainly. [END]
+
+[VOICE:CHO] Bearings do not lie. Gauges sometimes do. I trust my ears over both. [END]
+
+[VOICE:REYNE] Rest days exist so that duty days work. Take yours. That is an order. [END]
+
+[VOICE:CHO] Found frost on a coolant line near the hull. Wrapped her up like a scraped knee. [END]
+
+[VOICE:REYNE] Meridian Station wants weekly reports. Meridian Station gets daily ones. [END]
+
+[VOICE:CHO] Half my job is fixing. The other half is noticing before fixing is needed. [END]
+
+[VOICE:REYNE] The Bridge chair does not fit anyone else. That is by design. Mine. [END]
+
+[VOICE:CHO] Kit says plants grow better with talk. Same as engines. We are both gardeners. [END]
+
+[VOICE:CHO] The old girl hates the cold sweeps. I warm her lines by hand after every one. [END]
+
+[VOICE:REYNE] I do not gamble with air, heat, or water. Everything else is negotiable. [END]
+
+[VOICE:CHO] Damn proud of this drive train. Six hundred days and she still sings like new. [END]
+
+[VOICE:REYNE] Today I inspected the escape pods. All charged. May they rot unused. [END]
+
+[VOICE:CHO] A loose panel was buzzing in the mess. Everyone complained. Two screws. Silence. [END]
+
+[VOICE:REYNE] The survey grid is forty percent complete on D241. Ahead of plan. Stay sharp. [END]
+
+[VOICE:CHO] Watched the core light flicker in time with the hum. She has a heartbeat, I swear. [END]
+
+[VOICE:REYNE] I trained on freighters. This crew taught me what a ship is actually for. [END]
+
+[VOICE:CHO] Vega hums star names while I hum feed pressures. Somehow it harmonizes. [END]
+
+[VOICE:REYNE] Regulations bend for nothing. Schedules bend for people. Learn the difference. [END]
+
+[VOICE:CHO] Coolant sample came back clean as rain. Whatever rain is. I read about it once. [END]
+
+[VOICE:REYNE] Every door on this ship answers to protocol. Protocol answers to me. [END]
+
+[VOICE:CHO] Tuned the intake fans until the whole deck stopped rattling. You are welcome, ship. [END]
+
+[VOICE:REYNE] Okafor keeps the crew healthy. I keep them busy. Between us, they thrive. [END]
+
+[VOICE:CHO] My hands smell like manifold grease and I have never once minded. [END]
+
+[VOICE:REYNE] The mid watch teaches patience. I have stood four hundred of them. [END]
+
+[VOICE:CHO] Hooked Kit's light lamps to a cleaner circuit. Her greens deserve steady power. [END]
+
+[VOICE:REYNE] I wrote three commendations today. Vega, Cho, Aune. Earned, all of them. [END]
+
+[VOICE:CHO] The Reach glows through the aft ports some nights. Even I stop and look. [END]
+
+[VOICE:REYNE] Command log complete at 2345. Ship secure. Crew safe. Reyne out. [END]
+
+[VOICE:CHO] Ship like this only fails if you stop listening. So I never stop listening. [END]
+
+[VOICE:REYNE] Do the job in front of you. Then the next one. That is the whole secret. [END]
+
+[VOICE:CHO] Pump four wobbled, whined, then settled. Growing pains. She is my youngest. [END]
+
+[VOICE:REYNE] There will be no unlogged repairs on this vessel. Yes, Cho, that means you. [END]
+
+[VOICE:CHO] Fine, captain, I logged the repair. In pencil. On a rag. It counts. [END]
+
+[VOICE:REYNE] The stars do not care about our schedule. We keep it anyway. That is the point. [END]
+
+[VOICE:CHO] The hum is the first thing I check and the last thing I hear at night. [END]
+
+[VOICE:REYNE] Six hundred and ten days from Meridian and the manifest still balances. [END]
+
+[VOICE:CHO] Nebula static tickles the sensors, Vega says. Down here it just dirties my filters. [END]
+
+[VOICE:CHO] Told the reactor a joke this morning. She held output steady. Tough crowd. [END]
+
+[VOICE:REYNE] The crew sings in the mess on rest nights. I stand watch so all five voices can. [END]
+
+[VOICE:CHO] Trimmed the plasma feed by a whisker and she stopped grumbling mid burn. [END]
+
+[VOICE:REYNE] Precision is kindness. Sloppy work makes someone else bleed for it later. [END]
+
+[VOICE:CHO] Left a wrench in the Ring, walked all the way back for it. A tool left behind is a promise broken. [END]
+
+[VOICE:REYNE] I review the air scrubber numbers before breakfast. Breathing is not optional. [END]
+
+[VOICE:CHO] Scrubbers, pumps, fans, feed. Everything on this ship breathes if you listen right. [END]
+
+[VOICE:REYNE] Hydroponics smells like soil after Kit waters. I allow myself one minute there. [END]
+
+[VOICE:CHO] Borrowed Okafor's stethoscope for the number two pump. He wants it back. Tough. [END]
+
+[VOICE:REYNE] Nothing outranks the safety of my crew. Not the mission. Not Meridian. Nothing. [END]
+
+[VOICE:CHO] The old girl shrugged off a micrometeorite today. Barely a scuff. Tough lady. [END]
+
+[VOICE:REYNE] I stood in the Docking Ring at 0500. Cold, quiet, all seals green. Perfect. [END]
+
+[VOICE:CHO] Coolant loop three ran hot for an hour. Found a kinked line. Unkinked. Done. [END]
+
+[VOICE:REYNE] We hold dinner for whoever has the watch. No plate goes unclaimed on my ship. [END]
+
+[VOICE:CHO] Every gauge in Engineering is calibrated by my own hand. Trust is built, not bought. [END]
+
+[VOICE:REYNE] Vega was on the Bridge at 0300 again, charting. I brought coffee and said nothing. [END]
+
+[VOICE:CHO] She hums a little flat when she is tired. So do I. We rest together. [END]
+
+[VOICE:REYNE] The log does not flatter. The log records. That is its whole worth. [END]
+
+[VOICE:CHO] Damn glad Meridian gave her good bones. Everything else I can fix. [END]
+
+[VOICE:REYNE] Rounds complete at 2130. Five decks, five crew, zero faults. Reyne out. [END]
+
+[VOICE:CHO] Feed line four sweats in the cold sweeps. I towel her off like a prizefighter. [END]
+
+[VOICE:REYNE] I plan for the worst day so my crew only ever lives the ordinary ones. [END]
+
+[VOICE:CHO] There is a right tool for every job and it is usually the one Kit borrowed. [END]
+
+[VOICE:REYNE] Protocol drills at dawn, survey by noon, logs by night. The rhythm holds us. [END]
+
+[VOICE:CHO] The core glows warm and low tonight, like a hearth. Best seat on the ship. [END]
+
+[VOICE:REYNE] I answer to Meridian Station. My crew answers to me. The ship answers to all of us. [END]
+
+[VOICE:CHO] Adjusted the torque on the drive couplings. She thanked me with a clean chord. [END]
+
+[VOICE:REYNE] The Reach is no place for improvisers. We plan, we verify, we proceed. [END]
+
+[VOICE:CHO] Okafor says I need sleep. The manifold says otherwise. The manifold wins tonight. [END]
+
+[VOICE:REYNE] Every name on my crew roster is a promise I made to Meridian Station. [END]
+
+[VOICE:CHO] The bearings in pump one turned a bit rough. Repacked them before dinner. Smooth. [END]
+
+[VOICE:REYNE] Straight lines, full logs, honest reports. A ship runs on plain truth. [END]
+
+[VOICE:CHO] Hell, I have loved this ship since the first day she hummed under my boots. [END]
+
+[VOICE:REYNE] The forward watch saw nothing but nebula haze all night. Logged it anyway. [END]
+
+[VOICE:CHO] Power rerouted to the survey array by request. My girl tightened her belt again. [END]
+
+[VOICE:REYNE] Kit named a tomato vine Old Tom. I signed off on it. Morale is morale. [END]
+
+[VOICE:REYNE] I keep the watch so the crew can keep their dreams. Fair trade. [END]
+
+[VOICE:CHO] Vega asked what the engines dream about. Clean fuel and long burns, I told him. [END]
+
+[VOICE:REYNE] Inventory closed out at 2200. Every bolt accounted for. Sleep comes easy tonight. [END]
+
+[VOICE:CHO] Some men keep gardens. Some keep logs. I keep sixty tons of singing metal alive. [END]
+
+[VOICE:REYNE] The captain's chair faces the forward glass. I face what comes first. Always. [END]
+
+[VOICE:REYNE] My orders are short because the days are long. Clarity is mercy. [END]
+
+[VOICE:CHO] Set a cup of coffee on the housing and watched the ripples. Smooth burn. Proud of her. [END]
+
+[VOICE:REYNE] We are one ship, five hands, far from every harbor. Act accordingly. [END]
+
+[VOICE:CHO] Manifold, feed, loop, core. Say it like a prayer and check it like a debt. [END]
+
+[VOICE:CHO] The old girl carried us out from Meridian. I will carry her the rest of the way. [END]
+
+[VOICE:REYNE] Muster at 0600 tomorrow. Bring your questions. Leave your excuses. [END]
+
+[VOICE:CHO] A ship is just a promise with engines. Mine keeps hers, because I keep mine. [END]
+
+[VOICE:CHO] Heard a tick in the drive at 0200 and slept on the deck plates till I solved it. [END]
+
+[VOICE:REYNE] There is comfort in a full manifest. Every line answered. Every hand aboard. [END]
+
+[VOICE:CHO] Kit trades me tomatoes for pump repairs. Best contract on the ship, no paperwork. [END]
+
+[VOICE:REYNE] The Bridge log is the ship's memory. I write it clean for whoever reads it after us. [END]
+
+[VOICE:CHO] Reactor is my morning, manifold my afternoon, and the hum sings me home at night. [END]
+
+[VOICE:CHO] Damn survey schedule keeps stealing my power margins. I steal them back at night. [END]
+
+[VOICE:REYNE] I ordered Vega off the Bridge at 0400. He was back by 0410 with charts. I let it stand. [END]
+
+[VOICE:CHO] The plasma feed loves a slow warm start. Rush her and she sulks for a whole watch. [END]
+
+[VOICE:REYNE] Rank means I go first into trouble and last out of it. That is the entire job. [END]
+
+[VOICE:CHO] Counted six hundred days of hum in my logbook. Well, my rag. Same thing down here. [END]
+
+[VOICE:REYNE] Steady hands, short words, long watches. That is how the Vesper is run. [END]
+
+[VOICE:CHO] The Vesper is not a hull with engines. She is engines with a hull around them. [END]
+
+[VOICE:REYNE] All stations reported green at 2300. My crew sleeps. I take the last look myself. [END]
+
+[VOICE:REYNE] Fear is not weakness. Unreported fear is. My hatch is open. Speak. [END]
+
+[VOICE:CHO] The gauges say fine but the hum says tired. Scheduled her a rest cycle. Trust the hum. [END]
+
+[VOICE:REYNE] Med Bay inspection complete. Okafor runs the tightest deck aboard. Noted with respect. [END]
+
+[VOICE:CHO] Traded shifts so I could nurse the coolant loop through the cold sweep. No regrets. [END]
+
+[VOICE:REYNE] We chart the Reach so the next crew does not sail it blind. That is worth the years. [END]
+
+[VOICE:CHO] Her hum drops when the crew is asleep, honest truth. She keeps quiet for them. [END]
+
+[VOICE:REYNE] I write the hard orders myself, by hand. If it costs my crew, it costs me ink first. [END]
+
+[VOICE:CHO] Wrench, rag, ears, patience. Everything else in Engineering is decoration. [END]
+
+[VOICE:REYNE] Five bunks, five names, one heading. Keep it that way. Reyne out. [END]
+
+[VOICE:CHO] If the engines ever go quiet on me, hell, I do not want to know that day. [END]
+
+[VOICE:REYNE] I hold the standard because someone must. The crew holds me to it. Fair bargain. [END]
+
+[VOICE:CHO] Breathed with the intake fans for a minute. In, out, steady. She sets a good pace. [END]
+
+[VOICE:REYNE] The last thing I check at night is the crew count. Five. Then, and only then, rest. [END]
+
+[VOICE:CHO] Deck plates warm underfoot, hum steady in the bones. The old girl says goodnight. [END]
+
+[VOICE:REYNE] Duty log filed. Heading true. Watch set. The Vesper holds her course, as do I. [END]
+
+[VOICE:CHO] One more pass on the manifold bolts and then bed, I promise. She heard me promise. [END]
+
+[VOICE:REYNE] A calm captain makes a calm crew. So I am calm. Deliberately. Daily. [END]
+
+[VOICE:CHO] The Reach can keep its glowing dust. My favorite light is the core going steady green. [END]
+
+[VOICE:REYNE] My crew. Two words that outweigh every regulation ever printed. [END]
+
+[VOICE:REYNE] Discipline kept us alive at Meridian. It will keep us alive in the Reach. [END]
+
+[VOICE:CHO] Everything aboard hums at its own pitch. My job is keeping the whole choir in key. [END]
+
+[VOICE:REYNE] I signed today's orders at 0530. Short list. Good ship. Reyne out. [END]
+
+[VOICE:CHO] Tomorrow I flush the loop, repack two bearings, and tell her she is beautiful. Routine. [END]
+
+[VOICE:CHO] She is old, she is stubborn, and she has never once let us down. My kind of lady. [END]
+
+[VOICE:REYNE] Hold the line, mind the count, log the truth. Everything else follows. [END]
+
+[VOICE:CHO] Last check of the night. Feed steady, loop cool, hum true. Sleep well, old girl. [END]
+
+[VOICE:REYNE] Crew of five, mission of years, watch of four hours. Take them one at a time. [END]
+
+[VOICE:CHO] The bearings sang backup tonight while the drive took the melody. Damn fine show. [END]
+
+[VOICE:REYNE] I asked for the best crew on Meridian Station. I got them. I intend to return them. [END]
+
+[VOICE:CHO] Coolant is just courage in a pipe. Keep it moving and nothing overheats. [END]
+
+[VOICE:CHO] Ran her warm through the survey window and she never missed a note. Good girl. [END]
+
+[VOICE:REYNE] Weather in the Reach is Vega's word. I call it conditions, and we log them hourly. [END]
+
+[VOICE:CHO] Even the spare parts get labeled and loved down here. Ask anyone. Ask the parts. [END]
+
+[VOICE:REYNE] The heading is set, the watch is manned, and my crew is fed. Ask me for nothing more. [END]
+
+[VOICE:REYNE] Take care of the small duties. The large ones are made entirely of them. [END]
+
+[VOICE:CHO] The old girl whistled through a vent seam today. Sealed it, but I liked the tune. [END]
+
+[VOICE:REYNE] Zero four hundred. Coffee, charts, quiet. The best hour a captain owns. [END]
+
+[VOICE:CHO] Pump three, you glorious stubborn mule, you ran perfect all week. Extra grease for you. [END]
+
+[VOICE:REYNE] It is not paranoia if you log it, verify it, and drill for it. It is command. [END]
+
+[VOICE:CHO] Nebula dust, cold sweeps, long burns. She takes it all and keeps humming. Tough girl. [END]
+
+[VOICE:REYNE] End of day report. All decks green. All hands well. All standards met. Reyne out. [END]
+
+[VOICE:CHO] Someday they will scrap the paperwork and keep the engines. My kind of navy, that. [END]
+
+[VOICE:REYNE] Long past the lanes, past the beacons, discipline is the only light we carry. [END]
+
+[VOICE:REYNE] I count stars only when Vega makes me. I count my crew because I choose to. [END]
+
+[VOICE:CHO] Every rivet from Meridian Station still holding true. They built her right. I keep her right. [END]
+
+[VOICE:REYNE] Keep your kit stowed, your log current, and your relief informed. Dismissed. [END]
+
+[VOICE:CHO] Told Kit the pumps grow best with talk too. Now she greets them by name. Perfect. [END]
+
+[VOICE:REYNE] One ship. One standard. One crew. Mine. [END]
+
+[VOICE:REYNE] The mid watch is quiet enough to hear the ship breathe. I stand it gladly. [END]
+
+[VOICE:CHO] Nothing sweeter than a manifold that stops leaking because you asked it nicely. [END]
+
+[VOICE:REYNE] Duty is love that shows its work. My crew never hears me say that. They see it. [END]
+
+[VOICE:CHO] Sleep is for men whose coolant loops behave. Tonight, hell, that might be me. [END]
+
+[VOICE:REYNE] Hold your post, state your facts, trust your crew. The rest is weather. [END]
+
+[VOICE:CHO] The core hums, the loop runs, the girl sings. Log closed, wrench down, lights out. [END]

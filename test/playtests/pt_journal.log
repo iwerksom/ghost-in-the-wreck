@@ -1,0 +1,10 @@
+XSS!! journal-title
+XSS_FIRED: true
+{
+ "open": true,
+ "scriptEl": false,
+ "imgOnerr": true,
+ "boldEl": false,
+ "titleImg": true,
+ "html": "<div class=\"jentry\"><div class=\"jtitle\"><img src=\"x\" onerror=\"window.__xssHit('journal-title')\">TITLE <span class=\"dim\">: <i>DECK</i></span></div><div class=\"jtext\">&lt;script&gt;window.__xssHit('journal-text')&lt;/script&gt;&lt;img src=y onerror=window.__xssHit('journal-text-img')&gt; &amp; \"quotes\" &lt;b&gt;bold&lt;/b&gt;</div></div>"
+}

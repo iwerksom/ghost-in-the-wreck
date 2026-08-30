@@ -1,0 +1,25 @@
+; Ghost in the Wreck — Godot vertical slice
+; Same data files as the HTML build (data/*.json)
+
+config_version=5
+
+[application]
+
+config/name="Ghost in the Wreck (Godot slice)"
+run/main_scene="res://scenes/Main.tscn"
+config/features=PackedStringArray("4.3")
+
+[autoload]
+
+ShipData="*res://scripts/ShipData.gd"
+LMBridge="*res://scripts/LMBridge.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=800
+window/stretch/mode="canvas_items"
+
+[rendering]
+
+environment/defaults/default_clear_color=Color(0.012, 0.016, 0.04, 1)

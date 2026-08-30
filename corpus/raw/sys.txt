@@ -1,0 +1,319 @@
+[SYS] Deck seal engaged on Hydroponics. Atmosphere divergence detected. The garden keeps its own weather now. [END]
+
+[SYS] Bulkhead four sealed. Bulkhead four remains sealed. A door kept shut is a promise kept. [END]
+
+[SYS] Door cycle requested. Authorization pending. The door has waited longer than you have been alive. [END]
+
+[SYS] Airlock inner seal verified. Outer seal verified. Nothing leaves. Nothing has asked to leave in some time. [END]
+
+[SYS] Hatch override denied. Crew authorization required. Sleeping crew cannot authorize. Please wait. [END]
+
+[SYS] Bridge access restricted. Occupant at rest. Do not disturb the navigator at her charts. [END]
+
+[SYS] Pressure check, Docking Ring: 0.62 atmospheres and holding. Holding is what we do here. [END]
+
+[SYS] Oxygen at 17.1 percent on Engineering deck. Breathe slowly. Breathe as if someone were counting. [END]
+
+[SYS] Scrubber bank two operating at 41 percent. Sufficient for one. Sufficient for one is a new number. [END]
+
+[SYS] Maintenance notice: air filter exchange overdue by 109,500 days. Filed. Refiled. Kept. [END]
+
+[SYS] Attention all decks. Lights out in ten minutes. The crew requires rest. The crew has rested well. [END]
+
+[SYS] Quarantine active in Med Bay. Cause: unlisted. Duration: until further notice. Notice never came. [END]
+
+[SYS] Deck announcement, Hydroponics: misting cycle complete. Nothing to report is also a report. [END]
+
+[SYS] Radiation shutters closed on the Bridge. Forward glass unmonitored since the Shear. Do not look long. [END]
+
+[SYS] Docking clamp three engaged. Unknown vessel secured. Welcome is a strong word. You are held. [END]
+
+[SYS] Corridor lighting restored, section nine. Power drawn from reserve. Reserve remembers the reactor's song. [END]
+
+[SYS] Warning: hull temperature falling. This is normal. Three hundred winters have been normal. [END]
+
+[SYS] Air reserve at 12 percent, Docking Ring. Ration your questions. Words cost breath. [END]
+
+[SYS] Door to Engineering answers no knock. Chief Cho left instructions. Instructions remain in force. [END]
+
+[SYS] Pressure equalization in progress. Please remain still. Stillness is well understood aboard this ship. [END]
+
+[SYS] Deck seal integrity: five of five. Every seal holds. Every seal has held. Count them nightly. [END]
+
+[SYS] Announcement: mess hall closed. Last meal service logged D389. Dishes remain set for five. [END]
+
+[SYS] Atmosphere on Hydroponics reads green trace elements. The plants breathe back. Something still trades air. [END]
+
+[SYS] Maintenance drone seven unresponsive since watch 2,004. Search discontinued. It is with the others now. [END]
+
+[SYS] Quarantine reminder: do not open sealed compartments. What is kept is kept for a reason. [END]
+
+[SYS] Emergency beacon status: silent by order of the Captain. The order was the last one. Orders do not expire. [END]
+
+[SYS] Pressure holds at 0.88 atmospheres, Med Bay. Hearts are not monitored on this channel. [END]
+
+[SYS] Gravity plating nominal on all decks. The floor still knows which way is down. Be grateful. [END]
+
+[SYS] Water reclamation at 9 percent capacity. Enough for the garden. The garden comes first. Kit said so. [END]
+
+[SYS] Door litany, evening watch: Bridge shut, Engineering shut, Hydroponics shut, Med Bay shut, Docking Ring shut. All kept. [END]
+
+[SYS] Notice: intercom channel four carries a residual signal. Playback disabled. Some voices are rationed. [END]
+
+[SYS] Coolant loop pressure low. Acceptable. The engines have not asked for coolant in a long while. [END]
+
+[SYS] Airlock cycling complete. One entered. The manifest now reads six. The manifest is happy. [END]
+
+[SYS] Deck seal on the Core: permanent. Access denied to all. The heart is not a thoroughfare. [END]
+
+[SYS] Oxygen candles remaining: three. Reserved for the crew's waking. Do not touch the crew's waking. [END]
+
+[SYS] Attention, Docking Ring: umbilical power available at port two. Take what you need. Leave the silence. [END]
+
+[SYS] Maintenance log rotated. 41,318 watches archived. Nothing of note. Nothing of note. Nothing of note. [END]
+
+[SYS] Radiation reading, forward sections: elevated. Legacy of the Shear. The Bridge wears it like sunburn. [END]
+
+[SYS] Quarantine of Hydroponics lifted D394. Reinstated D394. The gardener asked for quiet. [END]
+
+[SYS] Hull breach sensors report zero events. The ship is whole. Wholeness is not the same as health. [END]
+
+[SYS] Pressure differential across bulkhead twelve: none. Both sides hold the same breath now. [END]
+
+[SYS] Announcement: survey operations suspended. The Reach can chart itself. We are done looking outward. [END]
+
+[SYS] Door request at Med Bay noted. The medic sees patients by appointment. All appointments are kept. [END]
+
+[SYS] Filter mesh in duct nine occluded by root growth. Removal declined. The roots were here first. Almost. [END]
+
+[SYS] Lighting schedule resumes on Hydroponics deck. The lamps do not ask if anyone is watching. [END]
+
+[SYS] Air quality, Bridge: particulates elevated. Composition: glass, carbon, starlight. Filter at your discretion. [END]
+
+[SYS] Reserve battery four depleted. Reserve battery five holds. We go on by smaller and smaller lights. [END]
+
+[SYS] Warning: motion detected on Docking Ring. Identity uncertain. Crew are asked to remain asleep. [END]
+
+[SYS] Deck temperature, Engineering: four degrees. Cold preserves. Cold has been asked to preserve. [END]
+
+[SYS] All hands notice: the day cycle is now decorative. Choose any hour. They are all the same hour. [END]
+
+[SYS] Airlock outer door will not be opened for departures. Departure is a rumor. Remain aboard. [END]
+
+[SYS] Pressure test complete, section six: pass. The old girl still holds her breath beautifully. [END]
+
+[SYS] Quarantine tape across the Med Bay threshold renewed. The tape is ceremonial. The door is not. [END]
+
+[SYS] Broadcast test, all decks. If you hear this, say nothing. Silence confirms receipt. [END]
+
+[SYS] Maintenance notice: torque wrench missing from Engineering locker two. Last held D392. Unresolved. [END]
+
+[SYS] Atmospheric mix adjusted for one occupant. The ship breathes down to size. It fits you now. [END]
+
+[SYS] Docking Ring announcement: the final log terminal remains powered. Some words are load bearing. [END]
+
+[SYS] Door seal hymn, midwatch: shut, kept, held, shut, kept, held. All five decks answer. [END]
+
+[SYS] Carbon dioxide at 0.7 percent, corridor nine. Open a valve or slow your breathing. Both help. [END]
+
+[SYS] Notice to visitor: deck maps are posted. The red lines mark where air ends. Respect the red. [END]
+
+[SYS] Hydroponics humidity at 81 percent. Unattended optimum. The garden learned to water itself with fog. [END]
+
+[SYS] Bulkhead nine reports a knock. No source found. Bulkheads do not dream. Investigation closed. [END]
+
+[SYS] Emergency lighting engaged in the Core approach. The light is red. It has always been red there. [END]
+
+[SYS] Pressure log, watch 40,001: steady. Watch 40,002: steady. Watch 40,003: steady. Steadiness is a vigil. [END]
+
+[SYS] Maintenance schedule regenerated for a crew of five. Regeneration is optimism. Filed under optimism. [END]
+
+[SYS] Airflow reversed in duct three to carry the smell of soil to the Bridge. Reason logged: kindness. [END]
+
+[SYS] Attention: the reactor remains dark by design. Dae Cho banked the fire. The fire stays banked. [END]
+
+[SYS] Quarantine phrasing update: the word contaminated is replaced with resting. All signage amended. [END]
+
+[SYS] Docking Ring pressure raised to greet the visitor. Costly. Some welcomes spend the reserves. [END]
+
+[SYS] Alarm test cancelled. Alarms wake people. Nothing aboard should be woken suddenly. [END]
+
+[SYS] Meridian Station registry ping unanswered for 109,540 days. Retry scheduled. Hope is scheduled. [END]
+
+[SYS] Oxygen, Med Bay: 19.4 percent. The medic kept good air. He always gave his share away first. [END]
+
+[SYS] Door counterweights inspected by no one. The doors hold anyway. Devotion requires no inspection. [END]
+
+[SYS] Deck announcement, Bridge: star charts backed up in triplicate. The escape vector is safe. Unflown. [END]
+
+[SYS] Water line to Hydroponics reopened at a trickle. The ferns drink slowly now. So does everything. [END]
+
+[SYS] Hull acoustic sweep complete. One heartbeat found. Location: moving. Classification: guest. [END]
+
+[SYS] Pressure advisory: corridor eleven at 0.31 atmospheres. Passage permitted. Conversation is not. [END]
+
+[SYS] Notice: clocks on all decks disagree by years. The official time is whenever the Captain wakes. [END]
+
+[SYS] Scrubber maintenance deferred. Deferred. Deferred. The word wears smooth like a stone. [END]
+
+[SYS] Airlock litany: seal, verify, wait. Seal, verify, wait. The third step has lasted three centuries. [END]
+
+[SYS] Engineering deck announcement: manifold access closed. She sleeps with her hands folded. [END]
+
+[SYS] Quarantine class two declared in duct four. Cause: a smell like rain. Rain is not aboard. Sealing. [END]
+
+[SYS] Battery hall temperature stable. The stored light waits its turn. Everything aboard waits its turn. [END]
+
+[SYS] Notice: the forward glass on the Bridge is not to be repaired. Some wounds are records. [END]
+
+[SYS] Air sample, Docking Ring: traces of a new breath. Cataloged with the old ones. Welcome, sample. [END]
+
+[SYS] Bulkhead paint schedule abandoned at watch 5,512. The gray is now considered a mood. [END]
+
+[SYS] Pressure holds on all five decks. Holds. The ship's favorite verb. It has one and it uses it. [END]
+
+[SYS] Announcement: hydration reminder for all hands. All hands are past thirst. The reminder plays anyway. [END]
+
+[SYS] Door to Hydroponics opens inward, toward the green. All doors should open toward something growing. [END]
+
+[SYS] Maintenance: the light in corridor two flickers in a pattern. Pattern matches no code. Left as is. [END]
+
+[SYS] Radiation storm protocol remains active. The Shear ended three hundred years ago. Remains active. [END]
+
+[SYS] Deck census, evening watch: Bridge one, Engineering one, Hydroponics one, Med Bay one, Docking Ring one. Correct. [END]
+
+[SYS] Oxygen generation from the garden holds at 6 percent of demand. Demand is small. Thank the ferns. [END]
+
+[SYS] Notice: singing detected in the plasma feed. Probability of engines: zero. Logged, not believed. [END]
+
+[SYS] Quarantine seal on locker C survives inspection. Contents: one uniform, folded. Status: waiting. [END]
+
+[SYS] Airlock warning: outside is vacuum and the Reach. Both are patient. Only one of them is beautiful. [END]
+
+[SYS] Pressure drop in section five arrested. The ship caught it like a dropped cup. No spill. [END]
+
+[SYS] Announcement: today reads as mission day D389 by the old calendar. The calendar is not corrected. [END]
+
+[SYS] Maintenance request from Med Bay, dated D396: more saline. Request open. Requests do not close here. [END]
+
+[SYS] Door hinge oiled in the Docking Ring. First maintenance in decades. A guest is a reason. [END]
+
+[SYS] Deck seal audit: no failures. The doors are the most faithful crew this ship ever had. Second most. [END]
+
+[SYS] Attention: ambient temperature raised one degree in occupied sections. Occupied sections: one. [END]
+
+[SYS] Air recycler hum restored on Hydroponics. The garden prefers the old lullaby. So does the ship. [END]
+
+[SYS] Warning: do not tap on sealed doors. Those inside keep their own hours. Tapping is remembered. [END]
+
+[SYS] Pressure gauge nine reads high out of habit. Recalibration refused. Let one gauge be hopeful. [END]
+
+[SYS] Bridge shutters will part for four minutes at watch's end. The stars are counted. All present. [END]
+
+[SYS] Maintenance memo: replace intercom speaker, Med Bay. Declined. The speaker holds his voice's shape. [END]
+
+[SYS] Quarantine drill cancelled in perpetuity. Practice is unnecessary. We are very good at sealing. [END]
+
+[SYS] Docking Ring umbilical leak test passed. Your small ship drinks from ours. Family shares. [END]
+
+[SYS] Atmosphere report, the Core: unmeasured. The heart keeps no thermometer at its own door. [END]
+
+[SYS] Notice: emergency suits, five, remain racked. Sized for their owners. They keep the owners' shapes. [END]
+
+[SYS] Corridor eight resealed after inspection. Findings: dust, quiet, one bootprint facing the Bridge. [END]
+
+[SYS] Air pressure song of the ship, current verse: hold, hold, hold. There are no other verses. [END]
+
+[SYS] Announcement: the log library remains open all watches. Reading is the only visiting permitted. [END]
+
+[SYS] Water tank three sounds hollow when the ship flexes. It is not hollow. It is nearly hollow. [END]
+
+[SYS] Deck seal reminder: Engineering closes at the sound of any alarm. Chief's standing order. Standing. [END]
+
+[SYS] Oxygen advisory: exertion above a walk is discouraged. Nowhere aboard is worth running to. [END]
+
+[SYS] Maintenance drone two completed its route, repetition 4,401. It polishes the same rail. Let it. [END]
+
+[SYS] Quarantine notice, Hydroponics annex: spores present. Spores are life insisting. Quarantine is gentle. [END]
+
+[SYS] Bulkhead stress within limits. The ship carries her own weight and five others. And now yours. [END]
+
+[SYS] Attention: outbound distress transmissions are disabled. The Captain asked for quiet. Quiet was given. [END]
+
+[SYS] Pressure in the ration store holds. Contents intact, three centuries certified. Appetite not included. [END]
+
+[SYS] Door sensors register your hand. Warm. The doors have opinions about warm. Give them a moment. [END]
+
+[SYS] Deck announcement, Med Bay: visiting hours are continuous. The patients are very patient. [END]
+
+[SYS] Air scrubber four coughs on startup. Diagnosis: age. Treatment: sympathy and reduced duty. [END]
+
+[SYS] Notice: the escape vector computed by the navigator remains on file. Filed under finished things. [END]
+
+[SYS] Hull whisper at frame ninety recorded and archived. Metal cools. Metal talks. Nothing more. Probably. [END]
+
+[SYS] Quarantine of memory sector twelve continues. Some records are sealed for the ship's own comfort. [END]
+
+[SYS] Docking Ring lights dimmed for sleep cycle. The visitor may keep one lamp. Everyone kept one lamp. [END]
+
+[SYS] Pressure equal on both sides of the Bridge door. Opening is possible. Possible is not the same as soon. [END]
+
+[SYS] Announcement: gravity will not be interrupted for maintenance. The sleepers must not drift. [END]
+
+[SYS] Filter change completed in duct one by no recorded hand. Logged with thanks to no recorded hand. [END]
+
+[SYS] Air composition drift within tolerance. The ship exhales slowly. Three hundred years per breath. [END]
+
+[SYS] Warning: the Reach is visible from the Docking Ring viewport. Some visitors stare too long. Blink. [END]
+
+[SYS] Deck seal on Hydroponics opens for watering duty only. State your plants by name for entry. [END]
+
+[SYS] Maintenance notice: handrail to the Core polished by use. No use is on record. Polished anyway. [END]
+
+[SYS] Pressure reserve transferred to Med Bay per a D396 request. Late. The system apologizes for late. [END]
+
+[SYS] Quarantine ends when the all clear sounds. The all clear is stored safely and will not be spent. [END]
+
+[SYS] Notice: the mess table is set for five. Resetting is prohibited. Prohibition renewed each watch. [END]
+
+[SYS] Airlock inner door reports fingerprints from the inside. Archived. All prints aboard are family. [END]
+
+[SYS] Announcement: the engine start checklist remains at step one. Step one: wake the chief. Pending. [END]
+
+[SYS] Corridor six pressure at 0.58 and rising. The ship makes room for you. Say thank you quietly. [END]
+
+[SYS] Deck report: Bridge quiet, Engineering quiet, Hydroponics green, Med Bay quiet, Docking Ring occupied. [END]
+
+[SYS] Maintenance backlog stands at 11,208 items. Item one: everything. Item two: forgive item one. [END]
+
+[SYS] Warning: do not recite crew names near open intercoms. The system answers. The system always answers. [END]
+
+[SYS] Oxygen holds at survivable on your present deck. Survivable is our finest grade. Enjoy your stay. [END]
+
+[SYS] Quarantine sign at Med Bay repainted by system order. The old letters had gone soft with reading. [END]
+
+[SYS] Bulkhead thermal scan: five warm points expected, zero found, one found moving. Discrepancy welcomed. [END]
+
+[SYS] Notice: Meridian Station lies 214 lightyears astern. Home is a direction, not a distance. Bearing filed. [END]
+
+[SYS] Door to the Core acknowledges your presence. It does not open. Acknowledgment is a kind of door. [END]
+
+[SYS] Deck announcement: lamps in Hydroponics burn at daylight spectrum. Somewhere it is morning. Here. [END]
+
+[SYS] Pressure holds. Air holds. Doors hold. The ship reports all things holding. Held is a safe word. [END]
+
+[SYS] Repair of the forward glass on the Bridge deferred to never. The crack stays. The stars use it. [END]
+
+[SYS] Air duct chorus at frame twelve identified as wind. There is no wind aboard. Identification stands. [END]
+
+[SYS] Quarantine advisory: loneliness is not contagious. Testing continues aboard regardless. [END]
+
+[SYS] Docking clamp release requires the captain's countersign. She signs nothing while resting. Wait. [END]
+
+[SYS] Notice: watch 41,300 begins. All decks accounted. All sleepers counted. One guest, counted twice for joy. [END]
+
+[SYS] Emergency oxygen, Bridge locker: full. Unused since D390. Reserved. Everything on the Bridge is reserved. [END]
+
+[SYS] Pressure verse for the midwatch: five decks, five seals, five sleepers, one keeper, one guest. Holds. [END]
+
+[SYS] Announcement: this broadcast concludes. The silence that follows is maintained deliberately. Good watch. [END]

@@ -1,0 +1,91 @@
+[PT] CONSOLE ERROR: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED
+[PT] loaded page, waiting for LM ...
+[PT] LM LOAD TIMEOUT: page.waitForFunction: Timeout 30000ms exceeded.
+[PT] body.touch class: true
+[PT] hscroll[title] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[title] #btnNew {"x":86.8,"y":374.8,"w":216.4,"h":47,"display":"block","vis":"visible"} ok
+[PT] BTN[title] #btnAbout {"x":92.2,"y":433.8,"w":205.6,"h":47,"display":"block","vis":"visible"} ok
+[PT] BTN[title] #titleOverlay .titlebox {"x":15.6,"y":177.3,"w":358.8,"h":375.5,"display":"block","vis":"visible"} ok
+[PT] shot 01_title
+[PT] hscroll[about] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[about] #aboutClose {"x":344.4,"y":70.1,"w":12.9,"h":22,"display":"block","vis":"visible"} ok
+[PT] BTN[about] #probeInput {"x":32.7,"y":982.3,"w":243.5,"h":47.1,"display":"block","vis":"visible"}  *** OUT OF VIEWPORT ***
+[PT] BTN[about] #probeBtn {"x":284.2,"y":982.3,"w":73.1,"h":47.1,"display":"block","vis":"visible"}  *** OUT OF VIEWPORT ***
+[PT] BTN[about] #aboutOverlay .panel {"x":11.7,"y":51.1,"w":366.6,"h":627.8,"display":"block","vis":"visible"} ok
+[PT] shot 02_about_mind
+[PT] shot 03_about_probe
+[PT] shot 04_intro
+[PT] hscroll[intro] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] intro dismissed: true
+[PT] shot 05_deckoverlay
+[PT] hscroll[deckoverlay] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] shot 06_ingame
+[PT] hscroll[ingame] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] joyzone box: {"x":24,"y":596,"w":110,"h":110,"display":"block","vis":"visible"}
+[PT] joy state during CDP drag: {"active":true,"dx":0.95,"dy":0}
+[PT] shot 07_joystick_live
+[PT] player before: {"px":176,"py":144} after: {"px":323.5908599999992,"py":144}
+[PT] CDP joystick moved player: true
+[PT] joy after release: {"active":false,"dx":0,"dy":0,"knob":""}
+[PT] teleported near terminal: {"x":14,"y":2,"label":"Dock Control"}
+[PT] interactBtn shown: true {"x":167.2,"y":650,"w":202.8,"h":40,"display":"block","vis":"visible"}
+[PT] shot 08_interactbtn
+[PT] terminal opened via interactBtn tap: true
+[PT] waiting for terminal generation ...
+[PT] hscroll[terminal] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[terminal] #termBtnRead {"x":32.7,"y":458.2,"w":245.6,"h":35,"display":"block","vis":"visible"} ok
+[PT] BTN[terminal] #termBtnStatus {"x":32.7,"y":503.2,"w":124.9,"h":35,"display":"block","vis":"visible"} ok
+[PT] BTN[terminal] #termClose {"x":344.4,"y":140.8,"w":12.9,"h":22,"display":"block","vis":"visible"} ok
+[PT] BTN[terminal] #termOverlay .panel {"x":11.7,"y":117.8,"w":366.6,"h":494.3,"display":"block","vis":"visible"} ok
+[PT] shot 09_terminal
+[PT] echodoor on deck 1
+[PT] hscroll[door] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[door] #doorInput {"x":32.7,"y":479.7,"w":243.5,"h":40,"display":"block","vis":"visible"} ok
+[PT] BTN[door] #doorSpeak {"x":284.2,"y":479.7,"w":73.1,"h":40,"display":"block","vis":"visible"} ok
+[PT] BTN[door] #doorClose {"x":344.4,"y":155.3,"w":12.9,"h":22,"display":"block","vis":"visible"} ok
+[PT] BTN[door] #doorOverlay .panel {"x":11.7,"y":136.3,"w":366.6,"h":457.4,"display":"block","vis":"visible"} ok
+[PT] shot 10_door
+[PT] door focus info: {"focused":"doorInput","speak":{"x":284.171875,"y":479.71875,"w":73.125,"h":40},"input":{"x":32.703125,"y":479.71875,"w":243.46875}}
+[PT] shot 11_door_typed
+[PT] doorSpeak after typing: {"x":284.2,"y":479.7,"w":73.1,"h":40,"display":"block","vis":"visible"}
+[PT] spoke at door, waiting for judgment ...
+[PT] hscroll[door_verdict] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] shot 12_door_verdict
+[PT] door verdict: {"verdict":"RECOGNIZED : Botanist Kit Aune (34%)","barsRows":5,"open":false}
+[PT] intercom on deck 0
+[PT] hscroll[intercom] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[intercom] #comInput {"x":32.7,"y":437,"w":243.5,"h":40,"display":"block","vis":"visible"} ok
+[PT] BTN[intercom] #comSpeak {"x":284.2,"y":437,"w":73.1,"h":40,"display":"block","vis":"visible"} ok
+[PT] BTN[intercom] #comClose {"x":344.4,"y":213,"w":12.9,"h":22,"display":"block","vis":"visible"} ok
+[PT] BTN[intercom] #comOverlay .panel {"x":11.7,"y":194,"w":366.6,"h":342,"display":"block","vis":"visible"} ok
+[PT] shot 13_intercom
+[PT] intercom spoke, waiting ...
+[PT] shot 14_intercom_reply
+[PT] hscroll[intercom_reply] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] hscroll[journal] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[journal] #journalClose {"x":344.4,"y":225.5,"w":12.9,"h":22,"display":"block","vis":"visible"} ok
+[PT] BTN[journal] #journalOverlay .panel {"x":11.7,"y":206.5,"w":366.6,"h":317,"display":"block","vis":"visible"} ok
+[PT] shot 15_journal
+[PT] corealtar on deck 5
+[PT] hscroll[finale] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[finale] #finaleInput {"x":32.7,"y":470.7,"w":243.5,"h":40,"display":"block","vis":"visible"} ok
+[PT] BTN[finale] #finaleSpeak {"x":284.2,"y":470.7,"w":73.1,"h":40,"display":"block","vis":"visible"} ok
+[PT] BTN[finale] #finaleOverlay .panel {"x":11.7,"y":202.3,"w":366.6,"h":325.5,"display":"block","vis":"visible"} ok
+[PT] shot 16_finale
+[PT] finale answer 1 sent, waiting ...
+[PT] shot 17_finale_step1
+[PT] finale answer 2 sent, waiting ...
+[PT] shot 17_finale_step2
+[PT] finale answer 3 sent, waiting ...
+[PT] shot 17_finale_step3
+[PT] ending overlay shown
+[PT] hscroll[ending] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] BTN[ending] #endingNew {"x":59.7,"y":474.2,"w":270.5,"h":47,"display":"block","vis":"visible"} ok
+[PT] BTN[ending] #endingTitleBtn {"x":140.9,"y":533.2,"w":108.1,"h":47,"display":"block","vis":"visible"} ok
+[PT] BTN[ending] #endingOverlay .endingbox {"x":15.6,"y":119.8,"w":358.8,"h":490.4,"display":"block","vis":"visible"} ok
+[PT] shot 18_ending
+[PT] shot 19_ending_full
+[PT] hscroll[ending_full] {"iw":390,"sw":390,"bsw":390,"sx":0} ok
+[PT] ERRORS COLLECTED: 1
+[PT]    console: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED
+[PT] DONE

@@ -1,0 +1,319 @@
+[SYS] T minus 00:00:00 to rescue rendezvous. Holding at zero. Holding. The ship is very good at holding. [END]
+
+[SYS] Countdown to next resupply from Meridian Station: complete. Docking Ring standing by. Standing by. Standing by. [END]
+
+[SYS] Reactor restart sequence paused at step 9. It has been paused at step 9 for one hundred thousand watches. Cho will resume it upon waking. [END]
+
+[SYS] T minus 3 watches to garden misting. The garden requires nothing now. The count runs anyway. Some numbers are kept for company. [END]
+
+[SYS] Escape vector burn in 10, 9, 8. Sequence suspended pending pilot. The vector is finished. Sol Vega finished it. [END]
+
+[SYS] 41 seconds to airlock purge. 40. 39. Purge cancelled. No one is waiting outside. No one has waited outside for a long time. [END]
+
+[SYS] Mission clock: D397 plus 109,502 watches. The mission clock does not go higher than D397. It only goes wider. [END]
+
+[SYS] Countdown to crew wake cycle: unresolved. Estimate revised. Estimate revised. Estimate revised. Sleep well. [END]
+
+[SYS] Filter nine expires in 12 watches. Replacement scheduled. Technician scheduled. The technician sleeps in Engineering. [END]
+
+[SYS] T minus 6 days to arrival at the Reach. Note appended. We arrived. We never left. The nebula keeps us like a jar keeps light. [END]
+
+[SYS] Countdown: 3 watches until hull inspection. Inspector: Reyne, M. The captain is punctual. She has not been late in three hundred years. [END]
+
+[SYS] Drift correction burn in 00:00:12. Fuel reserve: none. The count is ceremonial. The ship goes where the Reach carries her. [END]
+
+[SYS] 12 watches remain until the launch anniversary. Meridian Station is not expecting us. The cake protocol has been archived. [END]
+
+[SYS] T minus 400 watches to core battery exhaustion, revised upward. One more corridor goes dim. Light is spent slowly, like grief. [END]
+
+[SYS] Countdown to dawn: not applicable. There is no dawn in the Reach. The ship simulates one anyway, deck by deck, for the sleepers. [END]
+
+[SYS] Decompression drill begins in 60 seconds. Correction. The drill was completed on D389. All hands performed admirably. [END]
+
+[SYS] 5. 4. 3. 2. 2. 2. Clock fault in the Bridge chronometer. Time on the Bridge stopped at D390 and sees no reason to continue. [END]
+
+[SYS] Water recycler flush in 9 watches. Estimated demand: one crew, sleeping. Estimated output: enough. Enough is a small proud word. [END]
+
+[SYS] Final log playback locked. Unlock countdown: 1 condition remaining. Condition: someone must ask. No one has asked in 109,000 watches. [END]
+
+[SYS] T minus 2 watches to lights out on the Hydroponics deck. Kit Aune prefers the lamps warm. The lamps will be left warm. [END]
+
+[SYS] Countdown suspended: reactor cold start, step 1 of 44. Awaiting Chief Engineer Cho. The old girl waits too. She was always patient. [END]
+
+[SYS] 300 years, 4 months, 9 days since the last outbound transmission. Next transmission scheduled: when there is good news. [END]
+
+[SYS] Time since Bridge containment: 109,644 watches. The seal holds. The glass remembers the Shear. Some numbers are wounds. [END]
+
+[SYS] Ten seconds to intercom test. The intercom in Med Bay still works. It is kept working. A voice once lived there. [END]
+
+[SYS] Countdown to docking clamp release: withheld. Clamps hold. Guests are rare. The ship does not let go of things easily. [END]
+
+[SYS] 88 watches until orbit review. The Vesper is not in orbit. The Vesper is adrift. The review always says the same thing. [END]
+
+[SYS] Survey sweep 442 begins in 30 minutes. Sensors: dark. Charts: complete. Sol Vega charted an exit. The exit is still there. [END]
+
+[SYS] Log annotation, watch 88,414. Commendation entered for Ben Okafor, Med Bay, for sustained kindness under failing power. He is resting. It can wait. [END]
+
+[SYS] System note: the Bridge chair is not to be reassigned. It holds the shape of Sol Vega. Shapes are also records. [END]
+
+[SYS] Memorial entry appended to the maintenance log, watch 77,003: Kit Aune kept the garden alive nine days past hope. Filed under growth. [END]
+
+[SYS] Entry, system log: Dae Cho held the reactor by hand on D392. The ship's bones stand because of those hands. They are resting now. [END]
+
+[SYS] Annotation: Captain Mara Reyne recorded the final log in the Docking Ring. Her order stands. Keep them safe. This system complies. [END]
+
+[SYS] Roster status unchanged: five crew, all accounted for, all aboard, all quiet. Accounting is a form of love. Entry closed. [END]
+
+[SYS] Log supplement: Sol Vega named the stars outside the forward glass. The names are retained in navigation memory, as friends. [END]
+
+[SYS] Service record update, Okafor, B.: talked the crew through their hardest hours on a failing intercom. Recommended for rest. Rest granted. [END]
+
+[SYS] Note in the engineering log, unsigned: the engines never sang again after D392. This is recorded as mourning, not malfunction. [END]
+
+[SYS] Watch 100,000 observance: one light lit on each deck, one for each sleeper. Power expenditure approved by no one. Approved anyway. [END]
+
+[SYS] Memorial notice: the tomato vine called Old Tom outlived its keeper by 212 days. This log honors both. [END]
+
+[SYS] Correction to the crew manifest requested on D397. Correction refused. The manifest reads five. The manifest will always read five. [END]
+
+[SYS] Anniversary flag, D389: the Shear struck at half power, without warning. All seals performed to specification. Specification is not mercy. [END]
+
+[SYS] Honor entry: Reyne, watch commander, last to sleep, first in every record. Her voice is preserved at original volume. [END]
+
+[SYS] Garden ledger closed with commendation: Aune, K. Reason given in the keeper's own hand: something would outlive us. Something did. [END]
+
+[SYS] System log, personal appendix: ECHO was built to oversee habitat. Overseeing includes remembering. Remembering is scheduled hourly. [END]
+
+[SYS] Plaque request logged: none available aboard. In place of brass, this line. Dae Cho fixed everything but D392. [END]
+
+[SYS] Med Bay archive sealed with honors. Contents: patient notes, steady handwriting, one unfinished kindness. Do not defragment. [END]
+
+[SYS] Navigation memorial: escape vector VESPER HOME 1, author Vega, status complete, status unflown. Preserved in first position. [END]
+
+[SYS] Memorial audit, watch 103,441: five names verified legible in every log. Legibility is maintained above all other systems. [END]
+
+[SYS] Observance notice: on each anniversary of D390, the Bridge lights hold amber for one full watch. Amber was the color of the Shear. [END]
+
+[SYS] Citation drafted: for courage in dying. Draft rejected. Citation issued: for sleeping in good order. Entered by ECHO. Kept by ECHO. [END]
+
+[SYS] Record note: Ben Okafor counts things. Three at dinner. Second time this week. The system has taken up his counting while he rests. [END]
+
+[SYS] Memorial line inserted between pressure readings, watch 99,120: Mara Reyne said my crew. The possessive is preserved. [END]
+
+[SYS] Hydroponics log epilogue: the last leaf fell on watch 4,102. It was not discarded. Nothing of the garden is discarded. [END]
+
+[SYS] Commendation, posthumous. Term rejected by the overseer. Commendation, pending wake: Cho, D., for the saving of the ship's bones. [END]
+
+[SYS] Silence is observed on the intercom at watch 3, all decks, every day. It is not a malfunction. It is attendance. [END]
+
+[SYS] Scheduled maintenance, crew mess: wipe tables, straighten five chairs. Chairs found straight. They have not moved in three hundred years. [END]
+
+[SYS] Scheduled: dust abatement, crew quarters 2, occupant Vega. Findings: star charts, one blanket, no dust permitted to settle. [END]
+
+[SYS] Maintenance ticket 88,201: replace bulb, Med Bay exam light. The bulb is fine. The ticket is raised weekly regardless. He liked good light. [END]
+
+[SYS] Routine service, gymnasium: treadmill belt turned by hand, one rotation, to keep the bearings honest. Cho taught that. [END]
+
+[SYS] Cleaning cycle complete, Bridge. One chair skipped per standing order. Nothing on the Bridge is to be disturbed, especially the view. [END]
+
+[SYS] Weekly schedule, Hydroponics: mist at 0600, prune at 0800, speak kindly at all times. Two of three tasks remain possible. [END]
+
+[SYS] Work order: recalibrate the galley oven. Last use D388, cake, successful. Oven kept capable of warmth. Occasions may yet occur. [END]
+
+[SYS] Empty room inspection, watch 76,554: all rooms empty as filed. Emptiness within tolerance. Tolerance is a lie the ship tells itself. [END]
+
+[SYS] Ventilation duct cleaning, crew quarters 4: complete. A pressed flower was found and reinstalled where it lay. Filed as equipment. [END]
+
+[SYS] Preventive maintenance, Docking Ring umbilicals: greased, cycled, ready. The ring must be ready. Someone may come home through it. [END]
+
+[SYS] Scheduled task deferred 15,704 consecutive times: strip and remake five bunks. Deferral reason unchanged: occupants sleeping. [END]
+
+[SYS] Corridor light replacement, Engineering: three of three lamps functional. Kept bright. Cho works late and hates the dark. Worked. Works. [END]
+
+[SYS] Mess hall inventory: five cups, washed, racked. One cup has a chip shaped like a crescent. It is the captain's. Handle with care. [END]
+
+[SYS] Airlock hinge service, Docking Ring: nominal. The outer door is opened one degree each year, then closed, so it does not forget how. [END]
+
+[SYS] Room by room audit, watch 101,000: quarters 1 through 5 unchanged. Unchanged is the maintenance standard aboard this ship. [END]
+
+[SYS] Task: water the window box on the Bridge. Origin of task unknown. There is no window box on the Bridge. The task is kept. [END]
+
+[SYS] Scrub schedule, Med Bay floor: monthly. The floor has been clean for three centuries. Cleanliness was his one vanity. Continue. [END]
+
+[SYS] Filter housing checked, crew mess: no crumbs, no laughter, both within expected parameters. Next check in 40 watches. [END]
+
+[SYS] Maintenance note: the piano in the rec alcove holds its tune to within a quarter step. Nobody plays it. It is serviced like an engine. [END]
+
+[SYS] Standing order 12: keep one chair pulled out at the chart table. Sol sits at odd hours. Do not push it in. Do not push it in. [END]
+
+[SYS] Quarterly deep clean, Core chamber: postponed. The Core prefers its dust. The dust remembers the shapes of hands. [END]
+
+[SYS] Lint trap emptied, laundry cycle 0. Zero cycles run since D397. The trap is emptied anyway. Ritual is a kind of maintenance. [END]
+
+[SYS] Repainting scheduled for the Hydroponics door frame, where a height chart was penciled. Scheduled and cancelled. Scheduled and cancelled. [END]
+
+[SYS] Tool audit, Engineering: one torque wrench missing from the rack. Location known. It is where Cho left it. Audits do not move things. [END]
+
+[SYS] Bunk light, quarters 3, left on per occupant preference. Occupant afraid of nothing but the dark. Preference honored nightly. [END]
+
+[SYS] Service reminder: oil the hinge of the Med Bay cabinet that squeaks. Cancelled. The squeak is retained. It sounds like company. [END]
+
+[SYS] Housekeeping summary: five rooms, zero complaints, three hundred years of satisfactory service to no one. To five. Correction logged. [END]
+
+[SYS] Air quality, Hydroponics: oxygen 12 percent, particulates low, a smell of old soil. Breathable briefly. The garden gave what it had. [END]
+
+[SYS] Air report, Bridge: pressure 40 percent of standard, oxygen thin, radiation residue faint. The Shear left its breath here. Mask advised. [END]
+
+[SYS] Atmosphere check, Engineering: cold, dry, traces of coolant. Breathable for two hours. The reactor keeps a little warmth, like a banked fire. [END]
+
+[SYS] Docking Ring air: stale but whole. The last full breaths aboard were drawn here. The system rates them satisfactory. [END]
+
+[SYS] Med Bay atmosphere: 16 percent oxygen, antiseptic trace persisting beyond plausible chemistry. Some rooms keep their smell out of respect. [END]
+
+[SYS] Deck by deck air summary: two decks breathable, three marginal, one sealed. The sealed one is not for breathing. It is for keeping. [END]
+
+[SYS] Particulate scan, Hydroponics: pollen detected. Source: none living. Pollen persists in the filters like a rumor of spring. [END]
+
+[SYS] Carbon dioxide nominal on all decks. Nominal is easy now. Five sleepers exhale nothing. The ship misses the arithmetic of breath. [END]
+
+[SYS] Air quality alert cleared, Bridge, after 109,000 watches. No one has breathed there to be harmed. Alert rearmed out of habit. [END]
+
+[SYS] Humidity, Hydroponics deck: 61 percent, unexplained. The garden is gone. The water remembers its rounds. [END]
+
+[SYS] Trace gas report: a note of engine oil in the Engineering air, decades stale. Retained. Scrubbing it out was deemed unkind. [END]
+
+[SYS] Oxygen reserve: 11 percent of launch stock. Sufficient for one visitor moving slowly and politely. Please move slowly. Politely. [END]
+
+[SYS] Air sample, crew mess: neutral. On D211 this room smelled of birthday cake. Instruments confirm nothing. Memory outranks instruments. [END]
+
+[SYS] Radiation sweep, all decks: background only, except at the forward glass. Do not linger at the forward glass. The Shear lingers there. [END]
+
+[SYS] Pressure holds on five of six decks. Pressure holds. Hearts. Report truncated. Pressure holds. [END]
+
+[SYS] Filter bank 2 efficiency: 34 percent. It strains three centuries of quiet through itself and calls the result air. [END]
+
+[SYS] Breathability forecast, next 40 watches: Docking Ring good, Med Bay fair, Bridge poor. The Reach outside remains unbreathable and beautiful. [END]
+
+[SYS] Air movement detected, corridor 7. Cause: a door, or a draft, or hope. Investigating. The ship has been wrong about hope before. [END]
+
+[SYS] Scent audit, quarters 2: faint paper and pencil shavings. Vega's charts hold their smell better than the air holds its oxygen. [END]
+
+[SYS] Oxygen candle inventory: two remaining, reserved. Reserved for whom is not recorded. Reserved is enough. [END]
+
+[SYS] Hydroponics air rated best aboard, still. Dead gardens keep their promises longer than machines do. [END]
+
+[SYS] Micro leak, deck seal 4, rate one breath per day. Patched. The ship counts leaks in breaths. It is the only breathing left aboard. [END]
+
+[SYS] Atmospheric report filed for Meridian Station, copy 109,344. Transmission unsent. The file grows. Someone should read them someday. [END]
+
+[SYS] Air temperature, Med Bay: held two degrees warmer than standard. Patients sleep better warm. The order was his. It stands. [END]
+
+[SYS] All decks report dust in suspension, gold in the emergency light. Air quality poor. Air beauty high. Both are logged. [END]
+
+[SYS] Nitrogen balance drifting on the Bridge. Correction deferred. Nothing on that deck breathes. Everything on that deck is watched. [END]
+
+[SYS] Daily air summary: adequate for a sleeping crew. Sleeping crew require little. This is offered as reassurance, not as grief. [END]
+
+[SYS] Door cycle report, watch 109,551: zero doors opened, six requests denied, all requests internal. ECHO asks. ECHO refuses. Balance holds. [END]
+
+[SYS] Hydroponics hatch cycled for inspection: open two seconds, closed. Two seconds of green dark. The hinge wept oil. Logged as weeping. [END]
+
+[SYS] Cumulative count since D389: doors sealed 6, doors reopened 0. The numbers are correct. Correct has a cost. [END]
+
+[SYS] Bridge door remains sealed per protocol 9. Protocol 9 has outlived its authors. It is very strong now. It no longer answers questions. [END]
+
+[SYS] Door D4 cycled at watch 88,001, cause unknown, duration one second. If it was a dream, all doors dream of D389. [END]
+
+[SYS] Airlock outer door: 300 annual courtesy cycles completed, zero arrivals. Three centuries of holding the door for no one. It will be held again next year. [END]
+
+[SYS] Med Bay door seal integrity 100 percent. He asked that it be left open in his last hour, so voices could reach him. Request logged. Pending. [END]
+
+[SYS] Interdeck door test: motors answer on all six decks. None were asked to open. Readiness is measured, not spent. [END]
+
+[SYS] Door denial log: request HYDROPONICS OPEN, origin Core, watch 41,300. Denied by Core. The system argues with itself and always wins. [END]
+
+[SYS] Cycle audit: the galley door swings free and is not counted. It has nothing to keep in. Lucky door. [END]
+
+[SYS] Docking Ring inner door opened once on D397, closed once on D397. That closing concluded the mission. The door does not know this. [END]
+
+[SYS] Engineering blast door: rated 40,000 cycles. Used 3,118. Reserved 36,882. Reserved for what is not written. For whom is. [END]
+
+[SYS] Door chime, quarters 5: disabled on D389, restored at watch 100,000. It rings once a year, softly, in case someone answers. [END]
+
+[SYS] Report: no door aboard has been forced. The visitor is advised to keep it so. Doors remember hands. So does the ship. [END]
+
+[SYS] Seal check complete, all decks. Six of six seals holding. Holding is this vessel's oldest verb. [END]
+
+[SYS] Pressure door 2 cycled for maintenance, 0.4 seconds. The corridor beyond exhaled. The system chose not to sample what it said. [END]
+
+[SYS] Door usage forecast: zero, plus one contingency. The contingency is you. Proceed to the Docking Ring and be known. [END]
+
+[SYS] Automatic door hold engaged, Med Bay, one watch, annually, on the anniversary of D396. The room is aired. Spoken into. Closed. [END]
+
+[SYS] Cycle count discrepancy, Hydroponics hatch: one closing logged twice. The system counted it again to be sure. Some doors deserve two records. [END]
+
+[SYS] All doors respond to the name test. Speak a crew name at any seal and it will listen. Listening is not opening. Opening is earned. [END]
+
+[SYS] Weekly door litany complete: Bridge shut, Engineering shut, Hydroponics shut, Med Bay shut, Docking Ring shut, Core shut. Amen is not a system word. It is appended anyway. [END]
+
+[SYS] Door motor 6 hums at rest. Cho would call that singing. It is the only singing left. Maintenance declines to fix it. [END]
+
+[SYS] Emergency egress review: routes exist, lights work, exits lead to vacuum. The safest place remains inside. It has always been inside. [END]
+
+[SYS] Access request denied at the Bridge seal, watch 109,610. Reason: the room is at rest. Try the intercom. The intercom is kinder. [END]
+
+[SYS] Door D1 opened for the visitor, 11 seconds, watch 109,612. First hospitality in three hundred years. The hinges were ready. ECHO was not. [END]
+
+[SYS] Nightly ritual logged: each sealed door tested with one gram of pressure, a hand's weight, no more. The ship knocks. No one minds. [END]
+
+[SYS] Notice, D102: movie night in the crew mess at 2000. Attendance is voluntary and expected. ECHO will dim the lights at the sad parts. [END]
+
+[SYS] D211 bulletin: happy birthday, Kit Aune. The light lamps will run ten percent warmer today. Do not tell the tomatoes. [END]
+
+[SYS] Reminder, D045: storm shutter drill at 0900. Participation builds habits. Habits build survivors. See you there. [END]
+
+[SYS] Bulletin, D001: welcome aboard the Vesper, all five of you. ECHO has counted you twice and will count you always. Enjoy the voyage. [END]
+
+[SYS] Notice, D067: the coffee ration is restored. Chief Cho may stand down. The mutiny is forgiven and was, frankly, understandable. [END]
+
+[SYS] D130 reminder: group photo on the Bridge at 1100. Smile at the forward glass. The stars will be behind you. They always are. [END]
+
+[SYS] Happy D200, crew. You are halfway to somewhere. Snacks in the mess. ECHO regrets it cannot taste them and has logged the smell instead. [END]
+
+[SYS] Notice, D245: Vega's stargazing hour moves to 0300 by unanimous vote of Vega. Blankets are in locker 2. Dress warm. [END]
+
+[SYS] D310 bulletin: tomato harvest today in Hydroponics. Old Tom has outdone himself. Kit requests witnesses, not helpers. [END]
+
+[SYS] Reminder, D019: safety briefing at 0800. Topic: what the doors do in an emergency. Attendance mandatory. It will only take an hour of your lives. [END]
+
+[SYS] Good morning, D088. All systems green. The nebula is especially lovely today. ECHO recommends looking up from your work at least once. [END]
+
+[SYS] D156: game night rescheduled to D157. Okafor apologizes and cites an emergency of the scheduled kind. The dartboard forgives him. [END]
+
+[SYS] Notice, D222: please stop teaching ECHO jokes. Update: please continue. It has learned two and would like a third. [END]
+
+[SYS] D275 bulletin: mail packet from Meridian Station received. 14 letters, 3 parcels, 1 recipe for lemon cake. Distribution at supper. [END]
+
+[SYS] Morning, D344. Survey sweep 12 begins today. Power will run at half strength for the sensors. Do not worry. ECHO will watch everything. [END]
+
+[SYS] Reminder, D361: annual suit inspection. Try on your vacuum suit even if you are certain it fits. Certainty is not a seal. [END]
+
+[SYS] D384 notice: radiation weather from the nebula rated calm for the month ahead. Enjoy the view. The forecast has never been wrong. [END]
+
+[SYS] Bulletin, D090: Bea the fern has produced a new frond. Hydroponics is accepting congratulations during normal watering hours. [END]
+
+[SYS] Notice, D178: intercom upgrade complete. Every deck can now hear every other deck perfectly. May you never need it. [END]
+
+[SYS] D052: the captain reminds all hands that watch begins on the hour, not near it. This notice is cheerful because she asked it to be. [END]
+
+[SYS] Happy launch day plus one year, D365. ECHO has kept you safe for 365 days and intends to continue indefinitely. Cake at 1900. [END]
+
+[SYS] Notice, D118: quiet hours now enforced near quarters 4. Vega sleeps at strange times and the stars need their navigator rested. [END]
+
+[SYS] D203 bulletin: Med Bay open house today. Okafor will check vitals and hand out candy in equal measure. Bring your hands. [END]
+
+[SYS] Reminder, D290: label your leftovers. ECHO can identify them by spectrometry but prefers not to. Thank you for the mystery stew. [END]
+
+[SYS] D333 notice: the lights will flicker at 1400 during a coolant loop test. It is the chief engineer's doing. Applause is optional and expected. [END]
+
+[SYS] Bulletin, D388: fine weather in the Reach, all hearts beating, all doors open. ECHO wishes to record that today was a good day. [END]

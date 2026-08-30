@@ -1,0 +1,399 @@
+[LOG:CHO:D212]
+Reactor woke up cranky today, hell knows why, so I sat with her an hour and eased the plasma feed up a hair at a time until the hum came back sweet. She just wants attention, same as anything with moving parts. Reyne asked for a fault report and I told her the fault was loneliness. She did not write that down. The old girl and I understand each other fine.
+[END]
+
+[LOG:CHO:D047]
+Swapped the bearings on the number two circulation pump this morning, the old ones were grumbling like a dog with a thorn in its paw, and now the whole Engineering deck purrs so quiet you could sleep on the deck plates. Damn near did. Kit came down to borrow a torque wrench for some planter bracket and stayed twenty minutes just listening to her run.
+[END]
+
+[LOG:CHO:D355]
+Somebody at Meridian Station decided every coolant loop inspection needs a form in triplicate now, which is three more forms than the coolant loop cares about. The loop is happy, I checked it with my own two ears, flow steady, temps flat, not a whisper of cavitation. But no, the paperwork wants numbers in boxes. I gave it numbers. The boxes should feel honored.
+[END]
+
+[LOG:CHO:D103]
+The engines sang tonight. Really sang, that clean high harmony you only get when the plasma feed and the manifold agree with each other for once, and I stood there like an idiot with my hand flat on the casing feeling it in my teeth. Vega talks about her stars like this. Now I get it. Three hundred tons of old girl and she sounds like a choir.
+[END]
+
+[LOG:CHO:D009]
+First real shakedown out of Meridian Station and she is settling in beautiful. A little chatter in the port manifold around forty percent thrust, nothing a shim and some patience did not fix. New ships whine, old ships sing, and the Vesper is somewhere in the middle, clearing her throat. Give me a month and I will have her humming lullabies.
+[END]
+
+[LOG:CHO:D281]
+Okafor came down asking why I missed my sleep cycle again, vitals this, sleep debt that, and I told him the honest truth, the intercooler needed me more than the bunk did. He counted on his fingers, third time this month apparently. Fine, doc, I will sleep when the coolant loop stops making that tick on the return side. Found it anyway. Loose clamp. Bliss.
+[END]
+
+[LOG:CHO:D178]
+Ran the quarterly stress cycle on the drive today and she took it like a champ, not one temp spike, not one grumble out of the manifold, and afterward the hum settled two notes lower and warmer, which is her way of saying thank you. Reyne wants the results filed by end of watch. The results are that the old girl is magnificent. I will pad that out to a page somehow.
+[END]
+
+[LOG:CHO:D330]
+Crawled the whole starboard coolant loop today, every meter of pipe from the heat exchanger to the return manifold, because I felt a shudder yesterday that nobody else believed was real. Found it. Hairline weep on a weld joint the size of an eyelash. Patched, wrapped, tested. She whispers when she hurts, and out here in the Reach nobody hears her but me.
+[END]
+
+[LOG:CHO:D021]
+Kit hauled me up to Hydroponics to fix a misting valve, said the plants were thirsty and looked at me like I had personally wronged the ferns. Ten minute job, a worn seat and a spring, easy. Stayed an hour anyway. It is good work up there, warm and green and dripping, all those little pumps ticking away like tiny hearts. Different kind of engine room, that is all.
+[END]
+
+[LOG:CHO:D267]
+Vega keeps asking me to kill the deck vibration on the Bridge so her long exposure charts of the Reach come out clean. So I spent the whole watch chasing a resonance through the frames with a stethoscope like the old girl was a patient. Traced it to a loose conduit hanger behind the Med Bay bulkhead. One bolt. One damn bolt. Vega owes me a star named after a wrench.
+[END]
+
+[LOG:CHO:D142]
+The reactor has moods, I do not care what the manual from Meridian Station says. Today she was sulky, output drooping a quarter percent for no reason the sensors could find, so I did what you do with a sulky animal, kept my voice low, ran her gentle, cleaned her injectors even though they did not strictly need it. By dinner she was singing again. Moods. Told you.
+[END]
+
+[LOG:CHO:D058]
+Reyne inspected Engineering today with her clipboard face on and found exactly one thing to cite, a rag I left on the manifold housing. One rag. Whole deck gleaming, plasma feed balanced to the third decimal, and she writes up a rag. I saluted the rag on her way out. I think the corner of her mouth moved. Calling that a win for the engine room.
+[END]
+
+[LOG:CHO:D371]
+Pulled the intake screens on the port heat exchanger and found them furred up with mineral scale like an old kettle. Hell of a job, four hours with a brush and a solvent bath, knuckles skinned, back complaining. Worth every minute. Flow rate came up six percent and the loop runs cool and quiet as a snowfall now. Nobody thanks you for the disasters that never happen.
+[END]
+
+[LOG:CHO:D084]
+Taught Kit to use a torque wrench properly today, because apparently up in Hydroponics they just tighten things until they feel scared. Good student, careful hands, talks to the bolts the way I do, which either means we are both sane or neither of us is. Sent Kit home with a spare wrench and a lecture about thread pitch. The garden hardware will outlive us all now.
+[END]
+
+[LOG:CHO:D296]
+Long haul survey burn all watch, six hours at cruise, and I just sat in the engine room and listened. There is a spot on the catwalk where the hum from the drive and the tick of the coolant pumps line up into a rhythm, and damn if it is not better than any music we brought from Meridian Station. Okafor says I need hobbies. This is the hobby, doc. This exactly.
+[END]
+
+[LOG:CHO:D005]
+Still finding yard grime in her corners from the fitting out docks. Cleaned a whole handful of swarf out of a cable tray behind the aft manifold today, some dockhand's mess left for me to inherit. You do not send a lady out into the Reach with metal shavings in her pockets. Went over every tray on the deck after that. She deserves better and she will get it.
+[END]
+
+[LOG:CHO:D239]
+The number one plasma feed regulator started hunting today, output wandering up and down like it could not make up its mind, and I nearly rebuilt the whole assembly before I found a scorched sensor lead the width of a hair. Swapped it, steady as a rock now. Machines never lie to you, but hell, sometimes they mumble. You just have to lean in close.
+[END]
+
+[LOG:CHO:D116]
+Okafor patched my forearm where I opened it on a bracket edge, six stitches, neat as a seam weld, and the whole time he kept up that soft counting talk of his, second injury this quarter, third cup of coffee today. I told him the old girl bites when she is startled and I startled her. He wrote something down. Probably not that. Should have been that.
+[END]
+
+[LOG:CHO:D344]
+Reyne wants a full engineering readiness report before we push deeper into the Reach and I get it, I do, protocol keeps people breathing. But the report wants estimates and the old girl does not do estimates, she does promises. Drive at full song, coolant loops clean, spares counted twice. I wrote one line at the bottom. She will carry us anywhere. Reyne let it stand.
+[END]
+
+[LOG:CHO:D073]
+Spent the morning balancing the manifold after yesterday's course change left the flow lopsided, port side running two degrees hot. It is fussy work, quarter turns on the trim valves, wait, listen, again. Vega wandered down at some point talking about parallax and stayed to watch like it was theater. Told her this is navigation too. Steering heat instead of stars.
+[END]
+
+[LOG:CHO:D191]
+The old girl gave me a scare today. Pressure alarm on the secondary coolant loop, klaxon and everything, whole deck lit amber. Turned out a sensor drifted out of calibration, the loop itself was fine, sweet as ever. Recalibrated, tested, apologized to my own heart rate. Okafor heard the alarm from Med Bay and came running with a kit. Good man. Wrong patient.
+[END]
+
+[LOG:CHO:D308]
+Made a new gasket by hand today for the auxiliary pump, cut it from sheet stock with a knife and a steady breath because the spares from Meridian Station are the wrong bore, of course they are. There is a satisfaction in it you cannot requisition. Set it, torqued it, ran her up. Not a drop. My grandfather did this same work on water pumps. Different sky. Same hands.
+[END]
+
+[LOG:CHO:D033]
+Vega came down at some ungodly hour, could not sleep as usual, and asked what the engines dream about. I said load balance and clean fuel, and she looked so disappointed that I gave her the truth instead, which is that when the drive idles low there is a slow swell in the hum, up and down, like breathing. She smiled like I had handed her a comet. Maybe I had.
+[END]
+
+[LOG:CHO:D259]
+Inventory day, hell's own chore. Counted every spare bearing, every meter of gasket stock, every fitting in the bins, and the ledger from Meridian Station still disagrees with my shelves by three flanges. Three. I know exactly where two of them went, honest repairs, logged and forgotten. The third is a mystery. If the old girl ate it, she has better taste than that.
+[END]
+
+[LOG:CHO:D125]
+Kit brought me a tomato from Hydroponics today, first ripe one off the vine they call Old Tom, and made me eat it right there on the catwalk with engine grease still on my hands. Best damn thing I have tasted since Meridian Station. Traded fair, I promised to quiet the ventilation fan that rattles over the seedling racks. A tomato for a bearing. Good economy.
+[END]
+
+[LOG:CHO:D362]
+Deep in the Reach now and the dust out here is fine as flour, so I doubled the intake filter checks. Pulled the number three filter today and it was clogged gray, poor thing wheezing like an old man on stairs. Swapped it, logged it, set a shorter cycle. The nebula is beautiful, Vega is right about that, but beauty gets into your lungs same as grit. Hers too.
+[END]
+
+[LOG:CHO:D016]
+The hum changed today around midwatch, just a shade flatter, and I was halfway down the ladder before the monitors even blinked. Fuel pressure trim, tiny thing, five minute fix. Reyne asked how I knew before the alarms did. Because I listen, Captain. The old girl talks all day long. The trick is not the hearing, it is the caring enough to keep listening.
+[END]
+
+[LOG:CHO:D203]
+Rebuilt the galley's recycler pump on my day off because the thing was screeching like a kettle full of ghosts and nobody could stand coffee time. Not my system, not my deck, do not care, a bad bearing is a bad bearing. Now it runs so quiet Okafor claims the silence woke him. Cannot win. Machines are simple. Crews are the complicated machinery on this ship.
+[END]
+
+[LOG:CHO:D287]
+Reyne ran an emergency drill today, full deck seals, everyone to stations, stopwatch out. Engineering sealed in eleven seconds and I hate how good the doors are, big heavy beautiful things, whisper shut, dead bolt thunk. Fine work by whoever built them. Still gave me a shiver, standing there sealed in with the reactor. Just me and her. Could be worse company.
+[END]
+
+[LOG:CHO:D095]
+The starboard thruster quad has been coughing on cold starts so I stripped the feed lines today, found a check valve installed backwards at the yard. Backwards. Since Meridian Station. She flew all this way with a stone in her shoe and complained so politely that it took me ninety days to hear it. Reversed it, test fired, clean as a bell. Sorry, girl. My fault.
+[END]
+
+[LOG:CHO:D318]
+Paperwork night. Reyne locked the wrench cabinet until I finished the maintenance logs, which is tyranny, but effective tyranny. So here I am writing that on day whatever I greased what needed greasing and torqued what needed torquing and the old girl sang through all of it. Forty pages of that. The reactor does not read. The reactor is the lucky one.
+[END]
+
+[LOG:CHO:D151]
+Watched Kit and Vega argue at dinner about whether the Reach counts as weather or scenery, and Okafor kept score like a referee. Me, I kept one ear on the deck plates the whole time, felt the drive shift into the new survey heading smooth as poured oil. Nobody else even noticed the turn. That is the job done right. You steer a whole world and no soup spills.
+[END]
+
+[LOG:CHO:D276]
+The primary coolant loop got an early birthday present today, new impeller in the main circulation pump, three watches of careful work. Old impeller had ten thousand hours on it and honestly could have run ten more, but out here past the shipping lanes you do not gamble with the thing that keeps the heart cool. She spun up smooth and grateful. Sang all evening.
+[END]
+
+[LOG:CHO:D041]
+Vega named a star after me today, or claims she did, some ember out in the Reach now answering to Cho's Coal. In exchange she wants the Bridge console fan silenced forever because it whirs at the exact pitch of her tinnitus. Fair trade. Pulled it, cleaned twenty years of dust off the blades, sleeved the shaft. Whisper quiet. The star better be a big one.
+[END]
+
+[LOG:CHO:D226]
+Torque wrench went missing for two days and I turned the deck upside down cursing dockhands, ghosts, and gravity, then found it in Hydroponics under a seed tray where I left it myself after fixing Kit's mister. Hell. Apologized to the ghosts. Kit made me a peace offering of mint leaves and I made the mister a promise of quarterly service. Everybody wins but my pride.
+[END]
+
+[LOG:CHO:D008]
+Second week out from Meridian Station and I am learning her sounds one by one, the way you learn a new house at night. The tick in the ventilation over the workbench, that is normal. The soft double knock when the heat exchanger valves cycle, normal. The faint ring off the drive housing at full thrust, that one is her singing, and I already love it stupid.
+[END]
+
+[LOG:CHO:D349]
+Okafor asked me to check the Med Bay air handler because it had developed a rattle that was worrying his patients, meaning worrying him, since we are all disgustingly healthy. Loose fan shroud, two screws, done in ten minutes. Then he trapped me for a checkup, blood pressure, grip strength, the works. Sneaky doc. Fixed his rattle and he went looking for mine.
+[END]
+
+[LOG:CHO:D164]
+Ran a full harmonic survey on the drive today, microphones on every frame, because Reyne wants baselines for the deep leg of the survey. Fine by me, it is the only paperwork I like, pages and pages of the old girl's voice written down as waveforms. Filed a copy and kept one for myself. Some people keep photographs. I keep the sound of her on a good day.
+[END]
+
+[LOG:CHO:D302]
+Cold morning on the Engineering deck, environmental cycling low for the survey sweep, and the reactor sounded different in it, denser somehow, the hum carrying farther along the plates. Walked the whole loop with my coffee just listening. Everything nominal, everything fine, just her voice in a cold room. Damn near holy, if you want to know. Do not tell Reyne I said holy.
+[END]
+
+[LOG:CHO:D067]
+Kit's irrigation manifold up in Hydroponics froze a valve today and half the lettuce went thirsty for a watch. Traced it to a solenoid that had corroded from all that lovely humidity. Swapped it, then coated every spare solenoid on that deck in sealant because I only like solving a problem once. Kit hugged me. The lettuce did not, but I sensed gratitude.
+[END]
+
+[LOG:CHO:D385]
+Prepping for the big half power survey sweep, so I spent all watch tuning the load balance until the reactor could dance on a coin. She hates running throttled, gets restless, the hum goes thin and impatient, so I promised her a full song burn after. Reyne wants every system trimmed for quiet running. Fine. But nobody throttles the old girl without buying her dinner first.
+[END]
+
+[LOG:CHO:D132]
+Someone jettisoned a coffee cup into the recycler intake, and I have narrowed the suspects to everyone on this ship because all four of them looked guilty at dinner. The shredder survived, the cup did not, and I now have a new grill welded over the intake and a sign that says feed me only what the manual allows. Vega has already annotated the sign with a poem.
+[END]
+
+[LOG:CHO:D253]
+The aft plasma feed line sang a quarter tone sharp all day, and it took me until midwatch to find the reason, a mounting cushion gone stiff with age, transmitting buzz into the hull. Cut a new cushion, seated it, and the note dropped back into place like a bone set right. Nobody else on this ship would even have heard it. That is not a complaint. That is the job.
+[END]
+
+[LOG:CHO:D029]
+Reyne asked for volunteers for docking ring lubrication duty and everyone stared at their boots, so it was me and my grease gun on the ring all afternoon, arm deep in the seal tracks. Filthy, tedious, and honestly kind of soothing. Those seals kept us snug at Meridian Station and they will keep us snug wherever we berth next. Take care of your doors and your doors take care of you.
+[END]
+
+[LOG:CHO:D340]
+The old girl crossed ten million klicks of the Reach today and I marked the occasion the only way that matters, fresh filters, clean injectors, and a slow walk of every deck from the Docking Ring down to my reactor, hand on the rail the whole way. She has carried five soft bodies safe through hard vacuum every second of it. Machines earn love. This one earns it double.
+[END]
+
+[LOG:CHO:D110]
+Okafor and I split a late meal in the galley after his shift and mine ran into each other, and he asked, doctor voice on, if I ever get lonely down in Engineering. Lonely. With a reactor that sulks, pumps that gossip, and a manifold that sings when the mood takes her. I told him the deck is the most crowded room on the ship. He counted that as a symptom, I could tell.
+[END]
+
+[LOG:CHO:D194]
+Rewired the aft lighting circuit today after a junction box gave up its ghost in a puff of very honest smoke. Traced the fault, cut out the char, spliced fresh line, and now the aft catwalk is brighter than it has ever been. Found things in that new light I have been meaning to polish for months. A ship keeps her secrets in the dark corners. So do engineers.
+[END]
+
+[LOG:CHO:D374]
+The survey schedule has us running half dark next week, systems trimmed low so Vega's instruments can taste the Reach without our own noise in the soup. I do not love it. The old girl runs quiet just fine, but idling a reactor is like asking a sled dog to tiptoe. Spent today setting soft limits and gentle ramps so she never feels yanked. Easy, girl. Just a week.
+[END]
+
+[LOG:CHO:D052]
+Found Vega asleep in my chair in Engineering at 0300 with star charts of the Reach all over the workbench. Apparently the drive hum helps her sleep when the Bridge gets too quiet. I threw a blanket over her and rebalanced the coolant loop at low volume like a parent with a sleeping baby in the house. Charged her one chart for the chair. Picked a good one.
+[END]
+
+[LOG:CHO:D243]
+The number two heat exchanger has been running a degree proud for a week and today I finally cornered the cause, a partially delaminated baffle redirecting flow where flow had no business going. Cut a replacement, fitted it blind by feel with my arm in the housing up to the shoulder. Temps dropped back to textbook within the hour. She runs true again. Worth the skinned elbow.
+[END]
+
+[LOG:CHO:D019]
+Reyne posted the watch rotation and I drew the middle watch for a month, which suits me, the ship is honest at 0200. Nothing but the hum, the tick of pumps, the occasional sigh from the ventilation. You learn her health at night the way Okafor reads vitals off a sleeping patient. Tonight the diagnosis is happy. Damn happy. Long may it hold.
+[END]
+
+[LOG:CHO:D315]
+Kit talked me into putting a small planter box in Engineering, some hardy fern named Bea's cousin or some such, said the deck needed something green. I said the deck has coolant, which is green enough, but the box is bolted by the workbench now, properly torqued, and hell if the little thing is not pleasant company. Do not tell Kit. I water it before every watch.
+[END]
+
+[LOG:CHO:D137]
+Middle of the watch a bearing in the ventilation trunk over the Med Bay started howling and I was up the access ladder before Okafor even called it in. He stood under the grate handing me tools like a surgical nurse and diagnosing the bearing in medical terms, degenerative wear, poor circulation. He is not wrong. Swapped it, and his ward went back to sleep sounds.
+[END]
+
+[LOG:CHO:D268]
+Wrote to the yard office at Meridian Station requesting revised spares for the coolant loop, and the form asked me to justify the request in twenty five words or fewer. Twenty five words. It takes me more than that to say hello to the reactor in the morning. I wrote, the wrong part does not fit and the right part does. Six words left over. Spent them on damn it.
+[END]
+
+[LOG:CHO:D088]
+Vega called down from the Bridge midburn to say the drive plume looked like an ember trail across the Reach and I should come see. I did not go. Not because I did not want to, but because the plume looks like that when the plasma feed is trimmed perfect, and somebody trims it. She sees the ember. I make the ember. Between us we cover the whole miracle.
+[END]
+
+[LOG:CHO:D356]
+Deck seal test day, all doors cycled ship wide, and I trailed the sequence from Engineering listening to each seal thunk home, Docking Ring to Bridge and back. Every door on this ship shut sweet and true. Good doors, heavy doors, doors you could trust your life to. Logged them all green. Reyne actually said well done over the intercom. Frame that.
+[END]
+
+[LOG:CHO:D301]
+Okafor confiscated my coffee ration for a day, said my hands had a tremor. His stitching hands versus my wrench hands, that was the argument, and he won because he cheats by being right. So today the loop checks ran on tea and spite. For the record the tremor was from holding a grinder for three hours, not the coffee. For the other record, slept great. Do not tell him.
+[END]
+
+[LOG:CHO:D063]
+Fabricated a bracket for Kit's new light-lamp rack in Hydroponics, bent and drilled and deburred it smooth so no green thing ever snags on a sharp edge. Kit named it. The bracket. It is called Steady. This is what happens up on that deck, everything gets a name and a personality, and I would mock it except my reactor is a she and my wrenches have seniority.
+[END]
+
+[LOG:CHO:D231]
+Chased an electrical gremlin through the aft bus for two watches, lights flickering on the catwalk like a haunted house. Turned out to be a connector backing off its seat with thermal cycling, an eighth of a turn from happy. Torqued and doped it, flicker gone. Gremlins are just loose connections with a reputation. Still said thanks aloud when the lights held. Manners cost nothing.
+[END]
+
+[LOG:CHO:D014]
+Reyne asked each of us at dinner what we missed most from Meridian Station and everyone said people or food, and I said the dry dock crane, and everyone laughed like I was joking. That crane could lift a reactor vessel like an egg. You spend enough years around machines that do impossible things gently, you start rating company by the same measure. Present company rates fine.
+[END]
+
+[LOG:CHO:D322]
+Ion scrubbers in the ventilation loop needed their yearly teardown, filthy job, eight hours in a paper suit with solvent and swabs. Sang to myself the whole time, and around hour six I realized I was harmonizing with the drive two decks down. She holds her note steadier than I do. Scrubbed, reassembled, airflow up nine percent. The whole ship breathes easier tonight. Me too.
+[END]
+
+[LOG:CHO:D145]
+There is a soft spot in the deck plating by frame forty where the sound of the reactor comes through richest, and today I caught Okafor standing on it, eyes closed, just listening. Caught is the wrong word. He looked like a man taking a pulse. I stood next to him and we listened together like two fools in church. Strong and steady, he said. Best vitals on the ship.
+[END]
+
+[LOG:CHO:D284]
+Retuned the plasma feed after the fuel batch from the aft tanks came in a shade denser than the forward batch. Small thing, but the old girl noticed before I did, her note went a hair rough at cruise, like a singer with a dry throat. Adjusted the mix, note cleared, apology accepted. The fuel logs from Meridian Station said the batches were identical. The fuel logs lie.
+[END]
+
+[LOG:CHO:D037]
+Kit and I ran a pipe from the heat exchanger waste line up to Hydroponics today so the warm water does some honest work in the root beds before recycling. The plants get toasty toes, the loop sheds heat, and my exchanger runs three degrees easier. That is the prettiest kind of engineering, where everybody eats and nobody pays. The old girl approves. Efficiency is her love language.
+[END]
+
+[LOG:CHO:D218]
+Woke to a change in the hum, sat straight up in my bunk, was halfway into my boots before I understood it was nothing wrong, just the drive stepping down for a scheduled survey drift. My body knows her voice better than my brain knows the schedule. Went down anyway, checked the boards, all green. Made coffee at 0400 and listened to her idle. No regrets. Well. Some regret at 0800.
+[END]
+
+[LOG:CHO:D160]
+Reyne wants me to train Kit as a backup for basic engine room duty, protocol says two crew per critical system, fair enough. First lesson today, how to read the coolant loop gauges and how to listen. Kit was good. Treats a pump like a plant, checks it, waters it so to speak, does not force it. By the end Kit could hear the difference between happy hum and hungry hum. Natural.
+[END]
+
+[LOG:CHO:D379]
+The whole ship gets trimmed for the quiet survey run soon, and Reyne wanted my honest read on running half dark for that long. Told her straight, the old girl can do it standing on her head, but I want a hand on her the whole time, low power is when small faults whisper and whispers need ears. She gave me the extra watches without a blink. Good captain. Knows what a ship is worth.
+[END]
+
+[LOG:CHO:D076]
+Something got into the potable water pump today, a shred of gasket from a repair before my time, and half the ship's taps went to a trickle by lunch. Found it, cleared it, flushed the line, and had pressure back before dinner, which everyone measured by shower quality instead of my flow logs. Fine. Be that way. The pump and I know what heroics happened here today.
+[END]
+
+[LOG:CHO:D209]
+Vega dragged the whole crew to the Bridge to watch some filament of the Reach go luminous off the bow, and hell, I will give the nebula this one, it was something, like a coolant leak the size of a country, all glowing. Everyone gasped at the view. I put my palm on the glass and felt the Bridge deck humming under us, steady, faithful. Prettiest thing on that Bridge was under my boots.
+[END]
+
+[LOG:CHO:D121]
+Annual pressure test on the reactor containment today, the big one, the test that matters. Ran it slow and by the book, every fitting soaped, every gauge watched. She held at margin plus forty like it was a light stretch before breakfast. Whoever welded this vessel back at the yards, wherever you are, you did honest work and I bless your steady hands. Logged, stamped, celebrated with pie.
+[END]
+
+[LOG:CHO:D336]
+Okafor asked what happens if the reactor ever really goes wrong out here, straight question, doctor eyes. Told him the truth, she has more safeguards than the five of us have fingers, and behind every one of those is me and a hand crank and pure stubbornness. He nodded and said that is roughly how bodies work too, systems behind systems, and then one tired person doing chest compressions. We drank to being the tired person.
+[END]
+
+[LOG:CHO:D002]
+Second day out of Meridian Station and I already sleep better on her deck plates than I did in the station dorms. Ran the drive up through the acceptance points today, every band clean, and at seventy percent she found her voice for the first time, a bright note off the housing, there and gone. There you are, I said, right out loud. New crew, new mission, and the old girl already showing me who she is.
+[END]
+
+[LOG:CHO:D293]
+Fixed the mess hall door, which has stuck at the half open point since forever and which everyone had learned to shoulder through like livestock. Wrong grease in the track, hardened to varnish. Cleaned, relubed, adjusted the tensioner. Now it glides shut with a click like a courteous butler. Four people thanked me today for a door. A door. Meanwhile the manifold rebuild last month got a shrug. Crews.
+[END]
+
+[LOG:CHO:D169]
+Balancing act today, Vega wanted zero vibration for her survey exposure of the deep Reach and the coolant loop wanted its scheduled pump swap over. Cannot have both, pumps thump when they trade off. So I hand cranked the changeover, eased one pump down while easing the other up, five minutes of sweat and feel. Vega got her stillness. The loop got its swap. I got a forearm cramp shaped like victory.
+[END]
+
+[LOG:CHO:D311]
+The starboard manifold got its thousand hour service, injectors out, cleaned, flow matched, back in. It is fiddly work and I love it the way Kit loves repotting, roots in your hands, everything trusting you to put it back right. Buttoned her up at midwatch and ran the test burn. Sang the first note clean, no warmup, no clearing of the throat. A thousand more hours, girl. And a thousand after that.
+[END]
+
+[LOG:CHO:D045]
+Reyne timed my emergency shutdown drill today, stopwatch and everything, and I beat the book number by eleven seconds. She said good, then asked why I looked unhappy. Because a fast shutdown means yanking the old girl by the collar and she deserves gentler, that is why. But protocol is protocol, and if the day ever comes, better my hands than the automatics. Practiced twice more after Reyne left. For her, not the clock.
+[END]
+
+[LOG:CHO:D186]
+Kit's birthday today, and the crew did it proper in Hydroponics under the light-lamps, real tomatoes, real basil, Vega singing something old. I rigged a slow fan to make the leaves move like wind, my gift, do not laugh, Kit cried. Even Reyne stayed past the hour she calls reasonable. Ship kept us all snug the whole time, hum under the singing like a bass line. Good day. Log that twice.
+[END]
+
+[LOG:CHO:D328]
+Recalibrated every temp sensor on the coolant loops today, all thirty one of them, because two had drifted and I refuse to let the old girl be slandered by bad instruments. She runs true. The gauges will damn well say so. Tedious, careful, three watches of work, and the reward is a wall of numbers that finally match what my ears have said all along. Trust the ship. Verify the sensors.
+[END]
+
+[LOG:CHO:D099]
+Caught myself patting the reactor housing goodnight like a horse, and Okafor caught me catching myself, and neither of us said a word. Later at supper he asked, professionally curious, whether the machines answer. I said everything answers if you learn its language, his patients answer him in vitals, mine answer in hum and heat and flow. He thought about that longer than I expected. Good doc. He listens too.
+[END]
+
+[LOG:CHO:D368]
+Vibration survey on the long catwalk turned up a new tone, faint, only at cruise, and it took me all watch to source it, a cable conduit resting a finger's width against the coolant return line, chattering where they touched. Padded the gap. Silence restored. That fault would have taken years to wear through and nobody would ever have found it in the wreck of consequences. This is the job. Hearing years ahead.
+[END]
+
+[LOG:CHO:D024]
+Vega asked me over breakfast whether the drive could outrun anything the Reach might throw at us. I said the old girl was built for stubborn, not sprint, she does not dodge, she endures. Vega liked that, wrote it down even, said it sounded like half a poem. If the navigator is stealing quotes off the engineer this early in the mission, the Bridge is in more trouble than the engine room.
+[END]
+
+[LOG:CHO:D262]
+New watch schedule has me up before everyone, and I have started opening the day the same way, coffee in hand, one slow lap of the Engineering deck, hand along the rail, reading her overnight moods off the boards. Loop temps, feed pressure, hum pitch. Today all sweet, all steady. There are worse religions than a morning walk around something you love that works. Could not name one offhand.
+[END]
+
+[LOG:CHO:D148]
+The waste heat radiators needed their gimbal bearings packed, which means suit work, which means Okafor hovering at the airlock with his medical face on. Two hours on the hull with the Reach glowing all around like being inside a lamp, and my hands full of the most ordinary grease gun in the universe. The bearings turned smooth as new when I finished. Beauty above, function below. Both mattered. One paid.
+[END]
+
+[LOG:CHO:D307]
+Reyne cited me for unauthorized modification because I welded a cup holder to the reactor console. A cup holder. Filed the form under protest, then filed a modification request for the same cup holder, which she approved without a word. So now it is an authorized cup holder. Same weld. Same cup. Bureaucracy is a machine too, I suppose, you just have to feed it forms until it purrs.
+[END]
+
+[LOG:CHO:D056]
+Kit found me swearing at a seized bolt today and offered the Hydroponics method, which is apparently to wait, warm it, and speak encouragingly. Tried it out of spite. Warmed the flange, gave it ten minutes, called the bolt a good and reasonable bolt. It broke free on the next pull. I hate that it worked. The old girl was listening the whole time and I swear the hum sounded like laughing.
+[END]
+
+[LOG:CHO:D235]
+Long survey drift today, drive at station keeping, and in the quiet I could hear the whole circulatory system of her, coolant loops swishing, pumps ticking over, the low idle hum underneath like a sleeping heartbeat. Okafor loaned me his stethoscope once and I never gave it back. Pressed it to the main coolant line just to hear the flow up close. Strong. Even. If she were his patient he would discharge her smiling.
+[END]
+
+[LOG:CHO:D181]
+Bent a prybar today. A prybar. The old girl's forward manifold access cover decided three years of thermal cycling made it part of the hull, and it fought me for an hour before it gave. Behind it, everything clean, everything sound, which is the best joke, fighting like hell to confirm nothing is wrong. Logged the cover for a new seal so the next fight is fair. My shoulders filed their own complaint.
+[END]
+
+[LOG:CHO:D343]
+Vega stood in my doorway at 0300 unable to sleep again, so I put her to work, had her hold the light while I traced a temperature wander in the aux loop. She narrated the whole repair like it was a voyage, the coolant an ocean, the sensor a lighthouse. Found the fault, a lazy valve actuator, right where her lighthouse said. I fix ships. She makes them stories. Between us the night went to good use.
+[END]
+
+[LOG:CHO:D071]
+Filter day across every deck, Docking Ring to Bridge, twenty two filters swapped, and I made the rounds with a cart like a milkman. Every deck smells different through its old filter, Hydroponics all soil and green, Med Bay all clean and sharp, Bridge like coffee and Vega's terrible incense. The ship holds the crew's lives in her air and I hold the ship's air in my cart. Somebody has to be the lungs' mechanic.
+[END]
+
+[LOG:CHO:D290]
+The old girl hit a micrometeor swarm today, taps and pings down the hull like gravel on a roof, and every head on the ship swiveled to me at once. Checked her over stem to stern, pressure tight, skins sound, one scuffed radiator fin doing its job by existing. She shrugged it off like rain. I told the crew as much at dinner and watched four sets of shoulders come down from around four sets of ears. Mine too, privately.
+[END]
+
+[LOG:CHO:D107]
+Okafor has started prescribing people to me. Sends them down when they cannot sleep or will not talk, with a note that says one hour of useful work. Vega polishes fittings and monologues. Kit sorts fasteners into perfect little bins. Even Reyne came once, said nothing, degreased a pump housing to a mirror shine, left lighter. The engine room fixes more than engines. The doc figured that out before I did.
+[END]
+
+[LOG:CHO:D383]
+Final trim checks before the survey sweep, and I gave the old girl a full going over, feed lines, loop pressures, bearing temps, every board green as Kit's lettuce. She is as ready as hands can make her. Reyne asked if I was confident and I said the ship will hold up her end, she always has, that is the one certainty I keep in my pocket out here. The Reach can do its worst. She was built by people who meant it.
+[END]
+
+[LOG:CHO:D127]
+Traded watches with Vega so she could catch some comet or another, which means I sat the Bridge for six hours like a potted plant. Strange up there. All that glass, all that Reach, and the deck hum so faint you could forget the ship is alive under you. Kept one console tuned to my engine telemetry the whole time like checking on a sleeping kid. Everything sang along without me. Do not tell her I checked eleven times.
+[END]
+
+[LOG:CHO:D272]
+The galley chiller quit at the worst hour and I fixed it in my sleep clothes with the whole crew watching like surgery, because dessert was in there. Failed start capacitor, thirty minute swap, ice cream saved. Reyne called it the fastest response time of the mission, which is the saddest true statistic aboard. The reactor gets my craft. The chiller gets my fame. There is no justice anywhere in the Reach.
+[END]
+
+[LOG:CHO:D039]
+Heard a new tick in the port coolant loop this morning and it was nothing, a fastener I had left one turn shy the day before, my own damn fingerprint on the fault. Torqued it and told the loop I was sorry. This is why you sign your work, you get the credit and the shame in one signature. The old girl forgives fast. Faster than I forgive myself, which Okafor says is a finding. He can put it in a form.
+[END]
+
+[LOG:CHO:D200]
+Two hundred days out from Meridian Station and Reyne marked it at dinner with an actual speech, brief, numbered, very Reyne. Then Kit brought out strawberries, actual strawberries, and the mess went quiet the way churches go quiet. Me, I did my celebrating after, alone on the catwalk with the hum. Two hundred days and she has never once let us down. Knocked twice on the manifold for two hundred more.
+[END]
+
+[LOG:CHO:D091]
+Reyne finally asked me why I call the ship she and the old girl when the Vesper is barely three years off the slip at Meridian Station. Because souls do not wait for rust, Captain. Some hulls are old the day they are launched, old like rivers are old, and this one has been taking care of sailors since her first breath of plasma. Reyne looked at me a long moment and said, carry on. Which in Reyne is a whole sonnet.
+[END]
+
+[LOG:CHO:D359]
+Quiet watch, so I finally rebuilt the spare circulation pump that has been sulking on my bench for a month. New seals, new bearings, spun it by hand until it turned like silk. Now it sits wrapped and ready, and hell, a ready spare is the most beautiful object in the universe, better than anything Vega can point a telescope at. Insurance you built with your own hands. The old girl sleeps easier with it on the shelf. So do I.
+[END]
+
+[LOG:CHO:D157]
+Okafor beat me at cards again and his winnings, as always, are that I show up for my physical without being hunted. So I sat in Med Bay while he counted my heartbeats and I counted the flaws in his air handler by ear, two of us running diagnostics on each other. He says my pulse runs slow and steady. I said that is because I calibrate it against the reactor. He laughed but he also wrote it down. Second time this year he has done that.
+[END]
+
+[LOG:CHO:D387]
+Tomorrow the big sweep begins and the ship goes half dark for the science, so tonight I gave her a full song, brought the drive up through every band one last time, and she sang, hell, she sang like launch day out of Meridian Station, clean top to bottom, not a rattle in her anywhere. Stood on the catwalk with both hands on the rail and let it go through me. Whatever the Reach shows us next week, my girl is ready. Sleep sweet, old girl. I will be right here.
+[END]

@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>Ghost in the Wreck</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- GAME_BODY_START -->
+<canvas id="game"></canvas>
+
+<!-- HUD -->
+<div id="hud">
+  <div id="hudLeft">
+    <div id="deckname">DOCKING RING</div>
+    <div id="o2wrap"><span class="hudlabel">AIR</span><div id="o2track"><div id="o2fill"></div></div></div>
+    <div id="invwrap"><span class="hudlabel">CELLS</span> <span id="cells">0</span> <span class="hudlabel sep">TRUST</span> <span id="trustv">0</span></div>
+  </div>
+  <div id="hudRight">
+    <button class="hudbtn" id="btnJournal" title="Journal (J)">JOURNAL</button>
+    <button class="hudbtn" id="btnMute" title="Mute (M)">SOUND</button>
+    <button class="hudbtn" id="btnAboutHud" title="About the mind">THE MIND</button>
+  </div>
+</div>
+
+<div id="toasts"></div>
+
+<!-- SOUND MIXER -->
+<div id="soundPanel">
+  <div class="mixrow"><span>MASTER</span><input type="range" id="volMaster" min="0" max="100" value="70"></div>
+  <div class="mixrow"><span>SHIP</span><input type="range" id="volAmbience" min="0" max="100" value="60"></div>
+  <div class="mixrow"><span>VOICE + UI</span><input type="range" id="volUi" min="0" max="100" value="50"></div>
+  <button class="pbtn ghost" id="btnMuteAll">MUTE ALL</button>
+</div>
+
+<div id="subtitle"><span id="subwho">ECHO</span><span id="subtext"></span></div>
+
+<button id="interactBtn"></button>
+<div id="joyzone"><div id="joyknob"></div></div>
+
+<!-- TITLE -->
+<div class="overlay show" id="titleOverlay">
+  <div class="titlebox">
+    <div class="pretitle">the SSV Vesper has been silent for three hundred years</div>
+    <h1>GHOST<br>IN THE WRECK</h1>
+    <div class="subtitle2">a game haunted by a real neural network</div>
+    <div class="titlebtns">
+      <button class="bigbtn" id="btnNew">BOARD THE WRECK</button>
+      <button class="bigbtn" id="btnContinue">CONTINUE</button>
+      <button class="bigbtn ghost" id="btnAbout">ABOUT THE MIND</button>
+    </div>
+    <div id="loadstatus">waking the ship-mind ...</div>
+    <div class="titlehelp">move : WASD / arrows / touch &nbsp;&middot;&nbsp; interact : E / tap &nbsp;&middot;&nbsp; headphones recommended</div>
+  </div>
+</div>
+
+<!-- INTRO -->
+<div class="overlay" id="introOverlay">
+  <div class="crawlbox"><div id="introText" class="crawltext"></div>
+  <div class="clickhint">click to continue</div></div>
+</div>
+
+<!-- DECK ENTRY -->
+<div class="overlay" id="deckOverlay">
+  <div class="crawlbox"><div id="deckTitle" class="decktitle"></div>
+  <div id="deckText" class="crawltext"></div>
+  <div class="clickhint">click to continue</div></div>
+</div>
+
+<!-- TERMINAL -->
+<div class="overlay" id="termOverlay">
+  <div class="panel crt">
+    <div class="panelhead"><span id="termTitle">TERMINAL</span><button class="xbtn" id="termClose">&times;</button></div>
+    <div id="termMeta" class="dim"></div>
+    <div id="termBody" class="bodytext"></div>
+    <div class="panelbtns">
+      <button class="pbtn" id="termBtnRead">RECONSTRUCT ANOTHER ENTRY</button>
+      <button class="pbtn ghost" id="termBtnStatus">SHIP STATUS</button>
+    </div>
+    <div class="fineprint">entries are generated word by word, on your device, by the ship-mind neural network. no two are ever the same.</div>
+  </div>
+</div>
+
+<!-- ECHO DOOR -->
+<div class="overlay" id="doorOverlay">
+  <div class="panel crt">
+    <div class="panelhead"><span id="doorTitle">SEALED DOOR</span><button class="xbtn" id="doorClose">&times;</button></div>
+    <div id="doorLore" class="dim"></div>
+    <div class="echolinewrap"><span class="echotag">ECHO</span><div id="doorEchoLine" class="echoline"></div></div>
+    <div id="doorBars" class="bars"></div>
+    <div id="doorVerdict" class="verdict"></div>
+    <div id="doorHint"></div>
+    <div class="inputrow">
+      <input id="doorInput" maxlength="160" placeholder="speak in the voice this door remembers ..." autocomplete="off">
+      <button class="pbtn" id="doorSpeak">SPEAK</button>
+    </div>
+    <div class="fineprint">the network judges whose voice your words carry. it was never told any keywords; it learned each speaker from their logs.</div>
+  </div>
+</div>
+
+<!-- INTERCOM -->
+<div class="overlay" id="comOverlay">
+  <div class="panel crt">
+    <div class="panelhead"><span>INTERCOM : OPEN CHANNEL</span><button class="xbtn" id="comClose">&times;</button></div>
+    <div id="comLog"></div>
+    <div class="inputrow">
+      <input id="comInput" maxlength="160" placeholder="say anything ..." autocomplete="off">
+      <button class="pbtn" id="comSpeak">SPEAK</button>
+    </div>
+    <div class="fineprint">every reply is computed live. try anything; the wreck has never heard it before.</div>
+  </div>
+</div>
+
+<!-- JOURNAL -->
+<div class="overlay" id="journalOverlay">
+  <div class="panel">
+    <div class="panelhead"><span>RECOVERED FRAGMENTS</span><button class="xbtn" id="journalClose">&times;</button></div>
+    <div id="journalCount" class="dim"></div>
+    <div id="journalBody"></div>
+  </div>
+</div>
+
+<!-- NOTE -->
+<div class="overlay" id="noteOverlay">
+  <div class="panel small">
+    <div id="noteText" class="bodytext"></div>
+    <div class="panelbtns"><button class="pbtn" id="noteClose">STAND</button></div>
+  </div>
+</div>
+
+<!-- DEATH -->
+<div class="overlay" id="deathOverlay">
+  <div class="panel small dark">
+    <div id="deathText" class="bodytext"></div>
+    <div class="panelbtns"><button class="pbtn" id="deathWake">WAKE</button></div>
+  </div>
+</div>
+
+<!-- FINALE -->
+<div class="overlay" id="finaleOverlay">
+  <div class="panel crt corepanel">
+    <div id="finaleStep" class="dim">COMMUNION 1 / 3</div>
+    <div class="echolinewrap"><span class="echotag">ECHO</span><div id="finaleQ" class="echoline big"></div></div>
+    <div id="finaleReply" class="echoline reply"></div>
+    <div class="inputrow">
+      <input id="finaleInput" maxlength="160" placeholder="answer with your own words ..." autocomplete="off">
+      <button class="pbtn" id="finaleSpeak">SPEAK</button>
+    </div>
+  </div>
+</div>
+
+<!-- ENDING -->
+<div class="overlay" id="endingOverlay">
+  <div class="endingbox">
+    <div id="endingTitle"></div>
+    <div id="endingBody"></div>
+    <div id="endingCoda"></div>
+    <div id="endingStats" class="dim"></div>
+    <div class="titlebtns">
+      <button class="bigbtn" id="endingNew">NEW RUN : NEW GHOSTS</button>
+      <button class="bigbtn ghost" id="endingTitleBtn">TITLE</button>
+    </div>
+  </div>
+</div>
+
+<!-- ABOUT -->
+<div class="overlay" id="aboutOverlay">
+  <div class="panel">
+    <div class="panelhead"><span>THE MIND IN THE MACHINE</span><button class="xbtn" id="aboutClose">&times;</button></div>
+    <div class="bodytext about">
+      <p>ECHO is not a chatbot API and not a script. It is a genuine neural network, a <span id="aboutParams">?</span> parameter transformer language model, trained from scratch on the writings of the Vesper's crew, then compressed and embedded whole inside this page. Every word it speaks is computed by matrix arithmetic running in your browser, on your device, right now. Airplane mode will not silence it.</p>
+      <p>Because ECHO generates rather than retrieves, nothing it says at the terminals exists anywhere until you ask. Two players never read the same wreck.</p>
+      <p>The sealed doors work the same way in reverse: the network reads YOUR words and computes, from probability alone, whose voice they carry. It was never given keywords to look for. It simply knows, statistically, how the captain sounded, and how the botanist did, because it learned them.</p>
+      <p class="dim">Prove it to yourself. Give the mind any beginning, and watch it weigh what comes next:</p>
+      <div class="inputrow">
+        <input id="probeInput" maxlength="120" placeholder="The garden is" autocomplete="off">
+        <button class="pbtn" id="probeBtn">PROBE</button>
+      </div>
+      <div id="probeBars" class="bars"></div>
+      <p class="dim fineprint2">architecture : 6-layer causal transformer, 6 heads, 192-dim, 1024-token BPE vocabulary, int8-quantized. trained with gradient descent on an original corpus written for this game. it is small enough to fit in a web page and honest enough to dream badly sometimes; be patient with it, it is three hundred years old.</p>
+    </div>
+  </div>
+</div>
+<!-- GAME_BODY_END -->
+
+<script src="weights.js"></script>
+<script src="calibration.js"></script>
+<script src="gamedata.js"></script>
+<script src="lm.js"></script>
+<script src="audio.js"></script>
+<script src="maps.js"></script>
+<script src="engine.js"></script>
+<script src="story.js"></script>
+<script src="ui.js"></script>
+<script src="main.js"></script>
+</body>
+</html>

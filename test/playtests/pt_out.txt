@@ -1,0 +1,31 @@
+DONE
+[
+  [
+    "approach",
+    {
+      "x": 15.52,
+      "y": 8.63,
+      "near": "terminal@15,9",
+      "o2": 52.86
+    }
+  ],
+  [
+    "terminal open",
+    true
+  ],
+  [
+    "o2 drain/s while reading",
+    "0.000"
+  ],
+  [
+    "after close",
+    {
+      "x": 15.52,
+      "y": 8.63,
+      "near": "terminal@15,9",
+      "o2": 52.49
+    }
+  ]
+]
+ERRORS:
+CONSOLEERR: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED

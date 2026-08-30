@@ -1,0 +1,33 @@
+[PT2] corner elements: [
+ {
+  "x": 380,
+  "y": 710,
+  "tag": "DIV",
+  "id": "titleOverlay",
+  "cls": "overlay show",
+  "text": "\n  \n    the SSV Vesper has bee"
+ },
+ {
+  "x": 370,
+  "y": 700,
+  "tag": "DIV",
+  "id": "titleOverlay",
+  "cls": "overlay show",
+  "text": "\n  \n    the SSV Vesper has bee"
+ },
+ {
+  "x": 385,
+  "y": 725,
+  "tag": "DIV",
+  "id": "titleOverlay",
+  "cls": "overlay show",
+  "text": "\n  \n    the SSV Vesper has bee"
+ }
+]
+[PT2] about panel scrollTop before/after touch drag: 0 -> 305 SCROLLS OK
+[PT2] probeInput after scroll: {"y":677.28125,"inView":true}
+[PT2] endingbox metrics: {"scrollTop":0,"scrollH":747,"clientH":672}
+[PT2] endingbox scrollTop after touch drag: 0 -> 75 SCROLLS OK
+[PT2] endingTitleBtn after scroll: {"y":624,"bot":671,"inView":true}
+[PT2] TITLE button tap returned to title: true
+[PT2] DONE2

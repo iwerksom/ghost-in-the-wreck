@@ -1,0 +1,397 @@
+{
+  "pageErrors": [],
+  "consoleErrors": [
+    "Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED"
+  ],
+  "events": [
+    {
+      "text": "This is the captain. My crew, my watch, my responsibility. Open this door. That is an order.",
+      "verdict": "WRONG VOICE : it hears Captain Mara Reyne (88%), the door wants Botanist Kit Aune",
+      "verdictClass": "verdict bad",
+      "win": false,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "88%",
+          "width": "87.9%"
+        },
+        {
+          "name": "CHO",
+          "pct": "4%",
+          "width": "4.3%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "7%",
+          "width": "7.2%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "0%",
+          "width": "0.4%"
+        },
+        {
+          "name": "KIT",
+          "pct": "0%",
+          "width": "0.1%"
+        }
+      ],
+      "hint": [],
+      "o2": 94.89223529411794,
+      "barsChanged": true
+    },
+    {
+      "text": "xkfj qwpz vvtt zzqk jjjx mmwp",
+      "verdict": "UNRECOGNIZED : the voice is static to it",
+      "verdictClass": "verdict bad",
+      "win": false,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "60%",
+          "width": "60.2%"
+        },
+        {
+          "name": "CHO",
+          "pct": "7%",
+          "width": "6.6%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "16%",
+          "width": "16%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "0%",
+          "width": "0%"
+        },
+        {
+          "name": "KIT",
+          "pct": "17%",
+          "width": "17.2%"
+        }
+      ],
+      "hint": [],
+      "o2": 90.89223529411794,
+      "barsChanged": true
+    },
+    {
+      "text": "The seedlings came up green today. I misted the ferns and left the lamps on for the garden.",
+      "verdict": "RECOGNIZED : Botanist Kit Aune (64%)",
+      "verdictClass": "verdict good",
+      "win": true,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "1%",
+          "width": "0.7%"
+        },
+        {
+          "name": "CHO",
+          "pct": "1%",
+          "width": "0.6%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "3%",
+          "width": "3%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "32%",
+          "width": "31.9%"
+        },
+        {
+          "name": "KIT",
+          "pct": "64%",
+          "width": "63.8%"
+        }
+      ],
+      "hint": [],
+      "o2": 90.24517647058853,
+      "barsChanged": true
+    },
+    {
+      "text": "The seedlings are green and the garden likes the light. I misted the ferns.",
+      "verdict": "WRONG VOICE : it hears Navigator Sol Vega (67%), the door wants Chief Engineer Dae Cho",
+      "verdictClass": "verdict bad",
+      "win": false,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "6%",
+          "width": "6.4%"
+        },
+        {
+          "name": "CHO",
+          "pct": "13%",
+          "width": "13%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "10%",
+          "width": "9.8%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "67%",
+          "width": "66.7%"
+        },
+        {
+          "name": "KIT",
+          "pct": "4%",
+          "width": "4%"
+        }
+      ],
+      "hint": [],
+      "o2": 85.80400000000027,
+      "barsChanged": true
+    },
+    {
+      "text": "Held the feed levers by hand all shift. The old girl wanted to breach and I talked her down. Reactor is stable.",
+      "verdict": "WRONG VOICE : it hears Captain Mara Reyne (59%), the door wants Chief Engineer Dae Cho",
+      "verdictClass": "verdict bad",
+      "win": false,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "59%",
+          "width": "58.8%"
+        },
+        {
+          "name": "CHO",
+          "pct": "23%",
+          "width": "23%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "18%",
+          "width": "17.7%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "0%",
+          "width": "0.3%"
+        },
+        {
+          "name": "KIT",
+          "pct": "0%",
+          "width": "0.1%"
+        }
+      ],
+      "hint": [
+        "\"Quiet ship, simpove my old girl's life.\"",
+        "\"Quiet ship, one crowd.\""
+      ],
+      "o2": 81.80400000000027,
+      "barsChanged": true
+    },
+    {
+      "text": "Coolant pressure is holding. I begged the old girl down and she sang one low note for me.",
+      "verdict": "RECOGNIZED : Chief Engineer Dae Cho (84%)",
+      "verdictClass": "verdict good",
+      "win": true,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "2%",
+          "width": "1.7%"
+        },
+        {
+          "name": "CHO",
+          "pct": "84%",
+          "width": "84.1%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "3%",
+          "width": "2.5%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "2%",
+          "width": "1.8%"
+        },
+        {
+          "name": "KIT",
+          "pct": "10%",
+          "width": "9.9%"
+        }
+      ],
+      "hint": [
+        "\"Quiet ship, simpove my old girl's life.\"",
+        "\"Quiet ship, one crowd.\""
+      ],
+      "o2": 81.13741176470612,
+      "barsChanged": true
+    },
+    {
+      "text": "Held the feed levers by hand. The reactor is stable and the old girl sang for me.",
+      "verdict": "WRONG VOICE : it hears Captain Mara Reyne (70%), the door wants Navigator Sol Vega",
+      "verdictClass": "verdict bad",
+      "win": false,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "70%",
+          "width": "69.7%"
+        },
+        {
+          "name": "CHO",
+          "pct": "16%",
+          "width": "16.1%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "14%",
+          "width": "13.7%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "0%",
+          "width": "0%"
+        },
+        {
+          "name": "KIT",
+          "pct": "0%",
+          "width": "0.4%"
+        }
+      ],
+      "hint": [],
+      "o2": 76.75505882352962,
+      "barsChanged": true
+    },
+    {
+      "text": "The stars drifted a quarter degree off the charts tonight. I ran the parallax twice. The Reach is closer than it should be.",
+      "verdict": "RECOGNIZED : Navigator Sol Vega (90%)",
+      "verdictClass": "verdict good",
+      "win": true,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "4%",
+          "width": "4%"
+        },
+        {
+          "name": "CHO",
+          "pct": "1%",
+          "width": "1.4%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "3%",
+          "width": "2.9%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "90%",
+          "width": "90%"
+        },
+        {
+          "name": "KIT",
+          "pct": "2%",
+          "width": "1.6%"
+        }
+      ],
+      "hint": [],
+      "o2": 76.10805882352946,
+      "barsChanged": true
+    },
+    {
+      "text": "The seedlings like the light. I left the lamps on over the garden for them.",
+      "verdict": "WRONG VOICE : it hears Botanist Kit Aune (89%), the door wants Captain Mara Reyne",
+      "verdictClass": "verdict bad",
+      "win": false,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "6%",
+          "width": "5.8%"
+        },
+        {
+          "name": "CHO",
+          "pct": "0%",
+          "width": "0.2%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "4%",
+          "width": "4.4%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "1%",
+          "width": "0.8%"
+        },
+        {
+          "name": "KIT",
+          "pct": "89%",
+          "width": "88.8%"
+        }
+      ],
+      "hint": [],
+      "o2": 72.00017647058829,
+      "barsChanged": true
+    },
+    {
+      "text": "Vesper command log. My crew, my watch, my responsibility. I will get them out. Reyne out.",
+      "verdict": "RECOGNIZED : Captain Mara Reyne (93%)",
+      "verdictClass": "verdict good",
+      "win": true,
+      "bars": [
+        {
+          "name": "REYNE",
+          "pct": "93%",
+          "width": "93.1%"
+        },
+        {
+          "name": "CHO",
+          "pct": "1%",
+          "width": "0.9%"
+        },
+        {
+          "name": "OKAFOR",
+          "pct": "5%",
+          "width": "5.1%"
+        },
+        {
+          "name": "VEGA",
+          "pct": "1%",
+          "width": "0.8%"
+        },
+        {
+          "name": "KIT",
+          "pct": "0%",
+          "width": "0.1%"
+        }
+      ],
+      "hint": [],
+      "o2": 71.30411764705859,
+      "barsChanged": true
+    }
+  ],
+  "kitLogs": [
+    "Reyne asked what the garden needs. I said yes from Meridian Station needs and I want the truth early, so I am tired, and we are the only math steal aboard the ship dead leaves out here. I told her, whatever eats that over the mission. She said my posts and says why, just so she is minding therture that tenderness. She likes to hear it.",
+    "Okafor asked me today why I learns bed, the careflowers, the pot, the sorry ledger. He does not care, but I check the returnside, which is the system I know better. He is fruiting now too. He is fruiting. A medic visitor is a romise kept. I made each talk about seeds at 0800 and walked to four of them in within fresh grass.",
+    "Peas whisper good morning and my lamps were tuck. Peamon leaflowers on the power relay in the bones, my fingerns glowing like a fewake. I repotted the rair and shedge like a gountain. I sat with my tea and watched my tea and listen to her a line where her life not stayed. Means restored. Reyne would say that is the first thing I checked on her manifest, no secret."
+  ],
+  "hintAfterTwoFails": true,
+  "kitDoor": {
+    "opened": true,
+    "attemptsToOpen": 1
+  },
+  "reopenToast": null,
+  "choDoor": {
+    "opened": true,
+    "attemptsToOpen": 2
+  },
+  "vegaDoor": {
+    "opened": true,
+    "attemptsToOpen": 1
+  },
+  "reyneDoor": {
+    "opened": true,
+    "attemptsToOpen": 1
+  }
+}

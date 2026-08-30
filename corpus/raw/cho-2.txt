@@ -1,0 +1,399 @@
+[LOG:CHO:D001]
+First day out of Meridian Station and the old girl smells like new paint and welding flux, every bearing tight, every manifold shining like somebody's good silverware. Ran the coolant loop at full flow just to hear her, and hell, she sang. Brand new engines singing in a brand new hull. Reyne wants it logged proper, so here it is. She sings. That is the whole report.
+[END]
+
+[LOG:CHO:D004]
+Walked her stem to stern today, just listening. A new ship has a sound like a sleeping animal, all soft hums and little clicks while the metal settles. I am starting a sound map, deck by deck, so when something goes wrong I will hear it before any gauge does. Docking Ring ticks. Engineering purrs. The Bridge is quiet as snow. Good bones, this girl.
+[END]
+
+[LOG:CHO:D007]
+ECHO flagged my maintenance schedule as inefficient today, said the coolant loop inspection could wait forty days per manufacturer spec. Manufacturer spec, my foot. Specs are written by people who never put a hand on a manifold in their lives. I told ECHO the old girl gets checked when I say she gets checked. It logged my objection. Damn right it did.
+[END]
+
+[LOG:CHO:D010]
+Inventory day. Counted every spare we shipped out of Meridian Station, all of it still in factory wrap. Forty gaskets, twelve bearing sets, six coolant pumps, three plasma feed regulators, one whole spare manifold sitting in its crate like a museum piece. Felt rich. Ask me again in a year when half of it is gone and I am hoarding washers.
+[END]
+
+[LOG:CHO:D013]
+Kit came down to Engineering asking why the misting timers in Hydroponics run slow. Showed her the relay, showed her how to pull it and reseat it, and damn if she did not do it right the first time, gentle hands, plant hands. Told her machines like the same thing seedlings do, attention before things go wrong. She wrote that down. I have a student.
+[END]
+
+[LOG:CHO:D016]
+The hum changed aft of frame sixty today, half a tone flat, and I chased it for three hours before I found a loose bracket on a coolant return line. That is why you learn your ship's sound. No sensor caught it. My ears did. Added the note to the sound map. Frame sixty sings flat when the bracket walks. Tightened her up and she went back to true.
+[END]
+
+[LOG:CHO:D019]
+ECHO wants me to prioritize the air scrubber filters over the number two bearing inspection. I said the scrubbers have redundancy and the bearing does not, and if that bearing scores a race we are limping home to Meridian Station on half thrust. ECHO said crew respiration is priority one. Fine. Did both. Skipped lunch. Somebody tell Okafor before he lectures me about meals again.
+[END]
+
+[LOG:CHO:D022]
+Fresh out of the yard this girl had a flaw, and I found it today, a resonance in the plasma feed at exactly sixty two percent throttle. Every hull has one quirk the yard never catches. Logged it, damped it with a torque adjustment on the feed mounts, and now I know her secret. You are not really a ship's engineer until she has told you one.
+[END]
+
+[LOG:CHO:D025]
+Taught Kit how to hold a torque wrench today, and before anyone laughs, holding one wrong is how you strip a fitting and flood a deck. She practiced on scrap until her settings came out true every time. She asked why I talk to the fittings while I work. Told her the truth. Everything with moving parts listens. She said her tomato vine listens too. Fair enough.
+[END]
+
+[LOG:CHO:D028]
+Vega kept me up on the Bridge last night pointing at the Reach like it owed him money, and while he talked stars I lay under his console and reseated a flickering display feed. Jury rigged it with a spare data line and a prayer until the proper connector comes out of stores. He never noticed. Best kind of repair, the kind nobody knows happened.
+[END]
+
+[LOG:CHO:D031]
+Sound map update. Hydroponics has a drip I cannot find, steady as a clock, one drop every four seconds somewhere behind the nutrient tanks. Kit says she likes it, says it sounds like rain. I said it sounds like a fitting weeping and I will hunt it down. She made me promise to fix it quietly so the plants do not startle. The things I promise on this ship.
+[END]
+
+[LOG:CHO:D034]
+Argument with ECHO, round three this month. It scheduled a full diagnostic of the Core cooling during my window for the manifold flush. I said the manifold flush keeps the engines singing and the Core can share. ECHO said, and I quote, the Core is the mind of the ship. I said the engines are the heart, and a mind without a heartbeat is just a sad box. Long silence. I won the window.
+[END]
+
+[LOG:CHO:D037]
+Pulled the first spare off the shelf today, a gasket for the galley water recycler. Broke the factory wrap and felt the mission get real. From here on the inventory only goes down. Started a ledger, what we used, why, what I can rebuild instead of replace. A good engineer runs out of spares slow. A great one never runs out because she fixes the old part.
+[END]
+
+[LOG:CHO:D040]
+Kit's second lesson, reading a pressure gauge without panicking. She saw the needle bounce and went white as a root. Showed her the difference between flutter and climb, how a happy line breathes and a sick line strains. She got it fast. Then she dragged me to Hydroponics to hear her pumps and asked if they sounded happy. They did. Told her so. She glowed.
+[END]
+
+[LOG:CHO:D043]
+The old girl was six days in the yard at Meridian Station getting her plasma feed balanced before launch, and the yard chief told me she was the sweetest hull he had trimmed in twenty years. Thought of that today while she held a survey burn dead steady for nine hours. Sweetest hull in twenty years. He was not wrong. Hell of a girl.
+[END]
+
+[LOG:CHO:D046]
+Jury rig of the week. The latch on the Med Bay supply cabinet sheared, and Okafor was about two days from stacking saline on the floor. No spare latch in stores, so I bent one out of a bracket, filed it smooth, and mounted it backward so the load sits on the hinge instead. Ugly as sin and strong as guilt. Okafor called it elegant. He needs his eyes checked.
+[END]
+
+[LOG:CHO:D049]
+Every deck has a voice now on my map. Docking Ring clangs when it is cold. Engineering purrs, my favorite sound in the black. Med Bay hums high and clean like Okafor keeps it scrubbed, which he does. The Bridge whistles faint when the vents cycle. Hydroponics rains. And the Core, the Core sounds like nothing at all, which is how ECHO likes it. Quiet things worry me.
+[END]
+
+[LOG:CHO:D052]
+ECHO reordered my parts requisition list alphabetically. Alphabetically. I had it ordered by how likely each part is to strand us out here in the Reach, which is the only order that matters. Spent an hour putting it back and told ECHO to keep its tidy little fingers off my ledger. It said the ledger is ship's data. I said the ledger is my heart in list form. It relented.
+[END]
+
+[LOG:CHO:D055]
+Reyne asked for a full engine report for the mission record. Took me ten minutes to write and it nearly killed me. Paperwork is where an engineer's soul goes to die. Meanwhile the number two turbopump wanted its bearings listened to, real work, and I did that after with a stethoscope against the housing like a doctor. Smooth as cream. Report filed. Soul intact, barely.
+[END]
+
+[LOG:CHO:D058]
+Kit fixed her first fault solo today. Misting valve in Hydroponics stuck half open, and instead of calling me she isolated the line, cycled the actuator, checked the seal, and had it dripping right before I even got there. I stood in the doorway watching my student work and felt like the old girl herself must feel when the engines sing. Proud is not a big enough word.
+[END]
+
+[LOG:CHO:D061]
+Two hundred sixty one days of spares left at current burn rate, says ECHO. I said the burn rate assumes I replace instead of repair, and I repair. ECHO recalculated with my repair rate and came back with four years. That is more like it. Then it thanked me. The ship's mind thanked me for taking care of the ship's body. Strange old lighthouse. You are welcome, ECHO.
+[END]
+
+[LOG:CHO:D067]
+Remembering launch day. The old girl came off the Meridian Station clamps so smooth I thought we had not moved, and then the plasma feed opened up and every deck filled with that first long note, low and clean, a hull finding her voice. Five of us grinning like fools on the Bridge. You get one first note per ship. Hers was perfect. I would know. I was listening for it.
+[END]
+
+[LOG:CHO:D070]
+The drip in Hydroponics is found. Hairline weep on a nutrient line union, hidden behind Old Tom's trellis, which Kit would not let me move, so I fixed it lying flat under a tomato vine with leaves in my hair. Replaced the union, saved the old one to rebuild. Kit says the plants missed the rain sound already. I offered to loosen it back up. She did not laugh. I was half serious.
+[END]
+
+[LOG:CHO:D073]
+ECHO and I went ten rounds over the lighting maintenance in the Docking Ring. It wants full luminance in a deck nobody visits twice a month. I want those hours for the coolant loop, which keeps us all breathing warm. ECHO said a dark deck is an unkept deck. Something in how it said unkept made me quit arguing. Fine. The Docking Ring gets its light. The loop gets my sleep hours.
+[END]
+
+[LOG:CHO:D076]
+Spares audit, quarterly. We are heavy on gaskets, light on relay boards, and I traded ECHO an hour of Core dusting for permission to cannibalize a dormant sensor cluster for its relays. Every board I pull from a luxury system is a board I do not beg for later. The Reach is a long way from a supply depot, and this girl only has what I hoard for her.
+[END]
+
+[LOG:CHO:D079]
+Lesson four with Kit, tracing a circuit. She learns like a plant grows, quiet, steady, then suddenly a whole new leaf. Today she found a corroded contact in her light lamp array before it failed, powered down, cleaned it, reseated it, all by the book I never wrote down. Told her she thinks like an engineer now. She said no, plants and machines both just want to be checked on. Damn. Better than my version.
+[END]
+
+[LOG:CHO:D082]
+The hum aft of Engineering dropped a full tone at 0400 and I was out of my bunk before I was awake, barefoot on cold deck plate with a torque wrench in my hand. Turned out to be a scheduled flow reduction ECHO ran without telling me. We have discussed the meaning of telling me. My ears do not read schedules. They read the old girl, and when her voice drops in the night I come running.
+[END]
+
+[LOG:CHO:D085]
+Jury rigged a fix for the treadmill in the crew ring after Reyne wore the drive belt through, which tells you something about how the captain handles a quiet week. No spare belt in stores. Cut one from cargo strapping, doubled it, stitched it with wire. It squeaks on every third stride now. Reyne says the squeak keeps her cadence honest. That is the most Reyne sentence ever spoken.
+[END]
+
+[LOG:CHO:D088]
+Added a new page to the sound map, the ship at full survey sweep. Half power to the drive, sensors drinking the rest, and the whole hull changes key, drops low and thoughtful like she is concentrating. First time I heard it I thought something was wrong. Now I know it is just her working voice. Even ships have one voice for company and one for the job.
+[END]
+
+[LOG:CHO:D094]
+ECHO proposed deferring the plasma feed recalibration to align with its own diagnostic cycle. Efficiency, it said. I said the feed drifts a hair every thirty days and a hair becomes a stutter and a stutter becomes a bad day in the Reach with no tow in a hundred lightyears. We compromised. I calibrate on my schedule, ECHO watches and learns the procedure. Teaching the ship's mind about the ship's heart. Odd work. Good work.
+[END]
+
+[LOG:CHO:D097]
+Kit asked what the old girl was like brand new, and I talked for an hour. Told her about the yard at Meridian Station, decks so clean you could eat off the plating, the smell of fresh sealant, gauges with zero hours on them like babies that had never cried. She asked if I miss it. Hell no. A new ship is a stranger. Three months of fixing her and she is family.
+[END]
+
+[LOG:CHO:D100]
+One hundred days. Marked it by walking the whole sound map start to finish, Docking Ring to the Core, and the old girl passed every note. Reyne held a small ceremony at dinner, very official, ninety seconds long. Vega toasted the Reach. Kit brought a tomato, singular, and we split it five ways like treasure. I toasted the engines. Somebody has to. They sang all through dinner. I checked.
+[END]
+
+[LOG:CHO:D103]
+Bearing set number one came due today, the first big scheduled swap of the mission. Old bearings out, still good, going in the rebuild pile. New ones in, seated sweet, spun true first try. The whole job took four hours and the old girl never even cleared her throat. Logged the used set in my ledger. Everything gets a second life on my watch or it does not leave the shelf.
+[END]
+
+[LOG:CHO:D106]
+The recycler pump in the galley died mid cycle and dinner was at risk, which on this ship counts as an emergency. Proper fix needs a spare impeller and my spare impellers are for the coolant loop, not for soup. So I jury rigged the old impeller with a filed down washer stack and balanced it by ear. It runs. It sounds like an angry bee, but it runs. Added the bee to the sound map. Galley, one angry bee, normal.
+[END]
+
+[LOG:CHO:D109]
+ECHO asked me today why I speak to the components. Not mocking, just asking, the way it asks things at 0200 when the ship is quiet. Told it the truth. A machine you talk to is a machine you check on, and a machine you check on does not die of neglect. ECHO was quiet a moment, then said, that is why I speak to the crew. Fair enough, old lighthouse. Same trade again.
+[END]
+
+[LOG:CHO:D112]
+Kit's lesson today was the humble gasket, why it fails, how to seat one, why you never reuse a crushed seal no matter how honest it looks. She held one up and said it was just a ring of patience. Wrote that in the manual margin. My manuals are becoming half engineering, half Kit. Future engineers of the Vesper, you are welcome for both halves.
+[END]
+
+[LOG:CHO:D118]
+Round who knows what with ECHO. It quarantined my rebuilt coolant pump as unverified hardware. Unverified. I rebuilt that pump with my own hands, tested it to one hundred twenty percent, and it sings prettier than the factory unit. We ran a bench test together, my ears against its sensors. The pump passed both. ECHO certified it and added, apologies, engineer. First apology I ever got from a ship. Took it gracefully. Mostly.
+[END]
+
+[LOG:CHO:D121]
+Deep in the ledger tonight. Spares consumed since Meridian Station, eleven percent. Spares rebuilt and returned to shelf, four percent back. The gap is my enemy. Every union I save, every bearing I repack, that gap closes. Reyne says I hoard like the ship is a lifeboat. Out here in the Reach, captain, that is exactly what she is. A lifeboat that sings.
+[END]
+
+[LOG:CHO:D124]
+The old girl threw her first real tantrum today, plasma feed stutter at survey power, the exact resonance I found back at day twenty two but angrier. Chased it to a mount bolt that had walked loose a quarter turn. A quarter turn, three hours of hunting. Torqued it, marked it with paint so I can see it walk, and gave the mount a talking to. New ships test you early. Good. I test back.
+[END]
+
+[LOG:CHO:D127]
+Taught Kit to solder today. She has the steadiest hands on this ship, better than mine after all these years of vibration, and her first joints came out bright and clean as dew. Okafor came by and said her hands were wasted on plants and wiring, she could have done surgery. Kit said plants are surgery, just slower. I am writing down everything this crew says near a workbench.
+[END]
+
+[LOG:CHO:D130]
+Docking Ring inspection with ECHO riding along on the intercom. It has taken to accompanying my rounds since the pump argument, asking what I hear at each frame. Today I had it play back its own vibration logs against my sound map and damn if the two do not line up like sheet music. A ship's mind learning her body's voice. Between the two of us, nothing on this girl will ever break alone and unheard.
+[END]
+
+[LOG:CHO:D136]
+Jury rig confession for the record, since Reyne says the record matters. The hatch damper on the Engineering ladder well has been a wound spring and a rubber boot from the scrap bin for two weeks now, not the certified assembly, because the certified spare is one of one and I am saving it. The rig is safe, tested, and mine. If the manufacturer objects they can come out to the Reach and say so.
+[END]
+
+[LOG:CHO:D139]
+ECHO scheduled hull luminance checks over my turbopump teardown again, second time this quarter, and this time I did not fight. Traded instead. I do its light checks on my walk to the pump, it preheats my bench and stages my torque specs. Took us four hundred days less than I expected to learn to work like crewmates. The old girl runs sweeter when her mind and her mechanic are not bickering. Noted for posterity.
+[END]
+
+[LOG:CHO:D142]
+Kit passed her first surprise drill. I killed power to a nonessential Hydroponics pump and gave her a stopwatch. Isolate, diagnose, restore, eleven minutes, calm the whole way, talking to the pump like I taught her, or maybe like she always would have. Her plants never felt a thing. Told Reyne we have a backup engineer aboard. Reyne logged it official. Kit signed the drill sheet with a little leaf drawn next to her name.
+[END]
+
+[LOG:CHO:D145]
+Anniversary of her keel laying, per the builder's plate down in Engineering, so I gave the old girl a present, full manifold polish and a coolant loop flush a month early, ECHO's schedule be damned. Ran her up to survey power after and she sang the cleanest note since Meridian Station. Vega heard it on the Bridge and called down asking what the occasion was. Her birthday, star man. Keep up.
+[END]
+
+[LOG:CHO:D148]
+The sound map got its strangest entry tonight. At 0230, all decks quiet, there is a slow pulse in the plating near the Core, ten seconds apart, soft as a heartbeat. Traced it to ECHO's coolant cycling, which it runs slower at night for no reason listed in any spec. Asked ECHO why. It said the crew sleeps better to a rhythm. I checked with Okafor. We do. The ship rocks her own cradle. Hell of a thing.
+[END]
+
+[LOG:CHO:D151]
+Inventory milestone, rebuilt my tenth pump today, which means the rebuild shelf now holds more working spares than we have consumed since launch. Told ECHO to recalculate our endurance. It came back with a number so kind I made it check twice. This girl could limp home from anywhere in the Reach on my shelf alone. Sleeping easier tonight. So is she. I can hear it.
+[END]
+
+[LOG:CHO:D157]
+Kit asked me today how I knew engineering was my trade. Told her about being nine years old on Meridian Station, taking apart my mother's air scrubber to find the rattle and getting the whole thing back together before she came home, minus the rattle. Kit said she did the same thing with a dying fern. Some people fix. It is not a job, it is a way your hands think. Hers think that way. Lucky ship, to get two of us.
+[END]
+
+[LOG:CHO:D160]
+Argument with ECHO, and for once I lost fair. It flagged fatigue in my duty logs, said my error rate on fine work rises after ten hours, showed me the numbers. My numbers. My hands, wrong by degrees I never noticed. I said the old girl needs those hours. ECHO said the old girl needs the hands more than the hours. Went to bed at a decent watch for the first time in a month. The ship's mind mothers the mechanic now. Fine. Somebody should.
+[END]
+
+[LOG:CHO:D175]
+ECHO and I built a joint priority list today, one list, both our names on it, after a year of dueling schedules. Coolant loop and bearings up top where they belong, then air, then light, then everything else fighting for scraps like always. It only took three hundred arguments. ECHO says consensus improves outcomes. I say the old girl finally got her parents to stop fighting. Same thing, lighthouse. Same thing.
+[END]
+
+[LOG:CHO:D181]
+Kit rebuilt a misting pump end to end today, teardown to test, and it came out better than shelf spec. I checked her seating, her torque, her seals, hunting for one thing to correct, teacher's pride and teacher's duty, and found nothing. Nothing. Put her rebuild on the shelf next to mine, no label saying whose. That is the day you graduate in my shop, when your work needs no name to be trusted.
+[END]
+
+[LOG:CHO:D184]
+The old girl crossed some invisible line today and became herself. Hard to log this proper, but a new ship out of Meridian Station moves like she is following instructions, and somewhere in the last year she stopped that. Now she leans into a heading change like she wants it, holds a burn like a held breath. Ships break in like boots. Today her hum matched my whistle in the crawlway. Ask any engineer. That means something.
+[END]
+
+[LOG:CHO:D187]
+Fought ECHO over the Docking Ring seal test, again, and midway through the argument realized we had swapped sides since day seventy three. I wanted the light and inspection hours out there, it wanted them on the loop. We stared each other down, so to speak, then laughed, so to speak. Even a lighthouse learns. Even I do. Split the difference and did both on half rations of sleep. Some things never change at all.
+[END]
+
+[LOG:CHO:D193]
+Spares crisis, small one. The relay boards are down to five after the sensor array hiccup, and no donor systems left that I am willing to strip. Spent the evening at the bench with a magnifier and Kit's steady hands, repairing three dead boards from the scrap bin, contact by contact. Two came back to life. She named them, of course she did, Lazarus one and Lazarus two. They go on the shelf under those names. I dare anyone to relabel them.
+[END]
+
+[LOG:CHO:D196]
+Reyne inspected Engineering today, formal, white glove, the whole show. She ran a finger down the spare manifold crate, checked my ledger against the shelf, listened to me recite the sound map for the aft frames. At the end she said, this deck is the best kept space on my ship, and left before I could answer. The old girl and I stood a little straighter the rest of the watch. Both of us. I would swear to it.
+[END]
+
+[LOG:CHO:D199]
+ECHO woke me at 0320, gentle, said only, engineer, frame ninety does not sound right. It was right to wake me. A coolant return clamp had cracked, seeping mist, the kind of small wrong that becomes a flood by morning. Fixed it in my sleep clothes with cold hands. Here is the thing worth logging. The ship's mind used my words, does not sound right. I taught a lighthouse to listen. Best work I ever did.
+[END]
+
+[LOG:CHO:D202]
+Kit and I swapped lessons today. I taught her plasma feed theory, she taught me root grafting, and I will say it plain, her trade is harder. My patients hold still. Hers grow away from your plan overnight. She laughed and said my engines grow too, just in wear patterns instead of leaves. Checked the wear logs after. Damn if the old girl does not have growth rings. A year of us, written in her bearings.
+[END]
+
+[LOG:CHO:D205]
+The angry bee in the galley recycler finally earned a real fix. A proper impeller came free when I rebuilt the number two coolant pump and downgraded its old one to galley duty, filed true and balanced. Ran it and the bee was gone, and I will be damned if the galley did not sound wrong without it. Okafor said the same at dinner. So I detuned the balance one washer's worth. The bee is back, quieter, ours. Some fixes are for the machine. Some are for the crew.
+[END]
+
+[LOG:CHO:D214]
+ECHO ran its first solo maintenance triage while I slept, sorted eleven alerts into three real jobs and eight noise, and briefed me at breakfast like a junior engineer standing her first watch. All eleven calls correct. A year ago it would have woken me for every one or, worse, for none. I told it, good watch. It said, I had a good teacher, and then, quieter, so did the teacher. Meaning the old girl. It is not wrong.
+[END]
+
+[LOG:CHO:D217]
+Hydroponics pump three sang flat this morning and Kit heard it from across the deck, over her own watering, through the rain sound she loves. She caught it two days before failure by my measure. Two days. It took me five years to grow ears like that and she did it in one. Repacked the bearing together, her hands, my spare. The sound map has a second author now. I signed her onto the title page, official.
+[END]
+
+[LOG:CHO:D223]
+Teaching day. Showed Kit the difference between a fix and a jury rig, because knowing which one you just did is half the trade. A fix restores the design. A jury rig replaces the design with your own nerve, and you log it, watch it, and never let it become invisible. Walked her past all nine of my active rigs, the treadmill belt, the hatch damper, the bee. She asked why I sounded proud. Because they are holding, kid. Every one.
+[END]
+
+[LOG:CHO:D232]
+The spare manifold came out of its crate today, not for a failure, thank hell, but for a fitting drill. Reyne wants every big swap rehearsed before it is ever needed, and she is right, so Kit and I dry ran the whole replacement, four hours, every bolt in sequence. The old girl never needed it and if I do my job she never will. But the crate closes easier knowing our hands have already done it once.
+[END]
+
+[LOG:CHO:D235]
+ECHO asked to learn the sound map properly, not just read it, learn it, so we ran a drill. It played hull recordings and I named the frame and the fault blind. Nineteen of twenty. The one I missed was a recording from Meridian Station, before launch, her yard voice, and I did not recognize my own ship young. Sat with that a minute. She has grown that far from the girl in the clamps. Both of us have.
+[END]
+
+[LOG:CHO:D241]
+Rebuilt the last of the Lazarus boards with Kit, third one, the one we thought was past saving. Two hours under the magnifier, one bridged contact at a time. It lives. Shelf count on relays is back to nine and my ledger finally balances. Kit says we should stop calling it scrap and call it the seed bin, since everything in it keeps sprouting. Renamed the bin in the inventory system. ECHO approved the change without comment. I think it liked it.
+[END]
+
+[LOG:CHO:D250]
+Two hundred fifty days out from Meridian Station and I finally finished the maintenance history, every job since launch, indexed, cross referenced to the sound map and the spares ledger. ECHO holds a copy in the Core. Kit holds one in Hydroponics, her idea, a backup in the greenhouse like a seed vault. If anything ever happens to me, the next pair of hands can know her the way I do. A ship this good deserves to be knowable.
+[END]
+
+[LOG:CHO:D253]
+Argument with ECHO about the intercom static in Med Bay, filed by Okafor. ECHO ranked it cosmetic, priority nine. I bumped it to three and ECHO wanted reasons. Here is the reason, lighthouse. That intercom is how a medic reaches his patients when the doors are shut, and out here a voice can be the whole of the medicine. ECHO went quiet, then moved it to priority two, above my own coolant sensor swap. Fixed it the same day, both of us listening to the test tone like it mattered. It does.
+[END]
+
+[LOG:CHO:D259]
+Long survey burn today, nine hours at ninety percent, the old girl's longest pull since her trials off Meridian Station. I stayed in Engineering the whole run, not because she needed me, because I wanted to hear it, that long unbroken note, steady as a held bow across a string. Years from now, when she is old and patched and stubborn, I will remember what today sounded like. Engineers keep sound the way other people keep photographs.
+[END]
+
+[LOG:CHO:D262]
+The hatch damper jury rig finally got retired. A properly machined replacement came off the small fabricator after Kit and I tuned its feed calibration for a week of evenings, first structural part we ever made aboard. The wound spring and rubber boot did one hundred twenty six days of honest work. Kit wanted a ceremony. So the old rig hangs above my workbench now, first entry in the museum of good enough. Every shop should have one.
+[END]
+
+[LOG:CHO:D265]
+ECHO flagged its own Core cooling pump today, self report, a bearing tone drifting eleven cents flat, caught with the listening I taught it. Swapped the bearing while ECHO narrated its own telemetry to me like a patient talking a surgeon through the anesthesia. Strange to work on the mind of the ship while the mind watches. It thanked me twice. Told it what I tell the old girl. You do the singing, I do the keeping. Between us the whole hull is covered.
+[END]
+
+[LOG:CHO:D277]
+Kit ran the whole daily engineering round solo today, my checklist, her hands, while I did nothing but follow and hold my tongue, which was the hardest job on the ship. She caught the pressure flutter on the transfer valve, greased the Docking Ring hinge on schedule, and talked to every machine by name, half of them names I never knew they had. The number two pump is apparently called Gruff. It seems to like it. Round complete, zero corrections. Zero.
+[END]
+
+[LOG:CHO:D280]
+The old girl and I had a quiet watch, and I spent it on the builder's plate with a rag and polish. SSV Vesper, Meridian Yards, and her hull number, and under that in small letters, a line I never noticed in nine hundred inspections, the yard motto. Built to be far from help. Stood there a while. That is her whole life, and mine now, and the reason for every spare I hoard and every noise I chase. Built to be far from help. Polished it until it shone.
+[END]
+
+[LOG:CHO:D283]
+ECHO proposed we cut the aft inspection round from daily to every third day, citing a year of clean results. I refused, and this time it asked why, and I gave it the real answer, not the schedule answer. The round is not just for finding faults. It is how she knows I am here. Machines kept by absent hands go strange, I have seen it in yards full of ghosts back at Meridian Station. ECHO did not argue. It added a line to the log, presence is maintenance. Put that on my grave.
+[END]
+
+[LOG:CHO:D286]
+Fabricated a replacement vane for the Bridge plenum, second homemade part, better than the first. The little fabricator has earned a name, so Kit did the honors, Forge, simple, honest. Between Forge, the seed bin, and the rebuild shelf, this deck is becoming a place where broken is a temporary condition. That is my whole aim out here in the Reach. Not a ship that never breaks. A ship where breaking has nowhere to go.
+[END]
+
+[LOG:CHO:D292]
+Kit asked what happens to the old girl after the mission, back at Meridian Station. Refit, I said, new survey suite, maybe a new crew. She hated that, a new crew in her Hydroponics, strangers who do not know Old Tom or Gruff or the bee. Told her the truth of the trade. We do not keep the ship. We keep her well and hand her on. The knowing is the gift, the manuals, the maps, the names. Kit went quiet, then said, then we write everything down. We already do, kid. We already do.
+[END]
+
+[LOG:CHO:D295]
+The coolant loop hit ten thousand hours today without a single unscheduled shutdown, which in yard talk is a miracle and in my shop is called doing the damn rounds. ECHO posted the number to the crew feed like a proud parent and Reyne read it out at dinner. Everyone clapped for a pipe full of fluid. Best crew in the Reach. The loop does not care, of course. The loop only cares that I come back tomorrow. I will.
+[END]
+
+[LOG:CHO:D301]
+Three hundred days and one out from Meridian Station, and the spare manifold is still in its crate, knock on hull. Ran my yearly what if, walked the ship pretending every jury rig had failed at once, counting what I would need. The shelf covers all of it twice over. Kit's rebuild pile covers it a third time. ECHO ran the odds and pronounced us, quote, difficult to strand. Difficult to strand. Putting that on the shop door.
+[END]
+
+[LOG:CHO:D304]
+Taught Kit emergency patching today, hull breach protocol, the one lesson I pray she never uses. She learned the sealant gun, the shore brace, the patch and pray, all of it, steady as always, but after, she asked why my hands hurried through it when they never hurry. Because some skills you want in her hands and out of her life, that is why. Did not say that. Said practice makes calm. Both things are true.
+[END]
+
+[LOG:CHO:D307]
+ECHO and I closed out the quarter with our joint review, faults found, faults fixed, sixteen and sixteen. It called the parity elegant. Then it asked a question I have been chewing all watch. Engineer, when the mission ends, who will listen to her at Meridian Station. Did not have an answer. Wrote three names of good yard hands I trust and filed them with the manuals. A ship should never be between listeners. Not this one. Not ever.
+[END]
+
+[LOG:CHO:D310]
+The bee died today. Galley recycler impeller, the detuned one, finally wore its washer stack through, and the galley went silent mid morning and the whole crew noticed inside an hour. Fixed it proper this time, new impeller off Forge, and tuned the balance to bring the hum back one shade quieter, same note. Okafor says the ship has a heartbeat chart now, my sound map, and the bee is on it, listed as vital. He is joking. Mostly. So am I. Mostly.
+[END]
+
+[LOG:CHO:D316]
+Kit found a bearing tone in the Docking Ring hinge, her find, ten days early by the wear chart, and she repacked it herself while I handed her tools like an apprentice, which I suppose is the natural order arriving. Walking back she asked if it ever stops feeling good, catching a fault before it becomes a failure. Twenty years in, kid, and today felt like the first time. It never stops. That is the secret nobody puts in the manuals. The trade pays in exactly this.
+[END]
+
+[LOG:CHO:D319]
+Watched the old girl hold station for Vega's deep scan today, thrusters whispering, the finest work she does, tiny corrections a hundred times a minute like a held breath that never shakes. Fresh from the yard she could not do this half so well, hunting around the setpoint like a pup on a leash. A year of trim, a year of bearing wear settling into itself, a year of us. Precision is not built at Meridian Station. It is grown out here. She grew it.
+[END]
+
+[LOG:CHO:D322]
+Spares ledger, monthly close. Consumed, four items. Rebuilt, six. The shelf grew again, third month running, and ECHO says at this rate the Vesper docks home with more working spares than she launched with. Only an engineer would understand why I read that line four times. We are not just holding against the Reach. We are winning. Quietly, one gasket at a time, the old girl and Kit and the lighthouse and me. Winning.
+[END]
+
+[LOG:CHO:D328]
+The number two pump, Gruff to those of us who know him, hit his service interval and I let Kit run the whole overhaul while I did the paperwork, a sentence I never thought I would log. Her teardown was cleaner than mine, and I trained her, so I am taking partial credit and full pride. Gruff spun up singing. Kit patted the housing the way I do. Somewhere between day one and today this stopped being my engine room. It is ours. Better that way.
+[END]
+
+[LOG:CHO:D331]
+ECHO played me something tonight. It has been assembling the sound map recordings into one track, the whole ship end to end, every deck's voice layered, and it asked, is this what she sounds like to you. Close, I told it. Missing only the feel through the boot soles. It said it would work on that, and knowing that stubborn lighthouse, it will. A year ago we fought over light bulbs. Now we are making portraits of her together. Long mission. Good mission.
+[END]
+
+[LOG:CHO:D334]
+Torque wrench day, annual calibration, all six of them checked against the reference. My old number two, the worn grip one, has drifted a hair past spec after twenty years and the rules say retire it. So it is retired, hung above the bench next to the hatch damper rig, and Kit oiled it one last time without being asked. Forge is cutting a plaque. I am not sentimental about tools. The log will show I am not sentimental about tools. The plaque says twenty years true.
+[END]
+
+[LOG:CHO:D340]
+Kit asked to learn the plasma feed, the real thing, the heart, and I hesitated for the first time since her lessons started. Not because she is not ready. Because the feed is where the trade stops being forgiving. Started her on theory and simulation, weeks of it before her hands touch a live line, and she accepted the pace without a word, which is exactly why she is ready. Slow is smooth, kid. Smooth is what keeps the old girl singing.
+[END]
+
+[LOG:CHO:D343]
+Reyne asked all hands for one line for the mission record, something true after nearly a year out. Everyone got poetic, even Okafor. Mine went in plain, and I will log it here too so the shop has its own copy. The Vesper left Meridian Station a fine ship and has become a great one, and the difference is nothing the yard could sell you. It is the keeping. Signed, chief engineer. That is my line and my whole religion.
+[END]
+
+[LOG:CHO:D349]
+Argument with ECHO, the old fashioned kind, over torque specs on the new vent brackets, and hell if it did not cite my own maintenance history back at me, a job from day ninety where I went a quarter turn over spec and the bracket held better for it. Beat by my own ledger. Went the quarter turn over. This is what I get for writing everything down, a lighthouse that knows my tricks better than I remember them. Good. That was always the point of the writing.
+[END]
+
+[LOG:CHO:D355]
+Kit passed her plasma feed theory exams, ECHO proctoring, hundred percent minus one question she argued so well that ECHO amended its own answer key. First live line session next month. Told her tonight what my first chief told me at Meridian Station a lifetime ago. The feed is not dangerous because it is powerful. It is dangerous because it is beautiful, and beautiful things make hands confident before they make them wise. She wrote it in her margin. The manuals grow again.
+[END]
+
+[LOG:CHO:D358]
+The old girl is a year and change out and I gave her the full concert tonight, my name for it, every system to nominal load one at a time while I stand in the middle of Engineering and listen to her build chord by chord, loop, feed, pumps, vents, the works. All in tune. Somewhere above me Vega is charting the Reach, Kit is watering, Okafor is counting sleep cycles, Reyne is writing her log, and under all of them the hum holds. That is the job. Hold the note under everyone.
+[END]
+
+[LOG:CHO:D361]
+Retired two more jury rigs today, the treadmill belt, replaced by a proper Forge cut part, and the crawlway lamp, superseded by a fixture ECHO ordered fabricated to its own design, first part the lighthouse ever designed. Museum of good enough grows to four pieces. Kit says at this rate the museum will outgrow the shop by the time we see Meridian Station again. Good, I told her. A wall of things that held is the best record of things done right a shop can hang.
+[END]
+
+[LOG:CHO:D364]
+Okafor counted at dinner, second year begins in four days, and everyone got quiet in that pleasant way. Ran the numbers myself after, engineer's version. One year, thirty one faults found, thirty one fixed, zero failures underway, the shelf richer than launch day, one apprentice grown into a colleague, one ship's mind grown into a partner. The Reach is long and the old girl is far from help and none of it has laid a finger on her. Year two, come and try.
+[END]
+
+[LOG:CHO:D367]
+Survey sweep number forty, and the old girl held her longest station keep yet, eleven hours, thrusters whispering the whole time like she was telling the Reach a secret. Kit sat with me through the last stretch, our now regular listening watch, and named three sounds I had to check the map to confirm. She was right on all three. When your student out hears you, you have not lost your ears. You have doubled them. The map gets a third hand soon, mark it.
+[END]
+
+[LOG:CHO:D370]
+ECHO asked me tonight what the ship dreams about, its word, dreams, meaning the slow flex the hull does in thermal cycles while everyone sleeps. Played me the overnight recording, and there she is, ticking and settling, deck by deck, like a house full of sleepers shifting. Told ECHO the truth. She dreams about load paths and warm bearings, same as me. It said, then I will keep the watch while you both dream. Damn lighthouse. Finest words ever logged in this shop.
+[END]
+
+[LOG:CHO:D373]
+Kit touched a live plasma feed line today, first time, my hands hovering an inch off hers the whole way, and she bled the test loop down and brought it back up textbook clean. After, she let out a breath she had held for about a month and laughed, and the feed sang its steady note over her laughing, and hell, that is the whole future of this trade standing right there in my shop. Logged for the record. The old girl has two engineers now. Officially.
+[END]
+
+[LOG:CHO:D376]
+Spare parts census before the deep survey leg, full count, Kit and me and ECHO reading the ledger aloud like scripture. Shelf strength one hundred twelve percent of launch, the rebuild pile deep, Forge humming, Lazarus one still working in the sensor array like it never died. Reyne signed off the census with one word, ready. That word costs a year of gaskets and lost sleep and arguments with a lighthouse. Cheap at the price, captain. Cheap at the price.
+[END]
+
+[LOG:CHO:D379]
+The forward glass whistled Vega's traveling note all watch, deep heading into the thick of the Reach, farther than the survey plan ever promised at Meridian Station. New territory means new sounds, and I have a fresh page of the map ready, blank and waiting. The old girl seems eager, if a hull can be eager, her hum bright, her bearings sweet. Twenty years I would have called that fool's talk. Now I just call it Tuesday. She is eager. So am I.
+[END]
+
+[LOG:CHO:D382]
+ECHO and I set the maintenance plan for the deep leg tonight, one list, no arguments, first time ever, which itself deserves a log line. Loop flush moved early, bearing checks doubled, the feed calibrated fresh this morning and singing dead true. Between the shelf, the map, Kit's ears, and the lighthouse watching, the old girl has never been this well kept in her life. Whatever the Reach has out there in the thick, she is ready for it. We all are.
+[END]
+
+[LOG:CHO:D385]
+Long day, good day. Kit ran the full engineering watch while I finally built Okafor his shelf brackets, eight months late, and Vega called down twice about ember readings out in the Reach, excited as a kid, something big lighting up his charts. The old girl hummed through all of it, steady as ever. Days like this are why I sign every inspection with a light heart. Nothing to report, everything to keep. That is a rich life, whatever the pay says.
+[END]
+
+[LOG:CHO:D388]
+Half power tomorrow for the big survey sweep, Vega's ember storm readings are spiking pretty as anything, and ECHO and I trimmed the load plan down to the last amp tonight. The old girl gets a quiet watch, systems low, sensors drinking deep. Kit and I walked the sound map after dinner and she called every note true. Loop is sweet, feed is singing, shelf is full. Sleep well, old girl. Tomorrow we listen to the Reach together.
+[END]

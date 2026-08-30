@@ -1,0 +1,94 @@
+{
+  "pre": {
+    "deckIdx": 1,
+    "px": 176,
+    "py": 176,
+    "o2": 98.9411176470591,
+    "cells": 0,
+    "trust": 2,
+    "opened": [
+      "dock:4:9,16"
+    ],
+    "collected": [
+      "dock:O:14,15",
+      "dock:O:28,3",
+      "dock:P:5,10"
+    ],
+    "journalLen": 2,
+    "journalTitles": [
+      "REYNE : day 47",
+      "REYNE : day 135"
+    ],
+    "seed": 268788621,
+    "ended": null,
+    "visited": [
+      "dock",
+      "hydro"
+    ],
+    "spawn": {
+      "x": 176,
+      "y": 176
+    },
+    "saveInLS": true
+  },
+  "post": {
+    "deckIdx": 1,
+    "px": 176,
+    "py": 176,
+    "o2": 98.9411176470592,
+    "cells": 0,
+    "trust": 2,
+    "opened": [
+      "dock:4:9,16"
+    ],
+    "collected": [
+      "dock:O:14,15",
+      "dock:O:28,3",
+      "dock:P:5,10"
+    ],
+    "journalLen": 2,
+    "journalTitles": [
+      "REYNE : day 47",
+      "REYNE : day 135"
+    ],
+    "seed": 268788621,
+    "ended": null,
+    "visited": [
+      "dock",
+      "hydro"
+    ],
+    "spawn": {
+      "x": 176,
+      "y": 176
+    },
+    "saveInLS": true
+  },
+  "diffs": [],
+  "dupTest": {
+    "before": {
+      "cells": 0,
+      "o2": 98.49988235294173,
+      "nCollected": 3
+    },
+    "ent": "o2"
+  },
+  "dupAfter": {
+    "cells": 0,
+    "nCollected": 3
+  },
+  "persist": {
+    "socketOpened": true,
+    "liftUnlocked": true
+  },
+  "overlayState": {
+    "anyOverlay": false,
+    "overlayId": null,
+    "paused": false,
+    "overlayOpen": false
+  },
+  "errors": [
+    "CONSOLE: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "CONSOLE: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "CONSOLE: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED"
+  ]
+}

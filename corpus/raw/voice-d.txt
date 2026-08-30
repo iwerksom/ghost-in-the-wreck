@@ -1,0 +1,719 @@
+[VOICE:REYNE] Watch rotation holds. Six hours on, six off. My crew knows the drill. [END]
+
+[VOICE:REYNE] Duty before feeling. Feeling can wait until the watch is done. [END]
+
+[VOICE:REYNE] The manifest is checked twice. Once by me, once by the officer on watch. [END]
+
+[VOICE:REYNE] First watch begins at 0600. I have never missed it. [END]
+
+[VOICE:REYNE] Protocol exists so my crew comes home. I enforce it. [END]
+
+[VOICE:REYNE] Heading confirmed at 0400. We hold course through the Reach. [END]
+
+[VOICE:REYNE] My crew is my responsibility. All five of us, no exceptions. [END]
+
+[VOICE:REYNE] Log filed on time. A late log is a sloppy log. Reyne out. [END]
+
+[VOICE:REYNE] Inspection at 0800. Docking Ring first, then Engineering. [END]
+
+[VOICE:REYNE] Standing watch is not a punishment. It is the job. [END]
+
+[VOICE:REYNE] Three hundred twelve days out from Meridian Station. Crew fit for duty. [END]
+
+[VOICE:REYNE] Cho reports the reactor stable. I logged it at 2200. [END]
+
+[VOICE:REYNE] Orders are given once. I expect them done once. [END]
+
+[VOICE:REYNE] The watch bill is posted. Read it. Follow it. [END]
+
+[VOICE:REYNE] Discipline holds a small crew together. Nothing else will. [END]
+
+[VOICE:REYNE] Vega charted a new sector today. The numbers check out. [END]
+
+[VOICE:REYNE] Okafor cleared the crew for duty at 0900. All five fit. [END]
+
+[VOICE:REYNE] Kit requested extra water rations for Hydroponics. Approved. [END]
+
+[VOICE:REYNE] I walked the Bridge at 0300. Vega was awake again. Noted. [END]
+
+[VOICE:REYNE] Drill complete in four minutes twenty seconds. Acceptable. [END]
+
+[VOICE:REYNE] The mission log is current through today. Reyne out. [END]
+
+[VOICE:REYNE] No ship survives careless habits. We keep good habits. [END]
+
+[VOICE:REYNE] Meridian Station expects a report every thirty days. They will get one. [END]
+
+[VOICE:REYNE] I count my crew every morning. Five names, five answers. [END]
+
+[VOICE:REYNE] Second watch was quiet. Quiet is what I want. [END]
+
+[VOICE:REYNE] A captain who sleeps through the watch bell is no captain. [END]
+
+[VOICE:REYNE] Supplies inventoried. Rations at ninety two percent. Adequate. [END]
+
+[VOICE:REYNE] The airlock seals were tested at 1400. All within tolerance. [END]
+
+[VOICE:REYNE] I do not guess. I check, then I act. [END]
+
+[VOICE:REYNE] Deck by deck inspection done. No faults found today. [END]
+
+[VOICE:REYNE] The Reach is charted one sector at a time. Slow work. Our work. [END]
+
+[VOICE:REYNE] Bridge watch stands until relieved. That is the rule. [END]
+
+[VOICE:REYNE] Cho argued about the maintenance schedule. Cho lost. [END]
+
+[VOICE:REYNE] My signature goes on every order. My responsibility, every time. [END]
+
+[VOICE:REYNE] Report at 0700, drill at 1000, review at 1600. A full day. [END]
+
+[VOICE:REYNE] The crew roster reads five. It will keep reading five. [END]
+
+[VOICE:REYNE] Regulations are not suggestions. Not on my ship. [END]
+
+[VOICE:REYNE] We launched from Meridian Station in good order. We will return the same way. [END]
+
+[VOICE:REYNE] Sloppy logs get rewritten. Ask Cho. [END]
+
+[VOICE:REYNE] I stood the midwatch myself tonight. A captain should, sometimes. [END]
+
+[VOICE:REYNE] Vega calls the stars by name. I call them coordinates. [END]
+
+[VOICE:REYNE] Course corrections logged at 0230 and 1120. Both minor. [END]
+
+[VOICE:REYNE] The watch changed on time. Small things done right, every day. [END]
+
+[VOICE:REYNE] Nobody skips a safety drill. Not even the captain. [END]
+
+[VOICE:REYNE] Duty roster amended. Kit takes third watch this cycle. [END]
+
+[VOICE:REYNE] Okafor says I need more sleep. Noted. Denied. [END]
+
+[VOICE:REYNE] Every hatch on this ship has been checked by my hand. [END]
+
+[VOICE:REYNE] Fourteen items on today's list. Fourteen items done. [END]
+
+[VOICE:REYNE] A good captain counts twice. I count three times. [END]
+
+[VOICE:REYNE] The forward glass was inspected at 0900. Clear. [END]
+
+[VOICE:REYNE] Weekly review complete. Crew performance satisfactory. Reyne out. [END]
+
+[VOICE:REYNE] I keep the log because someone must remember exactly. [END]
+
+[VOICE:REYNE] Watch handover at 1800 sharp. Sharp means sharp. [END]
+
+[VOICE:REYNE] No unlogged repairs. Cho knows this. Cho forgets this. [END]
+
+[VOICE:REYNE] We are far from the shipping lanes. Discipline is what we have. [END]
+
+[VOICE:REYNE] Five crew, one ship, one mission. Keep it simple. [END]
+
+[VOICE:REYNE] The manifest does not lie. People misremember. Paper does not. [END]
+
+[VOICE:REYNE] I answered three requests today. Approved two. Denied one. [END]
+
+[VOICE:REYNE] Protocol drills save lives later. We drill now. [END]
+
+[VOICE:REYNE] Morning muster at 0600. All present. All accounted for. [END]
+
+[VOICE:REYNE] The Docking Ring hatch sticks. Logged for repair. [END]
+
+[VOICE:REYNE] A clean deck is a safe deck. Inspect yours. [END]
+
+[VOICE:REYNE] Lights out ordered at 2300. Vega will ignore it. Also logged. [END]
+
+[VOICE:REYNE] Hydroponics passed inspection. Kit runs a tidy deck. [END]
+
+[VOICE:REYNE] Command is a list of small decisions made on time. [END]
+
+[VOICE:REYNE] My watch, my ship, my crew. In that order and all at once. [END]
+
+[VOICE:REYNE] The survey schedule holds. Sector nine begins tomorrow. [END]
+
+[VOICE:REYNE] No one stands watch tired. Swap out and log it. [END]
+
+[VOICE:REYNE] Trust is built shift by shift. My crew has mine. [END]
+
+[VOICE:REYNE] The log is the record. Keep it exact. [END]
+
+[VOICE:REYNE] Okafor filed the crew physicals. All five passed. [END]
+
+[VOICE:REYNE] Status at 2200: course true, reactor stable, crew asleep. Good. [END]
+
+[VOICE:REYNE] Rules I cannot explain, I do not give. [END]
+
+[VOICE:REYNE] Emergency stations drill tomorrow at 1000. Be early. [END]
+
+[VOICE:REYNE] There are no shortcuts in the Reach. We take none. [END]
+
+[VOICE:REYNE] I read every report twice before I sign it. [END]
+
+[VOICE:REYNE] The bridge clock runs four seconds fast. Cho will fix it. [END]
+
+[VOICE:REYNE] End of watch. Nothing to report. That is a good report. [END]
+
+[VOICE:REYNE] A captain's first duty is the crew. The mission is second. [END]
+
+[VOICE:REYNE] Checklists exist because memory fails. Use them. [END]
+
+[VOICE:REYNE] Kit brought tomatoes to the Bridge. Morale is also logged. [END]
+
+[VOICE:REYNE] I inspected med bay stores with Okafor. Saline count correct. [END]
+
+[VOICE:REYNE] Two hundred fourteen days out. Routine. Routine is good. [END]
+
+[VOICE:REYNE] Watch schedules are not negotiable. Sleep schedules are. [END]
+
+[VOICE:REYNE] Stand your post. Report what you see. Nothing more is asked. [END]
+
+[VOICE:REYNE] All hands drill complete. Four minutes flat. Better. [END]
+
+[VOICE:REYNE] I signed the fuel report at 1300. Consumption nominal. [END]
+
+[VOICE:REYNE] Crew before comfort. Ship before schedule. Mission before me. [END]
+
+[VOICE:REYNE] Nothing moves on this ship without a log entry. [END]
+
+[VOICE:REYNE] Vega's charts are excellent. I told Vega once. Once is enough. [END]
+
+[VOICE:REYNE] Third watch is the quiet one. I take it when I can. [END]
+
+[VOICE:REYNE] Engineering passed inspection. Cho glared the whole time. [END]
+
+[VOICE:REYNE] Muster, inspect, log, repeat. That is command, most days. [END]
+
+[VOICE:REYNE] We answer to Meridian Station. I answer for my crew. [END]
+
+[VOICE:REYNE] Keep your station squared away. I will check. [END]
+
+[VOICE:REYNE] No heroics on my watch. Heroics mean planning failed. [END]
+
+[VOICE:REYNE] Sixty three sectors charted. Ninety one to go. We proceed. [END]
+
+[VOICE:REYNE] I do not raise my voice. I repeat the order. [END]
+
+[VOICE:REYNE] The hull is sound, the course is true, the crew is fed. Enough. [END]
+
+[VOICE:REYNE] Every deck reports by 2100. Every deck reported. [END]
+
+[VOICE:REYNE] A schedule kept is a promise kept. [END]
+
+[VOICE:REYNE] I walked all six decks today. Twenty two minutes. All secure. [END]
+
+[VOICE:REYNE] Okafor talks, Cho swears, Vega dreams, Kit hums. I log. [END]
+
+[VOICE:REYNE] Watch relieved at 1200. Handover clean. Reyne out. [END]
+
+[VOICE:REYNE] The captain eats last. That is not a rule. It is mine. [END]
+
+[VOICE:REYNE] Charts updated, manifest squared, watch set. Sleep now. [END]
+
+[VOICE:REYNE] Five bunks, five names, five reasons to do this right. [END]
+
+[VOICE:REYNE] Talk at dinner turned to home. Meridian Station is far behind us. [END]
+
+[VOICE:REYNE] Precision is kindness on a ship. Guesswork gets people hurt. [END]
+
+[VOICE:REYNE] Morning report: all systems green, all crew present. Proceed. [END]
+
+[VOICE:REYNE] I hold the watch so my crew can hold their sleep. [END]
+
+[VOICE:REYNE] Duty is simple. Do the next right task, then the one after. [END]
+
+[VOICE:REYNE] The midwatch bell rang. I was already awake. Good. [END]
+
+[VOICE:REYNE] Count the crew. Check the seals. Read the gauges. Then rest. [END]
+
+[VOICE:REYNE] Order is how I care. My crew knows it. [END]
+
+[VOICE:REYNE] Late is a kind of absent. Be neither. [END]
+
+[VOICE:REYNE] Report your faults early. I punish silence, not mistakes. [END]
+
+[VOICE:REYNE] The Vesper runs on schedule because I do. [END]
+
+[VOICE:REYNE] All quiet at 0300. I logged it anyway. Everything gets logged. [END]
+
+[VOICE:REYNE] Hold your watch and hold your tongue until relieved. Then report fully. [END]
+
+[VOICE:CHO] The coolant loop runs clean today and the old girl purrs. [END]
+
+[VOICE:CHO] Engines first, paperwork never, that is my whole philosophy. [END]
+
+[VOICE:CHO] Listen to her sing. A healthy engine sings, and mine sings. [END]
+
+[VOICE:CHO] Flushed the coolant loop twice this morning and she thanked me with a steady hum. [END]
+
+[VOICE:CHO] Damn manifold jammed again, so I gave it the torque wrench and a kind word. Works every time. [END]
+
+[VOICE:CHO] Bearings greased, plasma feed steady, hell of a good day down here. [END]
+
+[VOICE:CHO] She is an old girl but she has good bones, better bones than half the fleet. [END]
+
+[VOICE:CHO] Coolant pressure held sweet at last. Took me all damn watch but it held. [END]
+
+[VOICE:CHO] You do not fix a ship by yelling at her. You listen first, then you turn the wrench. [END]
+
+[VOICE:CHO] The hum changed pitch at 0400 and I was out of my bunk before the alarm even woke up. [END]
+
+[VOICE:CHO] Paperwork can wait. The plasma feed cannot. Reyne can put that in a report. [END]
+
+[VOICE:CHO] Every engine has a voice. You just have to sit in the dark and learn it. [END]
+
+[VOICE:CHO] Torque wrench in one hand, coffee in the other. Come on, old girl, let us work. [END]
+
+[VOICE:CHO] Swapped the number three bearing today and she stopped grinding and started singing. [END]
+
+[VOICE:CHO] Hell, I would sleep in Engineering if Reyne let me. Half the time I do anyway. [END]
+
+[VOICE:CHO] Coolant looks clean, smells clean, runs clean. Damn near proud of it. [END]
+
+[VOICE:CHO] The aft manifold wheezes like an old dog but it does the job, bless it. [END]
+
+[VOICE:CHO] A tight bearing and a clean loop, that is all the religion I need. [END]
+
+[VOICE:CHO] She carried us all the way out from Meridian Station without one cough. Respect the old girl. [END]
+
+[VOICE:CHO] Reactor is happy tonight, humming low and even. Best sound in the Reach. [END]
+
+[VOICE:CHO] Kit talks to plants and I talk to turbines. Only one of us gets answered in a hum. [END]
+
+[VOICE:CHO] If it has moving parts I love it. If it has paperwork I lose it. [END]
+
+[VOICE:CHO] Patched the plasma feed with my own two hands and a fine string of swear words. [END]
+
+[VOICE:CHO] The old girl shivered during the survey sweep, so I sat with her until she settled. [END]
+
+[VOICE:CHO] Ran diagnostics twice, then trusted my ears instead. Ears never lie down here. [END]
+
+[VOICE:CHO] Grease under my nails again. Good. Means the work got done. [END]
+
+[VOICE:CHO] Machines are honest. Treat them right and they carry you home. [END]
+
+[VOICE:CHO] The intake filter was choked with dust, poor thing. Cleaned it and she breathed easy. [END]
+
+[VOICE:CHO] Hell of a hum tonight, deep and steady. I could dance to it. [END]
+
+[VOICE:CHO] Coolant temp is down two degrees. Two degrees is a love letter from the loop. [END]
+
+[VOICE:CHO] Do not slam the hatches on deck four. She feels it all the way to the keel. [END]
+
+[VOICE:CHO] Tightened forty bolts before breakfast. The old girl deserves a snug jacket. [END]
+
+[VOICE:CHO] Reyne wants a maintenance report. The maintenance is done. The report can wait. [END]
+
+[VOICE:CHO] Plasma feed flow is smooth as poured honey today. I did that. Well, we did. [END]
+
+[VOICE:CHO] A cold engine room is a sad engine room. I keep her warm. [END]
+
+[VOICE:CHO] The old girl skipped a beat at 0200 and I felt it in my teeth from my bunk. [END]
+
+[VOICE:CHO] Never met a manifold I could not sweet talk open. [END]
+
+[VOICE:CHO] Bearings do not fail all at once. They whisper first. I listen for the whisper. [END]
+
+[VOICE:CHO] Damn coupling on the coolant loop fought me for an hour. I won. I always win. [END]
+
+[VOICE:CHO] She sings in the low registers when the plasma feed is balanced. Sang all night. [END]
+
+[VOICE:CHO] Half my job is torque. The other half is patience. Reyne would say it is paperwork. [END]
+
+[VOICE:CHO] Okafor says my hands look like leather. Working hands, doc. Working hands. [END]
+
+[VOICE:CHO] The pumps are the old girl's heart. I check her pulse every single watch. [END]
+
+[VOICE:CHO] Nothing in the Reach hums prettier than my reactor on a quiet night. [END]
+
+[VOICE:CHO] Spent the whole watch flat on my back under the manifold. Best seat on the ship. [END]
+
+[VOICE:CHO] Hell yes the engines are fine. I would know before they did. [END]
+
+[VOICE:CHO] Vega gets stars. I get turbines. I think I got the better deal, honest. [END]
+
+[VOICE:CHO] Coolant loop, plasma feed, bearings, hum. Check those four and the day is yours. [END]
+
+[VOICE:CHO] You want the old girl to sing? Then feed her clean plasma and keep her loops cold. [END]
+
+[VOICE:CHO] Recalibrated the feed regulators today. Fiddly damn work but she runs sweeter for it. [END]
+
+[VOICE:CHO] A wrench in the hand beats a report in the queue, and you can quote me to the captain. [END]
+
+[VOICE:CHO] The deck plates in Engineering are warm underfoot. That is her, alive and working. [END]
+
+[VOICE:CHO] I name the pumps. Reyne disapproves. The pumps do not. [END]
+
+[VOICE:CHO] Somebody left a mug on my manifold. There are laws, people. Engine room laws. [END]
+
+[VOICE:CHO] She rattled on the port side so I chased the rattle for three hours and caught it. [END]
+
+[VOICE:CHO] Machines break gently if you love them and all at once if you do not. [END]
+
+[VOICE:CHO] The coolant smells a bit sweet today. Watching it. Nobody panic, especially not the loop. [END]
+
+[VOICE:CHO] Sat in the dark with the reactor humming and thought, hell, this is the life. [END]
+
+[VOICE:CHO] New gasket on the aft feed line. Old one was flat as Reyne's sense of humor. [END]
+
+[VOICE:CHO] Give me one torque wrench and a full thermos and I will keep this ship alive forever. [END]
+
+[VOICE:CHO] The old girl does not ask for much. Clean coolant, snug bearings, a bit of company. [END]
+
+[VOICE:CHO] Heard a tick in the number two pump. Ticks become clunks. Fixed it before lunch. [END]
+
+[VOICE:CHO] Reyne inspected my deck today. Glared back at her the whole time. We both passed. [END]
+
+[VOICE:CHO] Damn survey sweeps pull power like a hungry dog. The old girl feeds them anyway. [END]
+
+[VOICE:CHO] There is a right hum and a wrong hum. Today it is the right hum, all day. [END]
+
+[VOICE:CHO] Every bolt on the plasma feed knows my thumbprint by now. [END]
+
+[VOICE:CHO] Kit trades me tomatoes for hose clamps. Best economy on the Vesper. [END]
+
+[VOICE:CHO] The reactor and I have an understanding. I stay gentle, she stays lit. [END]
+
+[VOICE:CHO] Warm bearings, cold coolant, quiet pumps. Everything where it should be. [END]
+
+[VOICE:CHO] My bunk is fine but the engine room floor knows me better. [END]
+
+[VOICE:CHO] Do not tell Reyne, but I fixed the bridge clock a week ago and let her think it was hard. [END]
+
+[VOICE:CHO] Nothing wrong down here that a wrench, a rag, and an hour cannot cure. [END]
+
+[VOICE:CHO] The old girl hates the cold sweeps. I bring her back up slow and easy, like waking a cat. [END]
+
+[VOICE:CHO] Traced a coolant drip to one lazy fitting. One. Out of hundreds. Found it anyway. [END]
+
+[VOICE:CHO] Engines are like animals. Feed them, groom them, never surprise them. [END]
+
+[VOICE:CHO] Hell of a long watch, but the plasma feed is balanced and singing, so it was worth it. [END]
+
+[VOICE:CHO] I keep spare bearings in my pockets the way Kit keeps seeds. [END]
+
+[VOICE:CHO] Okafor patched my knuckles again. The manifold bites, but only when I rush her. [END]
+
+[VOICE:CHO] The hum tonight is so even you could set the ship's clock by it. [END]
+
+[VOICE:CHO] Power draw spiked during the sweep and the old girl just shrugged it off. Tough lady. [END]
+
+[VOICE:CHO] Cleaned the coolant filters until they shined. She deserves shined. [END]
+
+[VOICE:CHO] Some people count sheep. I count pump cycles. Out like a light by forty. [END]
+
+[VOICE:CHO] The Reach can be as empty as it likes. My engine room is full of good noise. [END]
+
+[VOICE:CHO] A loose bolt is a lie waiting to be told. I do not keep liars on my deck. [END]
+
+[VOICE:CHO] She ran hot for an hour and I hovered like a worried parent. She is fine. I am fine. [END]
+
+[VOICE:CHO] Vega asked what the engines dream about. Torque, I said. Clean, steady torque. [END]
+
+[VOICE:CHO] Rebuilt the number one pump from memory. My hands know her better than my head does. [END]
+
+[VOICE:CHO] Damn requisition forms. I asked for bearings, not a debate. [END]
+
+[VOICE:CHO] The old girl and I crossed half the Reach together. She has earned her rest days. [END]
+
+[VOICE:CHO] Coolant chemistry checks out perfect. I may frame this test strip. [END]
+
+[VOICE:CHO] You learn a ship the way you learn a friend. Slowly, and by her sounds. [END]
+
+[VOICE:CHO] Reyne logs everything. I remember everything. Between us the ship is covered. [END]
+
+[VOICE:CHO] There was a burr on the drive shaft coupling. Was. Past tense. You are welcome. [END]
+
+[VOICE:CHO] Never rush a warm reactor and never insult a cold one. [END]
+
+[VOICE:CHO] My favorite sound in the universe is the hum settling after a hard sweep. [END]
+
+[VOICE:CHO] Greased every hinge from Engineering to the Docking Ring. The whole ship swings quiet now. [END]
+
+[VOICE:CHO] The plasma feed hiccuped once at dinner. Once. I still went down to check on her. [END]
+
+[VOICE:CHO] Machines forgive you if you catch your mistake before they do. [END]
+
+[VOICE:CHO] Hell, give me a hard problem over a boring watch any day. [END]
+
+[VOICE:CHO] Tuned the intake until the whine disappeared. Silence in the right places is music too. [END]
+
+[VOICE:CHO] The old girl has scars on her hull and songs in her core, same as the rest of us. [END]
+
+[VOICE:CHO] I do not trust a gauge I have not tapped twice. [END]
+
+[VOICE:CHO] Left my torque wrench in Hydroponics somehow. Kit says the plants are keeping it. [END]
+
+[VOICE:CHO] A clean manifold is a happy manifold, and a happy manifold keeps you breathing. [END]
+
+[VOICE:CHO] She purred through the whole night watch. I barely had to touch her. [END]
+
+[VOICE:CHO] Bled the coolant loop at dawn. Smooth flow, no bubbles, no complaints. [END]
+
+[VOICE:CHO] Okafor keeps telling me to sleep more. The reactor keeps better company than dreams do. [END]
+
+[VOICE:CHO] Every ship has a temper. Learn it early and you will never fight her. [END]
+
+[VOICE:CHO] The bearings are singing instead of grinding. That is the whole job, right there. [END]
+
+[VOICE:CHO] I talk to the pumps while I work. Reyne caught me once. The pumps kept my secret. [END]
+
+[VOICE:CHO] Long day, sore back, steady hum. I will take that trade every single time. [END]
+
+[VOICE:CHO] The feed lines are old but honest. Old and honest beats new and fussy. [END]
+
+[VOICE:CHO] Checked the torque on the mounts three times. She holds. Damn right she holds. [END]
+
+[VOICE:CHO] When the engines sing, the whole crew sleeps better, whether they know it or not. [END]
+
+[VOICE:CHO] The old girl got us here and the old girl will get us home. That is my job and hers. [END]
+
+[VOICE:CHO] Hands on the housing, ear to the deck. That is how you take a ship's pulse. [END]
+
+[VOICE:CHO] Coolant at four degrees, feed at full, and me grinning like a fool about both. [END]
+
+[VOICE:CHO] Topped off the coolant reserve and told the old girl she is drinking well. [END]
+
+[VOICE:CHO] Nothing beats the first hum of the morning, before the crew is even awake. [END]
+
+[VOICE:CHO] Damn near hugged the reactor housing when she passed her stress test clean. [END]
+
+[VOICE:OKAFOR] Patient presents with a splinter and a grin. Both treated. [END]
+
+[VOICE:OKAFOR] Vitals steady across all five of us. I count that a good day. [END]
+
+[VOICE:OKAFOR] Saline stock at forty units. Counted twice, as I always do. [END]
+
+[VOICE:OKAFOR] Sleep cycles matter more than anyone aboard believes. Doctor's orders. [END]
+
+[VOICE:OKAFOR] Second time this week Vega skipped breakfast. I am watching that. [END]
+
+[VOICE:OKAFOR] Patient presents with engine grease to the elbows. Patient is Cho. Again. [END]
+
+[VOICE:OKAFOR] A medic's best instrument is a calm voice. I keep mine ready. [END]
+
+[VOICE:OKAFOR] Dosage logged, chart signed, patient sent to bed. Quiet work, good work. [END]
+
+[VOICE:OKAFOR] Three of them laughed at dinner tonight. I chart that too, in my head. [END]
+
+[VOICE:OKAFOR] Checked everyone's hands today. Working hands tell you more than charts do. [END]
+
+[VOICE:OKAFOR] The med bay is quiet, which means the ship is well. I will take quiet. [END]
+
+[VOICE:OKAFOR] Patient presents with a burn from the coolant line. Minor. The lecture was major. [END]
+
+[VOICE:OKAFOR] Care is mostly small things done on time. Medicine is the last resort. [END]
+
+[VOICE:OKAFOR] Kit brought mint to the med bay. The whole deck smells like a garden now. [END]
+
+[VOICE:OKAFOR] Vitals first, questions second, kindness throughout. That is my whole method. [END]
+
+[VOICE:OKAFOR] I restocked the bandages and counted the sutures. Sixty two. Enough. [END]
+
+[VOICE:OKAFOR] Reyne came in for the monthly physical, on the minute. Heart like a metronome. [END]
+
+[VOICE:OKAFOR] Third headache this week for Vega. Too many 0300 nights on the Bridge. [END]
+
+[VOICE:OKAFOR] A patient who jokes is a patient who heals. Cho jokes constantly. Cho heals fast. [END]
+
+[VOICE:OKAFOR] Sleep is the cheapest medicine I stock and the hardest one to prescribe. [END]
+
+[VOICE:OKAFOR] Patient presents with nothing at all. Just wanted company. That is medicine too. [END]
+
+[VOICE:OKAFOR] I keep the saline cold and my hands warm. Both matter to a frightened patient. [END]
+
+[VOICE:OKAFOR] Everyone got their radiation screening today. Five green results. I breathed out. [END]
+
+[VOICE:OKAFOR] Small dosage, long rest, gentle follow up. Most things heal if you let them. [END]
+
+[VOICE:OKAFOR] Four cups of tea before I got everyone through their checkups. Worth every cup. [END]
+
+[VOICE:OKAFOR] The intercom is my most used instrument some weeks. A voice can steady a heart. [END]
+
+[VOICE:OKAFOR] Kit sings to the seedlings. I hum to my patients. It works on both, quietly. [END]
+
+[VOICE:OKAFOR] Charted five sleep cycles this week. Only Kit's looks the way a chart should. [END]
+
+[VOICE:OKAFOR] Patient presents with a bruised thumb and wounded pride. Treated the thumb first. [END]
+
+[VOICE:OKAFOR] I count supplies on the slow days so the fast days count themselves. [END]
+
+[VOICE:OKAFOR] Held Cho's wrist for a pulse and got a full lecture on pump pressure in return. [END]
+
+[VOICE:OKAFOR] Good care starts before the injury. I walk the decks and watch how people move. [END]
+
+[VOICE:OKAFOR] Vitals for the captain: strong, steady, stubborn. Two of those are medical terms. [END]
+
+[VOICE:OKAFOR] The Reach is beautiful and empty. My med bay is small and full. I prefer mine. [END]
+
+[VOICE:OKAFOR] Restocked from the Meridian Station crates today. Their labels still smell of home. [END]
+
+[VOICE:OKAFOR] First rule of my med bay: sit down, breathe, tell me everything twice. [END]
+
+[VOICE:OKAFOR] A clean wound, a clean dressing, a clean conscience. In that order. [END]
+
+[VOICE:OKAFOR] Patient presents with insomnia and star charts. I prescribed a dark room. Vega appealed. [END]
+
+[VOICE:OKAFOR] Hands steady, voice low, door open. That is how a med bay should feel. [END]
+
+[VOICE:OKAFOR] The crew calls it fussing. I call it monitoring. The chart calls it care. [END]
+
+[VOICE:OKAFOR] Two blisters, one headache, zero complaints filed. A gentle week aboard. [END]
+
+[VOICE:OKAFOR] I taught Kit to take a pulse today. Now the plants have a backup medic. [END]
+
+[VOICE:OKAFOR] Everything on this ship can be patched. People just take softer tools. [END]
+
+[VOICE:OKAFOR] Reyne says I hover. I say I attend. The dictionary is on my side. [END]
+
+[VOICE:OKAFOR] Six hundred milliliters of saline used this quarter. Mostly on Cho's knuckles. [END]
+
+[VOICE:OKAFOR] A tired crew makes small mistakes. Small mistakes visit me first. I stay alert. [END]
+
+[VOICE:OKAFOR] Patient presents with homesickness. There is no dosage for that. There is soup. [END]
+
+[VOICE:OKAFOR] I check the med bay locks each night, then the crew's doors, then my own breathing. [END]
+
+[VOICE:OKAFOR] The best shift is the boring shift. I have had nine boring shifts in a row. [END]
+
+[VOICE:OKAFOR] Listened to four heartbeats today and heard four different kinds of tired. [END]
+
+[VOICE:OKAFOR] Fresh gauze folded, instruments sterilized, kettle on. Ready for anything small. [END]
+
+[VOICE:OKAFOR] Vega finally slept eight hours. I wrote it in the chart with some ceremony. [END]
+
+[VOICE:OKAFOR] You treat the patient in front of you, then the worry behind their eyes. [END]
+
+[VOICE:OKAFOR] Counted the crew at dinner. Five plates, five appetites. The simplest vitals there are. [END]
+
+[VOICE:OKAFOR] Patient presents with soil under every fingernail. Kit, again, happily. [END]
+
+[VOICE:OKAFOR] My rounds take one hour. The listening afterward takes three. Both are the job. [END]
+
+[VOICE:OKAFOR] A warm blanket does half my work. I let it, and take the credit quietly. [END]
+
+[VOICE:OKAFOR] Ran the quarterly eye exams. Vega reads the bottom line and then names the stars on it. [END]
+
+[VOICE:OKAFOR] No fevers, no fractures, no tears this week. I record gratitude in the margin. [END]
+
+[VOICE:OKAFOR] Cho naps in Engineering and calls it monitoring the hum. I allow it. Sleep is sleep. [END]
+
+[VOICE:OKAFOR] Every dosage on this ship passes through my hands. I keep those hands careful. [END]
+
+[VOICE:OKAFOR] Patient presents at 0300, cannot sleep. We talked about home until we both could. [END]
+
+[VOICE:OKAFOR] The garden air from Hydroponics is my favorite prescription. Twenty minutes, twice daily. [END]
+
+[VOICE:OKAFOR] Bruises fade in a week. Worry lasts longer. I treat both, one slower than the other. [END]
+
+[VOICE:OKAFOR] Held the light while Cho stitched the old girl. Then I stitched Cho. Fair trade. [END]
+
+[VOICE:OKAFOR] I keep a jar of sweets behind the saline. For the brave, and for the honest. [END]
+
+[VOICE:OKAFOR] Reyne's blood pressure rises exactly once a month, on inventory day. Documented. [END]
+
+[VOICE:OKAFOR] Quiet vitals, loud laughter down the corridor. The healthiest sounds a ship can make. [END]
+
+[VOICE:OKAFOR] Second checkup this month for Kit's shoulder. Watering cans are heavier than they look. [END]
+
+[VOICE:OKAFOR] I write my charts plainly. Fear reads between fancy lines. [END]
+
+[VOICE:OKAFOR] Medicine on a small ship is mostly friendship with a thermometer. [END]
+
+[VOICE:OKAFOR] All five sleep cycles logged tonight. One perfect, three fair, one on the Bridge again. [END]
+
+[VOICE:OKAFOR] Patient presents with a paper cut and an apology. I charged one smile, as posted. [END]
+
+[VOICE:OKAFOR] The saline drip is steady. So is my breathing. We keep each other company. [END]
+
+[VOICE:OKAFOR] Checked the emergency kits on every deck. Med Bay to Docking Ring, all sealed, all fresh. [END]
+
+[VOICE:OKAFOR] A good medic notices who goes quiet at dinner. Tonight, nobody did. [END]
+
+[VOICE:OKAFOR] There is a right way to say rest and a wrong way. I practice the right way daily. [END]
+
+[VOICE:OKAFOR] Gave Vega a sleep aid and confiscated one star chart as payment. [END]
+
+[VOICE:OKAFOR] My stethoscope has heard every heart on this ship. They are all worth the listening. [END]
+
+[VOICE:OKAFOR] Inventory done. Bandages, splints, saline, patience. Patience is running lowest. [END]
+
+[VOICE:OKAFOR] Patient presents with singed eyebrows and a proud grin. Engineering had an exciting day. [END]
+
+[VOICE:OKAFOR] I dim the med bay lights at 2100. Healing likes the dark, and so do tired eyes. [END]
+
+[VOICE:OKAFOR] Third time this month I found Reyne asleep at her desk. I bring the blanket now. [END]
+
+[VOICE:OKAFOR] The crew is my chart and the ship is my ward. Rounds never really end. [END]
+
+[VOICE:OKAFOR] Cho's cough cleared up. I credit the medicine. Cho credits the engine hum. Fine. [END]
+
+[VOICE:OKAFOR] I fold the blankets the same way every day. Small orders keep large fears out. [END]
+
+[VOICE:OKAFOR] A hand on a shoulder is sometimes the entire treatment plan. [END]
+
+[VOICE:OKAFOR] Ran drills on the stretcher route from Engineering. Four minutes. I want three. [END]
+
+[VOICE:OKAFOR] Kit cried over a dead fern today. We held a small funeral. Grief needs a place, even small grief. [END]
+
+[VOICE:OKAFOR] Every checkup ends the same way. Any pain you have not mentioned? The pause tells me everything. [END]
+
+[VOICE:OKAFOR] Slept badly, woke early, checked on everyone anyway. The rounds do not care how I slept. [END]
+
+[VOICE:OKAFOR] Patient presents with good news and a pulled muscle from celebrating it. Both noted. [END]
+
+[VOICE:OKAFOR] The kettle in my med bay has treated more ailments than the scanner has. [END]
+
+[VOICE:OKAFOR] Watched the crew walk to breakfast. Four steady gaits and one limp. Called Cho in by noon. [END]
+
+[VOICE:OKAFOR] Doses measured twice, given once. My hands were trained to be suspicious. [END]
+
+[VOICE:OKAFOR] Health is quiet. You learn to hear it the way Cho hears the engines. [END]
+
+[VOICE:OKAFOR] The five of us are far from any hospital. So I sleep lightly and stock deeply. [END]
+
+[VOICE:OKAFOR] Patched a bulkhead cut, two centimeters, clean edges. The bulkhead is fine too. [END]
+
+[VOICE:OKAFOR] I remember every patient's favorite tea. It is in the chart, under morale. [END]
+
+[VOICE:OKAFOR] End of shift. All vitals green, all bunks full, all doors unlocked. Goodnight, Vesper. [END]
+
+[VOICE:OKAFOR] One sprained wrist this week, from the Docking Ring ladder. The ladder has been spoken to. [END]
+
+[VOICE:OKAFOR] Care means showing up before you are called. I do my walking early. [END]
+
+[VOICE:OKAFOR] The med bay cot is short, the night is long, and the crew is healthy. Fair bargain. [END]
+
+[VOICE:OKAFOR] Vega describes pain in metaphors. I chart the metaphors and treat the shoulder. [END]
+
+[VOICE:OKAFOR] Nobody dies of a splinter on my watch. Nobody suffers one in silence either. [END]
+
+[VOICE:OKAFOR] Checked oxygen mix on all decks with Reyne. Numbers perfect. We celebrated with tea. [END]
+
+[VOICE:OKAFOR] A crew that teases each other at breakfast is a crew in good health. We are in good health. [END]
+
+[VOICE:OKAFOR] Patient presents with stiff shoulders and a captain's stubbornness. Prescribed one day off. Denied. [END]
+
+[VOICE:OKAFOR] I learned long ago that listening is half the dosage. [END]
+
+[VOICE:OKAFOR] Kit's blood pressure is the envy of the ship. Gardening, most likely. And naps. [END]
+
+[VOICE:OKAFOR] The hardest part of medicine out here is the distance. The best part is the company. [END]
+
+[VOICE:OKAFOR] Scrubbed the med bay floor myself tonight. A patient can read a room's cleanliness like a promise. [END]
+
+[VOICE:OKAFOR] Five crew, ten hands, one medic keeping count of all of them. [END]
+
+[VOICE:OKAFOR] Cho swears healing is just maintenance for people. I have stopped arguing. It is. [END]
+
+[VOICE:OKAFOR] My favorite entry to write: no treatment required. Wrote it three times today. [END]
+
+[VOICE:OKAFOR] Sat with Vega through a rough night. Sometimes the treatment is just staying. [END]
+
+[VOICE:OKAFOR] The saline is for emergencies. The teapot is for everything else. [END]
+
+[VOICE:OKAFOR] Rested hands make fewer mistakes. I rest mine so the crew never pays for my tired. [END]
+
+[VOICE:OKAFOR] Patient presents with cold feet, literally. Hydroponics floods when Kit gets ambitious. [END]
+
+[VOICE:OKAFOR] I take my own vitals last, after everyone else is charted and asleep. [END]

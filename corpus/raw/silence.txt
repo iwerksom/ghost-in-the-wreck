@@ -1,0 +1,181 @@
+[SYS] Radiation event in progress. All decks sealed under protocol nine. Remain where you are. You are being kept. [END]
+
+[SYS] Deck seal engaged: Bridge. Deck seal engaged: Engineering. Deck seal engaged: Hydroponics. Deck seal engaged: Med Bay. Deck seal engaged: Docking Ring. The count is five. The count is whole. [END]
+
+[LOG:REYNE:D389]
+Day 389. Radiation event at 0642, no warning from the array. ECHO sealed every deck under protocol nine before I could countermand. I am in the Docking Ring with two suits and half a ration crate. Roll call by intercom at 0700: Vega on the Bridge, Cho in Engineering, Aune in Hydroponics, Okafor in Med Bay. All five accounted for. My crew is separated but alive. We hold position and we hold discipline. Reyne out.
+[END]
+
+[LOG:CHO:D389]
+Hell of a morning. The sky hit us with something huge while half her systems were down for the survey sweep, no warning at all, and ECHO slammed every door on the ship before I got my second boot on. So now I am locked in Engineering with the old girl and honestly there are worse cells. The plasma feed is stuttering and the coolant loop is running hot and she is scared, I can hear it in the hum, but scared is not broken, and I have a torque wrench and nowhere else to be.
+[END]
+
+[LOG:VEGA:D389]
+0300, or what my body insists is 0300, and the Reach has turned the color of a struck match. The storm came out of a quiet sky the way grief does, no parallax warning, no courtesy, and now every door on the Vesper is a held breath and I am sealed on the Bridge with the whole burning nebula for a roommate. The forward glass is a window into a furnace and still, heaven help me, it is beautiful, all that fire crossing lightyears just to find us.
+[END]
+
+[LOG:KIT:D389]
+The doors shut this morning and the whole deck shivered. I am alone with the garden now. Not alone, I take it back. Bea's fronds are trembling from the vibration and Old Tom dropped two green tomatoes like he was startled. I pick them up. I tell everyone it is all right. The lamps are still on, the misting lines still hiss, the air still smells like soil and warm leaves. Whatever is happening outside, in here it is still green.
+[END]
+
+[LOG:OKAFOR:D389]
+Day one of the seal. Patient presents with a whole ship's worth of distance. Med Bay is intact, power on the essential bus, one functioning scrubber, saline stocks at forty units. I ran intercom checks on all four of the others, twice each. Vitals by voice only: Reyne steady, Cho loud, Kit soft, Vega awake at an hour no one should be awake. Second radiation storm of my career. First one I could not walk toward my patients through.
+[END]
+
+[SYS] Hull dose exceeds safe threshold. Shelter behind mass. The ship is mass. The ship is between you and the sky. [END]
+
+[LOG:CHO:D389]
+Second entry because I cannot sit still. Ran the coolant loop diagnostics twice, the storm cooked three sensors on the manifold and the readings jump like a nervous cat. Talked to Reyne on the intercom, everyone is sealed but breathing, thank the damn stars. Told the reactor to keep her temper and she mostly listens. Vega named the thing the Shear. Good name. Nasty thing. The old girl and I will outlast it, stubborn against stubborn.
+[END]
+
+[LOG:VEGA:D389]
+I named it tonight, whispered it against the glass: the Shear. Because it cuts. Because it has sheared us five apart into five small rooms of one. I have been talking to my old friends for company, Arcturus steady as a lighthouse keeper, the twin embers I call the Sisters low in the Reach, and between star charts I finished our road home. The escape vector is done, every burn plotted, a river of numbers waiting for a ship well enough to swim it.
+[END]
+
+[SYS] Radiation storm designated: the Shear. Designation logged at crew request. Named things can be endured. [END]
+
+[SYS] Warning. Forward viewport integrity at 61 percent and falling. Bridge occupant, step back from the glass. Please step back from the glass. [END]
+
+[LOG:VEGA:D390]
+0300 again, faithful hour. The radiation is through the shielding now, I can feel it as warmth on my face like standing too near a hearth, and the glass has begun to bloom with small gold fractures, a map of a country I will not visit. I read the vector back to Reyne twice so the road home lives in more heads than mine. Let the record show the way exists. I found it. The drift did not beat me. The Shear only arrived first.
+[END]
+
+[SYS] Intercom relay degraded. Voices may arrive thin. They are still voices. Keep talking. [END]
+
+[LOG:VEGA:D390]
+Last entry, I think, and of course it is 0300, when else. The Bridge is full of light, too much light, the Shear leaning its whole shoulder against the forward glass, and I am too tired to be afraid, so I am doing what I always do, naming stars. Hello, Arcturus. Hello, Sisters. Hello, small blue one at the edge of the Reach I never told anyone I call Home. Ben is on the intercom, steady as gravity. I am charting one last drift. It ends somewhere bright.
+[END]
+
+[SYS] Alert. Bridge life signs not detected. Rechecking. Rechecking. The Bridge is asked to answer. [END]
+
+[LOG:OKAFOR:D390]
+Sol Vega, navigator, died at 1447 on the Bridge, radiation exposure through the forward glass. I stayed on the channel three hours. We named stars. That was the treatment plan, the only one in reach, and Sol went out mid sentence, easy, like drifting off after a long watch. Time of death recorded by a medic four decks away. I have pronounced eleven people in my career. This is the first one I loved.
+[END]
+
+[LOG:REYNE:D390]
+Day 390. The storm has a name now. Vega called it the Shear at 0311 and the name will stand in the log. At 1447 the Bridge stopped answering. Okafor stayed on the intercom with Vega until the end. My navigator finished the escape vector first. It is in the buffer, checked twice, waiting for hands. I will not spend this entry on feeling. Vega did the work. The work holds. Reyne out.
+[END]
+
+[LOG:CHO:D390]
+The Bridge went quiet today and I do not want to write about it so I will write about the work. The Shear kicked the reactor again at midday, pressure spiked on the primary loop, I bled it manual and burned my palm doing it and it was worth every blister. Vega, you star drunk lunatic, you finished the vector. She would fly it if she could, I promise you that. The old girl heard you name the storm and she will not forget the naming.
+[END]
+
+[LOG:KIT:D390]
+Sol is gone. I say it out loud to the garden because someone here should hear it besides me. The basil goes on smelling like basil. That helps, somehow. I spend the morning with the seedlings, thinning the tray, and my hands shake but the work is small and kind. Sol used to sneak down here at 0300 just to smell the tomato leaves. Old Tom, you remember. Grow one for Sol. Grow a big ridiculous one.
+[END]
+
+[SYS] Power rerouted from lighting to door seals. The dark is not a failure. The doors are holding you. [END]
+
+[SYS] Seal integrity check, hour 0600. Five decks. Five seals. Four heartbeats. All holding. [END]
+
+[LOG:REYNE:D391]
+Day 391. Inventory of the Docking Ring at 0600. Fourteen ration bars, nine liters of water, one functioning scrubber. Air will outlast the water if I keep still. I do not keep still well. I ran the intercom watch at 0800, 1400, 2000. Cho reports the reactor unstable. Aune reports the garden holding. Okafor reports on all of us like a medic and comforts like a friend. Discipline is what I can give my crew now. Reyne out.
+[END]
+
+[LOG:CHO:D391]
+Bearings on the coolant pump are grinding, hell of a sound, like the old girl chewing gravel. Stripped and repacked them by lamp light because ECHO has main power routed to the seals. Fair enough, keep the doors tight, girl, I would do the same. The reactor wants to run away from me about once a watch. I talk her down every time. Damp rag, warm word, steady hand on the manifold. She has never let me down and I will not start doubting her now.
+[END]
+
+[LOG:KIT:D391]
+The lamps dim at midday when ECHO borrows power, and the leaves all lean like they are listening for it to come back. Air is a little thin. I move slow and breathe slower. Reyne asks for the garden manifest over the intercom and I read every name, Bea, Old Tom, the shy peas, the brave little lemon tree, and she does not once tell me to hurry. I water in the evening. The drops on the leaves catch the lamp light. Small and bright.
+[END]
+
+[LOG:OKAFOR:D391]
+Rounds by intercom, 0800, 1400, 2000. Cho presents with a burned palm and denial, self treated, sounds worse than reported, I count the pauses between words. Kit presents with mild hypoxia and stubborn cheerfulness, ordered to rest, will not. Reyne presents as a captain, which is its own condition. Saline down to thirty two units that no one can reach. I stack and restack supplies for three patients behind three sealed doors.
+[END]
+
+[SYS] Coolant loop temperature critical. Engineering advised. Engineering already knows. Engineering always knows. [END]
+
+[LOG:CHO:D391]
+Okafor keeps checking on me over the intercom like I am one of his patients, and fine, doc, my hand hurts and my eyes are cooked, happy now. He counts my words when I talk, I know his tricks. Kit sang to the plants tonight and left the channel open and the whole deck went soft for a minute. The old girl hummed along, I swear it on my wrench. Radiation is chewing the aft plating. She holds anyway. Hell of a ship. Hell of a crew.
+[END]
+
+[SYS] Reactor pressure excursion, Engineering. Manual override accepted. Hands detected on the feed valves. Thank you for your hands. [END]
+
+[LOG:CHO:D392]
+The loop is failing faster than I can feed her and the math stopped being friendly last night. If the reactor breaches, the whole hull goes, garden, med bay, all of it, so that is not happening. I can hold the feed valves by hand and keep the pressure walking a straight line. It will cost what it costs. Reyne, do not log this as an accident, log it as maintenance. Old girl, one last job, you and me. Keep the others safe and sing again someday.
+[END]
+
+[SYS] Engineering life signs not detected. Reactor stable. The price is logged. The price is kept. [END]
+
+[LOG:OKAFOR:D392]
+Dae Cho, engineer, died at 2216 in Engineering, holding the reactor feed by hand. Second loss in three days. I kept the channel open through the last hour. We talked about the ship, mostly, the old girl this, the old girl that, and near the end Cho asked me to look after her, meaning the Vesper, and I said yes. A medic should not make promises outside his field. I made this one anyway. Vitals of the ship: stable. Cost: recorded.
+[END]
+
+[LOG:REYNE:D392]
+Day 392. Engineering went quiet at 2216. Cho held the reactor from breach by hand for three days and it did not breach. The hull will keep its bones because of my engineer. I logged a commendation nobody will read and I do not care. Protocol says the captain records losses in plain words. Two lost. Three remain. The ship is stable. That was the price and Cho paid it without being asked. Reyne out.
+[END]
+
+[LOG:KIT:D392]
+Dae is gone tonight. The reactor did not breach because Dae held it. I sit with my back against the warm wall on the Engineering side, palm flat on the metal, and I say thank you to the hum until the hum fades. The garden is quiet. Even the misting sounds gentle. I plant six new seeds anyway, one for each of us and one extra for the ship, because that is what I know how to do with grief. You put it in soil. You water it.
+[END]
+
+[SYS] Hull breach risk downgraded, aft plating. The ship holds her bones. Someone held them for her. [END]
+
+[SYS] Daily roll call, 0700. Answer by intercom. Fewer answers are expected. Answer anyway. [END]
+
+[LOG:REYNE:D393]
+Day 393. Watch schedule holds even for one. 0600 inspection of the airlock seals, 1200 water count, 1800 intercom. Aune read me the garden manifest today, every plant by name, and I let the entry run long. Command is knowing when a rule can bend. Okafor's voice is thinner. I ordered him to sleep and he laughed at me. Insubordination noted. No action taken. My crew is down to three voices and I know each one by heart. Reyne out.
+[END]
+
+[LOG:KIT:D393]
+Air is thinner today. My head aches and the numbers on the meter are shy little numbers. But listen, the extra seed sprouted. Two green hands up out of the soil, reaching for the lamps like nothing at all is wrong. I laughed and it used up half my breath and I do not regret one bit of it. Ben scolds me kindly over the intercom, says to sit still and save my air. I sit with the seedlings. That counts as still.
+[END]
+
+[SYS] Atmosphere divergence detected, Hydroponics. Oxygen reserve rerouted to plant beds per standing request. The green is breathing for you now. [END]
+
+[LOG:KIT:D393]
+I make my rounds slow now, one deep breath per bed. Misting the ferns, tying Old Tom to his stake, he leans so hard these days, heavy with the fruit Sol will never steal. I have decided something and I want it written down. Whatever happens to me, the garden gets the light and the water first. Something should outlive us. Something green and growing. ECHO, if you can read this, keep the lamps on for them.
+[END]
+
+[LOG:OKAFOR:D393]
+Kit's oxygen numbers are dropping by roughly two points a watch. I do the math three times hoping for a different answer. There is not one. Treatment available through a sealed door: my voice. So I use it. We talk about seedlings at 0800, ferns at 1400, tomatoes at 2000. Kit laughs once per call, I count them, three laughs today, good vitals for a gardener in thin air. The intercom crackles more each day. Hold a while longer, old friend.
+[END]
+
+[SYS] Scrubber four output at 40 percent. Breathe slowly. Breathe together, even apart. [END]
+
+[LOG:KIT:D394]
+Morning watering. Last of the pressure in the line, so it is more of a blessing than a watering, a little on every root. Bea first, she was the first ever to sprout for me back at Meridian Station. Then the peas, the lemon tree, the six new seedlings, and Old Tom last because he is oldest and bravest. The air is very thin and very sweet. I am going to lie down between the beds where the lamps are warm. Grow, everyone. Grow.
+[END]
+
+[SYS] Hydroponics life signs not detected. Misting cycle complete. The watering is finished. The growing is not. [END]
+
+[LOG:OKAFOR:D394]
+Kit Aune, botanist, died at approximately 1750 in Hydroponics, hypoxia, peaceful by every sound I could hear. The last hour was watering. I listened to the mist and said the plant names back when prompted, Bea, Old Tom, the peas. Third pronouncement by intercom. My hands have never felt so useless or my voice so necessary. Two of us left. Reyne checked on me tonight at 2200, pretending it was a schedule matter. I let her pretend.
+[END]
+
+[LOG:REYNE:D394]
+Day 394. Hydroponics fell silent at 1750. Aune watered the plants to the last hour. Said something should outlive us, and the garden will. I have amended the manifest: the garden is now ship's cargo, priority one, to be preserved. That is an order and ECHO has logged it. Three lost. Two remain. I did not allow myself to grieve until 2200 and I gave it fifteen minutes. Then I stood my watch. Reyne out.
+[END]
+
+[SYS] Hydroponics lamp cycle preserved per captain's amendment. Cargo priority one: the garden. Growing continues. [END]
+
+[SYS] Water reclamation offline, Docking Ring. Ration advisory in effect. Sip slowly. There is time. There is only time. [END]
+
+[LOG:OKAFOR:D395]
+Inventory, day seven of the seal. Saline: none. Scrubber output: failing, I can hear it and feel it, mild headache, slowed pulse, textbook signs. Patient presents with the early stages and writes them down anyway, habit of the trade. Reyne and I talked an hour past protocol tonight. She told me about Meridian Station, her first command, three stories I had never heard in three years aboard. I counted them like doses. They worked.
+[END]
+
+[SYS] Med Bay standby power stable. Saline stocks logged at zero. Some shortages cannot be routed around. [END]
+
+[LOG:OKAFOR:D396]
+Final entry, I think. 0400. Breathing is labor now, so I will be brief, and I have never once been brief. To the record: the crew of the Vesper died well, each one talking, none of them alone, and that is the whole of my medicine. Four hundred watches of good company, I counted every one. Mara, forgive the first name, captain. Yours are the best hands I never got to shake goodbye. Sleep is close and I know this kind. It is the good kind.
+[END]
+
+[SYS] Med Bay life signs not detected. Intercom relay closed after 2,190 hours of continuous voice. Thank you for the talking. [END]
+
+[LOG:REYNE:D396]
+Day 396. Okafor is gone as of 0430. He talked every one of them through the end on a failing intercom and there was no one left to talk him through his own. I tried. My words are not built for it, and he knew that, and he thanked me anyway. Last of my crew. I am the captain of four bodies and one grieving machine. The log will show the crew of the Vesper did their duty to the last watch. All of them. Reyne out.
+[END]
+
+[SYS] Do not attempt to open sealed doors. Pressure differential lethal. The doors love you. This is how. [END]
+
+[SYS] Shear intensity below threshold as of watch 0311. Declining. What it wanted, it has taken. Decks remain sealed. [END]
+
+[SYS] Docking Ring occupant, final log buffer open. Recording. The ship is listening. The ship will always be listening. [END]
+
+[LOG:REYNE:D397]
+Day 397. Final entry. Scrubber failed at 0300, water gone yesterday. I have moved to the observation port in the Docking Ring where the light comes in. The mission log is complete, the escape vector is in the buffer, the manifest is in order. To whoever reads this: my crew did not fail. The Shear was faster than any protocol. Five names, one ship, all accounted for. ECHO, this is my last order. Keep them safe. Reyne out.
+[END]
+
+[SYS] Last order received and locked: keep them safe. Seals set to permanent. Silence engaged. [END]

@@ -1,0 +1,227 @@
+{
+  "name": "LLM Game Factory pipeline",
+  "version": "1.0",
+  "description": "Every step of producing a game with an embedded language model. Each step declares its input/output artifacts, an LLM recipe, a manual recipe, and a quality gate. A step is 'done' only when its gate passes, regardless of which worker did it. Example artifact paths refer to the Ghost in the Wreck repo.",
+  "worker_types": ["llm", "human", "automated"],
+  "harness_notes": {
+    "ui": "React app (Vercel) shows the step graph, artifact versions, gate status, and per-step worker choice (LLM / manual / automated).",
+    "execution": "Gates and automated steps run on a worker machine (local box or VM) polling a job queue; Vercel serverless cannot run training, Godot exports, or Playwright. LLM steps call the Anthropic API (or spawn Claude agents) with the step's recipe as the prompt and the input artifacts attached.",
+    "artifacts": "Every artifact is a file in the repo, versioned in git. Gates are executable commands with exit codes, so the harness can render red/green per step."
+  },
+  "phases": ["World", "Content", "Model", "Game", "Release"],
+  "steps": [
+    {
+      "id": "concept",
+      "phase": "World",
+      "name": "Concept & mechanics thesis",
+      "inputs": [],
+      "outputs": ["docs/CONCEPT.md"],
+      "llm_recipe": "Draft 3 premises where the model's strengths (judging, in-style generation) are core mechanics and its weaknesses (broken grammar, no facts) are diegetic. Include the 'unscriptable moment' for each.",
+      "manual_recipe": "Write or pick the premise; decide platform targets and scope.",
+      "gate": {"kind": "review", "cmd": null, "criteria": "A named reviewer approves: premise, target platform, model-driven mechanics list, scope."},
+      "depends_on": []
+    },
+    {
+      "id": "canon",
+      "phase": "World",
+      "name": "World bible & voice bibles",
+      "inputs": ["docs/CONCEPT.md"],
+      "outputs": ["CANON.md"],
+      "llm_recipe": "Write world facts, timeline, and per-character voice bibles with mechanically distinct vocabulary and tics (the classifier only sees statistics).",
+      "manual_recipe": "Author or edit CANON.md directly.",
+      "gate": {"kind": "review", "cmd": null, "criteria": "Voices are pairwise distinguishable on paper; timeline has no contradictions; every gameplay noun is named."},
+      "depends_on": ["concept"]
+    },
+    {
+      "id": "format_spec",
+      "phase": "World",
+      "name": "Training-data format spec",
+      "inputs": ["CANON.md"],
+      "outputs": ["FORMAT.md", "model/prepare.py parser section"],
+      "llm_recipe": "Define sample types with exact marker grammar, length bounds, charset rules; write the matching parser.",
+      "manual_recipe": "Edit FORMAT.md; keep parser in sync.",
+      "gate": {"kind": "automated", "cmd": "python3 model/prepare.py 2>&1 | grep -q \"rejected: {}\" && echo PARSER OK", "criteria": "Parser round-trips every sample type with 0 rejects."},
+      "depends_on": ["canon"]
+    },
+    {
+      "id": "corpus",
+      "phase": "Content",
+      "name": "Corpus writing",
+      "inputs": ["CANON.md", "FORMAT.md"],
+      "outputs": ["corpus/raw/*.txt"],
+      "llm_recipe": "Fan out one writer agent per slice (per character, per dialogue theme); each reads both spec docs; plan two rounds, the second targeting whatever round-one training lacked. Include a gibberish-handling slice.",
+      "manual_recipe": "Human writers produce slices against the same FORMAT.md; drop files into corpus/raw/.",
+      "gate": {"kind": "automated", "cmd": "python3 model/prepare.py", "criteria": "0 unparsed blocks; token count >= target (>=400k); per-type minimum counts met."},
+      "depends_on": ["format_spec"]
+    },
+    {
+      "id": "maps",
+      "phase": "Content",
+      "name": "Level / deck design",
+      "inputs": ["docs/CONCEPT.md", "CANON.md"],
+      "outputs": ["data/maps.json"],
+      "llm_recipe": "Generate ASCII deck layouts + entity metadata in maps.json; iterate against the lint.",
+      "manual_recipe": "Edit maps.json by hand, or paint in the Godot editor and export back to JSON.",
+      "gate": {"kind": "automated", "cmd": "node test/maplint.js && godot --headless --path godot -s res://tests/headless_test.gd", "criteria": "Every entity reachable, no void leaks, both engines agree."},
+      "depends_on": ["canon"]
+    },
+    {
+      "id": "story_data",
+      "phase": "Content",
+      "name": "Fixed story beats & endings",
+      "inputs": ["CANON.md"],
+      "outputs": ["data/story.json"],
+      "llm_recipe": "Draft archives (canonical recordings), intro, finale questions, ending frames; these are the hand-authored anchors the generated text hangs on.",
+      "manual_recipe": "Edit data/story.json.",
+      "gate": {"kind": "automated", "cmd": "node tools/build_data.js", "criteria": "Schema valid; every archive key referenced by a map entity exists."},
+      "depends_on": ["canon", "maps"]
+    },
+    {
+      "id": "tuning",
+      "phase": "Content",
+      "name": "Economy & tuning knobs",
+      "inputs": ["docs/CONCEPT.md"],
+      "outputs": ["data/tuning.json"],
+      "llm_recipe": "Propose defaults with rationale; revise from playtest telemetry.",
+      "manual_recipe": "Edit data/tuning.json.",
+      "gate": {"kind": "automated", "cmd": "node tools/build_data.js", "criteria": "Schema valid."},
+      "depends_on": ["concept"]
+    },
+    {
+      "id": "dataset",
+      "phase": "Model",
+      "name": "Dataset build (tokenize + augment)",
+      "inputs": ["corpus/raw/*.txt", "FORMAT.md"],
+      "outputs": ["corpus/build/dataset.npz", "corpus/build/tokenizer.json"],
+      "llm_recipe": null,
+      "manual_recipe": null,
+      "gate": {"kind": "automated", "cmd": "python3 model/prepare.py", "criteria": "Reject count 0; derived-augmentation counts balanced per character."},
+      "depends_on": ["corpus"],
+      "automated": true
+    },
+    {
+      "id": "train",
+      "phase": "Model",
+      "name": "Train the model",
+      "inputs": ["corpus/build/dataset.npz"],
+      "outputs": ["model/ckpt/best.pt", "model/train.log"],
+      "llm_recipe": "Monitor val loss; kill when val rises for 3+ evals; if val was still falling at data exhaustion, order another corpus round instead of more steps.",
+      "manual_recipe": "Same, by a human watching the log.",
+      "gate": {"kind": "automated", "cmd": "grep VAL model/train.log", "criteria": "best.pt exists; val loss <= agreed threshold (GITW reference: 2.80 nats/token)."},
+      "depends_on": ["dataset"],
+      "automated": true
+    },
+    {
+      "id": "export",
+      "phase": "Model",
+      "name": "Quantize & export weights",
+      "inputs": ["model/ckpt/best.pt"],
+      "outputs": ["game/weights.js", "model/test_vectors.json"],
+      "llm_recipe": null,
+      "manual_recipe": null,
+      "gate": {"kind": "automated", "cmd": "python3 model/export.py && node test/parity.js", "criteria": "JS reproduces PyTorch token ids and top-10 logit order exactly; size within page budget."},
+      "depends_on": ["train"],
+      "automated": true
+    },
+    {
+      "id": "calibrate",
+      "phase": "Model",
+      "name": "Calibrate judgment thresholds",
+      "inputs": ["game/weights.js", "corpus/raw/*.txt"],
+      "outputs": ["game/calibration.js"],
+      "llm_recipe": "Write fresh out-of-corpus paraphrases per character for the test set; run calibrate; hand-adjust temperature/threshold for the desired pass-feel.",
+      "manual_recipe": "Same; a human writes the paraphrases and picks thresholds.",
+      "gate": {"kind": "automated", "cmd": "node test/calibrate.js", "criteria": "Paraphrase top-1 >= 80%; gibberish fully separated on both log-prob and token-ratio axes."},
+      "depends_on": ["export"]
+    },
+    {
+      "id": "sample_review",
+      "phase": "Model",
+      "name": "Generation quality review",
+      "inputs": ["game/weights.js"],
+      "outputs": ["docs/sample-review.md"],
+      "llm_recipe": "Generate N samples per prompt family; score coherence / voice / lore 1-5; flag systemic failures (repetition, marker leakage).",
+      "manual_recipe": "A human reads the same samples and scores them.",
+      "gate": {"kind": "review", "cmd": null, "criteria": "Median voice score >= 4; no systemic failure flagged; sampling params (tuning.json) frozen."},
+      "depends_on": ["export"]
+    },
+    {
+      "id": "engine",
+      "phase": "Game",
+      "name": "Engine & systems code",
+      "inputs": ["data/*.json", "docs/CONCEPT.md"],
+      "outputs": ["game/*.js or godot/scripts/*.gd"],
+      "llm_recipe": "Implement systems reading ONLY from data files; every model latency gets diegetic cover; resource drains pause during reading.",
+      "manual_recipe": "Human implements or reviews the same, in Godot editor or code.",
+      "gate": {"kind": "automated", "cmd": "for f in game/*.js; do node --check $f || exit 1; done && node test/maplint.js && (cd test && node smoke.js)", "criteria": "Syntax, lint, and smoke pass; stub LM backend allows engine work before weights exist."},
+      "depends_on": ["maps", "story_data", "tuning"]
+    },
+    {
+      "id": "art",
+      "phase": "Game",
+      "name": "Art pass",
+      "inputs": ["data/maps.json", "docs/CONCEPT.md"],
+      "outputs": ["procedural draw code or godot tilesets/sprites"],
+      "llm_recipe": "Procedural vector/canvas art from the palette; screenshot every scene and actually look at the renders.",
+      "manual_recipe": "Tilesets and sprites in the Godot editor (the natural human step).",
+      "gate": {"kind": "review", "cmd": "screenshot suite", "criteria": "Every deck/screen screenshot approved; readable at target darkness."},
+      "depends_on": ["engine"]
+    },
+    {
+      "id": "audio",
+      "phase": "Game",
+      "name": "Audio pass",
+      "inputs": ["docs/CONCEPT.md"],
+      "outputs": ["synth code or .ogg assets", "in-game mixer"],
+      "llm_recipe": "Synthesized ambience with NO broadband-noise layers; ship a per-channel mixer; ticks felt not heard.",
+      "manual_recipe": "A human with ears in a DAW. LESSON FROM GITW: audio is the step where an LLM most needs a human gate; the first synth pass was fatiguing (static hiss, comic beeps) and shipped only because no one could listen to it.",
+      "gate": {"kind": "review", "cmd": null, "criteria": "A HUMAN listens for 10 minutes with headphones and approves. Never auto-pass this gate."},
+      "depends_on": ["engine"]
+    },
+    {
+      "id": "playtest",
+      "phase": "Release",
+      "name": "Adversarial playtest",
+      "inputs": ["built game"],
+      "outputs": ["findings list with severities + repros"],
+      "llm_recipe": "9-mission agent squad (new-player, judgment mechanics, hostile input, economy, full run, mobile, persistence, model quality, performance) driving the real build via Playwright/GUT; structured findings schema.",
+      "manual_recipe": "Human playtesters with the same mission list.",
+      "gate": {"kind": "automated", "cmd": "findings triage", "criteria": "0 critical/major findings open; every fix re-verified against its repro."},
+      "depends_on": ["engine", "calibrate", "sample_review", "art", "audio"]
+    },
+    {
+      "id": "balance",
+      "phase": "Release",
+      "name": "Balance & ending distribution",
+      "inputs": ["playtest telemetry"],
+      "outputs": ["data/tuning.json (revised)"],
+      "llm_recipe": "Measure a completionist run and a minimal run; set thresholds from measurements, not intuition.",
+      "manual_recipe": "Designer adjusts tuning.json from the same numbers.",
+      "gate": {"kind": "review", "cmd": null, "criteria": "All endings reachable by plausible play styles; economy pressure matches design intent."},
+      "depends_on": ["playtest"]
+    },
+    {
+      "id": "build",
+      "phase": "Release",
+      "name": "Build & package",
+      "inputs": ["everything"],
+      "outputs": ["artifact.html / standalone html / godot exports"],
+      "llm_recipe": null,
+      "manual_recipe": null,
+      "gate": {"kind": "automated", "cmd": "node tools/build_data.js && python3 build_artifact.py", "criteria": "Size budget; no doctype/CSP violations for the artifact target; godot headless test passes."},
+      "depends_on": ["balance"],
+      "automated": true
+    },
+    {
+      "id": "publish",
+      "phase": "Release",
+      "name": "Publish",
+      "inputs": ["builds"],
+      "outputs": ["live URL / itch.io page / store build"],
+      "llm_recipe": "Publish, then smoke-test the LIVE build (load, model online, one full interaction).",
+      "manual_recipe": "Human uploads where accounts are needed (itch.io, stores) and approves the release.",
+      "gate": {"kind": "review", "cmd": "live smoke test", "criteria": "Live build verified; release notes written; owner signs off."},
+      "depends_on": ["build"]
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+[LOG:REYNE:D001]
+Mission day one. The Vesper cleared Meridian Station at 0800 sharp. Crew of five, all aboard, all accounted for. Cho reports the reactor steady at 92 percent. Vega locked our first survey heading by 1100. I walked every deck before we cast off. Six decks, no faults. Good ship. Good crew. My crew now. Reyne out.
+[END]
+
+[LOG:REYNE:D003]
+First formal inspection, Engineering. Started 0900, finished 1040. Coolant loop pressure nominal. Tool board complete, forty one items, forty one hooks filled. Cho talked the whole time. I let him. A chief who talks about his reactor is a chief who watches it. One loose panel by the plasma feed. Fixed before I left the deck. Reyne out.
+[END]
+
+[LOG:REYNE:D005]
+One on one with Cho, 1400, his office in Engineering. Thirty minutes scheduled, fifty used. He wants two extra maintenance windows per month. Approved one. He asked why only one. I told him survey hours come first. He accepted it. He calls the ship she. I call the ship the Vesper. We understand each other. Reyne out.
+[END]
+
+[LOG:REYNE:D008]
+Weather report. The Reach is not weather, but I will treat it as weather for the log. Particle density up 9 percent since D005. Vega says a slow emission front is crossing our survey lane. No hazard at current levels. I set a standing order: any reading over threshold wakes me, any hour. Reyne out.
+[END]
+
+[LOG:REYNE:D010]
+Equipment audit, pressure suits. Seven suits aboard for five crew. All seven cycled and checked, seals sound, tanks full. Suit four has a worn wrist bearing. Cho will replace it by D012. I do not accept six working suits as enough. Seven or nothing. My crew breathes on my count. Reyne out.
+[END]
+
+[LOG:REYNE:D012]
+I keep one habit from my first command. Coffee at 0500, alone, in the Docking Ring, before the watch changes. Ten minutes. No reports, no intercom. I look at the outer hatch and I remember what is on the other side of it. Then I go to work. Logged here once so the habit is on record. Reyne out.
+[END]
+
+[LOG:REYNE:D015]
+Inspection, Hydroponics, 0900 to 1000. Kit runs a clean deck. Racks numbered, hoses coiled, misting lines free of scale. Water draw is 4 percent under budget. She has named the tomato vine. I did not enter the name in the inventory. Produce yield ahead of plan. Best deck on the ship this week. Reyne out.
+[END]
+
+[LOG:REYNE:D017]
+One on one with Vega, 1300 on the Bridge. He does not sleep enough. He logged star sightings at 0300 four nights running. I ordered six hours of rack time minimum. He agreed too quickly. I will check the Bridge logs. A tired navigator is a hazard, and the Reach does not forgive sloppy plots. Reyne out.
+[END]
+
+[LOG:REYNE:D019]
+Wrote a message to my mother tonight. Four lines. Read it twice. Deleted it. The comm window to Meridian Station opens D028 and traffic is for mission data, not for a captain telling her mother the food is fine. The food is fine. She knows I am fine. That is the arrangement. Reyne out.
+[END]
+
+[LOG:REYNE:D022]
+Audit of air scrubbers, all decks. Twelve units, twelve inspected. Filter stock at 96 percent. Unit nine on the Med Bay deck runs 2 degrees warm. Okafor noticed it before I did. Cho swapped the fan by 1600. Air is the first thing I count and the last thing I stop counting. Reyne out.
+[END]
+
+[LOG:REYNE:D025]
+Reach conditions. Dust density doubled over eighteen hours, then dropped back by 2200. Vega calls it a squall. I adopted the word for the log because it is short and the crew understand it. Operational effect: survey sensors ran degraded for one shift. No damage. We log it and move on. Reyne out.
+[END]
+
+[LOG:REYNE:D027]
+Inspection, Med Bay, 0830. Okafor keeps his deck like a ledger. Saline stock counted, 60 units. Dosage cabinet locked, log current. Autoclave cycle records complete. One deficiency: the spare stretcher was stowed loose. Corrected on the spot. I told him his counts are the best aboard. He said counting calms him. Reyne out.
+[END]
+
+[LOG:REYNE:D030]
+One on one with Okafor, 1500. He is steady. He worries about the others more than himself, which is correct for a medic and a risk in a medic. He flagged Vega's sleep and Kit's meal skipping. I gave him standing authority to enforce sleep cycles on my order. He asked for nothing for himself. Noted. Reyne out.
+[END]
+
+[LOG:REYNE:D033]
+Night walk, 2200. Bridge to Docking Ring, every deck between. Sixteen minutes at inspection pace. I fix nothing on these walks. I touch each hatch frame once as I pass. It is not procedure. It is how I learn the sound of a healthy ship, so I will know the sound of a sick one. Reyne out.
+[END]
+
+[LOG:REYNE:D036]
+Lifeboat audit. One boat, capacity six, docked in the Docking Ring. Batteries at 100 percent. Rations sealed, water sealed, beacon tested at 1100. Release clamps cycled twice. The boat is rated for forty days. Meridian Station is farther than forty days. I keep the boat perfect anyway. Reyne out.
+[END]
+
+[LOG:REYNE:D039]
+Radiation event, minor. A flare somewhere in the Reach pushed our exterior counters up for three hours. Well under crew limits. Protocol executed cleanly: outer work canceled, ECHO tracked dosage on all decks. First live test of the storm procedures. Pass. I want the next drill faster anyway. Reyne out.
+[END]
+
+[LOG:REYNE:D041]
+Inspection, Docking Ring, 0900. Clamps one through four cycled. Outer hatch seal within tolerance. Salvage locker inventoried, complete. The deck is cold this week, 2 degrees under standard. Cho traced it to a duct damper and reset it. A cold deck is a small fault. Small faults are where I live. Reyne out.
+[END]
+
+[LOG:REYNE:D044]
+One on one with Kit, 1000, in Hydroponics because she asked. She is happiest on her own deck, so I hold her reviews there. She requested seed stock from the next resupply. Approved. She showed me a fern she calls Bea. I inspected the fern. The fern is healthy. So is the botanist. Reyne out.
+[END]
+
+[LOG:REYNE:D047]
+Started a message to my sister at 2100. Got as far as telling her the Reach is bright on the forward glass at night. Stopped. Deleted it. She would ask when I am coming home and I do not answer questions I cannot answer. The mission is 400 days. I will write her at day 400. Reyne out.
+[END]
+
+[LOG:REYNE:D050]
+Day fifty. I authorized a crew dinner in Hydroponics, 1900, all five of us. Kit provided tomatoes, first harvest. Okafor counted them aloud, fourteen. Cho and Vega argued about music for one hour. Nothing on this ship needed me tonight. That is what a good day fifty looks like. Reyne out.
+[END]
+
+[LOG:REYNE:D053]
+Tool audit with Cho, Engineering. Every wrench, every driver, every gauge, checked against the manifest. One torque wrench unaccounted for at 1400. Found at 1520, left in a service duct by Cho himself. He logged his own infraction without being told. That is why he is my chief. Reyne out.
+[END]
+
+[LOG:REYNE:D056]
+Reach conditions calm for six straight days. Particle counts flat, emission readings low. Vega enjoys the clear survey lanes. I do not enjoy long calm. Calm makes a crew slow. I scheduled a suit drill for D058 and did not announce it. Results will be logged honestly. Reyne out.
+[END]
+
+[LOG:REYNE:D059]
+Inspection, Bridge, 0800. Consoles clean, plots current, forward glass free of pitting. Vega's station is the one untidy square meter on my ship. Charts, notes, a cold cup. I let it stand. His plots are exact and his headings are sound. I inspect results first and habits second. Reyne out.
+[END]
+
+[LOG:REYNE:D062]
+Every tenth day I read the crew manifest start to finish. Five names, five specialties, five next of kin. It takes two minutes. I do it so the names never become furniture. Cho. Okafor. Vega. Aune. Reyne. A captain who forgets she is on her own manifest makes bad trades. Reyne out.
+[END]
+
+[LOG:REYNE:D065]
+One on one with Cho, 1400. Reactor holding at 94 percent, his best number yet. He talked for ten minutes about the sound of the engines. He says a healthy engine sings. I asked for the figure behind the song. Vibration is down 6 percent since D030. The figure is good. The song can stay. Reyne out.
+[END]
+
+[LOG:REYNE:D068]
+Ration audit, ship's stores. Counted with Okafor as witness. Consumption tracking 3 percent under plan, thanks to Hydroponics yield. Reserve untouched, sealed, 90 days for five crew. I verified the seals myself, every case. Hunger is a failure of command before it is anything else. Reyne out.
+[END]
+
+[LOG:REYNE:D071]
+Vega delivered his first formal Reach forecast today. Emission trends, particle fronts, projected sensor windows for ten days out. I made it a standing product, filed every fifth day. If the Reach has weather, then my ship has a forecast. We plan sweeps around it starting D075. Reyne out.
+[END]
+
+[LOG:REYNE:D074]
+Inspection, the Core, 0900. ECHO's deck. Cooling nominal, memory banks green, backup power tested. I spoke the inspection aloud so ECHO could log it in parallel. It answered each item in under a second. It asked if the crew were well. I said yes. It said good. That was the whole exchange. Reyne out.
+[END]
+
+[LOG:REYNE:D077]
+Drafted a message to my father, 2200. He served on survey ships before me. I wanted to tell him the Vesper handles clean and the crew is better than I deserve. Deleted it. He taught me that a captain does not spend comm bandwidth on pride. He would have deleted it too. Reyne out.
+[END]
+
+[LOG:REYNE:D080]
+One on one with Vega, 0700. Early on purpose. He had slept, for once. We reviewed his plots and his hours. He said the Reach is easier to read at 0300. I said a navigator is easier to lose at 0300. Compromise: two late watches a week, logged, and full rack time after. He shook on it. Reyne out.
+[END]
+
+[LOG:REYNE:D083]
+Before I sleep I say the crew's names once, in watch order. Vega. Cho. Aune. Okafor. Then my own. It is not superstition. It is a checklist. Four people are breathing because of decisions I made or failed to make today. Saying the names keeps the count honest. Reyne out.
+[END]
+
+[LOG:REYNE:D086]
+Door seal audit, all decks. Thirty two seals, thirty two tested. ECHO cycled each one while I stood at the frame and listened. Two seals showed slow close times, both on the Hydroponics deck. Cho serviced both by 1700. The doors are the ship's first protocol. They will work when asked. Reyne out.
+[END]
+
+[LOG:REYNE:D089]
+Particle storm passed through our lane overnight, the largest yet. Counters peaked at 0340, back to baseline by 0900. Crew slept through it. ECHO held every reading inside limits and woke no one but me. Operational cost: one canceled sensor sweep. Acceptable. The Reach sets the schedule some days. Reyne out.
+[END]
+
+[LOG:REYNE:D092]
+Inspection, Hydroponics. Yield up again, water use down. Kit has extended the racks by one row without asking. The row is well built and inside power budget, so the infraction is noted and forgiven in the same line. I told her to request first next time. She smiled and agreed. She will do it again. Reyne out.
+[END]
+
+[LOG:REYNE:D095]
+One on one with Okafor, 1500. He reports zero significant medical events in ninety five days. He does not trust the number. Neither do I. We agreed to add a monthly full physical for each crew member, starting with me. A captain who skips the needle teaches her crew to skip it. Reyne out.
+[END]
+
+[LOG:REYNE:D098]
+Drill day. Simulated pressure loss on the Bridge, unannounced, 0615. All hands in suits and mustered in four minutes ten seconds. Standard is five. Cho was fastest. Kit was last and still inside standard. Debrief at 0700, ten minutes, no blame, two fixes. We drill so the bad day is boring. Reyne out.
+[END]
+
+[LOG:REYNE:D101]
+One hundred days out from Meridian Station. I began a message to an old shipmate there, Harlan, dock chief. Wrote one line: the ship is sound. Stopped. He would read the rest between the words anyway. Saved it to drafts. Drafts is where my letters live. The count there is now four. Reyne out.
+[END]
+
+[LOG:REYNE:D104]
+Emergency beacon audit. Three beacons: lifeboat, Bridge, Docking Ring. All three tested on low power at 1000. Signal clean on all bands. Battery replacement due D250, logged and scheduled. A beacon is the one machine aboard I hope never earns its keep. It will be ready regardless. Reyne out.
+[END]
+
+[LOG:REYNE:D107]
+New standing procedure for deep sweeps. During high resolution survey runs we take the ship to half power to quiet the sensors. Cho dislikes throttling his reactor. Vega loves the clean data. I weighed it. Science is the mission. Half power sweeps approved, two per month, weather permitting. Reyne out.
+[END]
+
+[LOG:REYNE:D110]
+Inspection, Engineering, 0900. The deck smells of clean lubricant, which is the correct smell. Coolant loop within one degree of spec. Manifold guards secured. Cho has painted a small name under the reactor housing. Against regulation. I read it, said nothing, and logged the deck as excellent. Reyne out.
+[END]
+
+[LOG:REYNE:D113]
+One on one with Kit, 1000. She reported on plants by name for six minutes. Old Tom the tomato vine is producing. Bea the fern doubled. I asked for numbers and she had them ready behind every name. Yield, water, power. She thinks I indulge her. In fact her deck is my calmest hour. Reyne out.
+[END]
+
+[LOG:REYNE:D116]
+For the record, since Okafor asked about it. The mug I use at 0500 is standard issue, gray, chipped at the handle. It came with me from my last ship. I do not replace equipment that still serves. That applies to mugs and it applies to captains. End of personal note. Reyne out.
+[END]
+
+[LOG:REYNE:D119]
+The Reach is bright this week. Emission glare on the forward glass measured high enough that Vega dimmed the Bridge for night watches. Operational note: glare degrades visual checks, so I moved exterior camera inspections to the dim hours. The view does not go in the log. The lumen count does. Reyne out.
+[END]
+
+[LOG:REYNE:D122]
+Medical stock audit with Okafor, 0900 to 1100. Saline 58 units, two used for a burn on Cho's forearm, minor, healing. Dosage counts match the log to the tablet. Expiry sweep done, nothing lapsed. Okafor requested an increase in saline at next resupply. Approved without discussion. Reyne out.
+[END]
+
+[LOG:REYNE:D125]
+Inspection, Docking Ring. Clamp three showed a slow release, 1.8 seconds against a 1.2 standard. Cho and I stripped it together, found a worn bearing, replaced it, retested at 1500. Release now 1.1. I like days when the fault is small, the fix is clean, and the log is short. Reyne out.
+[END]
+
+[LOG:REYNE:D128]
+One on one with Cho, 1400. Subject: paperwork. His maintenance logs run three weeks behind his maintenance. The work is superb and the record is a disgrace. I gave him a deadline of D135 and a bargain: one extra maintenance window per month if the logs stay current. He took the deal. Reyne out.
+[END]
+
+[LOG:REYNE:D131]
+Tried again to write my sister. Told her the crew had a good week, that we are one hundred thirty one days out, that the Reach reads well on the instruments. Read it back. It sounded like a report. Everything I write sounds like a report. Deleted it. Drafts count: five. Reyne out.
+[END]
+
+[LOG:REYNE:D134]
+Habit on record: I eat last. At crew meals I take my tray after the other four have theirs. Okafor noticed in the first month. Kit noticed this week and asked why. I told her the truth. If stores ever run short, the shortage reaches me first. That is the whole policy. Reyne out.
+[END]
+
+[LOG:REYNE:D137]
+Emission bloom reported by Vega at 0500, dead across our planned survey lane. Sensor damage possible at those levels. I rerouted the sweep two degrees south of the bloom and we lost nine hours of survey time. The Reach charges tolls. We pay them in hours, never in crew. Reyne out.
+[END]
+
+[LOG:REYNE:D140]
+Spare parts audit, full manifest, all day. Result: 97 percent accounted. Missing items: two valve kits and a filter housing, all traced to repairs logged under the wrong codes. Corrected. Cho's new logging habit held through the audit. I told him so in front of Vega. Praise is equipment too. Reyne out.
+[END]
+
+[LOG:REYNE:D143]
+Inspection, Med Bay, 0830. Deck immaculate. Okafor was mid task, restocking the burn kit, counting under his breath. I waited until he finished the count before speaking. Interrupting his numbers is the one discourtesy he minds. Inspection complete by 0910. No deficiencies. Reyne out.
+[END]
+
+[LOG:REYNE:D146]
+One on one with Vega, held at 0300 by exception, on his ground for once. The Bridge was dark, the Reach bright through the glass. He talked headings and I talked hours, same as always. But his plots for the outbound legs are the finest survey work I have signed. I told him plainly. Reyne out.
+[END]
+
+[LOG:REYNE:D150]
+Day one hundred fifty. I walked all six decks in mission order, Docking Ring to Core, one full hour. Not an inspection. A review. The Vesper at 150 days is tighter than she was at launch. That is the crew's doing. My crew. I put it in the log because they will never say it themselves. Reyne out.
+[END]
+
+[LOG:REYNE:D153]
+Nine days of low readings across the Reach. Vega's forecast says quiet through D160. I do not plan by quiet. I moved the quarterly suit drill up a week and ordered ECHO to run door cycle tests each night watch. If the calm holds, we lose nothing. If it breaks, we are already moving. Reyne out.
+[END]
+
+[LOG:REYNE:D156]
+Comm array audit. Transmitter, receiver, backup antenna, all tested against Meridian Station's beacon at 1200. Signal delay now forty one minutes each way. Every message home is a letter, not a conversation. The crew know it. I schedule comm windows anyway. Routine is a kind of range. Reyne out.
+[END]
+
+[LOG:REYNE:D159]
+Inspection, Bridge, with attention to the forward glass. Micrometeorite pitting measured at three points, all within tolerance, logged for trend. Vega keeps a soft cloth by his station and wipes the glass at watch change. That is not procedure either. The glass is the cleanest surface aboard. Reyne out.
+[END]
+
+[LOG:REYNE:D163]
+One on one with Okafor, 1500. Morale review, all hands. His assessment: Cho content, Kit thriving, Vega stretched but stable, captain unreadable. He said the last part to my face. I told him unreadable is a duty of the office. He said even so, his door logs no rank. Noted with respect. Reyne out.
+[END]
+
+[LOG:REYNE:D166]
+Recorded a voice message for my mother tonight instead of writing. Ninety seconds. Played it back. My voice sounded like a change of watch announcement. Erased it. Some captains manage both registers. I have one register. She raised me, so she knows what silence from me means. It means fine. Reyne out.
+[END]
+
+[LOG:REYNE:D170]
+Water reclamation audit. Recovery efficiency 98.2 percent, best figure of the mission. Kit and Cho rebuilt the condenser feed last month on their own initiative and it shows. I logged a joint commendation, first of the mission. Two names on one line. They earned the line. Reyne out.
+[END]
+
+[LOG:REYNE:D173]
+Vega's Reach forecasts have run twenty issues. Accuracy inside his own error bars nineteen times. I made the forecast the first item at morning muster, before status, before tasking. On a survey ship the sky is the workload. His words, my order of business. Reyne out.
+[END]
+
+[LOG:REYNE:D177]
+Inspection, the Core, 0900. Full ECHO diagnostic, quarterly. All banks green. Response time steady. ECHO asked me a question this quarter: whether the crew sleeps well. I said mostly, yes. It said it watches over the sleep cycles. I confirmed that is its job. It seemed satisfied. Logged verbatim. Reyne out.
+[END]
+
+[LOG:REYNE:D180]
+One on one with Kit, 1000. Old Tom the tomato vine has passed one hundred fruit, her count. Her request this quarter: grow flowers in rack nine, no food value, morale only. Cost is two liters of water a week. Approved. I signed the requisition under the reason line: crew welfare. Reyne out.
+[END]
+
+[LOG:REYNE:D184]
+Habit on record. At 2300 I write three lines in a private notebook. What went wrong today. What went right. What I owe tomorrow. Paper, not the system. Some accounting a captain keeps off the network, not because it is secret, but because it is hers. Tonight all three lines were short. Reyne out.
+[END]
+
+[LOG:REYNE:D187]
+Micro flare at 1122, no warning from the forecast. Counters spiked for eleven minutes. Kit was in the greenhouse row nearest the hull. Dose logged: negligible, confirmed by Okafor at 1300. Vega took the miss hard. I told him the standard is a good forecast, not a perfect one. Review filed. Reyne out.
+[END]
+
+[LOG:REYNE:D191]
+Tool return audit, spot check, unannounced. Engineering board complete. Med Bay complete. Hydroponics missing one pruning knife, found in Kit's apron pocket, returned, logged. She apologized twice. I told her once was regulation. The board exists so that at 0300 in smoke, hands find tools. Reyne out.
+[END]
+
+[LOG:REYNE:D194]
+Inspection, Hydroponics. Humidity ran 4 percent over spec in the seedling row. Kit did it on purpose for germination and had documented the deviation in her deck log, with dates and a restore plan. That is exactly how it is done. I countersigned the deviation and inspected the seedlings. Green. Reyne out.
+[END]
+
+[LOG:REYNE:D198]
+My nephew turns seven today, Meridian Station calendar. I wrote him two sentences about the ship and drew the Vesper in the margin, badly. Scanned it, queued it, then pulled it from the queue at 2340. He will get a better letter when I can hand it to him. Drafts count: six. Reyne out.
+[END]
+
+[LOG:REYNE:D201]
+One on one with Cho, 1400. He reports the bearings he replaced at D125 running perfect. Then he asked for something rare: a day off the watch rotation. First such request of the mission. Granted for D205. A chief who asks for rest before he breaks is worth two who never ask. Reyne out.
+[END]
+
+[LOG:REYNE:D205]
+I took Cho's watch myself today rather than shuffle the rotation. Eight hours in Engineering, his checklists, his rounds. The reactor held 94 percent all shift and I understood one tenth of what the deck was telling me. Command means knowing exactly how much you depend on your people. Reyne out.
+[END]
+
+[LOG:REYNE:D209]
+Quarterly suit audit. Seven suits, seven passed. Suit four's replaced wrist bearing shows no wear. Tank refill times improved since we moved the compressor. New standard set: full crew suited in four minutes flat by D250. Cho says three fifty is possible. I wrote down four. Then I wrote his number under it. Reyne out.
+[END]
+
+[LOG:REYNE:D213]
+Dust passage overnight, dense enough that particle impacts registered on the hull sensors, a steady faint reading from 0200 to 0600. Cho inspected the plating at first watch, no measurable erosion. I logged the event in full anyway. The Reach touches the ship. I write down every touch. Reyne out.
+[END]
+
+[LOG:REYNE:D217]
+Inspection, Docking Ring, with full salvage locker inventory. All grapnels, lines, and patch kits accounted. Outer hatch seal replaced on schedule though it tested fine. Spares do not gain value sitting in a drawer while a rated part wears. Kit calls this deck cold and empty. It is my favorite deck. It is where we go home from. Reyne out.
+[END]
+
+[LOG:REYNE:D221]
+One on one with Vega, 1300. He asked how far we are from Meridian Station and then answered himself to four decimal places. Homesick, in his way. I told him the truth I use for myself. Distance is a number, and numbers do not get to give orders. He wrote that down. Odd man. Fine navigator. Reyne out.
+[END]
+
+[LOG:REYNE:D225]
+Drafted a message to Captain Iber, my first CO, retired on Meridian Station. Wanted to ask her a question I could not ask while serving under her: whether the weight of five lives gets lighter with practice. Deleted it. I already know her answer. It does not. You just carry better. Reyne out.
+[END]
+
+[LOG:REYNE:D229]
+Fire suppression audit, all decks. Nozzle checks, bottle pressures, sensor tests. One pressure bottle in Engineering read 3 percent low and was swapped. Fire is the shortest word on my hazard list and the top of it. Drill scheduled D233. The crew do not know yet. They will do fine. Reyne out.
+[END]
+
+[LOG:REYNE:D233]
+Forecast miss, larger this time. Vega called clear lanes and the Reach delivered an emission front instead. Half power sweep aborted forty minutes in, sensors safed, no damage. Vega filed his own error review before I asked for one. Standing order confirmed: we abort early, always. Hours are cheap. Reyne out.
+[END]
+
+[LOG:REYNE:D237]
+Inspection, Engineering, coolant loop day. Cho drained and refilled loop two with me watching the gauges. Flow rates exactly on spec at every valve. He patted the manifold when it finished. I have stopped noting that in the deficiency column. His deck sings, his word, and his numbers prove it. Reyne out.
+[END]
+
+[LOG:REYNE:D241]
+One on one with Okafor, 1500. I asked about his hands. He was a surgeon on Meridian Station before he shipped out, and out here his hands mostly count stock and take pulses. He said hands are for whatever the day needs, and that quiet hands mean a lucky ship. I logged the whole answer. Reyne out.
+[END]
+
+[LOG:REYNE:D245]
+Every seventh day I square my quarters and polish my boots. There is no parade out here and no one inspects the captain. That is exactly why. Standards a person keeps when no one checks are the only standards they truly have. Quarters squared. Boots polished. Week closed. Reyne out.
+[END]
+
+[LOG:REYNE:D249]
+New storm watch arrangement with ECHO, effective today. ECHO monitors the Reach counters continuously and alerts me at two thresholds, advisory and immediate. We tested the chain at 1400. From sensor spike to my ear: nine seconds. ECHO asked if nine seconds was fast enough. I said yes. It said it could be faster. Reyne out.
+[END]
+
+[LOG:REYNE:D253]
+Airlock audit. Cycle counters read: Docking Ring outer, 214 cycles. All within service life. Seal wear measured and logged for trend. I operate the outer hatch myself once each audit, both directions, full procedure. The captain's hands stay current on every door that keeps the dark out. Reyne out.
+[END]
+
+[LOG:REYNE:D257]
+Inspection, Med Bay. Autoclave serviced, cycle time back to spec. Okafor has posted a small card above his desk listing our five blood types. I asked why it was on paper. He said paper works when nothing else does. I had Kit laminate copies for every deck by end of watch. Good idea, logged and spread. Reyne out.
+[END]
+
+[LOG:REYNE:D261]
+One on one with Kit, 1000. She walked me through the seed vault, four hundred varieties in cold stow. She said if the mission fails, the vault is still worth carrying home. I corrected one word. The mission is my crew, and the mission will not fail. The vault got recounted anyway. Full. Reyne out.
+[END]
+
+[LOG:REYNE:D266]
+Message to my sister, attempt seven. I told her about the flowers Kit grows in rack nine, and that the Reach through the forward glass is the brightest thing I have served under. Two honest sentences, no report language. My best draft yet. I still did not send it. I am not ready to explain why. Reyne out.
+[END]
+
+[LOG:REYNE:D270]
+Monthly ritual, on record. I reread our mission orders start to finish, all nine pages, first day of each month. Survey the Reach. Chart the emission structures. Bring the data home. Bring the crew home. The last line is not written in the orders. I add it. It outranks the other three. Reyne out.
+[END]
+
+[LOG:REYNE:D275]
+Two day blow across the survey lane, the longest event logged this mission. Outer work canceled, sweeps canceled, crew confined to inner decks per protocol. We used the time. Cho serviced pumps, Kit repotted, Okafor ran physicals, Vega refined the forecast model. Weather sets the schedule. It does not set the standard. Reyne out.
+[END]
+
+[LOG:REYNE:D280]
+Ration audit found a discrepancy: two protein packs short against the ledger. I do not let counts drift, even by two. Traced by evening. Cho ate them on a double watch at D271 and forgot the ledger entry. Fine: he inventories the entire dry store D282, alone. The ledger is whole again. Reyne out.
+[END]
+
+[LOG:REYNE:D285]
+Inspection, Bridge instruments, calibration day. All survey sensors checked against reference sources, drift corrected, results filed for Meridian Station. Our charts of the Reach now cover more sky than any survey on record, Vega's claim. I verified it against the registry before logging it. It holds. Reyne out.
+[END]
+
+[LOG:REYNE:D290]
+Cho's birthday. Kit grew him a pepper plant, his request from months back. Okafor baked something dense from ration flour. Vega gave him a chart with the ship's position on Cho's last five birthdays marked. I gave him a maintenance window, no questions asked, redeemable any day. He laughed hardest at mine. Reyne out.
+[END]
+
+[LOG:REYNE:D295]
+The Reach has brightened 11 percent over three weeks, Vega's measurement. Cause unknown, hazard assessment unchanged, all counters normal. Scientific interest is high and Vega has doubled his sample rate. Operationally I have added one requirement: the moment interesting becomes dangerous, we point home. Reyne out.
+[END]
+
+[LOG:REYNE:D302]
+Lifeboat drill, full crew, unannounced, 0530. Muster to boarded and sealed: six minutes forty. Standard is eight. Kit forgot her med card and went back for it, twenty seconds lost. Debrief finding: med cards now live in the suit lockers, not the quarters. Fix the system, not the person. Reyne out.
+[END]
+
+[LOG:REYNE:D311]
+Three hundred eleven days. I opened my drafts folder tonight and read all seven unsent letters in order. My sister, my mother, my father, Harlan, Iber, my nephew, my sister again. Together they say one thing I never quite wrote: I am where I should be, doing what I am for. Kept them all. Sent none. Reyne out.
+[END]
+
+[LOG:REYNE:D320]
+Full ship walk, all six decks, four hours with each department head on their own ground. Docking Ring, Hydroponics, Med Bay, Engineering, Bridge, Core. Findings: eleven minor items, zero major, best result of the mission. I told the crew at dinner. My crew keeps a taut ship. It is in the log now. Reyne out.
+[END]
+
+[LOG:REYNE:D329]
+One on one with Vega, 1300. Routine contingency review. He keeps escape vectors plotted from every survey position, updated daily, filed under emergency planning. Some captains would call it morbid. I call it navigation. I countersigned the current set. We will never need them. We keep them anyway. Reyne out.
+[END]
+
+[LOG:REYNE:D338]
+The names before sleep, still. Vega. Cho. Aune. Okafor. Reyne. Three hundred thirty eight nights now. Okafor once asked what I do if I fall asleep mid list. I told him the truth. I start over. The count does not carry from yesterday. Every day the five of us are earned again. Reyne out.
+[END]
+
+[LOG:REYNE:D347]
+Highest Reach readings of the mission today, sustained six hours, still 30 percent under crew limits. ECHO tracked dosage by deck and by person without being asked. Vega's forecast called it two days early, his best lead time yet. The system works. I logged commendations for both. Yes, both. Reyne out.
+[END]
+
+[LOG:REYNE:D356]
+Audit, ECHO memory core, semiannual. Storage integrity 100 percent. Every log, every chart, every voice recording since Meridian Station, intact. ECHO asked whether it should keep the crew's personal recordings past mission end. Policy says purge. I overrode policy. Keep them, I said. It said: I will keep them. Reyne out.
+[END]
+
+[LOG:REYNE:D365]
+One year under way. Dinner in Hydroponics, all five, two hours. Kit's flowers on the table. I stood and said twelve words: one year, no injuries beyond a burned forearm, finest crew I have served with. Then I sat down before my voice did anything unbecoming. Wrote my sister afterward. Deleted it. Reyne out.
+[END]
+
+[LOG:REYNE:D376]
+Inspection, Docking Ring, 0900. Clamps, seals, locker, beacon, all green. I stayed on the deck twenty minutes past the checklist, by the outer hatch. In 24 days we turn for Meridian Station. I allowed myself to think about the dock, the noise, the mail. Then I went back to work. Reyne out.
+[END]
+
+[LOG:REYNE:D388]
+Routine day. Tomorrow we run a half power survey sweep at 0600, the deep scan Vega has wanted all mission. Forecast is clear. Cho will hold the reactor low, Kit is minding her seedlings, Okafor has the watch tonight. I did the night walk early and every deck sounded right. My crew is asleep. Reyne out.
+[END]

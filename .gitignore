@@ -1,0 +1,32 @@
+# dependencies & build output
+node_modules/
+dist/
+artifact.html
+ghost-in-the-wreck.html
+*.zip
+
+# Training artifacts. game/weights.js (the shipped int8 model) and
+# model/ckpt/best.pt (the 2.5 h PyTorch checkpoint, 11 MB) ARE committed:
+# best.pt is what you need to fine-tune or re-export without retraining.
+model/ckpt/*
+!model/ckpt/best.pt
+model/train.log
+corpus/build/dataset.npz
+nohup.out
+
+# test output
+test/shots/
+*.pdf
+docs/slide-*.jpg
+docs/thumbnails*.jpg
+
+# factory run state for this project (see wreck-works)
+.factory/
+
+# godot editor cache
+godot/.godot/
+
+# python
+__pycache__/
+*.pyc
+.venv/

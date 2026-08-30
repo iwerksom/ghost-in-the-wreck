@@ -1,0 +1,399 @@
+[LOG:OKAFOR:D014]
+Patient presents with a burned forearm, second degree, palm sized. Cho again, leaning too close to the coolant loop while it vented. Dressed and wrapped, dosage of analgesic logged. She apologized to the pipe before she apologized to me. Second burn this month. I told her the ship can take care of itself. She smiled like she did not believe a word of it.
+[END]
+
+[LOG:OKAFOR:D203]
+Vega came by at 0300 asking for something to help with sleep. I offered a mild sedative and a lecture on sleep cycle hygiene. He took the lecture and left the pills. Says the stars keep better company than dreams do. I logged it as insomnia, chronic, patient noncompliant. Privately I logged it as Sol being Sol. His vitals are fine. His hours are not.
+[END]
+
+[LOG:OKAFOR:D089]
+Inventory day. Saline, forty two bags. Gauze rolls, sixty. Dermal patches, one hundred and twelve. Antiseptic, eleven bottles. We are well stocked for a crew of five in the middle of nowhere. I count these things the way Kit counts seedlings, I think. It is a way of saying we intend to be here a while, and to be well.
+[END]
+
+[LOG:OKAFOR:D330]
+Dinner in the galley, all five of us for once. Kit brought tomatoes from Old Tom, first ripe ones in weeks, and Cho told the story about the manifold on Meridian Station again, louder this time. The captain almost laughed. I counted three helpings for Vega, which for him is a feast. Nobody needed me tonight. Those are the good days.
+[END]
+
+[LOG:OKAFOR:D047]
+Patient presents with a puncture wound, left thumb, shallow. Kit, arguing with a thorned cutting in Hydroponics. Cleaned and sealed. She held the injured hand away from the plant the whole time so she would not drip on the soil. I have treated soldiers with less discipline. Told her to wear the gloves. She said the roots like bare hands. Vitals excellent. Gloves unlikely.
+[END]
+
+[LOG:OKAFOR:D371]
+Captain Reyne submitted to her quarterly physical today, on schedule to the minute, as always. Blood pressure good, reflexes sharp, shoulders like knotted cable. I recommended rest. She recommended I finish the exam. Ten watches on and she still stands like the ship would drift without her posture holding it. Maybe it would. Logged fit for duty. Of course.
+[END]
+
+[LOG:OKAFOR:D008]
+First week out from Meridian Station and the med bay is finally arranged the way I like it. Saline forward, trauma kit by the door, hands within reach of everything. Three patients so far, all minor. A crew shakes itself down like a new pair of boots. Small blisters now so there are no wounds later. I can live with blisters.
+[END]
+
+[LOG:OKAFOR:D256]
+Cho dropped a torque wrench on her foot in Engineering. Nothing broken, imaging clean, bruising impressive. She spent the whole exam talking about how the old girl's bearings sound sweeter since the refit, hardly noticed me at all. Ice, elevation, light duty for two days. She heard light duty and grieved. The foot will forgive her before she forgives me.
+[END]
+
+[LOG:OKAFOR:D118]
+Sleep survey, monthly. Reyne, six hours, regular as protocol. Kit, seven, up with the light-lamps. Cho, six, interrupted twice by an alarm only she heard. Vega, three, maybe four, all of them after 0300. Me, I did not put myself on the chart. Second month running the navigator holds the worst numbers on the ship. I will keep watching. Somebody has to sleep so he does not have to.
+[END]
+
+[LOG:OKAFOR:D290]
+Patient presents with eye strain and a headache behind the glass, his words. Vega, twelve hours at the forward console charting the Reach. Prescribed darkness, hydration, and looking at something nearer than a lightyear away. He asked if a face counts as something near. I said yes. He went to dinner instead of his bunk, which for him is progress.
+[END]
+
+[LOG:OKAFOR:D033]
+Kit brought me a fern cutting for the med bay shelf, says the green is good for my patients. Named it already, of course. I put it where the light falls in the afternoon watch. Strange how a room built for blood and saline softens with one growing thing in it. Three people commented on it today. None of them were sick. They came in anyway. That is the fern working, she would say.
+[END]
+
+[LOG:OKAFOR:D344]
+Restocked the trauma kit and rotated the expired dosage stock out of the cabinet. Two vials of sedative past date, logged and destroyed per protocol. The captain countersigned without a word, then asked, quietly, if the crew was well. I said the crew was well. She nodded like a woman setting down a heavy box. She carries the five of us further than she admits.
+[END]
+
+[LOG:OKAFOR:D162]
+Patient presents with a lacerated knuckle, right hand. The captain, of all people, caught it on a hatch rim in the Docking Ring during inspection. Two stitches. She watched me work like she was auditing the procedure. Asked for the suture count for her report. Two, I said. She wrote down two. I do not know what I expected.
+[END]
+
+[LOG:OKAFOR:D275]
+Quiet day. I sharpened scissors, folded gauze, counted saline again though the count has not changed since the last count. Forty bags. A medic on a healthy ship is a lighthouse keeper on a calm sea. You keep the light on anyway. Kit says the plants grow whether you watch or not, but she watches. I understand her completely.
+[END]
+
+[LOG:OKAFOR:D101]
+Cho again. Patient presents with a singed eyebrow and no remorse. Plasma feed test in Engineering ran hot and she leaned in to listen to it, actually listen, ear toward the housing. I asked if the engine said anything worth the eyebrow. She said it sang. Applied salve. Eyebrows regrow. Engineers, apparently, do not learn.
+[END]
+
+[LOG:OKAFOR:D219]
+Vitamin levels for the whole crew, drawn and run. Kit is low on iron, which she blames on giving her best vegetables away at dinner. Supplement issued. Everyone else within range. Five healthy people in a metal shell in the Reach, hearts all beating within a few points of each other. I read the numbers twice, just to enjoy them.
+[END]
+
+[LOG:OKAFOR:D356]
+Dinner tonight was Cho's turn to cook, which means everything tasted faintly of determination. Vega composed a toast to a star I cannot pronounce, third one this week. Kit laughed until she needed water. Reyne allowed the noise a full hour past schedule. I sat and watched my whole caseload be happy at once. Best clinical outcome I know of.
+[END]
+
+[LOG:OKAFOR:D072]
+Patient presents with lower back strain. Kit, moving planter beds alone in Hydroponics instead of asking for help. Heat, rest, and a mild analgesic. I asked why she did not call Cho for the lifting. She said Cho was busy and the tomatoes were not. Old Tom outranks us all, apparently. Two days of light duty, which she will spend crouched over seedlings anyway.
+[END]
+
+[LOG:OKAFOR:D137]
+The captain has a headache she did not report. I know because she pressed two fingers to her temple during the morning briefing, twice, the same way she did on D131. I left analgesics on her console with the dosage written out and no note. They were gone by the evening watch. We have an understanding, she and I. Neither of us mentions it.
+[END]
+
+[LOG:OKAFOR:D005]
+First full sick call of the mission. Nothing but a splinter, Cho's palm, souvenir from a crate in the Docking Ring. Removed, cleaned, dressed. She talked the entire time about the sound the engines made on the burn out from Meridian Station, how the old girl sang, her word. I wrote splinter, left palm, resolved. I did not write that I like this crew already. But I do.
+[END]
+
+[LOG:OKAFOR:D308]
+Sleep cycle review again. Vega's chart looks like the drift he keeps talking about, hours scattered anywhere but night. I tried a new approach, asked him to write his star notes in the med bay so I could at least watch his vitals while he burns the watch. He came, he wrote, he fell asleep in the chair by 0400. First real sleep in three days. I did not wake him. I logged it as treatment.
+[END]
+
+[LOG:OKAFOR:D184]
+Patient presents with a bitten tongue and injured pride. Vega walked into a bulkhead on the Bridge reading his own charts while walking. Minor swelling, no sutures needed. He wanted to talk about the parallax figures he had been reading when the ship, his word, ambushed him. I let him talk. The tongue will heal faster than the story will die at dinner.
+[END]
+
+[LOG:OKAFOR:D260]
+Counted the crew at dinner tonight without meaning to. Five. I always count. Second nature from triage training, they tell you to count heads first, injuries second. Out here the count never changes and I hope it never does. Kit passed the bread twice. Cho argued with Vega about whether stars hum. Reyne let them argue. Five, all well. End of count.
+[END]
+
+[LOG:OKAFOR:D022]
+Ran the quarterly hypoxia drill with the whole crew today. Everyone masked inside the time limit except Cho, who stopped to check on the compressor first because the sound worried her. I marked her late. Reyne marked her thorough. We are probably both right. Repeating the drill for her next week, alone, with the compressor already inspected.
+[END]
+
+[LOG:OKAFOR:D341]
+Kit presented with sniffles and watering eyes, worried it was a virus. It is pollen. Her own garden, blooming too well. She was so relieved she laughed, then so proud she cried a little more. Issued an antihistamine and my congratulations. Only aboard the Vesper does a botanist catch hay fever three hundred lightyears from a meadow. Hydroponics is officially too healthy.
+[END]
+
+[LOG:OKAFOR:D093]
+Checked Cho's hands today, routine follow up on the old burn. Healing well, full grip strength, scar tissue soft. Her hands are a mechanic's ledger, every mark a repair the ship needed and got. I told her to use the barrier cream. She said the old girl likes bare hands. Kit says the same about her roots. I am surrounded by people who touch their work. It keeps me employed.
+[END]
+
+[LOG:OKAFOR:D315]
+Reyne asked me today, in the corridor outside the Med Bay, whether Vega was sleeping. Not as captain to medic, softer than that. I said he was sleeping badly and dreaming well, which is the truest chart summary I could give. She nodded and moved his watch rotation back an hour without telling him why. She would deny the kindness if asked. I keep her secrets like I keep everyone's.
+[END]
+
+[LOG:OKAFOR:D150]
+Midpoint physicals, day one of five. Started with the captain, who booked the first slot so the crew would see her go first. Heart, lungs, reflexes, eyes. All strong. She asked for the results in writing before she left the room. I write these logs and think how little of a person fits in a chart. Fit for duty, I wrote. True, and not a tenth of it.
+[END]
+
+[LOG:OKAFOR:D151]
+Midpoint physicals, day two. Cho's turn. Hearing test shows a small dip in one ear, the ear she points at machinery. I fitted her with dampeners and told her the engine would sing just as sweetly through them. She looked at me like I had prescribed cotton wool for her soul. Wearing them anyway, on my authority and the captain's. The ship is loud. I want her to hear it at ninety.
+[END]
+
+[LOG:OKAFOR:D153]
+Midpoint physicals, day four. Kit is in better health than anyone who works bent double over planters has a right to be. Strong lungs, good iron now, steady hands. She brought a tomato as payment and would not leave until I ate it in front of her. Sweet, a little sharp. She watched me the way I watch a patient swallow a dosage. We each have our medicine, I suppose.
+[END]
+
+[LOG:OKAFOR:D240]
+Patient presents with caffeine tremor, mild. Vega, four cups into a chart of the western Reach and shaking like a leaf in a vent draft. Confiscated the fifth cup. He called me a thief of small suns. I have been called worse by people I liked less. Hydration, food, and a walk to Hydroponics to look at something green. Kit will finish what the saline starts. She usually does.
+[END]
+
+[LOG:OKAFOR:D063]
+An easy day, so I audited the sedative locker. Counts correct to the pill. I keep tighter records on those than on anything aboard, tighter than Reyne keeps the manifest, and she keeps the manifest like scripture. It is not distrust. On a ship this small, temptation should always find the cabinet locked and the medic awake. So far it has found neither necessary. Good.
+[END]
+
+[LOG:OKAFOR:D386]
+Watched the crew at dinner tonight, an old habit. Cho's laugh arrived before her tray did. Kit had soil under her nails and joy all over her. Vega actually ate. Reyne sat back, once, for a whole minute, and let the ship run without her. Six of these dinners in a row now with all five of us present. I counted. I always count. Whatever we came to the Reach to find, I found mine.
+[END]
+
+[LOG:OKAFOR:D029]
+Patient presents with a headache and a confession. Vega has been skipping the sleep aids I never prescribed him and the meals I definitely did. We negotiated. He eats with the crew each evening and I stop describing his sleep cycle as a medical event. His handshake on it was cold. Circulation fine, he just writes at 0300 with the heating low so the stars feel closer. His words. I signed the deal anyway.
+[END]
+
+[LOG:OKAFOR:D198]
+Cho brought me a patient today, cradled in both hands. A cleaning drone from Engineering with a cracked sensor she wanted splinted, her word. I taped it, seriously, while she held it still and talked to it low and kind. Ridiculous, and one of the better uses of my afternoon. She heals machines and I heal hands. Between us the Vesper is well looked after.
+[END]
+
+[LOG:OKAFOR:D082]
+Weighed the crew, quarterly. Everyone within range. Vega down half a kilo, which I attribute to feeding his dinners to conversation instead of himself. Assigned Kit to sit beside him at meals. She talks, he answers, and while he answers he eats without noticing. It is not in any medical text. It works better than most of what is.
+[END]
+
+[LOG:OKAFOR:D367]
+Reyne turned her ankle on a ladder in the Docking Ring and reported it within the hour, which for her is instantaneous. Mild sprain, wrapped, walking boot offered and declined, cane offered and nearly thrown at me. Compromise reached, she limps with dignity and I say nothing at briefings. Her heart rate never rose above sixty through the whole exam. Made of hull plate, that woman.
+[END]
+
+[LOG:OKAFOR:D124]
+Follow up on Kit's thumb, healed clean, no scar. She showed me the plant that did it as if introducing a rowdy nephew. Bea the fern has a new frond, apparently, and I was expected to admire it, and I did, because it was worth admiring. Left Hydroponics with two tomatoes and dirt on my sleeve. Better outcomes than most house calls in my career.
+[END]
+
+[LOG:OKAFOR:D211]
+Second nosebleed this week for Cho. Humidity in Engineering runs low when the plasma feed is up, dries her out like a leaf on a vent. Issued saline mist and orders to use it. She asked if she could use the same mist on the intake filters. I said buy your own, this one is a medical dosage. She grinned and took it. I will count the bottle at week's end. I know my patients.
+[END]
+
+[LOG:OKAFOR:D054]
+The crew's moods run in tides and I have started charting them the way Vega charts the Reach. Reyne runs steady with a low swell before comm windows to Meridian Station. Kit rises at every germination. Cho tracks the engines exactly. Vega is spring tide or dead calm, no between. And me, I feel whatever the four of them are feeling, a watch later, softer. A medic's heart is a harbor.
+[END]
+
+[LOG:OKAFOR:D283]
+Patient presents with soil in the eye. Kit, misting the high racks in Hydroponics, looked up at the wrong moment. Irrigation, inspection, no abrasion. She kept apologizing, not to me, to the schedule, for the twenty minutes of watering the ward will now do without her. I walked her back myself and helped with the last rack. Old Tom is heavy with fruit. She let me pick one. An honor, I gather.
+[END]
+
+[LOG:OKAFOR:D176]
+Vega read to us at dinner tonight, some old poem about harbors, and Cho heckled the rhymes, and Kit defended them, and Reyne, I saw it, mouthed a line along with him. She knew it by heart. The captain knows poems by heart. I logged everyone healthy this week, but that is the finding I want remembered. People are more than their vitals. Some days I get to see the more.
+[END]
+
+[LOG:OKAFOR:D231]
+Ran a burn drill with Cho's team in Engineering, my idea. If the coolant loop ever fails badly, minutes will matter and the walk to the Med Bay is four minutes at a run. Placed a full kit by the manifold, saline, dressings, shears. Cho mounted it herself and patted it like a new gauge. Hope is not a plan, my old instructor said. A kit on the wall is a plan.
+[END]
+
+[LOG:OKAFOR:D296]
+Third time this week Vega has watched me do the evening saline count. Tonight he finally asked why I count what does not change. I told him the truth. The count is not for the saline. It is a watch, same as his. He looked at the cabinet a long moment, then said the stars do not change either, and he counts them nightly. So we understand each other now. Two watchmen, different windows.
+[END]
+
+[LOG:OKAFOR:D016]
+Kit planted the first seedlings today and made the whole crew come to Hydroponics to see. A tray of green threads under the light-lamps, barely anything. Cho asked when the tomatoes come and Kit said patience, and Reyne allotted the visit exactly ten minutes and then stayed fifteen. I checked the room's air mix while I was there. Perfect, of course. Some patients thrive from day one.
+[END]
+
+[LOG:OKAFOR:D349]
+Reviewed a year of injury logs tonight. Forty one entries. Twenty two are Cho. Burns, splinters, one memorable wrench. Nine are Kit, all soil and thorns. Five Vega, all collisions with a ship he forgets is solid. Three Reyne, all reported in writing. Two are mine, both papercuts from the printer, which stays between me and this log. A gentle year. May the next one read just as boring.
+[END]
+
+[LOG:OKAFOR:D107]
+Patient presents with hiccups. Actual hiccups, forty minutes and counting. Cho, between laughing fits, demanded I fix her like she fixes a stuttering pump. Cold water, breath holds, and finally Kit sneaking up behind her in the mess, which worked. Logged as resolved, method undocumented in the literature. The crew has proposed Kit for a medical commendation. Reviewing.
+[END]
+
+[LOG:OKAFOR:D323]
+The captain sat in my med bay for twenty minutes today with nothing wrong. Asked after supplies, the crew, my own sleep. Answered a question I did not ask, said command is mostly waiting for the emergency you hope never comes. I told her medicine is the same. We drank tea out of specimen cups, clean ones. Vitals not taken. Morale, hers and mine, notably improved.
+[END]
+
+[LOG:OKAFOR:D068]
+Vega's eyes again. Dry, red, overworked. He charts the Reach all night through the forward glass and blames the nebula for being too beautiful to blink at. Drops issued, screen breaks ordered, compliance doubtful. I asked him once why the stars are worth the headache. He said, someone has to learn their names before we go home and forget them. Hard to write a prescription against that.
+[END]
+
+[LOG:OKAFOR:D247]
+Dinner count, five of five. Kit's stew, mostly her own greens. Cho ate three bowls and swore the cook outranked the captain tonight, and Reyne, to everyone's shock, agreed on the record. Vega was quiet but present, and present is what I chart. Afterwards they stayed at the table a full hour with nothing to do. No symptoms anywhere in the room. I looked. I always look.
+[END]
+
+[LOG:OKAFOR:D039]
+Immunization boosters, whole crew, per the schedule set at Meridian Station. Kit went first to show it was nothing, then nearly fainted, then insisted she had not. Cho asked for hers in the arm she does not weld with. Vega composed himself a countdown from three. Reyne rolled up her sleeve mid sentence in a briefing and never paused. Five doses, five sore arms, one quiet medic. Done for two years.
+[END]
+
+[LOG:OKAFOR:D268]
+Kit's hands, routine check. Calluses where the trowel sits, a healing nick from wire, green stain that no scrubbing shifts anymore. Strong, steady, warm, a gardener's hands. Mine smell of antiseptic and hers of soil, and between the two of us the ship is kept alive twice over. I told her that. She said the plants would like me, I have patient hands. Best consult note I have ever received.
+[END]
+
+[LOG:OKAFOR:D142]
+Patient presents with a bruised shin and a theory. Vega, again, versus the Bridge again. The theory is that the ship rearranges itself at night. I pointed out the ship has been the same shape since Meridian Station. He said that is what the ship wants us to think. Cold pack, mild analgesic, and I wrote ambulatory hazard, self, in the cause field. The chart does not have a field for poets.
+[END]
+
+[LOG:OKAFOR:D359]
+Checked the emergency stores in every deck locker today, quarterly rounds. Docking Ring, Bridge, Engineering, Hydroponics, all sealed and in date. Replaced one cracked mask seal. Walking the whole ship in one watch, you feel the size of her, and the smallness of us in her, five warm rooms of a body that is mostly quiet metal. All lockers green. The Vesper takes care of her own, with a little help.
+[END]
+
+[LOG:OKAFOR:D095]
+Cho did not come to dinner. Found her in Engineering, elbow deep in a bearing housing, fine, just absorbed, forgot to eat. Brought her a tray and sat on a crate while she worked. She talked to the bearing the whole time, gentle, coaxing, the way I talk to a frightened patient. The old girl runs sweeter for it, she says. Maybe. My patients do. Logged as missed meal, resolved on site.
+[END]
+
+[LOG:OKAFOR:D188]
+Second week of the new sleep schedule and the numbers are better. Vega managed five hours, twice. Reyne stopped taking the middle watch she was never assigned. Even Cho let the night alarms route to the duty console instead of her bunk. Small victories. I chart them like vitals because they are vitals. A rested crew makes fewer of my kind of work. Tired hands slip. Ours mostly have not. Keep it so.
+[END]
+
+[LOG:OKAFOR:D312]
+Kit was sad today. No chart for it, no dosage. One of the seedling trays failed, damping off, half a generation of lettuce gone overnight. She cleaned it out alone before anyone woke. I found her scrubbing the tray a second time. I did not offer medicine. I offered hands, and we scrubbed and reseeded together, and by the end she was naming the new row. Grief is small out here but it is still grief.
+[END]
+
+[LOG:OKAFOR:D026]
+Reyne asked for a medical opinion on the watch rotation, whether four hours or six sits easier on the body. Six, I told her, with a real sleep anchor, and she rebuilt the whole schedule that afternoon. It costs her the convenient version and she never mentioned that. The crew thinks the captain loves protocol. She does. Because protocol is how she loves them back. That is my clinical read.
+[END]
+
+[LOG:OKAFOR:D336]
+Patient presents with a splinter of ambition, Cho's phrasing, meaning she tried to lift a pump housing alone and her shoulder objected. Strained, not torn. Sling for three days. She negotiated it to two and I let her win because the scan was clean and because she fixes the recycler that keeps my saline pure, and we all lean on each other's work out here. One hand washes the other. Literally, in my trade.
+[END]
+
+[LOG:OKAFOR:D059]
+Vega slept eight hours. I am writing it in the log because I want it on the record, like a first steady heartbeat after a long arrhythmia. He came to breakfast confused by daylight, asked what watch it was, ate two servings. Kit applauded. Cho checked him for fever, her joke, her hand actually on his forehead. He allowed it. Eight hours. Some days this job gives more than it takes.
+[END]
+
+[LOG:OKAFOR:D274]
+Rationed the coffee this week, medic's orders, after three crew presented with the same headache on the same day. The culprit was the empty tin, not the nebula, not the recycled air, though I heard both theories at volume. New tin opened, headaches resolved within the watch. Medicine is sometimes very simple. I wrote it up properly anyway. Caffeine withdrawal, cluster, three patients, one cure.
+[END]
+
+[LOG:OKAFOR:D171]
+Walked Hydroponics on my evening round and found Reyne there, off watch, standing among the beds with her hands behind her back like an inspection, except her eyes were closed. The misting was running. It sounds like rain in there, Kit says. I backed out without a word and did not log a reason for the visit. Even captains need weather. Especially captains.
+[END]
+
+[LOG:OKAFOR:D302]
+Follow up, Cho's hearing. The dampeners are working, the dip has not deepened. She admitted, under mild protest, that the engine still sings through them, just softer, like it is farther down a hall. I told her the point is to still hear it at the end of a long life. She thought about that longer than she thinks about most things I say. Wearing them daily now. Chart closed, patient grumbling, medic satisfied.
+[END]
+
+[LOG:OKAFOR:D077]
+Kit hosted what she called a garden clinic today, the reverse of mine. Each of us was assigned a plant to tend for the afternoon. Cho watered like she was flushing a coolant loop, precise to the milliliter. Vega whispered to his fern about constellations. Reyne pruned with terrifying efficiency. I misted and counted leaves, naturally. Kit graded us. I received a tomato. I believe I passed.
+[END]
+
+[LOG:OKAFOR:D225]
+Patient presents with formal complaint of overwork, filed by me, against me, at Reyne's insistence after she found me reorganizing the pharmacy at 0200 for the second night. She sat in the exam chair, reversed our roles, asked my own intake questions back at me in a flat captain voice until I laughed and surrendered. Ordered to sleep by chain of command. It worked. Physician, heal thyself, with supervision.
+[END]
+
+[LOG:OKAFOR:D383]
+The crew gave me a gift today for no occasion. A hand lettered sign for the med bay door, painted on scrap by Kit, lettered by Vega, hinged by Cho, approved in writing by the captain. It reads, the quietest deck on the Vesper, may it stay that way. Hung it myself, level on the first try. I have hung diplomas that meant less. This ship is stingy with weather but rich in people.
+[END]
+
+[LOG:OKAFOR:D044]
+Reviewed radiation badges, monthly. All five within normal exposure for a survey vessel this deep in the Reach. Filed, cross checked, countersigned by Reyne, who reads the numbers as closely as I do. The nebula out the glass is beautiful and I trust it about as far as I trust any beautiful thing that outweighs the ship a billionfold. Respect, Vega calls it. Yes. Clinical, well documented respect.
+[END]
+
+[LOG:OKAFOR:D263]
+Cho's birthday. Kit grew her a chili plant in secret, hid it behind Old Tom for a month. Vega charted her a star, or claims he did, with a certificate. Reyne granted her a day free of paperwork, the gift she actually wept over, her one tear all year, allegedly. I gave her the good burn cream and told her to stop needing it. She hugged me hard enough to warrant a rib check. All five vitals excellent tonight.
+[END]
+
+[LOG:OKAFOR:D133]
+Vega came in at 0300, not for himself. He had noticed Kit rubbing her wrist at dinner, wanted me to look at it before she could hide it, which she would. He notices everything, that man, stars and people both. Saw her in the morning. Mild tendon strain from the misting trigger, brace for a week. She asked who told. I protected my source. He protects his. The ship keeps us honest between us.
+[END]
+
+[LOG:OKAFOR:D361]
+Inventory again, end of quarter. Saline holding at thirty eight, resupply flagged for the next Meridian Station window. Gauze fine, antiseptic fine, sutures fine. I flag the saline early because out here early is the only kind of careful that counts. Reyne approved the flag within the hour. Between her manifest and my cabinet, nothing on the Vesper runs out by surprise. That is the whole plan. It holds.
+[END]
+
+[LOG:OKAFOR:D086]
+A quiet observation, off the charts. When the ship is stressed, a hard survey week, a comms delay, the crew drifts to their posts even off duty. Cho sleeps in Engineering, officially by accident. Vega haunts the Bridge glass. Kit waters things that do not need water. Reyne walks the decks. And I stay here, door open, light on. We each hold our corner of the Vesper. Together that is a whole ship held.
+[END]
+
+[LOG:OKAFOR:D207]
+Patient presents with a jammed finger from a hatch wheel, Docking Ring. Reyne, second injury this year, which she noted herself, annoyed at her own statistics. Buddy taped, full function in a week. She flexed the hand once, pronounced it acceptable, and thanked me by name, which she does rarely and means entirely. Some patients pay in tomatoes. Some pay in two words. Both spend well.
+[END]
+
+[LOG:OKAFOR:D111]
+Kit talked me into keeping a plant of my own, a small mint at the med bay window. Instructions were extensive. Water it, speak to it, do not diagnose it. It smells like a clean start every time I brush it filling the kettle. Vega steals leaves for his tea and thinks I have not noticed. I count the leaves, of course. He takes two per visit, no more. Even his theft is considerate. The mint can spare it.
+[END]
+
+[LOG:OKAFOR:D328]
+Sleep cycle worries again, but a new pattern. Reyne this time, awake at odd hours, walking the decks. Not insomnia, I think. She is rehearsing something, the way I rehearse emergencies in my head until they lose their teeth. I asked her about it over tea. She said a captain sleeps light this far from home, and changed the subject to my saline count. I let her. But I am watching her hours now too.
+[END]
+
+[LOG:OKAFOR:D293]
+Ran the airlock casualty drill with Reyne observing. Stretcher from Docking Ring to Med Bay in six minutes ten, our best yet. Kit played the casualty and took the role seriously, moaning theatrically until Cho threatened to treat her for real with engine grease. Debrief was short. Reyne said, good, again next quarter. From her, that is a parade. Logged the time. We will beat it.
+[END]
+
+[LOG:OKAFOR:D052]
+Patient presents with sunburn, of all things, forearms only. Kit fell asleep under the light-lamps between rows, misting wand still in hand. Aloe issued, hat suggested, dignity partially preserved. She was more embarrassed that the plants saw. Bea will not tell, I assured her. First time in my career treating a burn from artificial sunshine three hundred lightyears from the real thing. Charted with a straight face.
+[END]
+
+[LOG:OKAFOR:D237]
+Vega and Cho argued at dinner, an actual argument, sharp words about survey priorities. Rare weather for us. Both stopped by the med bay after, separately, on invented errands, Vega for eye drops he had, Cho for a bandage she did not need. They wanted to be told the crew was still whole. It is. By morning they were bickering happily over the coolant figures like nothing happened. Charted as a passing front.
+[END]
+
+[LOG:OKAFOR:D145]
+Full stock audit with Reyne, annual. She reads inventory the way Vega reads stars, finds meaning in the columns. We match to the unit on everything except cotton swabs, where I am mysteriously three short. She logged the variance without mercy. I suspect the mint plant, the potting of which I will confess to at a later date. Audit passed. My cabinet and her manifest agree, as usual, and the ship is the calmer for it.
+[END]
+
+[LOG:OKAFOR:D065]
+Follow up on the crew's boosters, no reactions beyond sore arms and one day of Cho insisting hers was in the wrong arm after all. Took the chance to update everyone's records, allergies, histories, next of kin. Vega listed the stars as next of kin, then gave me a real name, quietly, for the file. We carry whole lives in these charts, folded small. I keep them the way ECHO keeps the doors. Carefully. Always.
+[END]
+
+[LOG:OKAFOR:D122]
+Patient presents with grease in a cut, left forearm, from reaching past a housing edge she knew was sharp. Cho, naturally. Cleaned it twice, dressed it, threatened her with a tetanus review she has already had. She examined my suture kit while I worked and said my tools were kept as well as hers. From Cho that is a knighthood. We compared calluses after. Hers won. Her hands work harder than any aboard, and mine know it.
+[END]
+
+[LOG:OKAFOR:D346]
+Watched Vega teach Kit the Reach from the Bridge glass tonight, off watch, both of them pointing. He gave her three stars and she gave them growing names, the Seedling, the Trellis, Old Tom's Lantern. He wrote the names into his personal chart, actually wrote them. Reyne would call it improper nomenclature. Reyne was standing in the hatchway listening and said nothing at all. Some nights this crew heals me.
+[END]
+
+[LOG:OKAFOR:D035]
+First month complete. Medical summary for the record. Injuries, four, all minor, three of them Cho. Illness, none. Sleep, adequate everywhere but the navigator's bunk, work ongoing. Morale, high. The Vesper is a sound ship and a small one, you learn every cough and footstep by the first month's end. I know this crew's heartbeats by hand now, all four. Whatever the Reach holds, we go into it healthy.
+[END]
+
+[LOG:OKAFOR:D216]
+Reyne requested a private consult, rare event. Nothing wrong, she wanted to know the signs of burnout, to watch for in the crew, she said. I listed them. Short temper, flat voice, meals skipped, humor gone. She wrote them down and left. The list describes her own worst weeks, which she knows, which is why she asked. She guards us from herself as much as anything. I added her name to my own quiet watchlist years ago. Still there.
+[END]
+
+[LOG:OKAFOR:D098]
+A tooth today, of all frontiers. Vega cracked a molar on Kit's experimental crackers, which have been renamed hardtack by unanimous vote. Temporary filling placed, proper crown scheduled for the Meridian Station stop. He bore it well and composed a eulogy for the tooth at dinner. Kit was mortified until he declared the cracker a triumph of structural engineering. Cho asked for the recipe. For patching, she says.
+[END]
+
+[LOG:OKAFOR:D287]
+Checked my own hands tonight, medic's habit. Steady, still. Forty this year, and I feel the age most in the mornings and never in an emergency, which is the correct arrangement. Kit says hands are how you tell what a person tends. Cho's say engines. Hers say earth. Vega's say ink. Reyne's say ledgers and locked doors. Mine still say what they said the day we left Meridian Station. Other people. Good. Long may they.
+[END]
+
+[LOG:OKAFOR:D157]
+Ration review with the captain, medical perspective requested. Protein fine, greens rising steadily as Hydroponics matures, morale items, meaning the chocolate, dwindling faster than the manifest predicted. Reyne suspects a thief. I suspect all four of them and myself besides. Recommendation filed, increase the morale ration, and she approved it, deadpan, as preventive medicine. It is, actually. I wrote it up as such.
+[END]
+
+[LOG:OKAFOR:D370]
+Vega's sleep is the best it has been all mission, five and six hour nights strung together like it is nothing. The cure was not mine. Kit gave him a task, tending the night misting cycle, so now he has a reason to sleep after it runs, some duty the dark asks of him besides witness. I have adjusted his chart and my pride. Half of medicine is finding the right chore. The other half is knowing who to borrow it from.
+[END]
+
+[LOG:OKAFOR:D010]
+Set the tradition early, dinner together every fifth day, medic's orders, no exceptions short of a reactor fire. Reyne backed it with a schedule notation, which makes it law. Tonight was the first. Awkward for ten minutes, then Cho imitated the launch announcer at Meridian Station and it stopped being awkward forever. A crew becomes a crew at the table. The clinic is where I fix them. The table is where they stay fixed.
+[END]
+
+[LOG:OKAFOR:D181]
+Halfway. Reyne marked it in the log at 0800 and the crew marked it at dinner with the good rations. I marked it my own way, reread every chart from D001 forward. We are healthier than we left, all five, which is not what the statistics on long surveys predict. The garden feeds us, the work fits us, and the people wear well on each other. Second half begins tomorrow. Same watch, same cabinet, same open door.
+[END]
+
+[LOG:OKAFOR:D243]
+Patient presents with paint under her nails and paint in her hair and no injury whatsoever. Kit repainted the Hydroponics hatch green without authorization and came to me to hide from the captain, allegedly for a checkup. I examined her thoroughly, found her guilty, and gave her tea. Reyne let the hatch stay green, one line in the log, unauthorized improvement, retained. The whole deck looks warmer now. No dosage required.
+[END]
+
+[LOG:OKAFOR:D070]
+Reyne skipped breakfast twice this week. Small thing, the kind I chart quietly. Comms window with Meridian Station opens in three days and she always runs lean ahead of it, too many drafts of a report nobody back home reads closely enough to deserve her. I have started leaving a ration bar on her console with the morning briefing. It disappears. Nothing is said. Medicine at this range is mostly logistics and stubbornness.
+[END]
+
+[LOG:OKAFOR:D319]
+Kit brought the whole dinner from her own beds tonight, first fully homegrown meal of the mission. Greens, beans, tomatoes from Old Tom, herbs from the rack by the misters. She watched us eat the way I watch a fever break. Cho proposed the toast, to the only deck on the Vesper that makes something from nothing. Vega amended it, to the gardener. Reyne stood for it. Stood. I have no clinical note. Just this. Remember tonight.
+[END]
+
+[LOG:OKAFOR:D200]
+Two hundred days out. Ran my private census tonight, the one no regulation requires. Five crew. Ten hands, all working. Five sleep cycles, four good, one poetic. Forty one minor injuries treated, zero major, and the med bay's one bed has yet to hold anyone overnight. I count these numbers the way Vega counts his stars, not because they change, but because they are mine to count. The Reach is vast. The crew is well. Okafor, log ends.
+[END]
+
+[LOG:OKAFOR:D138]
+Checked Vega's hands today, writer's cramp, too many hours penning charts he could dictate. He likes the pen, says the stars deserve handwriting. Stretches issued, a softer grip demonstrated, and a warning that I will ration his ink like a controlled dosage if he will not rest the wrist. He laughed. But he came to dinner with the brace on, and Kit drew a small green vine on it before the table was cleared. It will stay on now. She knows her medicine too.
+[END]
+
+[LOG:OKAFOR:D374]
+Quiet observation, end of watch. The crew has grown a shorthand this deep into the mission. Cho taps a bulkhead twice for all is well. Kit leaves a leaf on a console she has visited. Vega marks small stars beside names on the duty roster. Reyne allows all of it, which is her dialect of affection. And they leave the med bay light on when they pass, so I wake to proof the ship thought of me in the night. No vitals in this entry. Just the ones that matter.
+[END]
+
+[LOG:OKAFOR:D165]
+Patient presents at 0300 with cold hands and a question, is it normal to miss a place you have not left yet. Vega, homesick for the Reach in advance, eight months before we turn for Meridian Station. I warmed the hands, checked the pulse, and told him the truth, that the heart rehearses its losses early, and it is normal, and it passes, mostly. He slept in the exam chair after. I charted the visit as circulation, mild. Some things do not go in charts.
+[END]
+
+[LOG:OKAFOR:D058]
+Kit strained her shoulder hauling water cans and hid it for two days before Cho reported her, an act Cho called treachery in a good cause. Mild strain, heat and rest, and a stern word about hiding hurts on a ship this small. She said she did not want to be trouble. I told her what I tell them all, trouble is my whole job, bring me yours. She brought me a tomato the next morning as well. Payment and apology. Old Tom's finest. Accepted, both.
+[END]
+
+[LOG:OKAFOR:D306]
+Reyne and I walked the ship after dinner, stem to stern, her quarterly habit and lately mine. Docking Ring cold and orderly, Hydroponics warm and loud with misting, Engineering humming Cho's favorite note, the Bridge dark but for the Reach out the glass. She checks doors and I check air, and neither of us says that we are tucking the ship in like a patient for the night. Twelve hundred meters of walking. All decks well. All hearts accounted for.
+[END]
+
+[LOG:OKAFOR:D081]
+Cho's cough turned out to be dust from the filter change, not the flu she refused to admit she feared. Lungs clear on the scan. She listened to the recording of her own breath sounds twice, fascinated, said her intake manifold ran rough. I told her to wear the mask during filter work and she said masks fog. We compromised, better mask. She will wear it, because I told Kit, and Kit will stand there until she does. Enforcement is a team sport here.
+[END]
+
+[LOG:OKAFOR:D385]
+Slow morning, so I updated the crew's dental charts, the least beloved of my duties, and then Kit arrived with mint for the kettle and stayed an hour, and then Cho came to have a blister lanced and stayed two, and then Vega drifted in with a chart to show someone and Reyne came looking for all of them at day's end and stayed for tea herself. My med bay was a parlor all day. On a good ship the clinic is the hearth. I keep the kettle stocked like the saline.
+[END]

@@ -1,0 +1,12 @@
+# The gates, the worker and the build scripts all run under bash (WSL/Linux).
+# Never let Windows checkouts rewrite line endings.
+* text=auto eol=lf
+
+*.png  binary
+*.jpg  binary
+*.pptx binary
+*.npz  binary
+*.pt   binary
+
+# Big generated blob: keep it out of diffs.
+game/weights.js -diff linguist-generated

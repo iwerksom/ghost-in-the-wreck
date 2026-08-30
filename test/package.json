@@ -1,0 +1,11 @@
+{
+  "name": "ghost-in-the-wreck-tests",
+  "private": true,
+  "description": "Playwright-driven gates and the adversarial playtest harness.",
+  "scripts": {
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}

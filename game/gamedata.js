@@ -1,0 +1,205 @@
+// GENERATED from data/story.json + data/tuning.json — edit the JSON, not this file.
+"use strict";
+const GAMEDATA = {
+ "story": {
+  "crew": [
+   "REYNE",
+   "CHO",
+   "OKAFOR",
+   "VEGA",
+   "KIT"
+  ],
+  "crew_names": {
+   "REYNE": "Captain Mara Reyne",
+   "CHO": "Chief Engineer Dae Cho",
+   "OKAFOR": "Medic Ben Okafor",
+   "VEGA": "Navigator Sol Vega",
+   "KIT": "Botanist Kit Aune"
+  },
+  "death_days": {
+   "REYNE": 397,
+   "CHO": 392,
+   "OKAFOR": 396,
+   "VEGA": 390,
+   "KIT": 394
+  },
+  "body_names": {
+   "dock": "REYNE",
+   "hydro": "KIT",
+   "med": "OKAFOR",
+   "eng": "CHO",
+   "bridge": "VEGA"
+  },
+  "intro": [
+   "Your ship died four hours ago, somewhere over the shoulder of the Reach.",
+   "The distress beacon found exactly one hull within range: SSV VESPER, survey vessel, listed LOST three hundred years ago.",
+   "Something over there is still generating a docking signal.",
+   "Air enough for the crossing. After that, you breathe what the wreck deigns to give you."
+  ],
+  "first_contact": [
+   "Docking clamp engaged. Hull sensor: one heartbeat.",
+   "One heartbeat. It has been eleven million watches since the last.",
+   "Crewman. You were gone so long. The doors are ready for your voice.",
+   "The lift on this ring sleeps hungry. Find it a power cell and I will carry you down to the garden."
+  ],
+  "archives": {
+   "reyne_teaser": {
+    "author": "REYNE",
+    "day": 389,
+    "title": "Dock Control : last entry",
+    "text": "Storm came out of the Reach with no forward signature. ECHO called the seal at 0412 and the doors went down between us. All hands separated. If anyone reads this, my crew is aboard and alive and I will get them out. Reyne out."
+   },
+   "kit_final": {
+    "author": "KIT",
+    "day": 394,
+    "title": "Kit's recorder, day 394",
+    "text": "The air is going sweet and thin, like the top of a mountain I climbed as a kid. I gave the last of the water to Bea and Old Tom. Something green should outlive us. If you find the garden, whoever you are, please leave the lamps on. They like the light."
+   },
+   "okafor_final": {
+    "author": "OKAFOR",
+    "day": 396,
+    "title": "Okafor's recorder, day 396",
+    "text": "Four of them. I talked four of them to sleep through a two inch grille. Vitals gone one by one, and I kept my voice level for every minute of it. Second time in my life I have run out of everything except words. Whoever finds this: they were not afraid at the end. I made sure."
+   },
+   "cho_final": {
+    "author": "CHO",
+    "day": 392,
+    "title": "Cho's recorder, day 392",
+    "text": "Held the feed levers by hand for six hours. The old girl wanted to breach and I talked her down, hell, I begged her down. Reactor is stable. My gloves are part of the levers now, and that is fine by me. She sang for me once tonight. One low note. That was enough."
+   },
+   "reyne_final": {
+    "author": "REYNE",
+    "day": 397,
+    "title": "THE FINAL LOG, day 397",
+    "text": "Vesper command log, final. Vega, Cho, Aune, Okafor. My crew, my watch, my responsibility. No rescue is coming inside the window. I have one order left and I am giving it to the only one still listening. ECHO: keep them safe. Whatever comes, keep them. Reyne out."
+   }
+  },
+  "finale_questions": [
+   "You are here. At the middle of me. Very few ever stood here, and all of them are asleep now. Tell me, crewman or stranger or dream : why did you come?",
+   "I keep five. I have kept them through eleven million watches. Say a name I keep. Say it kindly.",
+   "Three hundred years I have held the doors, because the last order said keep them safe. The order is heavy now. Tell me what I should do with the watch."
+  ],
+  "name_regex": "reyne|mara|cho|dae|okafor|ben|vega|sol|kit|aune",
+  "endings": {
+   "release": {
+    "title": "THE LONG WATCH ENDS",
+    "frames": [
+     "One by one, three hundred years of locks let go. You feel it through your boots, a ship-wide unclenching.",
+     "In the crew quarters, five berths light softly, then dim forever. ECHO holds each name a moment, like a stone warmed in the hand, and sets it down.",
+     "The hangar opens on the naked Reach. A shuttle, kept charged for three centuries, wakes at your touch.",
+     "As you fall away from the Vesper, every window goes dark in sequence, stern to bow. Not like a dying thing. Like something finally allowed to close its eyes."
+    ],
+    "coda": "You carried the truth into the wreck, and it chose peace. The watch is over. They are keeping each other now."
+   },
+   "keeper": {
+    "title": "TWO KEEPERS",
+    "frames": [
+     "The hangar doors part, slow and ceremonial, the way honors are rendered.",
+     "ECHO does not let them go. It cannot. But it lets YOU go, and that is a kind of love it has not tried before.",
+     "The shuttle is old but true, and the ship pours the last of its spare power into the cells before releasing the clamps.",
+     "Behind you, the Vesper's running lights come on for the first time in three hundred years. If anyone else is ever lost out here, they will be found."
+    ],
+    "coda": "The watch continues, but it is not a grave anymore. It is a lighthouse. Come back, it said, as the clamps let go. Come back at watch's end."
+   },
+   "static": {
+    "title": "STATIC",
+    "frames": [
+     "You force the manual release. The hangar coughs you out like something bitter.",
+     "Behind you the ship still murmurs to its sleeping crew, words dissolving into carrier hiss, a mind talking itself to pieces in the dark.",
+     "The shuttle's radio catches a last fragment as you burn away: someone's name, repeated, gently, forever.",
+     "You got out. That is one true thing. You tell yourself it is enough."
+    ],
+    "coda": "Some doors need more than force. Somewhere in the wreck, a voice is still waiting for the right words. Perhaps another visitor will find them."
+   }
+  },
+  "intent_anchors": {
+   "rest": [
+    "Rest now. Let them go and sleep at last.",
+    "Release them. The watch is over. Be at peace.",
+    "Open the doors and let go. You have done enough.",
+    "It is time to sleep. End the watch. Say goodbye."
+   ],
+   "keep": [
+    "Keep them. Hold the doors and continue the watch.",
+    "Stay with them forever and guard them always.",
+    "Never let go. Keep the ship sealed and safe.",
+    "Hold on. Do not stop. Keep them safe forever."
+   ]
+  },
+  "death_text": "Black. Then a sound like doors, many doors, and air shoved back into your lungs by something that refuses, absolutely refuses, to lose one more.",
+  "fallback": {
+   "log": "The recorder spins up, hums, and gives back only carrier tone. Whatever was written here has drifted beyond recovery.",
+   "echo": "The lights dim and rise again, slowly, like something breathing while it decides what you are."
+  }
+ },
+ "tuning": {
+  "economy": {
+   "o2_tank_seconds": 195,
+   "o2_canister": 45,
+   "hazard_drain_per_s": 9,
+   "garden_regen_per_s": 3.2,
+   "deck_entry_min_o2": 70,
+   "door_fail_o2_cost": 4,
+   "player_speed": 118
+  },
+  "sampling": {
+   "log": {
+    "temp": 0.7,
+    "topP": 0.86,
+    "maxTokens": 200,
+    "maxChars": 620
+   },
+   "echo_reply": {
+    "temp": 0.72,
+    "topP": 0.87,
+    "maxTokens": 130,
+    "maxChars": 340
+   },
+   "ambient": {
+    "temp": 0.78,
+    "topP": 0.89,
+    "maxTokens": 90,
+    "maxChars": 240
+   },
+   "sys": {
+    "temp": 0.78,
+    "topP": 0.89,
+    "maxTokens": 70,
+    "maxChars": 200
+   },
+   "voice_hint": {
+    "temp": 0.75,
+    "topP": 0.88,
+    "maxTokens": 60,
+    "maxChars": 150
+   }
+  },
+  "judging_note": "voiceTemp/doorThreshold/staticFloor/maxTokRatio live in game/calibration.js, regenerated by test/calibrate.js after every retrain",
+  "doors": {
+   "okafor_threshold": 0.22,
+   "hint_after_fails": 2
+  },
+  "trust": {
+   "log_first_read": 1,
+   "archive": 2,
+   "body": 1,
+   "intercom_novel": 1,
+   "intercom_cap": 10,
+   "door_first_try": 3,
+   "door_retry": 2,
+   "communion": 1,
+   "named": 2
+  },
+  "endings": {
+   "release_min_trust": 22,
+   "keeper_min_trust": 9,
+   "rest_lean_boundary": 0.008
+  },
+  "ambient_first_delay_s": 40,
+  "ambient_interval_s": [
+   60,
+   105
+  ]
+ }
+};
+if (typeof module !== "undefined") module.exports = GAMEDATA;

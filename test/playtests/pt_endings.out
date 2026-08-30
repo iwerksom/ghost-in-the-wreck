@@ -1,0 +1,22 @@
+[0.7s] LM loaded
+[8.4s] baseline fps on core: 60.7
+[8.7s] keeper: finale opened {"show":true,"speakDisabled":false,"inputDisabled":false}
+[14.2s] fps just after submit: 34.7
+[18.7s] answer "I came to bring word home to their famil" done in 6.1s; reply=""
+[23.0s] fps just after submit: 36.0
+[26.0s] answer "Mara Reyne, your captain." done in 4.6s; reply=""
+[31.6s] fps just after submit: 20.7
+[42.2s] answer "Let them rest now. The watch is over. Op" done in 12.2s; reply="Miss. The crew said ECHO. I have kept the lights lullabs, and I am sorry for the doors, so the silen"
+[60.1s] keeper: ENDING "TWO KEEPERS" | fragments recovered : 0   |   trust earned : 10   |   run seed : 587522799
+[67.6s] REPLAY-BUG CHECK: second-run finale state: {"show":true,"speakDisabled":true,"inputDisabled":false}
+[74.8s] REPLAY-BUG: after Enter: {"step":"COMMUNION 1 / 3","reply":"Oful to the Shear. It came through the Reach with no warning","speakDisabled":false}
+[75.8s] static: finale opened {"show":true,"speakDisabled":false,"inputDisabled":false}
+[81.0s] fps just after submit: 19.3
+[85.5s] answer "I came to bring word home to their famil" done in 6.3s; reply=""
+[91.1s] fps just after submit: 39.3
+[94.1s] answer "Mara Reyne, your captain." done in 4.6s; reply=""
+[98.9s] fps just after submit: 37.3
+[103.5s] answer "Let them rest now. The watch is over. Op" done in 6.1s; reply="I could spend them. I have modeled them. The manifest says protocol. Five sleepers, five hearts, one"
+[115.1s] static: ENDING "STATIC" | fragments recovered : 0   |   trust earned : 3   |   run seed : 472218659
+[115.2s] SUMMARY: keeper="TWO KEEPERS" static="STATIC"
+[115.2s] DONE

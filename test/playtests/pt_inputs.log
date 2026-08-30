@@ -1,0 +1,76 @@
+CONSOLE.ERROR: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED
+waiting for LM.isLoaded...
+LM loaded after 0 s
+
+=== DOOR INPUT ===
+door: {"deck":1,"persona":"KIT"}
+doorInput visible: true
+[door empty] verdict="" echoLen=120
+[door xss-script] verdict="UNRECOGNIZED : the voice is static to it" echoLen=43
+[door xss-img] verdict="UNRECOGNIZED : the voice is static to it" echoLen=90
+[door long240] verdict="ECHO is listening ..." echoLen=182
+[door emoji] ERROR page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#doorSpeak')[22m
+[2m    - locator resolved to <button disabled class="pbtn" id="doorSpeak">SPEAK</button>[22m
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    47 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is not enabled[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[door cjk] verdict="UNRECOGNIZED : the voice is static to it" echoLen=172
+[door newlines] verdict="WRONG VOICE : it hears Captain Mara Reyne (97%), the door wa" echoLen=189
+
+=== DOOR rapid/streaming ===
+[door rapid] verdict= WRONG VOICE : it hears Navigator Sol Vega (61%), the door wa  echoLen= 154
+[door stream-interrupt] echo=  Help. Your voice arrives with static, then closed for. Leave them by me. Almory is a living sound in it. Keeping
+
+=== INTERCOM INPUT ===
+intercom: {"deck":0}
+comInput visible: true
+[com empty] logLen=94 scriptInDom=false
+[com xss-script] logLen=337 scriptInDom=false
+[com xss-img] logLen=337 scriptInDom=false
+[com long240] logLen=664 scriptInDom=false
+[com emoji] logLen=719 scriptInDom=false
+[com cjk] logLen=719 scriptInDom=false
+[com newlines] logLen=719 scriptInDom=false
+[com rapid] innerText len= 826
+
+=== PROBE INPUT ===
+probe panel: clicked btnAboutHud
+probeInput visible: true
+[probe empty] barsLen=1126 scriptInDom=false
+[probe xss-script] barsLen=1114 scriptInDom=false
+[probe xss-img] barsLen=1112 scriptInDom=false
+[probe long240] barsLen=1113 scriptInDom=false
+[probe emoji] barsLen=1117 scriptInDom=false
+[probe cjk] barsLen=1119 scriptInDom=false
+
+=== FINALE INPUT ===
+finale: {"deck":5,"type":"corealtar"}
+finaleInput visible: true
+[finale empty] innerTextLen=95 scriptInDom=false
+[finale xss-script] innerTextLen=39 scriptInDom=false
+[finale emoji] innerTextLen=126 scriptInDom=false
+[finale long240] innerTextLen=389 scriptInDom=false
+
+=== JOURNAL CHECK ===
+[journal] injectedElementPresent= false
+[journal] html sample: 
+
+=== SUMMARY ===
+pageErrors: 0
+consoleErrors: 1
+xssHits: []
+PAGEERRORS_JSON=[]
+CONSOLEERRORS_JSON=["Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED"]

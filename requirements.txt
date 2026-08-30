@@ -1,0 +1,5 @@
+# Model pipeline (model/prepare.py, train.py, export.py).
+# CPU-only torch is enough: the shipped model trained on 2 CPU cores.
+#   pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+numpy>=1.24

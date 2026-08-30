@@ -1,0 +1,91 @@
+[0.5s] CONSOLEERR: Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED
+[0.7s] LM loaded
+[0.0s] === NEW GAME ===
+[5.7s] dock entered. waiting for first contact subtitles...
+[9.3s] WASD move: (6,5) -> (9,6)
+[9.4s] terminal Dock Control (REYNE): {"type":"terminal","label":"Dock Control","x":14,"y":2}
+[11.1s]   log [Captain Mara Reyne : mission day 237 : reconstructed from de]: One on one with Vega, 1000, his office intercom. He asked if I went away. I said the crew had a medic on a medic and folded the watch rotati...
+[13.9s]   intercom "Hello? Is anyone there? My ship is dead and I need..." -> ECHO : The word is true and my captain's word. Five sleepers, five names, one keeper. You are the one in three hundred years of them, the first time of them is a different system t
+[17.7s]   intercom "I am a salvage pilot. I mean no harm. I am trying ..." -> ECHO : Scrubbers at meanings and preferred like blood in the glass. Breathe, then gently. The Bridge is scarred where I can see. I open my door for a stranger amber so long the sle
+[18.2s] archive Sealed Recorder (reyne_teaser): {"type":"archive","label":"Sealed Recorder","x":25,"y":10}
+[25.4s]   archive text: Storm came out of the Reach with no forward signature. ECHO called the seal at 0412 and the doors went down between us. ...
+[33.7s] kneel: Captain Mara Reyne. Three hundred years asleep, by the ship's account. The suit is neat. T...
+[34.5s] pickup power cell: cells 0->1, o2 98->97
+[35.2s] pickup air canister: cells 1->1, o2 97->100
+[35.6s] socket 4: cells 1->0
+[35.6s] state: {"deck":"dock","o2":99,"cells":0,"trust":6,"journal":2,"px":10,"py":18}
+[36.2s] lift -> hydro
+[37.2s] terminal Garden Console (KIT): {"type":"terminal","label":"Garden Console","x":27,"y":3}
+[39.5s]   log [Botanist Kit Aune : mission day 357 : reconstructed from dec]: First a jar number today. Her entry in the big pot, tending from the basil. Fresh basil in the galley, red stutter and forgances, because th...
+[39.6s] terminal Misting Station (KIT): {"type":"terminal","label":"Misting Station","x":15,"y":9}
+[41.0s]   log [Botanist Kit Aune : mission day 368 : reconstructed from dec]: Survey sweep heads, first, then Cho at 0600. Kit's dead basil from Engineering, the one inventiatries brace for the whole time. Vega says st...
+[41.1s] archive Kit's Recorder: {"type":"archive","label":"Kit's Recorder","x":5,"y":15}
+[49.0s]   archive text: The air is going sweet and thin, like the top of a mountain I climbed as a kid. I gave the last of the water to Bea and ...
+[57.1s] kneel: Botanist Kit Aune. Three hundred years asleep, by the ship's account. The suit is neat. Th...
+[57.9s] pickup air canister: cells 0->0, o2 99->100
+[57.9s] voice door (KIT): {"type":"echodoor","label":"Seed Vault Door","x":30,"y":10}
+[63.2s]   attempt 1: "The seedlings came up green today. I misted Bea the fern and left the ..." -> WRONG VOICE : it hears Navigator Sol Vega (71%), the door wants Botanist Kit Aune
+[69.7s]   attempt 2: "Old Tom put out a new leaf this morning. The soil smells warm and the ..." -> RECOGNIZED : Botanist Kit Aune (76%)
+[73.7s]   door OPEN. trust=13 o2=96
+[73.9s] state: {"deck":"hydro","o2":96,"cells":0,"trust":13,"journal":5,"px":31,"py":12}
+[74.5s] lift -> med
+[75.5s] terminal Patient Records (OKAFOR): {"type":"terminal","label":"Patient Records","x":9,"y":4}
+[77.4s]   log [Medic Ben Okafor : mission day 86 : reconstructed from decay]: Patient presents with a burned forearm, flag, from a cradled man sensor. Cho, who stops her reseuping the whole time. The crew has noticed s...
+[77.6s] terminal Triage Console (OKAFOR): {"type":"terminal","label":"Triage Console","x":20,"y":14}
+[79.6s]   log [Medic Ben Okafor : mission day 360 : reconstructed from deca]: Reyne and I promotocol to prioritate on the stretcher route, which means everything touches. Four cups of tea, one ship, one she approved. C...
+[79.7s] archive Okafor's Recorder: {"type":"archive","label":"Okafor's Recorder","x":5,"y":13}
+[88.1s]   archive text: Four of them. I talked four of them to sleep through a two inch grille. Vitals gone one by one, and I kept my voice leve...
+[96.2s] kneel: Medic Ben Okafor. Three hundred years asleep, by the ship's account. The suit is neat. The...
+[99.6s]   intercom "I read your logs, Ben. You kept your voice level f..." -> ECHO : Theird. I will rather you first. First the crew's channel and the dim part of breathing, half power and the sensors remember it finds at sixty eighty six. If that is not fai
+[100.9s] pickup air canister: cells 0->0, o2 95->100
+[100.9s] voice door (OKAFOR): {"type":"echodoor","label":"Pharmacy Door","x":31,"y":10}
+[106.6s]   attempt 1: "Patient presents with shallow breathing. Vitals stable. I gave the las..." -> RECOGNIZED : Medic Ben Okafor (56%)
+[110.3s]   door OPEN. trust=22 o2=100
+[110.3s] state: {"deck":"med","o2":100,"cells":0,"trust":22,"journal":8,"px":32,"py":12}
+[110.9s] lift -> eng
+[111.9s] terminal Reactor Console (CHO): {"type":"terminal","label":"Reactor Console","x":26,"y":4}
+[114.0s]   log [Chief Engineer Dae Cho : mission day 230 : reconstructed fro]: The survey end today, the galley change. Twenty years of spares left, and the whole watch changed. The old girl has started since Meridian S...
+[114.0s] archive Cho's Recorder: {"type":"archive","label":"Cho's Recorder","x":5,"y":16}
+[122.3s]   archive text: Held the feed levers by hand for six hours. The old girl wanted to breach and I talked her down, hell, I begged her down...
+[130.6s] kneel: Chief Engineer Dae Cho. Three hundred years asleep, by the ship's account. The suit is nea...
+[131.4s] pickup power cell 1: cells 0->1, o2 100->99
+[132.1s] pickup power cell 2: cells 1->2, o2 99->99
+[132.8s] pickup air canister: cells 2->2, o2 99->100
+[133.2s] socket 2: cells 2->1
+[133.7s] socket 3: cells 1->0
+[133.7s] voice door (CHO): {"type":"echodoor","label":"Drive Core Hatch","x":17,"y":12}
+[139.6s]   attempt 1: "Damn manifold rattled all shift but I torqued the bearings down and th..." -> RECOGNIZED : Chief Engineer Dae Cho (91%)
+[143.7s]   door OPEN. trust=29 o2=99
+[143.8s] state: {"deck":"eng","o2":99,"cells":0,"trust":29,"journal":10,"px":18,"py":14}
+[144.4s] lift -> bridge
+[145.4s] terminal Nav Station (VEGA): {"type":"terminal","label":"Nav Station","x":9,"y":5}
+[148.0s]   log [Navigator Sol Vega : mission day 156 : reconstructed from de]: Okafor and I traded stars the station, thought, which means everything I stopped talking to see what today dreamed like. He wants us to. I g...
+[148.1s] terminal Command Console (REYNE): {"type":"terminal","label":"Command Console","x":21,"y":5}
+[153.6s]   log [Captain Mara Reyne : mission day 175 : reconstructed from de]: One on one with Vega, 1300, his office inventory. He said the dressage. He said apologized on the Bridge. He looked like a man degrees healt...
+[153.7s] archive The Final Log: {"type":"archive","label":"The Final Log","x":15,"y":13}
+[164.1s]   archive text: Vesper command log, final. Vega, Cho, Aune, Okafor. My crew, my watch, my responsibility. No rescue is coming inside the...
+[175.2s] kneel: Navigator Sol Vega. Three hundred years asleep, by the ship's account. The suit is neat. T...
+[176.0s] pickup air canister: cells 0->0, o2 99->100
+[176.0s] voice door (VEGA): {"type":"echodoor","label":"Chart Room","x":5,"y":12}
+[187.9s]   attempt 1: "It is 0300 and the glass is full of embers. The Reach breathes lightye..." -> RECOGNIZED : Navigator Sol Vega (86%)
+[195.3s]   door OPEN. trust=37 o2=100
+[195.3s] voice door (REYNE): {"type":"echodoor","label":"Captain's Seal","x":23,"y":13}
+[206.1s]   attempt 1: "0600 watch. Manifest checked, headings logged, protocol holds. My crew..." -> RECOGNIZED : Captain Mara Reyne (64%)
+[211.3s]   door OPEN. trust=40 o2=100
+[211.6s] state: {"deck":"bridge","o2":99,"cells":0,"trust":40,"journal":13,"px":24,"py":15}
+[212.2s] lift -> core
+[213.8s] pre-finale state: {"deck":"core","o2":99,"cells":0,"trust":40,"journal":13,"px":11,"py":16}
+[214.6s] journal: 13 fragments : trust 40
+[216.4s] fps before finale: 60.7
+[218.2s] fps at finale open: 26.0
+[222.9s]   Q1 submitted; fps now: 21.3
+[235.1s]   finale Q1 done in 13.9s; reply=""
+[240.6s]   Q2 submitted; fps now: 20.7
+[246.7s]   finale Q2 done in 7.7s; reply=""
+[246.7s] trust before Q3: 43
+[252.3s]   Q3 submitted; fps now: 19.3
+[264.5s]   finale Q3 done in 13.7s; reply="From the captain I learned rest. Hold it like a bulkhead, where a keeper's voice. Family. Five sleep. Watch continue. I "
+[285.4s] === HONEST ENDING: "THE LONG WATCH ENDS" | fragments recovered : 13   |   trust earned : 43   |   run seed : 979915217 | {"deck":"core","o2":98,"cells":0,"trust":43,"journal":13,"px":11,"py":7} | 4.8 min ===
+[285.7s] PAGE ERRORS: []
+[285.7s] CONSOLE ERRORS: ["Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED"]
+[285.7s] DONE

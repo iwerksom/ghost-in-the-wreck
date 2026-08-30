@@ -1,0 +1,399 @@
+[LOG:VEGA:D001]
+Meridian Station is already a coin of light behind us, and I keep turning from the charts to watch it shrink, my whole life reduced to one bright ember in the glass. Ahead the Reach opens like a book nobody has read. I promised the stars I would learn all their names. I intend to keep that promise, one watch at a time, most of them at 0300 when the ship is quiet enough to listen.
+[END]
+
+[LOG:VEGA:D003]
+First real chart of the Reach tonight. The nebula glows rust and rose in the forward glass, and my instruments keep trying to tell me it is only ionized gas. Instruments lie by telling the truth too plainly. I logged forty new points of light and greeted each one. Hello, strangers. We have come a long way to meet you, and we brought a garden and a doctor and a captain who does not believe in poetry yet.
+[END]
+
+[LOG:VEGA:D006]
+Could not sleep, so I sat with the glass from 0230 until the light shift began. Sleep is a country I visit; the Reach is where I live. Cho says the engines sing. She is right, but the stars sing too, in parallax, in the slow lean of light as we drift past. I wrote three of them into the ledger tonight and told them they were beautiful. They already knew.
+[END]
+
+[LOG:VEGA:D009]
+The nav computer has a sound I am learning by heart. Not the beep, everyone knows the beep. Underneath it there is a soft ticking, like a patient old clock, like rain on a hull, and when a fix resolves it gives one low tone, almost a sigh of relief. I have started waiting for that sigh at 0300. Two insomniacs keeping watch together, one of us made of light, one of us made of code.
+[END]
+
+[LOG:VEGA:D013]
+We held our first naming ceremony tonight. A new star, uncataloged, burning small and stubborn at the edge of the Reach. I gathered the crew on the Bridge, poured five cups of tea, and named it Small Mercy, because it was the first light we found on our own. Reyne read the coordinates aloud like a benediction and did not smile, but she stayed. That counts. Welcome to the family, Small Mercy.
+[END]
+
+[LOG:VEGA:D016]
+Found a mapping error in the survey grid and I cannot bring myself to be angry about it. Some cartographer three generations back drew a star two lightyears from where it truly burns. For a hundred years, everyone who trusted that chart was reaching for a ghost. There is a poetry in that. Every wrong map is a love letter to a place that never existed. I corrected the entry gently, the way Okafor closes a chart.
+[END]
+
+[LOG:VEGA:D020]
+Reyne came to the Bridge on her off watch, which never happens, and asked me to show her the constellations I keep muttering about. I taught her the Ferryman first, seven stars in a long oar stroke across the Reach. She said, that is six stars and a sensor artifact. I said, Captain, all constellations are half error and half faith. She looked a full minute longer than she needed to. Progress.
+[END]
+
+[LOG:VEGA:D024]
+Tonight I wrote my first letter to a star. It will never be sent and never be read, which makes it the purest kind of letter. Dear Small Mercy, I wrote, we are five people in a metal seed, and we crossed the dark to find you. Do not worry about us. We are well fed and well captained and only a little homesick. Then I filed it in the ledger between two parallax tables, where it belongs.
+[END]
+
+[LOG:VEGA:D027]
+From this far out, home is a story we tell. I pulled up the rear array at 0300 and found the star Meridian Station orbits, one ember among ten thousand, no brighter than its neighbors. Everyone I have ever loved is circling that unremarkable point of light. Distance is honest that way. It shows you how small your whole heart is, and how bright anyway.
+[END]
+
+[LOG:VEGA:D031]
+Kit brought a tomato to the Bridge and we ate it in the starlight like conspirators. She asked which star her seedlings came from, originally, all that old carbon. I told her every one of them, probably. She liked that. The plants are stars that learned to be patient, she said, and went back to Hydroponics humming. I logged nothing for an hour after. Some watches the charts can wait.
+[END]
+
+[LOG:VEGA:D038]
+Second naming ceremony. A binary pair this time, two suns circling each other so closely their light arrives braided. Okafor suggested we call them the Orderlies, because they never leave each other's side. Carried unanimously, four votes and one abstention from the captain, who says naming stars is not protocol. She wrote both names in the master log herself, though. I saw her do it.
+[END]
+
+[LOG:VEGA:D042]
+There is an error in sector nine of the old charts and it rhymes. Truly. Some surveyor logged the same star twice under two names, once as a waypoint and once as a hazard, so for decades pilots feared and followed the same light. I keep thinking about that. How often we chart one thing as two, danger and direction, and never notice they burn at the same coordinates.
+[END]
+
+[LOG:VEGA:D046]
+0300 again, my oldest appointment. The nav computer ticked and sighed and served up a clean fix on the first pass, which it does maybe one night in ten, and I swear the tone was smug. I patted the console. Cho talks to her manifolds, I talk to my star fixes, Kit talks to a fern named Bea. On the Vesper, everything gets spoken to. It is a chatty little ship for such a silent sea.
+[END]
+
+[LOG:VEGA:D050]
+Fifty days out and the Reach has stopped being scenery and started being an address. I know its colors now, where the dust runs thin, where the ember light of the young stars soaks through like a hearth behind a curtain. Tonight I taught Reyne her second constellation, the Manifest, which I named for her. Nine stars in a strict little column. She pretended not to be pleased. She was pleased.
+[END]
+
+[LOG:VEGA:D053]
+Wrote to a dead star tonight. Its light is still arriving, faithful as a pension, though the source burned out ages before Meridian Station was a girder. Dear old one, I wrote, your letters keep coming and we read every one. That is not nothing. That may in fact be everything. Okafor says grief is just love with nowhere to go. Starlight is proof that it can travel anyway.
+[END]
+
+[LOG:VEGA:D057]
+The forward glass fogged at the edges tonight, condensation from the tea I forgot on the console, and for one blurred minute the whole Reach wore halos. Every star doubled and softened. I logged it as an observational note: nebula viewed through negligence, effect devotional. Then I wiped the glass and the universe went back to being precise. I liked it better forgiven and fuzzy, honestly.
+[END]
+
+[LOG:VEGA:D061]
+Cho spent her break on the Bridge tonight, feet on the rail, listening to me name stars until she fell asleep mid sentence. The engines sing to her, so she has heard music all day. I kept charting quietly around her. When she woke she said, hell, Vega, you talk about parallax the way I talk about coolant. I said yes, exactly, we are both in love and bad at hiding it. She laughed all the way to Engineering.
+[END]
+
+[LOG:VEGA:D064]
+Discovered a variable star tonight, breathing light, bright then dim then bright, a pulse of four hours and change. We named it the Sleeper at the ceremony, tea and biscuits, all five of us. Kit whispered goodnight to it when the dim phase came. I have never loved this crew more than at 0140 tonight, five faces lit by a star that snores. The Reach gave us a lullaby and we took it.
+[END]
+
+[LOG:VEGA:D068]
+Reyne is getting good. Tonight she found the Ferryman without prompting and traced the Manifest with one finger on the glass, precise as an inventory. Then she pointed at a spill of faint stars and asked what that one was called. Nothing yet, I said. She studied it a while and said, the Watch. Eleven stars standing a line. Captain, I told her, you are a navigator now. Reyne out, she said, and left grinning. Grinning.
+[END]
+
+[LOG:VEGA:D075]
+A letter tonight, to the star we are surveying this week. Dear furnace, dear elder, dear patient one. My captain calls you Object 40 and my charts call you a coordinate, but I have watched you three watches straight and I know better. You flare a little when your storms come, like a person talking in their sleep. We will only be here nine days. Forgive us for leaving. Everyone we meet, we leave.
+[END]
+
+[LOG:VEGA:D079]
+The nav computer lost its voice for two hours tonight, a speaker fault, and I did not realize how much I depended on the sound until the silence sat down next to me. No ticking, no sigh, just numbers moving mutely on the display like fish behind glass. Cho fixed it with a torque wrench and a mild oath. When the low tone came back I nearly applauded. Some sounds are crew.
+[END]
+
+[LOG:VEGA:D083]
+Old chart, new grief. Tonight I found a survey note from the first Reach expedition, ninety years back, describing a landmark star as a steady beacon for all future pilots. It went nova sixty years ago. The chart still promises it. I let the promise stand in the archive and wrote the correction beside it, because both things are true. There was a light. Trust it. There is no light. Trust that too.
+[END]
+
+[LOG:VEGA:D087]
+Kit and I traded rooms for a watch, her idea. She sat my Bridge chair and I misted her seedlings in Hydroponics, whispering coordinates to the basil. When we swapped back she had drawn a constellation on my notepad, five stars in the shape of a leaf, and asked if we could name it Old Tom after her tomato vine. Motion carried at the next ceremony, I am certain. The sky can always use more gardens.
+[END]
+
+[LOG:VEGA:D090]
+Ninety days. From here the home stars have rearranged themselves, familiar constellations pulled subtly wrong, like a room where someone has moved all the furniture one handspan. Parallax does that to memory. I found the star of Meridian Station on the rear array and it has drifted from where I keep it in my heart. Or I have drifted. The math says both. The math is kind that way.
+[END]
+
+[LOG:VEGA:D094]
+0300 and the Reach was doing its slow shimmer, dust lanes backlit in ember and wine. Okafor came up unable to sleep, second time this week by his count, and asked me to teach him one constellation, just one, for his insomnia. I gave him the Orderlies, his own named stars. He watched them circle each other a long time. Good vitals, he said finally. Strong pulse. Then he slept in the jump seat till dawn shift.
+[END]
+
+[LOG:VEGA:D098]
+The ledger of names grows. Small Mercy, the Orderlies, the Sleeper, the Watch, and tonight a lone red star we named Hearthlight, because it burns low and warm like a stove left on for someone coming home late. Reyne asked why I never name a star after myself. Because I am the one holding the pen, I said. The mapmaker is the one thing the map can never show. She wrote that down. Captain, taking notes on me.
+[END]
+
+[LOG:VEGA:D101]
+Charting error of my own tonight, and I confess it here. Transposed two digits and put a star eleven lightyears deep into a dust bank where nothing burns. For an hour the chart showed a light where there is only dark. When I found the mistake I sat with it before correcting. Somewhere in the archive now there was briefly a star that never existed, and it was mine, and it was beautiful, and it is gone.
+[END]
+
+[LOG:VEGA:D105]
+Cho tuned the nav computer's cooling fan tonight because I mentioned the pitch had gone sharp. She listened for ten seconds and said, bearing wear, poor thing, and had it purring in an hour. Now the console sounds like a cat that has decided to stay. Between her engines singing and my computer purring, the Vesper hums in two part harmony most nights. Kit claims the plants are the audience. They lean toward it.
+[END]
+
+[LOG:VEGA:D109]
+A letter to the first star I ever saw, whichever it was. Dear beginning, I do not remember you, I was too small, someone held me up to a window on Meridian Station and the story goes that I stopped crying. I have been trying to find you ever since, every survey, every fix, every 0300 vigil at the glass. It is possible I chose this whole life to answer one window. Worse reasons exist. Most reasons are worse.
+[END]
+
+[LOG:VEGA:D112]
+Reyne asked, during her lesson, why the old cultures put heroes in the sky instead of useful things, headings, distances, warnings. I told her they did chart warnings, whole constellations that meant storm season and flood tide, and the heroes were warnings too. This is what bravery costs, said the sky, nightly. She was quiet, then found the Watch on her own and stood a moment like she was reporting to it.
+[END]
+
+[LOG:VEGA:D120]
+Ceremony night. The star was faint, a white dwarf, the cooling coal of something that once burned enormous. Okafor named it the Retired, with respect, he said, it has done its shift. We drank tea. Kit left a leaf from Bea the fern pressed against the glass in its direction. Reyne logged the coordinates. Cho toasted it, here is to running hot your whole life and going out warm. I wrote it all down. I always will.
+[END]
+
+[LOG:VEGA:D124]
+Tonight the nav computer and I disagreed for three hours. It wanted a course through the thin dust, efficient, dull. I wanted the corridor past the Sleeper, four hours longer, so we could watch it breathe. I ran the numbers honestly and lost, then appealed to the captain. Reyne studied both plots and chose mine, citing survey value. There is a poet in her. It files reports, but it is in there.
+[END]
+
+[LOG:VEGA:D127]
+From far enough away, home is mostly what you cannot see. Not the star, you can see the star. The corridors of Meridian Station, the smell of the docks, the noodle stall on ring six, my sister's terrible singing. None of that shows in any instrument. I checked. So the light that reaches us here is home with everything I love subtracted, and still I look at it every night. Imagine what I would give for the rest.
+[END]
+
+[LOG:VEGA:D131]
+Kit asked me tonight whether stars die. I gave her the honest answer, yes, slowly, gloriously, seeding the dark with everything needed for gardens. She thought about it, then asked if anyone waters them. I said the Reach is full of hydrogen, which is close. Good, she said, and misted the window box she keeps on the Bridge sill, five green sprouts facing five thousand suns. Nobody on this ship is normal. It is wonderful.
+[END]
+
+[LOG:VEGA:D135]
+Mapping error found in my own week old work, a star logged one arc minute north of true. The cause, after some detective work: a smudge on the glass, a fingerprint, probably mine, refracting the light. For a week the chart carried the whorl of my thumb translated into false sky. I cleaned the glass and fixed the entry, but I saved the plot. Somewhere I touched the Reach and it moved. Let me have this one.
+[END]
+
+[LOG:VEGA:D138]
+The Sleeper was in bright phase tonight and Reyne found it before I did. She has taken to arriving at 0300 once a week for her lesson, coffee in hand, posture perfect even in the dark. We are up to nine constellations. She recites them like a duty roster, Ferryman, Manifest, Watch, Orderlies, on down the line. In her mouth they sound like crew. Perhaps that is what constellations are. Crews that never break up.
+[END]
+
+[LOG:VEGA:D142]
+Letter to the stars behind us. Dear wake, dear everything already charted, be patient with the maps we made of you. We did our best at speed. We got some of you wrong, a digit here, a smudge there, and some pilot decades on will curse our names and then, I hope, feel what I feel finding old errors, tenderness. A wrong map is proof somebody came this way caring. That has to be worth an arc minute.
+[END]
+
+[LOG:VEGA:D146]
+Okafor claims the nav computer's ticking has the exact rhythm of a resting heartbeat, sixty two to the minute. He timed it against his own wrist on the Bridge tonight, both hands quiet, counting. He is right. Whoever engineered this console gave it a pulse, deliberately or not, and I have been sleeping better beside it than in my own bunk. Medic's verdict: the Bridge is good for me. Prescription: continue.
+[END]
+
+[LOG:VEGA:D150]
+Halfway through the survey plan and the Reach keeps unfolding. Every dust lane we round shows another shoal of embers, uncounted, unnamed, waiting like a town before the train arrives. Tonight I just sat in it. No ledger, no fixes, fifteen entire minutes of dereliction of duty while the glass filled with strangers. Then I picked up the pen, because someone has to introduce them to everyone back home. Might as well be me.
+[END]
+
+[LOG:VEGA:D153]
+Named a star for Cho tonight, over her loud objections. It flickers with a rough, irregular rhythm, flaring when you least expect, steady when it matters. We call it the Engineer. She said, hell, that thing runs terribly. Exactly, said everyone at once, and she surrendered, and touched the glass toward it once when she thought nobody watched. I watch everything. It is the whole job.
+[END]
+
+[LOG:VEGA:D161]
+The 0300 club had three members tonight, me, Okafor, and the nav computer, ticking its patient sixty two. He talked about home, the clinic he trained in, the sound of rain on real ground. I gave him the rear array and found him his home star among the crowd. He looked a long while and said, third brightest in that little group, you are sure. I am sure. He nodded like a pulse had been confirmed. It had.
+[END]
+
+[LOG:VEGA:D164]
+A dust bank swallowed the Ferryman tonight, all seven stars gone behind the curtain, and Reyne noticed from the command chair without being told. Where is my constellation, she asked, actual concern in it. Occluded, back in nine days by my math. She logged it. Ship's log, the Ferryman is missing, expected to return. Somewhere in the archive that sentence now lives forever, and it is the best thing either of us has written.
+[END]
+
+[LOG:VEGA:D168]
+Tonight I taught the nav computer a new voice tone for the naming ceremonies, one soft rising note when I enter a christened name into the registry. Utterly unauthorized use of the alert system. Worth it. When I typed Hearthlight into the corrected index the console sang its little rising note, like a bell over a door when family walks in. Cho inspected my wiring after and said, clean work, do not tell the captain. I never do.
+[END]
+
+[LOG:VEGA:D172]
+Letter to an unnamed star, written for the ceremony we will hold tomorrow. Dear candidate, tonight you are a number in a queue. Tomorrow you get tea, biscuits, five tired humans, and a name that will outlive us all. I want you to know the name is not for you. You do not need it. The name is for us, so that something out here answers when we call. Everything we chart, we chart to be less alone. Sleep well. Big day.
+[END]
+
+[LOG:VEGA:D176]
+The ceremony went sideways beautifully. We could not agree, three names deadlocked, so Reyne invoked captain's privilege for the first time in the naming registry's history and chose Quorum. A star named for the argument itself. Kit laughed until she had to sit down. It is a good name. Every time we sight it now, we will remember five people who loved each other enough to argue about a furnace ninety lightyears off.
+[END]
+
+[LOG:VEGA:D179]
+Found the oldest error yet tonight, a chart from the first probes, pre crewed era. It marks the whole heart of the Reach with a single word, unresolved. Everything we have spent half a year charting, all our named stars, the Sleeper, the Watch, Small Mercy, one word. I printed the old chart and pinned it by the glass. Unresolved. It reads like a diagnosis we came out here to cure. We are curing it nightly.
+[END]
+
+[LOG:VEGA:D183]
+Reyne can now find twelve constellations and has begun inventing mnemonics, which she recites deadpan. The Ferryman rows the Manifest to the Watch. I told her navigators have passed sentences like that from teacher to student for as long as anyone has steered by stars, and she is now a link in that chain. She stood a little straighter. Then she said my posture at the console is a disgrace. Also a link in an old chain, that.
+[END]
+
+[LOG:VEGA:D187]
+The nav computer hummed a quarter tone flat all watch, and I diagnosed it before Cho did, dust in the fan again. She let me do the cleaning myself, supervising with her arms crossed like a proud terrible parent. The old girl trusts you now, she said, do not make her regret it. I finished, powered up, and the ticking came back true, sixty two to the minute. I have never been prouder of a screwdriver in my life.
+[END]
+
+[LOG:VEGA:D190]
+At 0300 the glass showed me something rare, a lensing arc, the light of a far galaxy bent around a near mass into a thin silver smile. Whole other rivers of stars, warped into a grin, just for the graveyard shift. I woke nobody. Some sights are for the watchstander alone, that is the wage of insomnia. But I plotted it carefully, so that in some future archive a curious soul will find the night the universe smiled at the Vesper.
+[END]
+
+[LOG:VEGA:D194]
+Kit held her own ceremony tonight, in Hydroponics, and invited me down. She has named a light-lamp after Small Mercy, our first star, because the seedlings under it grow strongest. So now there is a star in the Reach and a lamp on the garden deck sharing one name, and the tomatoes lean toward one and I lean toward the other. When the mission ends, one of those lights comes home with us. I try not to think about that.
+[END]
+
+[LOG:VEGA:D198]
+Letter to the star of Meridian Station. Dear porch light, you are eleven months of light behind us now, and I know that when I look at you I see the past, everyone at home already older than the glow that reaches me. It should feel like loss. It feels like a photograph instead, one the sky keeps taking for me, over and over, so that no matter how far I drift, home as I left it is always hanging in the glass. Keep taking it.
+[END]
+
+[LOG:VEGA:D201]
+Two hundred days and one extra, and I marked the occasion by doing absolutely everything wrong. Slept through my own 0300, missed the fix window, woke in a panic at 0500. And the nav computer had held the plot alone, steady, ticking, sighing its low tone into an empty Bridge. I thanked it out loud and gave the console a formal salute. Somewhere Reyne felt a disturbance in protocol and did not know why.
+[END]
+
+[LOG:VEGA:D205]
+Parallax on the Watch resolved tonight. Reyne's eleven stars are not a line at all, of course, they never are. They are scattered across two hundred lightyears of depth and only agree from here, from exactly here, from this one drifting vantage that will never come again. I told her. She considered it and said, then we are the only crew who will ever see them stand that line. Correct, Captain. The sky salutes once per address.
+[END]
+
+[LOG:VEGA:D213]
+Okafor asked what happens to my letters to the stars. Nothing, I told him, they live in the ledger, unsent by design. He wrote one himself tonight, then, sitting in the jump seat with my pen. He would not show me, but I saw him fold it into the back of the registry beside mine, addressed with a little drawn cross of light. The archive of this ship is becoming a post office for undeliverable love. Good. Best use of paper I know.
+[END]
+
+[LOG:VEGA:D216]
+A wrong star saved us an afternoon today. The old chart's misplaced beacon, the ghost I logged back in my first hundred days, sits right along our sweep line, so every pilot who ever steered by the error passed through this exact corridor. And the corridor is clean, dust thin, well surveyed by all those mistaken transits. The wrong map wore a right path. I do not have a moral. I have a heading, and it is a good one.
+[END]
+
+[LOG:VEGA:D220]
+Ceremony for a cold one tonight, a brown dwarf, a star that never quite caught fire. Kit named it before anyone else could speak. Almost, she said. It is called Almost. Nobody argued. We sat with our tea and looked at the dim coordinates where Almost warms nothing, and Okafor said, gently, that trying counts. Reyne logged it with full honors, same registry line as the brightest. On this ship, Almost is family.
+[END]
+
+[LOG:VEGA:D224]
+The nav computer's low tone woke me tonight from the doze I deny taking. Fix resolved, course true, nothing needed. But I sat listening a while to the room. Ticking, the hull's faint breath, hydroponics pumps two decks down, Cho's engines singing their far bass line. The Vesper at 0300 is an orchestra tuning, never quite starting the piece. I hope it never starts. Tuning is the sound of everyone still here.
+[END]
+
+[LOG:VEGA:D228]
+Taught Reyne the oldest navigator's trick tonight, steering by a star you never look at directly. Averted vision, the dim ones show only to the corner of the eye. She practiced on the faintest of the Orderlies until she could hold it, gaze aside, attention true. That is command, she said suddenly. Watching without staring. I wrote her words in the margin of the chart. The student teaches back. It is going well, this school.
+[END]
+
+[LOG:VEGA:D231]
+Letter to the Sleeper, in its dim phase tonight. Dear breather, dear four hour heart. When you dim I chart faster, wanting the work done before your light comes back, so I can watch the brightening with empty hands. My mother did this with bread in the oven, I remember now, all chores raced against the timer, and then the sitting, and the warm rising smell. You smell of nothing. You rise. It is the same. It is exactly the same.
+[END]
+
+[LOG:VEGA:D235]
+Deep field error, my favorite kind. Two charts of this sector disagree by one entire star, one shows it, one omits it, same year, same survey office. The star is there, I confirmed at 0300, burning indifferent to its paperwork. Someone, decades back, looked at the same light I looked at tonight and decided it did not exist. I logged the confirmation and added a note. It exists. It was always here. Somebody say it to everything.
+[END]
+
+[LOG:VEGA:D239]
+Cho and Kit joined the 0300 club tonight, uninvited, welcome. Cho brought engine room coffee, which could strip a manifold, and Kit brought Old Tom's first ripe tomato of the new vine. We split it four ways with the computer ticking time for us. Nobody said anything important. That is the finest hour this mission has produced to date, and I have personally named six stars. Let the record show the tomato outranks them.
+[END]
+
+[LOG:VEGA:D242]
+The rear array found home's star occulted tonight, some dust bank between us and everything, and the glass went orphan for an hour. I sat with the missing light like you sit with a friend's empty chair. It returned on schedule, the math never doubted, but I had. Note for future navigators: the heart runs its own ephemeris, and it is badly calibrated, and you will keep it anyway. File under instruments, essential, faulty.
+[END]
+
+[LOG:VEGA:D246]
+Reyne conducted tonight's naming ceremony herself, full protocol voice, and named the new star Meridian's Daughter, for the station that built us and sent us. The crew went quiet. She said, my crew came from somewhere, the somewhere should be on my charts. Then she adjourned us like a briefing. I stayed after and looked at the Daughter a long time. The captain never uses metaphor. She just filed one in the registry.
+[END]
+
+[LOG:VEGA:D250]
+Two hundred fifty days out. I measured my own parallax tonight, so to speak, looking at old logs from D003. That navigator counted forty stars and called them strangers. I have tea with them now. The Reach has not changed, I have simply drifted far enough through it to see its depth. People are charted the same way, I suspect. Hold still and they are points of light. Travel beside them a year and they become places.
+[END]
+
+[LOG:VEGA:D254]
+The nav computer got its annual certification today, Cho presiding with a torque wrench and great ceremony. Every tone tested, the tick, the sigh, the fault buzz we never hear, and my contraband naming bell, which she certified too, off the record. All systems sing within tolerance, she declared. I asked for that phrasing in the official log. Denied by the captain. Recorded here instead, where the good sentences live.
+[END]
+
+[LOG:VEGA:D257]
+Letter to the stars I will never chart. Dear beyond the survey line, dear budget cuts, dear next expedition's glory. Somebody will name you. It will not be me and that is right and I hate it. Save one small mystery for the crews to come, that is the tradition, and you are mine to them. But know that on clear watches I look past the plan's edge at your uncounted light, and covet, and wish you patience. Someone is coming. Someone is always coming.
+[END]
+
+[LOG:VEGA:D261]
+Kit's window box on the Bridge has flowered, five white blooms facing the glass, and tonight during the dim phase of the Sleeper they were the brightest things forward of the console. I charted them as a joke, bearing, elevation, magnitude, designation Flora One through Five. The nav computer accepted the entries without complaint. Somewhere in the registry now, five flowers hold formation among the stars. Leave them.
+[END]
+
+[LOG:VEGA:D265]
+Okafor and I traded skills tonight, second time this month by his count. He learned the Retired, my white dwarf, and I learned to take a pulse properly, two fingers, patient, counting against the chronometer. Sixty two, he said of my wrist, same as your computer. I said the console and I have been keeping time together for two hundred sixty five days, of course we agree. He wrote something in his notes. Probably: navigator, hopeless, stable.
+[END]
+
+[LOG:VEGA:D268]
+Tonight the Reach turned a color I have no entry for. The dust caught some young star's flare and the whole eastern glass went the color of tea with too much honey, a gold with grief in it. Fifteen minutes, then gone. No instrument recorded anything but a modest luminosity bump. This is why the logs need people. The sensors saw a bump. The watchstander saw the Reach remember something sweet. Both true. Only one worth keeping.
+[END]
+
+[LOG:VEGA:D272]
+An error I refuse to fix, noted here for honesty. In my private ledger, not the official charts, I keep Small Mercy two entries wide, once by the numbers and once as we saw it that first ceremony night, brighter than measurement, haloed by tea steam on the glass. The official chart is correct. The ledger is true. A navigator should know the difference and carry both. That is the whole trade, honestly. The rest is math.
+[END]
+
+[LOG:VEGA:D276]
+Reyne asked tonight how many constellations exist. Officially eighty eight, from old Earth, I told her, plus every one any crew has ever needed and drawn for themselves. So the answer is eighty eight and also numberless. She has drawn eleven of her own now, in a grid notebook, straight lines, labeled bearings. The Watch, the Manifest, the Daughter's Walk. Somewhere under all that protocol is a sky, and it is getting out.
+[END]
+
+[LOG:VEGA:D279]
+Watched our own wake tonight, the survey line behind us picked out in charted stars like streetlights coming on after a lamplighter passes. Ninety named, four hundred confirmed, one smiled at us, one is called Almost. Ahead the Reach is dark ledger pages waiting. Cho asked once why I never get tired of this. Because behind us it is finished, I said, and ahead it is possible, and I get to stand exactly at the seam. 0300, the seam.
+[END]
+
+[LOG:VEGA:D283]
+The tick stopped tonight, mid watch, and my heart with it. Three full seconds of console silence, then the ticking resumed as if nothing. Cho found a relay aging in the timing loop and replaced it before dawn, talking to it the whole while, easy now, old girl, nobody blames you. I keep the dead relay in my pocket. It kept time beside me for most of a year. You do not just throw that in the scrap bin. You keep it, and you say thank you.
+[END]
+
+[LOG:VEGA:D287]
+Letter to Hearthlight, our stove left burning. Dear low and warm, the survey moves on next week and you will fall astern like everything does. I want you to know what you were for. On hard watches I would find you first, before the bright showoffs, because you looked like a kitchen at night. The crew never knew their navigator steered his mood by a red dwarf. Now the ledger knows. Burn slow, old stove. Someone late is always coming home.
+[END]
+
+[LOG:VEGA:D291]
+Kit says the plants grow better on nights I read the registry aloud over the intercom, star names as bedtime list, Small Mercy, Quorum, Almost, the Sleeper, on down all ninety. She has no data, she says, only leaves that look happier. Okafor says the same of his patients, meaning us, meaning the crew sleeps better hearing it. So it is now protocol, unofficial, mine. The 0300 reading of the names. The Vesper's little liturgy.
+[END]
+
+[LOG:VEGA:D294]
+Tonight Reyne took the fix alone, first to last, sights, math, correction, the whole rite, while I stood aside with my hands behind my back, aching to help, forbidden by my own teaching. Two seconds of arc off ideal. Two. I have done worse this month. She logged it and said, adequate. Captain, I said, that was beautiful. She said, log it as adequate. So here, in my own log, safe from her: it was beautiful. Reyne out, as she says.
+[END]
+
+[LOG:VEGA:D302]
+Ceremony one hundred is coming and the crew is arguing rank about it. Cho wants the hundredth name to be the Old Girl, for the ship. Kit wants Greenhouse. Okafor abstains but keeps humming a lullaby whose name is obvious bait. Reyne says the registry is not a democracy, which historically precedes her doing the kind thing. I hold the pen and say nothing. Whatever wins, the argument itself is the finest constellation aboard.
+[END]
+
+[LOG:VEGA:D306]
+The hundredth star is named. Reyne heard all parties on the Bridge, closed her notebook, and said, it is called the Vesper's Own, and everything we chart after it is also that, so everyone wins, meeting adjourned. Tea. Biscuits. My little rising bell as I typed it into the registry. One hundred names between us and the dark now. The nav computer sighed its low tone right on cue, and no one will convince me that was coincidence.
+[END]
+
+[LOG:VEGA:D309]
+Okafor timed my pulse against the console's tick again tonight, his monthly ritual, and announced we have drifted apart, me at sixty four now. He blames the coffee Cho brews. I blame joy. The survey ends in under three months and I am charting like a man before a holiday, everything faster, everything dear. Parallax works on time too. The end of a thing, seen from close, leans and looms. From D003 it never looked this large.
+[END]
+
+[LOG:VEGA:D313]
+Letter to the Watch, Reyne's eleven, her first invention. Dear standing line. She checks on you nightly now, you should know, from the command chair, one glance, the way she counts her crew at breakfast without seeming to. You are on the roster, is what I am saying. Muster is at 0300. In two hundred years of light your line will scatter, alignment lost, and somewhere in an archive her grid notebook will still hold you at attention.
+[END]
+
+[LOG:VEGA:D317]
+Found an error tonight that was not one. A star charted a full degree off by the old survey, except their instruments were fine. It moved. Proper motion, a runaway sun, flung from some ancient cluster and crossing the Reach alone at speed. Everyone who charted it was right, at the hour they charted. I updated the registry with its track instead of a fixed point. Some things you do not map as places. You map them as journeys.
+[END]
+
+[LOG:VEGA:D320]
+The runaway needed a name, so we held a ceremony without tea, standing, brief, as felt right for something that will not stay. Kit called it the Traveler and nobody bettered it. Godspeed was said, by the captain, in full protocol voice, to a star. The Traveler will cross the Reach for a million years and carry the only blessing Mara Reyne has ever issued. I hope it felt that. Light bends for mass. Perhaps for this too, a little.
+[END]
+
+[LOG:VEGA:D324]
+The nav computer learned a fault tonight and unlearned it by morning, a stutter in the tick, tick tick, pause, tick, like a hiccup, like a laugh. Cho ran full diagnostics and found nothing. Ghost in the timing crystal, she shrugged, the old girl's allowed one. So the official record shows no fault, and mine shows this: for one watch my oldest companion had the hiccups, and the Bridge at 0300 sounded briefly like someone amused.
+[END]
+
+[LOG:VEGA:D328]
+Home moved tonight. Not truly, the math is prosaic, our survey arc has swung the rear view, and Meridian's star now sits in a different window of the mess than it has all year. Kit found it first, at dinner, and called out like sighting land. Everyone crowded one small pane, five foreheads nearly touching glass, hunting one ember among thousands. Found. Confirmed. Toasted with juice. The Reach is grand, but that was the view of the day.
+[END]
+
+[LOG:VEGA:D331]
+Reyne's final examination, her word, was tonight. She required it, wrote herself a test, sights, names, corrections, history. I invigilated with tea. She passed, of course, then asked what marks a navigator, truly, expecting some technical answer. Insomnia and forgiven errors, I said, and the habit of talking to lights. She considered, then noted she was up at 0300, misfiled a report Tuesday, and speaks to my computer when I am not there. Certified.
+[END]
+
+[LOG:VEGA:D335]
+Letter to Almost, the star that never lit. Dear ember that stayed ember. Kit asked tonight if you were lonely, dim there among the burning kind, and I gave her the physics, then thought better and gave her this. You warm no worlds, but you have held your gases together for a billion years without the fire everyone else was given, and you are still here, and we found you, and you are on the roster. Persistence is a kind of shining. It is late. Yours, the man at the glass.
+[END]
+
+[LOG:VEGA:D339]
+The survey's last dense field is charted. What remains is the sparse frontier, then the long turn home. Tonight I read the whole registry aloud on the intercom, all one hundred eleven names, and heard, distinctly, Cho singing along from Engineering to the rhythm of it, hell knows what tune. The plants listened. The sleepers slept. The nav computer ticked underneath like a metronome. Our strange little choir, one year in the making.
+[END]
+
+[LOG:VEGA:D343]
+A thought at 0300, filed for whoever inherits these charts. Every error I corrected this mission, someone once wrote down as their best truth. Every truth I wrote down, someone will someday correct. This does not depress me. It is a relay, the longest one, hand to hand across centuries of dark, and the baton is a map, and the map is wrong, and the map is beloved, and the map improves. Run your leg well. That is all any watch requires.
+[END]
+
+[LOG:VEGA:D347]
+Cho let me into Engineering tonight to hear the singing up close, my first proper visit in months. The engines at low burn hum a chord I felt in my sternum, and underneath it, faint, the same rhythm as my console's tick. Same clocks, she said, whole ship shares a heartbeat. I stood a long while between her machines and my stars, both humming. The Vesper is one instrument. We are just five hands on it, playing very slowly, mostly in tune.
+[END]
+
+[LOG:VEGA:D350]
+The frontier fields are lean, one confirmation a night sometimes, and I have gone from feast to gleaning. Tonight's single star was faint, far, and by the numbers unremarkable, and I gave it the full ceremony alone, tea for one, the naming bell, the registry line. I called it the Gleaner's Wage. The crew will tease me at breakfast. Let them. Nobody who has stood the 0300 watch will ever tell you a small harvest is nothing.
+[END]
+
+[LOG:VEGA:D354]
+Okafor asked me to chart something for him tonight, not a star. He wanted the bearing to the clinic where he trained, the actual line through the glass, so he could look along it when he misses the sound of rain. I worked it out, wrote it on a card, taped it to the Med Bay wall myself. Bearing two two five, elevation four, distance unspeakable. Now two decks of this ship have windows aimed at somebody's heart. Doctor's orders, mine.
+[END]
+
+[LOG:VEGA:D358]
+Reyne caught me asleep at the console at 0340 and did not wake me. I know because she logged it, formally, watchstander observed in violation of alertness protocol, corrective action, blanket. There is a wool blanket in the log. There was a wool blanket on my shoulders at 0500. The nav computer had held the fix, the captain had held the watch, and my crew let the insomniac finally sleep in his favorite room. Enter it all in the registry of mercies.
+[END]
+
+[LOG:VEGA:D362]
+Letter to the Reach entire. Dear rust and rose, dear address. One year you have held us, fed the charts, hidden and shown your embers on your own schedule, smiled once, hiccuped once, taken one hundred sixteen names without complaint. Crews measure missions in days. I will measure the rest of my life against you. Everything I chart after this will be judged by your light and found adequate, as my captain says, and adequate is her love word.
+[END]
+
+[LOG:VEGA:D366]
+One year spaceborne, by home count. The mess held a small feast and Kit grew an actual lettuce crown for the occasion, which Reyne wore for a full eleven seconds, witnessed, cherished. Afterward at 0300 the Bridge was mine and the Reach was doing nothing special, just burning in all directions forever. A year ago that view stopped my breath. Tonight it steadied it. That is the whole difference between wonder and home. Breathing.
+[END]
+
+[LOG:VEGA:D370]
+The charts are nearly full and I have begun the ending work, the index, the errata, the letters folded into the registry's back pages, mine and Okafor's and now, I found tonight, unsigned ones in two other hands, one neat, one smudged with what is certainly soil. I did not read them. I charted them. Four points of light in the ledger's dark, bearings unknown, magnitude considerable. The archive is now the sixth crew member. It knows the most.
+[END]
+
+[LOG:VEGA:D374]
+Taught Reyne the last lesson tonight, the one you save. How to be lost. I shut the nav computer's displays, spun the chair, glass only, no instruments, and asked her for home. It took an hour. Ferryman to Watch, Watch to the Daughter, Daughter to the rear window's little ember, there. Correct, Captain. If everything fails, the sky still knows the way, and now so do you. She was quiet, then said, my crew will never be lost. Filed under headings, permanent.
+[END]
+
+[LOG:VEGA:D378]
+The sparse fields gave a parting gift tonight, a nova in a far galaxy, a stranger's star ending in a magnificence that outshone its whole city of suns. We will never know who it warmed. I logged it, then rang the naming bell once, no name, just the note going out over the intercom at 0300. Cho's voice came back from Engineering after a moment. Heard. That is all the ceremony a farewell needs, I think. Heard. I write it here so it stays.
+[END]
+
+[LOG:VEGA:D381]
+Final survey week. I walked the registry tonight like a landlord, all one hundred nineteen names, checking each coordinate holds, and they hold, they will hold when the Vesper is scrap and I am carbon bound for someone's garden. Kit finds that thought cheerful and honestly so do I now. Tonight's addition, second to last: a modest yellow star, steady as a kept promise. We named it the Long Watch. One entry remains open. I am saving it.
+[END]
+
+[LOG:VEGA:D385]
+Everyone knows the last star gets named at the turn for home, and everyone pretends not to campaign. Kit leaves seed catalogs open to hopeful words. Cho hums. Okafor counts aloud, three of them at dinner, angling for a number name. Reyne alone is silent, which means she has decided, which means the rest is theater, which is the crew's favorite kind of decision. The nav computer ticks through it all, patient. It knows how this ship ends its arguments. Warmly.
+[END]
+
+[LOG:VEGA:D388]
+Course for the survey's last sweep is laid, and tomorrow we power down to half systems and let the sensors drink the Reach one final time. Tonight I sat my 0300 with the whole registry glowing and the glass full of friends. The last name is chosen, sealed in the captain's notebook until the ceremony. I find I am not curious. Whatever we call it, it will mean the same thing all one hundred twenty mean. We were here. We loved it. Keep the light.
+[END]
