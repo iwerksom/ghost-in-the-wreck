@@ -40,7 +40,7 @@
       "outputs": ["FORMAT.md", "model/prepare.py parser section"],
       "llm_recipe": "Define sample types with exact marker grammar, length bounds, charset rules; write the matching parser.",
       "manual_recipe": "Edit FORMAT.md; keep parser in sync.",
-      "gate": {"kind": "automated", "cmd": "python3 model/prepare.py 2>&1 | grep -q \"rejected: {}\" && echo PARSER OK", "criteria": "Parser round-trips every sample type with 0 rejects."},
+      "gate": {"kind": "automated", "cmd": "tools/py model/prepare.py 2>&1 | grep -q \"rejected: {}\" && echo PARSER OK", "criteria": "Parser round-trips every sample type with 0 rejects."},
       "depends_on": ["canon"]
     },
     {
@@ -51,7 +51,7 @@
       "outputs": ["corpus/raw/*.txt"],
       "llm_recipe": "Fan out one writer agent per slice (per character, per dialogue theme); each reads both spec docs; plan two rounds, the second targeting whatever round-one training lacked. Include a gibberish-handling slice.",
       "manual_recipe": "Human writers produce slices against the same FORMAT.md; drop files into corpus/raw/.",
-      "gate": {"kind": "automated", "cmd": "python3 model/prepare.py", "criteria": "0 unparsed blocks; token count >= target (>=400k); per-type minimum counts met."},
+      "gate": {"kind": "automated", "cmd": "tools/py model/prepare.py", "criteria": "0 unparsed blocks; token count >= target (>=400k); per-type minimum counts met."},
       "depends_on": ["format_spec"]
     },
     {
@@ -95,7 +95,7 @@
       "outputs": ["corpus/build/dataset.npz", "corpus/build/tokenizer.json"],
       "llm_recipe": null,
       "manual_recipe": null,
-      "gate": {"kind": "automated", "cmd": "python3 model/prepare.py", "criteria": "Reject count 0; derived-augmentation counts balanced per character."},
+      "gate": {"kind": "automated", "cmd": "tools/py model/prepare.py", "criteria": "Reject count 0; derived-augmentation counts balanced per character."},
       "depends_on": ["corpus"],
       "automated": true
     },
@@ -119,7 +119,7 @@
       "outputs": ["game/weights.js", "model/test_vectors.json"],
       "llm_recipe": null,
       "manual_recipe": null,
-      "gate": {"kind": "automated", "cmd": "python3 model/export.py && node test/parity.js", "criteria": "JS reproduces PyTorch token ids and top-10 logit order exactly; size within page budget."},
+      "gate": {"kind": "automated", "cmd": "tools/py model/export.py && node test/parity.js", "criteria": "JS reproduces PyTorch token ids and top-10 logit order exactly; size within page budget."},
       "depends_on": ["train"],
       "automated": true
     },
@@ -208,7 +208,7 @@
       "outputs": ["artifact.html / standalone html / godot exports"],
       "llm_recipe": null,
       "manual_recipe": null,
-      "gate": {"kind": "automated", "cmd": "node tools/build_data.js && python3 build_artifact.py", "criteria": "Size budget; no doctype/CSP violations for the artifact target; godot headless test passes."},
+      "gate": {"kind": "automated", "cmd": "node tools/build_data.js && tools/py build_artifact.py", "criteria": "Size budget; no doctype/CSP violations for the artifact target; godot headless test passes."},
       "depends_on": ["balance"],
       "automated": true
     },

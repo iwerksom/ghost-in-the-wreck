@@ -10,11 +10,11 @@
 
 SHELL := /bin/bash
 
-# Python deps live in a venv: Ubuntu 24.04 refuses a system-wide pip install
-# (PEP 668). Fall back to the system interpreter when the venv is not built,
-# so the gates that need no third-party packages still run.
+# Python goes through tools/py, which prefers .venv and falls back to the
+# system interpreter. pipeline.json calls the same shim, so a gate runs the
+# identical command here and in the factory.
 VENV := .venv
-PY   := $(shell [ -x .venv/bin/python3 ] && echo .venv/bin/python3 || echo python3)
+PY   := tools/py
 .PHONY: help setup data build clean \
         gate-format_spec gate-corpus gate-maps gate-story_data gate-tuning \
         gate-dataset gate-train gate-export gate-calibrate gate-engine gate-build \

@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# The interpreter for this repo's python gates.
+#
+# The Makefile and pipeline.json must run the *same command* for a step, so
+# both go through this. Ubuntu 24.04 refuses a system-wide pip install
+# (PEP 668), which puts torch in .venv; prefer that when it exists, and fall
+# back to the system interpreter so the gates needing no third-party package
+# still run before anyone has done `make setup`.
+set -u
+root=$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)
+if [ -x "$root/.venv/bin/python3" ]; then
+    exec "$root/.venv/bin/python3" "$@"
+fi
+exec python3 "$@"
