@@ -62,5 +62,27 @@ for (const deck of DECKS) {
   }
   console.log(`${deck.id}: spawn ${sx},${sy}, reachable tiles ${seen.size}, entities ${Object.keys(digits).length}`);
 }
+// iteration 2: every door memory must be findable on the door's deck or an earlier one
+const STORY = require("../data/story.json");
+if (STORY.clues && STORY.door_challenges) {
+  const deckOf = {};   // persona -> deck index of its door
+  const srcDeck = {};  // clue id -> earliest deck index where it can be found
+  const note = (id, i) => { if (srcDeck[id] === undefined || i < srcDeck[id]) srcDeck[id] = i; };
+  DECKS.forEach((deck, i) => {
+    for (const m of Object.values(deck.entities)) {
+      if (m.type === "echodoor") deckOf[m.persona] = i;
+      for (const id of m.clues || []) note(id, i);
+      if (m.type === "archive") for (const [id, c] of Object.entries(STORY.clues)) if ((c.archives || []).includes(m.key)) note(id, i);
+    }
+    const ks = (STORY.keepsakes || {})[deck.id];
+    if (ks && ks.clue && deck.map.some(r => r.includes("B"))) note(ks.clue, i);
+  });
+  for (const [id, c] of Object.entries(STORY.clues)) {
+    if (c.distractor || !c.door) continue;
+    if (srcDeck[id] === undefined) { console.log(`clue ${id}: no source on any deck`); fail++; continue; }
+    if (deckOf[c.door] !== undefined && srcDeck[id] > deckOf[c.door]) { console.log(`clue ${id}: first source on deck ${srcDeck[id]}, after its door on deck ${deckOf[c.door]}`); fail++; }
+  }
+  console.log(`clues: ${Object.keys(srcDeck).length} placed, every door memory reachable in time`);
+}
 console.log(fail ? `FAIL: ${fail} issues` : "ALL MAPS OK");
 process.exit(fail ? 1 : 0);

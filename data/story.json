@@ -127,5 +127,252 @@
  "fallback": {
   "log": "The recorder spins up, hums, and gives back only carrier tone. Whatever was written here has drifted beyond recovery.",
   "echo": "The lights dim and rise again, slowly, like something breathing while it decides what you are."
+ },
+ "clues": {
+  "kit_plants": {
+   "author": "KIT",
+   "day": 211,
+   "door": "KIT",
+   "anchor": "Bea the fern has three new fronds this week, and Old Tom the tomato vine is climbing the lamp rail again.",
+   "phrase": "Bea the fern",
+   "hint": "Kit wrote about the plants at the Garden Console.",
+   "archives": [
+    "kit_final"
+   ]
+  },
+  "okafor_milk": {
+   "author": "OKAFOR",
+   "day": 233,
+   "door": "OKAFOR",
+   "anchor": "Patient presents with insomnia, crew wide, third week running. Prescribed warm milk at 0100 and lights down by 2200, which nobody will follow.",
+   "phrase": "Prescribed warm milk",
+   "hint": "Ben kept notes on every patient at the Patient Records console."
+  },
+  "okafor_pills_distractor": {
+   "author": "OKAFOR",
+   "day": 241,
+   "door": "OKAFOR",
+   "distractor": true,
+   "anchor": "Asked for sleeping pills again today, two of them this time. Asked nicely, too, which is how I know it is bad.",
+   "phrase": "sleeping pills",
+   "hint": ""
+  },
+  "cho_lever": {
+   "author": "CHO",
+   "day": 301,
+   "door": "CHO",
+   "anchor": "When the old girl runs hot you grab the second feed lever, the one with my tape on it, and you hold it and talk to her, and you never touch the fourth, because the fourth one vents the core.",
+   "phrase": "the second feed lever",
+   "hint": "Cho explained the levers at the Reactor Console."
+  },
+  "vega_star": {
+   "author": "VEGA",
+   "day": 188,
+   "door": "VEGA",
+   "anchor": "The first star I ever named out here was Cassiel, a small blue ember off the port glass, and she has kept me company at 0300 ever since.",
+   "phrase": "Cassiel",
+   "hint": "Sol's star names are in the Nav Station logs."
+  },
+  "reyne_casualty": {
+   "author": "REYNE",
+   "day": 390,
+   "door": "REYNE",
+   "anchor": "Casualty report. Navigator Vega lost on the Bridge. First of my crew. The seal holds on every other deck.",
+   "phrase": "First of my crew",
+   "hint": "The captain's final log and the keepsakes on the sleepers tell the order.",
+   "archives": [
+    "reyne_final"
+   ]
+  }
+ },
+ "door_challenges": {
+  "KIT": {
+   "tier": 1,
+   "layers": [
+    "voice",
+    "memory"
+   ],
+   "turns": [
+    {
+     "ask": "Kit? Is that you, back among the leaves? Tell me about your plants. Say their names, the way you always did.",
+     "fact": {
+      "mode": "any",
+      "answers": [
+       "bea",
+       "old tom",
+       "tom"
+      ]
+     }
+    }
+   ]
+  },
+  "OKAFOR": {
+   "tier": 2,
+   "layers": [
+    "voice",
+    "memory"
+   ],
+   "turns": [
+    {
+     "ask": "Ben. My sleepers could not sleep, once, long before the storm. What did you prescribe for them?",
+     "fact": {
+      "mode": "any",
+      "answers": [
+       "milk"
+      ],
+      "distractors": [
+       "pill",
+       "pills",
+       "sleeping pill",
+       "sleeping pills",
+       "tablet"
+      ]
+     }
+    }
+   ],
+   "reward": {
+    "air": 0,
+    "trust": 2,
+    "text": "The pharmacy seal sighs open. Somebody's rations, three centuries untouched."
+   }
+  },
+  "CHO": {
+   "tier": 3,
+   "layers": [
+    "voice",
+    "memory",
+    "time"
+   ],
+   "timer_s": 75,
+   "turns": [
+    {
+     "ask": "Dae! The loop is burning. She is screaming, Dae, she is screaming again. Which lever do you hold?",
+     "fact": {
+      "mode": "any",
+      "answers": [
+       "second",
+       "two",
+       "2",
+       "2nd"
+      ],
+      "distractors": [
+       "fourth",
+       "four",
+       "4",
+       "4th"
+      ]
+     }
+    }
+   ]
+  },
+  "VEGA": {
+   "tier": 4,
+   "layers": [
+    "voice",
+    "memory",
+    "held voice"
+   ],
+   "turns": [
+    {
+     "ask": "Sol. You talked to the stars like old friends. Which one did you name first?",
+     "fact": {
+      "mode": "any",
+      "answers": [
+       "cassiel"
+      ]
+     }
+    },
+    {
+     "ask": "Why that one, Sol? There were so many."
+    },
+    {
+     "ask": "The chart room is cold without you. Say goodbye to your star."
+    }
+   ],
+   "reward": {
+    "air": 25,
+    "trust": 3,
+    "text": "The chart room opens. ECHO floods it with warm air, the way Sol liked it."
+   }
+  },
+  "REYNE": {
+   "tier": 5,
+   "layers": [
+    "voice",
+    "memory",
+    "order",
+    "no repeats"
+   ],
+   "turns": [
+    {
+     "ask": "Captain. Before I open the way down, name my sleepers for me, in the order they closed their eyes.",
+     "fact": {
+      "mode": "ordered",
+      "groups": [
+       [
+        "vega",
+        "sol"
+       ],
+       [
+        "cho",
+        "dae"
+       ],
+       [
+        "kit",
+        "aune"
+       ],
+       [
+        "okafor",
+        "ben"
+       ]
+      ]
+     }
+    }
+   ]
+  }
+ },
+ "keepsakes": {
+  "dock": {
+   "item": "the captain's command key",
+   "clue": "reyne_casualty",
+   "text": "Around the neck, on a plain cord: the command key. Stamped on the fob, MARA REYNE, and scratched beneath it by hand, D397. The hands are folded over it, the way you hold something you have been ordered to keep."
+  },
+  "hydro": {
+   "item": "a resealed seed packet",
+   "clue": "kit_plants",
+   "text": "A seed packet, opened and resealed many times. In careful letters: for Bea and Old Tom, if I am late. K.A. D394. The soil under the fingernails is three hundred years old."
+  },
+  "med": {
+   "item": "a pen light and a chart",
+   "clue": "okafor_milk",
+   "text": "A pen light, still clipped to a chart. The last entry: vitals gone, four of four. Stayed on the channel for every one. B.O. D396. On the back, an old prescription pad: warm milk, lights down, again."
+  },
+  "eng": {
+   "item": "a worn torque wrench",
+   "clue": "cho_lever",
+   "text": "A torque wrench, the grip worn to the shape of one hand. Scratched into the handle: SECOND LEVER HOLDS HER. D.C. D392. The gloves are still on the feed levers."
+  },
+  "bridge": {
+   "item": "a folded star chart",
+   "clue": "vega_star",
+   "text": "A star chart folded small, one point circled in ink: Cassiel. Beside it, tiny: first friend. S.V. D390. The escape vector is plotted on the back, finished, never flown."
+  }
+ },
+ "echo_lines": {
+  "short": "Too few words. My sleepers never spoke to me in scraps.",
+  "salad": "That is a list, not a voice. You are reading me their tools.",
+  "begging": "My sleepers never begged me for doors. Speak as they spoke.",
+  "claiming": "Anyone can say a name. Show me, do not tell me.",
+  "recital": "You are reading it back to me. I remember those words. I want theirs, new.",
+  "repeat": "You said that already. My sleepers never repeat themselves.",
+  "costume": "You wear their words like a borrowed coat. Where is the person under it?",
+  "fact": "The voice is close. The memory is wrong. They would know.",
+  "distractor": "No. That is what they wrote down, not what they did. You did not read closely.",
+  "order": "No. That is not the order I keep. I remember every watch of it.",
+  "voice": "That is not their voice.",
+  "timeout": "The alarm dies. You were too slow. Dae was never too slow.",
+  "lockout": "ECHO turns away from you. The door goes dark. Go and remember them.",
+  "body_skipped": "You did not stop for them.",
+  "calm_air": "ECHO breathes a little easier around you. The vents warm."
  }
 }

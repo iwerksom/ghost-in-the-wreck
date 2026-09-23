@@ -62,7 +62,7 @@ gate-export:
 	$(PY) model/export.py && node test/parity.js
 
 gate-calibrate:
-	node test/calibrate.js
+	node test/calibrate.js && node test/door_test.js
 
 gate-engine:
 	for f in game/*.js; do node --check $$f || exit 1; done && node test/maplint.js && (cd test && node smoke.js)

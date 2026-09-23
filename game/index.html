@@ -16,11 +16,13 @@
     <div id="deckname">DOCKING RING</div>
     <div id="o2wrap"><span class="hudlabel">AIR</span><div id="o2track"><div id="o2fill"></div></div></div>
     <div id="invwrap"><span class="hudlabel">CELLS</span> <span id="cells">0</span> <span class="hudlabel sep">TRUST</span> <span id="trustv">0</span></div>
+    <div id="echoMood" class="mood-calm"><span class="hudlabel">ECHO</span><span class="eye"></span><span id="moodLabel">CALM</span><div id="moodTrack"><div id="moodFill"></div></div></div>
   </div>
   <div id="hudRight">
     <button class="hudbtn" id="btnJournal" title="Journal (J)">JOURNAL</button>
     <button class="hudbtn" id="btnMute" title="Mute (M)">SOUND</button>
     <button class="hudbtn" id="btnAboutHud" title="About the mind">THE MIND</button>
+    <button class="hudbtn report" id="btnReport" title="Playtest report">PLAYTEST</button>
   </div>
 </div>
 
@@ -87,15 +89,18 @@
   <div class="panel crt">
     <div class="panelhead"><span id="doorTitle">SEALED DOOR</span><button class="xbtn" id="doorClose">&times;</button></div>
     <div id="doorLore" class="dim"></div>
+    <div class="doormeta"><span id="doorTurn"></span><span id="doorTimer" class="timer"></span></div>
     <div class="echolinewrap"><span class="echotag">ECHO</span><div id="doorEchoLine" class="echoline"></div></div>
+    <div id="doorReply" class="echoline reply"></div>
+    <div id="doorLayers" class="layers"></div>
     <div id="doorBars" class="bars"></div>
     <div id="doorVerdict" class="verdict"></div>
     <div id="doorHint"></div>
     <div class="inputrow">
-      <input id="doorInput" maxlength="160" placeholder="speak in the voice this door remembers ..." autocomplete="off">
+      <input id="doorInput" maxlength="220" placeholder="answer as they would have ..." autocomplete="off">
       <button class="pbtn" id="doorSpeak">SPEAK</button>
     </div>
-    <div class="fineprint">the network judges whose voice your words carry. it was never told any keywords; it learned each speaker from their logs.</div>
+    <div class="fineprint">ECHO checks three things. the memory must come from what they left behind. the voice is judged by the network, which learned each speaker from their logs. every miss costs air and makes ECHO more suspicious.</div>
   </div>
 </div>
 
@@ -124,8 +129,13 @@
 <!-- NOTE -->
 <div class="overlay" id="noteOverlay">
   <div class="panel small">
-    <div id="noteText" class="bodytext"></div>
-    <div class="panelbtns"><button class="pbtn" id="noteClose">STAND</button></div>
+    <div id="noteText" class="bodytext keepsaketext"></div>
+    <div id="noteEcho" class="echoline reply"></div>
+    <div class="inputrow" id="noteInputRow">
+      <input id="noteInput" maxlength="160" placeholder="say something to them (optional) ..." autocomplete="off">
+      <button class="pbtn" id="noteSpeak">SAY IT</button>
+    </div>
+    <div class="panelbtns"><button class="pbtn ghost" id="noteClose">STAND</button></div>
   </div>
 </div>
 
@@ -161,6 +171,18 @@
       <button class="bigbtn" id="endingNew">NEW RUN : NEW GHOSTS</button>
       <button class="bigbtn ghost" id="endingTitleBtn">TITLE</button>
     </div>
+    <div class="titlebtns"><button class="bigbtn ghost" id="endingReport" hidden>PLAYTEST REPORT</button></div>
+  </div>
+</div>
+
+<!-- PLAYTEST REPORT -->
+<div class="overlay" id="reportOverlay">
+  <div class="panel">
+    <div class="panelhead"><span>PLAYTEST REPORT : ITERATION 2 PROTOTYPE</span><button class="xbtn" id="reportClose">&times;</button></div>
+    <div class="dim">what this run measured. nothing leaves your device : copy the code into the playtest form.</div>
+    <pre id="reportSummary" class="reportsum"></pre>
+    <textarea id="reportCode" class="reportcode" readonly rows="4"></textarea>
+    <div class="panelbtns"><button class="pbtn" id="reportCopy">COPY REPORT CODE</button><span id="reportCopied" class="dim"></span></div>
   </div>
 </div>
 
@@ -189,9 +211,11 @@
 <script src="gamedata.js"></script>
 <script src="lm.js"></script>
 <script src="audio.js"></script>
+<script src="telemetry.js"></script>
 <script src="maps.js"></script>
 <script src="engine.js"></script>
 <script src="story.js"></script>
+<script src="doors.js"></script>
 <script src="ui.js"></script>
 <script src="main.js"></script>
 </body>

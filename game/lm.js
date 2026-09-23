@@ -315,17 +315,20 @@ const LM = (() => {
         if (performance.now() - t0 > budget) { await frame(); t0 = performance.now(); }
       }
       let sumLp = 0;
+      const tokenLps = opts.perToken ? [] : null;
       for (const id of textIds) {
         // log softmax of id under lg
         let maxL = -1e30;
         for (let i = 0; i < lg.length; i++) if (lg[i] > maxL) maxL = lg[i];
         let Z = 0;
         for (let i = 0; i < lg.length; i++) Z += Math.exp(lg[i] - maxL);
-        sumLp += lg[id] - maxL - Math.log(Z);
+        const lp = lg[id] - maxL - Math.log(Z);
+        sumLp += lp;
+        if (tokenLps) tokenLps.push(lp);
         lg = s.forward(id);
         if (performance.now() - t0 > budget) { await frame(); t0 = performance.now(); }
       }
-      results.push({ key: p.key, sumLogProb: sumLp, nTokens: textIds.length, avgLogProb: sumLp / Math.max(1, textIds.length) });
+      results.push({ key: p.key, sumLogProb: sumLp, nTokens: textIds.length, avgLogProb: sumLp / Math.max(1, textIds.length), tokenLps });
       if (opts.onPartial) opts.onPartial(results.slice(), prefixes.length);
     }
     return results;

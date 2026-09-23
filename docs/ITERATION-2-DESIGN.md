@@ -1,6 +1,6 @@
 # Ghost in the Wreck: Iteration 2 Design (Godot)
 
-September 2026 · Draft 1 · Builds on the iteration 1 review
+September 2026 · Draft 2 · Builds on the iteration 1 review, updated with what the HTML prototype found
 
 ## 1. The review in one line
 
@@ -39,22 +39,26 @@ ECHO no longer waits for any line. It **challenges** the player with a question 
 
 **Scoring a door answer (all must pass):**
 
-1. **Fact check (deterministic).** The answer contains the clue's accepted answer set, such as `{"0412", "four twelve", "oh four twelve"}`. It is authored per clue, with synonyms.
-2. **Voice check (model).** The target persona is the argmax, with the threshold raised from 0.28 to about 0.45. Recalibrate on held-out lines, and keep a per-persona override like Okafor has today.
-3. **Costume check (model, anti-keyword).** Re-score the answer with its top-3 persona-marker tokens removed. Those are the tokens that contribute most to `log P(t|X) − mean log P(t|others)`, which needs per-token log-probs from `scorePrefixes`. If the persona collapses, ECHO says *"You wear their words like a borrowed coat."* This makes the player write in the character's rhythm and not just use the character's nouns.
-4. **Length and memory.** The answer needs at least 10 words. ECHO also remembers every answer, and one too close to an earlier attempt (cosine similarity of `embed()` above a threshold) is rejected: *"You said that already. My sleepers never repeat themselves."*
+1. **Fact check (deterministic).** The answer contains the clue's accepted answer set, such as `{"second", "two", "2nd"}`. It is authored per clue, with synonyms and small typo tolerance for long names.
+2. **Voice check (model).** The target persona is the argmax, with the threshold raised from 0.28 to **0.40** (Okafor 0.30). Recalibrate on held-out lines.
+3. **Speech check (deterministic, anti-cheese).** At least 10 words; a real sentence (function words present, so a list of profession words fails); no asking for doors; no "I am the medic"; no reading 10+ words back from a log; nothing too close to an earlier attempt (word overlap). A final model-side backstop rejects answers where most words are marker words for the persona ("a costume of words").
+4. **Memory.** ECHO remembers every answer across doors, so retries have to be new.
 
-> Risk: at 2.9M parameters, even genuine lines may lean on keywords. Calibrate check 3 against held-out corpus lines first. If faithful lines fail, soften it to capping any single token's contribution instead of removing tokens.
+> **Spike result (prototype):** the original costume check, re-scoring with the top-3 marker words removed, was **rejected**. It broke genuine imitations as often as cheese (genuine pass rate fell from 17/20 to 8/20) and missed pure keyword lists entirely, because every word in a list is a marker. Cheese turned out to have *structural* signatures (no function words, begging, self-naming, copying) that plain code catches reliably, so check 3 became deterministic. See `test/costume_spike.js`.
+>
+> **Honest limit found:** at 2.9M parameters the voice layer mostly hears *topic*, not *style*. A flat sentence with the right fact ("The names of the plants are Bea and Old Tom…") still opens 3 of 5 doors. The challenge in the prototype therefore comes from finding the memory, the speech rules, time and suspicion, with the model as a real but soft judge. Judging style properly needs a bigger model or a small classifier fine-tuned on voiced vs flat pairs. `test/door_test.js` reports this number on every run.
 
 **Difficulty ladder across the five voice doors:**
 
 | # | Door | New layer | Example challenge (clue source) |
 |---|---|---|---|
-| 1 | Kit, Hydroponics vault | Voice + costume check (tutorial, no fact) | *"Tell me how the garden is today, Kit."* |
-| 2 | Okafor, Pharmacy | + **fact** | *"How many did you talk to sleep, Ben?"* (Okafor's recorder / med logs) |
-| 3 | Cho, Engineering hatch | + **emotional register**, scored with the embedding-anchor method already used by the ending judge | Reactor alarm running. ECHO: *"She is screaming, Dae."* The answer must be urgent *and* tender, not calm. |
-| 4 | Vega, Chart room | + **held voice over 3 turns**. ECHO interrupts and asks follow-ups, and the average persona score must hold. | *"Which star did you name first?"* → *"Why that one?"* → *"Say goodbye to it."* |
-| 5 | Reyne, Core descent | All of the above + **no reuse**: words that carried earlier doors are banned + a fact that is only available from keepsakes (4.3) | *"Captain, in what order did my sleepers close their eyes?"* (Vega, Cho, Kit, Okafor: the day marked on each keepsake) |
+| 1 | Kit, Hydroponics vault | Voice + speech rules + an easy memory (tutorial) | *"Tell me about your plants. Say their names."* (Bea, Old Tom: Garden Console, Kit's recorder) |
+| 2 | Okafor, Pharmacy (optional) | + a memory with a **distractor** | *"What did you prescribe for them?"* (warm milk in Patient Records; "sleeping pills" in Triage Console is a trap) |
+| 3 | Cho, Engineering hatch | + **75-second reactor alarm** | *"Which lever do you hold?"* (the second feed lever: Reactor Console, Cho's wrench) |
+| 4 | Vega, Chart room (optional) | + **held voice over 3 answers** | *"Which star did you name first?"* → *"Why that one?"* → *"Say goodbye to it."* |
+| 5 | Reyne, Captain's Seal | + **ordered memory**, and nothing said before | *"Name my sleepers in the order they closed their eyes."* (the final log, and the day on each keepsake) |
+
+> Changed in the prototype: the emotional-register layer was replaced by a timer. The embedding separation the ending judge relies on is very small (+0.012 to +0.042), too weak to fail a player on. The fact words were also chosen so they don't push the voice toward another crew member (a "blue" lever was heard as Vega, a lever named "bypass" as Reyne).
 
 **Failure now has consequences:** each fail adds suspicion (4.5). At high suspicion the door goes dark for 30–60 seconds, and ECHO tells the player to *"go and remember"*. It points them back to a clue source.
 
@@ -85,20 +89,24 @@ Kneeling is where the game can be at its most human. That's also where an SLM be
 
 If this doesn't fit the scope, **cut the verb** rather than ship it as a no-op again.
 
+> Prototype: keepsakes, clues on keepsakes, farewells and the "you did not stop for them" penalty are in. The farewell is only checked for being real words (4+ words, not gibberish); judging *who* it is addressed to and *how kind* it is was left out, for the same weak-embedding reason as the Cho register layer.
+
 ### 4.4 Air becomes the clock
 
 Air should force a choice between **reading for clues** and **moving on**.
 
-| Change | From | To (starting point, tune by telemetry) |
-|---|---|---|
-| Drain while overlays are open | 0% | **60%** of normal. Reading authored recorders can stay at 30%. |
-| Drain while typing at a door | 0% | **100%**. Speaking to ECHO costs breath. |
-| Lift top-up | to 70% | **none**, or to 35% only on the first visit to a deck |
-| Tank | 195 s | **150 s** |
-| Canisters | 13 × 45% | **7 × 30%**, placed off the critical path next to hazards |
-| Failed door | −4% | **−8%**, scaled up with suspicion |
-| Garden regen | always on | **only while the garden lamps are powered** (a power-cell choice) |
-| Suspicion | none | High suspicion makes ECHO **throttle air** to your deck (+50% drain). Low suspicion lets it **vent fresh air** as a reward. |
+| Change | From | Draft 1 | Prototype (from `tools/econ_sim.js`) |
+|---|---|---|---|
+| Drain while reading (terminal, keepsake, journal) | 0% | 60% | **30%** |
+| Drain while answering a door | 0% | 100% | **50%** |
+| Lift top-up | to 70% | none / 35% | **none**; first visit to a deck tops up to **55%** |
+| Tank | 195 s | 150 s | **240 s** |
+| Canisters | 13 × 45% | 7 × 30% | **9 × 40%** |
+| Failed door | −4% | −8% | **−6%**, scaled up with suspicion |
+| Garden regen | 3.2/s | lamp-powered | **1.6/s** |
+| Suspicion | none | +50% drain | up to **+60% drain** when hostile; a door opened while calm vents **+10%** |
+
+> Why the prototype numbers are gentler than draft 1: the simulator walks real map distances with a fast and a slow player profile. Draft 1 numbers killed the slow player 8 times and the fast one twice. The iteration 1 numbers, run through the same simulator, give a slow player a lowest air of 71%, which matches the review. The prototype numbers give: fast player lowest 50%, slow player lowest 13% on Hydroponics and one narrow death on the Bridge. Playtests should confirm or correct this.
 
 **Success criteria:** instrument minimum O2 per deck. Target a median run minimum ≤ 20%, at least one "under 15%" moment in most runs, and a 20–35% first-time death rate on Engineering or Bridge. Keep the checkpointed death so failure still feels fair.
 
@@ -188,7 +196,15 @@ Add automated **cheese tests** to the gates: keyword-only answers, copied log se
 
 ## 8. Open questions
 
-- Does the costume check separate genuine from stuffed answers at this model size, or do we need a small fine-tune on "stuffed vs genuine" pairs? (A calibration spike should answer this in a day.)
+- ~~Does the costume check separate genuine from stuffed answers at this model size?~~ Answered by the prototype spike: not by ablation. Structural checks stop cheese; style (as opposed to topic) still needs a bigger model or a fine-tuned classifier.
 - Web first or desktop first for the Godot build? It decides which inference backend and which TTS option come first.
 - Should ECHO's suspicion ever block progress for good, or always stay recoverable?
 - Retrain or not? Distractor logs and farewell anchors might work with the current weights. A retrain means recalibrating everything (iron rule).
+
+## 9. Prototype status (HTML build, branch `proto/iteration-2`)
+
+**In:** interrogation doors on all five voice doors (`game/doors.js`), clue tables and anchored logs, distractor log, keepsakes and farewells, visible suspicion (HUD eye, dimming and flickering lights, amber flash on a miss, lockouts), the air retune, and a **playtest report** in the game (the PLAYTEST button or the ending screen), which produces a code for the playtest form.
+
+**Gates added:** `test/door_test.js` (joined to the calibrate gate: 0 cheese answers may open a door, genuine imitations must open ≥ 60% first try, currently 79%), a clue-reachability rule in `test/maplint.js`, and `test/iter2_playtest.js`, a scripted run through every new system in the real page (18 checks).
+
+**Not in yet:** the "Should" and "Could" visuals and audio (4.6, 4.7), apart from the suspicion lighting. The Godot port is untouched apart from copying the shared data files.

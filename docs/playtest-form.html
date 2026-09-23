@@ -1,0 +1,810 @@
+<title>Vesper Debrief</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=Space+Mono:wght@400;700&display=swap">
+<style>
+:root {
+  --ground: #e7ebe9;
+  --surface: #f7f9f8;
+  --surface-2: #dfe5e3;
+  --ink: #141d26;
+  --muted: #5a6a76;
+  --faint: #8a98a2;
+  --line: #c3cdcd;
+  --accent: #a75f21;          /* suit lamp / hazard amber */
+  --accent-soft: rgba(167,95,33,0.12);
+  --echo: #5c47a0;            /* ECHO violet */
+  --echo-soft: rgba(92,71,160,0.12);
+  --good: #2c6b4f;
+  --bad: #9c3226;
+  --shadow: 0 1px 0 rgba(20,29,38,0.06);
+  --display: "Chakra Petch", "Trebuchet MS", sans-serif;
+  --body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --mono: "Space Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #0a0f14;
+    --surface: #121a22;
+    --surface-2: #1a242e;
+    --ink: #dbe4ea;
+    --muted: #8fa1ae;
+    --faint: #6d7f8c;
+    --line: #253440;
+    --accent: #e0a05a;
+    --accent-soft: rgba(224,160,90,0.14);
+    --echo: #a98be8;
+    --echo-soft: rgba(169,139,232,0.14);
+    --good: #6fd3a3;
+    --bad: #ff8f7c;
+    --shadow: none;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #0a0f14;
+  --surface: #121a22;
+  --surface-2: #1a242e;
+  --ink: #dbe4ea;
+  --muted: #8fa1ae;
+  --faint: #6d7f8c;
+  --line: #253440;
+  --accent: #e0a05a;
+  --accent-soft: rgba(224,160,90,0.14);
+  --echo: #a98be8;
+  --echo-soft: rgba(169,139,232,0.14);
+  --good: #6fd3a3;
+  --bad: #ff8f7c;
+  --shadow: none;
+}
+* { box-sizing: border-box; }
+body { background: var(--ground); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.55; margin: 0; }
+.wrap { max-width: 760px; margin: 0 auto; padding-inline: 20px; padding-block: 0 72px; }
+
+/* ---------- header ---------- */
+header { border-bottom: 1px solid var(--line); background: var(--ground); position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; }
+.head-inner { max-width: 760px; margin: 0 auto; padding: 18px 20px 12px; display: flex; flex-wrap: wrap; gap: 12px 18px; align-items: baseline; justify-content: space-between; }
+h1 { font-family: var(--display); font-weight: 600; font-size: 25px; letter-spacing: 0.3px; margin: 0; text-wrap: balance; }
+.sub { font-family: var(--mono); font-size: 11px; letter-spacing: 1.6px; text-transform: uppercase; color: var(--faint); margin-top: 3px; }
+.tabs { display: flex; gap: 4px; background: var(--surface-2); border-radius: 3px; padding: 3px; }
+.tab { font-family: var(--mono); font-size: 11px; letter-spacing: 1.4px; text-transform: uppercase; border: 0; background: transparent; color: var(--muted); padding: 7px 13px; border-radius: 2px; cursor: pointer; }
+.tab[aria-selected="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
+.tab:focus-visible, button:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* ---------- intro ---------- */
+.intro { padding: 22px 0 6px; }
+.intro p { margin: 0 0 10px; color: var(--muted); max-width: 62ch; }
+.intro strong { color: var(--ink); }
+.playlink { display: inline-flex; align-items: center; gap: 9px; font-family: var(--mono); font-size: 12px; letter-spacing: 1px; text-transform: uppercase; color: var(--ink); text-decoration: none; border: 1px solid var(--line); border-left: 3px solid var(--accent); padding: 10px 14px; background: var(--surface); margin-top: 6px; }
+.playlink:hover { border-color: var(--accent); }
+
+/* ---------- sections ---------- */
+section { border-top: 1px solid var(--line); padding-top: 22px; margin-top: 26px; }
+.sec-head { display: flex; gap: 12px; align-items: baseline; margin-bottom: 4px; }
+.sec-num { font-family: var(--mono); font-size: 11px; color: var(--accent); letter-spacing: 1.5px; }
+h2 { font-family: var(--display); font-weight: 600; font-size: 19px; margin: 0; letter-spacing: 0.2px; }
+.sec-note { color: var(--muted); font-size: 14.5px; margin: 2px 0 18px; max-width: 62ch; }
+.field { margin-bottom: 22px; }
+label.q, .q { display: block; font-weight: 600; margin-bottom: 7px; }
+.hint { color: var(--faint); font-size: 13.5px; font-weight: 400; margin-top: -3px; margin-bottom: 8px; }
+
+input[type="text"], textarea, select { width: 100%; font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 2px; padding: 10px 11px; }
+textarea { min-height: 78px; resize: vertical; line-height: 1.5; }
+input[type="text"]::placeholder, textarea::placeholder { color: var(--faint); }
+#code { font-family: var(--mono); font-size: 12px; min-height: 64px; word-break: break-all; }
+
+/* ---------- scales ---------- */
+.scale { display: grid; grid-template-columns: repeat(5, 1fr); gap: 5px; }
+.scale.two { grid-template-columns: repeat(2, 1fr); }
+.scale.three { grid-template-columns: repeat(3, 1fr); }
+.scale.four { grid-template-columns: repeat(4, 1fr); }
+.opt { position: relative; }
+.opt input { position: absolute; opacity: 0; inset: 0; width: 100%; height: 100%; margin: 0; cursor: pointer; }
+.opt span { display: block; text-align: center; font-size: 12.5px; line-height: 1.3; padding: 9px 6px; min-height: 100%; border: 1px solid var(--line); border-radius: 2px; background: var(--surface); color: var(--muted); }
+.opt input:checked + span { border-color: var(--accent); background: var(--accent-soft); color: var(--ink); font-weight: 600; }
+.opt input:focus-visible + span { outline: 2px solid var(--accent); outline-offset: 2px; }
+.ends { display: flex; justify-content: space-between; font-family: var(--mono); font-size: 10.5px; letter-spacing: 1px; text-transform: uppercase; color: var(--faint); margin-top: 6px; }
+
+/* ---------- door grid ---------- */
+.doorgrid { display: flex; flex-direction: column; gap: 10px; }
+.doorrow { display: grid; grid-template-columns: 170px 1fr; gap: 10px; align-items: center; }
+.doorname { font-size: 14px; }
+.doorname b { font-family: var(--display); font-weight: 600; display: block; font-size: 15px; }
+.doorname i { font-style: normal; color: var(--faint); font-size: 12.5px; }
+@media (max-width: 620px) { .doorrow { grid-template-columns: 1fr; gap: 6px; } }
+
+/* ---------- decoded report ---------- */
+.decoded { border: 1px solid var(--line); border-left: 3px solid var(--echo); background: var(--surface); padding: 14px 15px; margin-top: 12px; }
+.decoded h3 { font-family: var(--mono); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--echo); margin: 0 0 10px; font-weight: 400; }
+.chips { display: flex; flex-wrap: wrap; gap: 7px; }
+.chip { font-family: var(--mono); font-size: 11.5px; padding: 5px 9px; border: 1px solid var(--line); background: var(--ground); font-variant-numeric: tabular-nums; }
+.chip b { color: var(--accent); font-weight: 700; }
+.badcode { color: var(--bad); font-size: 13.5px; margin-top: 8px; }
+
+/* ---------- submit ---------- */
+.submitbar { margin-top: 30px; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+.btn { font-family: var(--mono); font-size: 12px; letter-spacing: 1.5px; text-transform: uppercase; padding: 13px 22px; border: 1px solid var(--accent); background: var(--accent); color: #fff; cursor: pointer; border-radius: 2px; }
+:root[data-theme="dark"] .btn, :root:not([data-theme="light"]) .btn { color: #1a1207; }
+@media (prefers-color-scheme: light) { :root:not([data-theme="dark"]) .btn { color: #fff; } }
+.btn:disabled { opacity: 0.5; cursor: default; }
+.btn.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+.status { font-size: 14px; color: var(--muted); }
+.status.ok { color: var(--good); }
+.status.err { color: var(--bad); }
+
+/* ---------- results ---------- */
+.empty { border: 1px dashed var(--line); padding: 26px 20px; text-align: center; color: var(--muted); margin-top: 24px; }
+.statrow { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin: 18px 0 8px; }
+.stat { border: 1px solid var(--line); background: var(--surface); padding: 12px 13px; }
+.stat .k { font-family: var(--mono); font-size: 10.5px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--faint); }
+.stat .v { font-family: var(--display); font-size: 26px; font-variant-numeric: tabular-nums; }
+.stat .v small { font-size: 13px; color: var(--muted); font-family: var(--body); }
+.meter { display: grid; grid-template-columns: 210px 1fr 44px; gap: 10px; align-items: center; margin-bottom: 7px; font-size: 14px; }
+.meter .track { height: 9px; background: var(--surface-2); border-radius: 1px; overflow: hidden; }
+.meter .fill { height: 100%; background: var(--accent); }
+.meter .num { font-family: var(--mono); font-size: 12.5px; text-align: right; font-variant-numeric: tabular-nums; }
+@media (max-width: 620px) { .meter { grid-template-columns: 1fr 60px; } .meter .track { grid-column: 1 / -1; order: 3; } }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; margin-top: 8px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+th { font-family: var(--mono); font-size: 10.5px; letter-spacing: 1.2px; text-transform: uppercase; color: var(--faint); font-weight: 400; }
+.stack { display: flex; height: 12px; border-radius: 1px; overflow: hidden; min-width: 120px; }
+.stack i { display: block; }
+.legend { display: flex; flex-wrap: wrap; gap: 12px; font-size: 12px; color: var(--muted); margin-top: 8px; }
+.legend span { display: inline-flex; align-items: center; gap: 5px; }
+.legend i { width: 10px; height: 10px; display: inline-block; }
+.quotes { margin-top: 10px; }
+.quote { border-left: 2px solid var(--line); padding: 2px 0 2px 13px; margin-bottom: 12px; }
+.quote p { margin: 0; }
+.quote .who { font-family: var(--mono); font-size: 11px; color: var(--faint); letter-spacing: 1px; text-transform: uppercase; }
+details.resp { border: 1px solid var(--line); background: var(--surface); padding: 10px 13px; margin-bottom: 8px; }
+details.resp summary { cursor: pointer; font-weight: 600; }
+details.resp dl { display: grid; grid-template-columns: 220px 1fr; gap: 4px 14px; margin: 10px 0 0; font-size: 14px; }
+details.resp dt { color: var(--faint); }
+details.resp dd { margin: 0; }
+@media (max-width: 620px) { details.resp dl { grid-template-columns: 1fr; } details.resp dt { margin-top: 8px; } }
+footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--faint); font-size: 13px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+[hidden] { display: none !important; }
+</style>
+
+<header>
+  <div class="head-inner">
+    <div>
+      <h1>Vesper Debrief</h1>
+      <div class="sub">Ghost in the Wreck &middot; iteration 2 prototype</div>
+    </div>
+    <div class="tabs" role="tablist" aria-label="Sections">
+      <button class="tab" id="tabForm" role="tab" aria-selected="true" aria-controls="panelForm">Debrief</button>
+      <button class="tab" id="tabResults" role="tab" aria-selected="false" aria-controls="panelResults">Results</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<!-- ===================== FORM ===================== -->
+<div id="panelForm" role="tabpanel" aria-labelledby="tabForm">
+
+  <div class="intro">
+    <p>Play one run of the prototype, then fill this in. It takes about six minutes. <strong>Be blunt</strong> — this build exists to find out whether the ship-mind makes the game fun, not to be praised.</p>
+    <p>At the end of your run (or any time, from the <strong>PLAYTEST</strong> button in the top right of the game) you can copy a <strong>report code</strong>. Paste it in section 2 and the numbers fill themselves in.</p>
+    <a class="playlink" id="playLink" href="https://claude.ai/artifact/NKHaKBoWaENsZDHzZQ44v4" target="_blank" rel="noopener">Open the prototype &#8599;</a>
+  </div>
+
+  <form id="form" novalidate>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">01</span><h2>Who is reporting</h2></div>
+    <p class="sec-note">Your name is only so the team can ask you follow-up questions.</p>
+    <div class="field">
+      <label class="q" for="tester">Name or handle</label>
+      <input type="text" id="tester" name="tester" placeholder="Sol" autocomplete="name">
+    </div>
+    <div class="field">
+      <span class="q">What did you play on?</span>
+      <div class="scale three" role="radiogroup" aria-label="Device">
+        <label class="opt"><input type="radio" name="device" value="desktop"><span>Desktop or laptop</span></label>
+        <label class="opt"><input type="radio" name="device" value="tablet"><span>Tablet</span></label>
+        <label class="opt"><input type="radio" name="device" value="phone"><span>Phone</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="reached">How far did you get?</label>
+      <select id="reached" name="reached">
+        <option value="">Choose one</option>
+        <option value="dock">Gave up on the Docking Ring</option>
+        <option value="hydro">Reached Hydroponics</option>
+        <option value="med">Reached the Med Bay</option>
+        <option value="eng">Reached Engineering</option>
+        <option value="bridge">Reached the Bridge</option>
+        <option value="core">Reached the Core</option>
+        <option value="ending">Finished, and got an ending</option>
+      </select>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">02</span><h2>Report code</h2></div>
+    <p class="sec-note">Optional but very useful: it carries your air levels, door attempts and timings. Nothing was sent anywhere by the game — this is the only way those numbers reach us.</p>
+    <div class="field">
+      <label class="q" for="code">Paste the code from the game</label>
+      <textarea id="code" name="code" placeholder="GITW2:..." spellcheck="false"></textarea>
+      <div id="codeStatus"></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">03</span><h2>Attention</h2></div>
+    <p class="sec-note">The first version caught people and then lost them. This is the question that matters most.</p>
+    <div class="field">
+      <span class="q">Did it hold you?</span>
+      <div class="scale" role="radiogroup" aria-label="Did it hold you">
+        <label class="opt"><input type="radio" name="held" value="1"><span>Lost me early</span></label>
+        <label class="opt"><input type="radio" name="held" value="2"><span>Drifted off</span></label>
+        <label class="opt"><input type="radio" name="held" value="3"><span>On and off</span></label>
+        <label class="opt"><input type="radio" name="held" value="4"><span>Kept going</span></label>
+        <label class="opt"><input type="radio" name="held" value="5"><span>Could not stop</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="dip">Where exactly did your attention dip?</label>
+      <div class="hint">Name the deck or the moment. "Second Kit log", "walking back to the lift", that kind of thing.</div>
+      <textarea id="dip" name="dip"></textarea>
+    </div>
+    <div class="field">
+      <label class="q" for="grab">What was the best moment?</label>
+      <textarea id="grab" name="grab"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">04</span><h2>The doors</h2></div>
+    <p class="sec-note">ECHO now asks a question, wants a memory from the logs, and judges the voice. Rate each door you reached.</p>
+    <div class="doorgrid" id="doorGrid"></div>
+    <div class="field" style="margin-top:22px">
+      <span class="q">When ECHO refused you, did you understand why?</span>
+      <div class="scale" role="radiogroup" aria-label="Refusals were clear">
+        <label class="opt"><input type="radio" name="refusalClarity" value="1"><span>No idea</span></label>
+        <label class="opt"><input type="radio" name="refusalClarity" value="2"><span>Mostly guessing</span></label>
+        <label class="opt"><input type="radio" name="refusalClarity" value="3"><span>Sometimes</span></label>
+        <label class="opt"><input type="radio" name="refusalClarity" value="4"><span>Usually</span></label>
+        <label class="opt"><input type="radio" name="refusalClarity" value="5"><span>Always clear</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <span class="q">Where did your answers come from?</span>
+      <div class="scale four" role="radiogroup" aria-label="Where answers came from">
+        <label class="opt"><input type="radio" name="answerSource" value="logs"><span>I read the logs for them</span></label>
+        <label class="opt"><input type="radio" name="answerSource" value="mixed"><span>Logs plus guessing</span></label>
+        <label class="opt"><input type="radio" name="answerSource" value="guess"><span>Mostly guessing</span></label>
+        <label class="opt"><input type="radio" name="answerSource" value="hints"><span>I waited for the hints</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="cheat">Did you try to cheat a door? What happened?</label>
+      <div class="hint">Keyword lists, copying a log back, begging, typing the crew member's name. We want to know what got through.</div>
+      <textarea id="cheat" name="cheat"></textarea>
+    </div>
+    <div class="field">
+      <label class="q" for="doorNotes">Anything else about the doors</label>
+      <textarea id="doorNotes" name="doorNotes"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">05</span><h2>Logs and memories</h2></div>
+    <p class="sec-note">Terminal entries are written live by the model, with one authored memory anchored in the clue logs.</p>
+    <div class="field">
+      <span class="q">Were the logs worth reading?</span>
+      <div class="scale" role="radiogroup" aria-label="Logs worth reading">
+        <label class="opt"><input type="radio" name="logsWorth" value="1"><span>Skipped them</span></label>
+        <label class="opt"><input type="radio" name="logsWorth" value="2"><span>Skimmed</span></label>
+        <label class="opt"><input type="radio" name="logsWorth" value="3"><span>Read some</span></label>
+        <label class="opt"><input type="radio" name="logsWorth" value="4"><span>Read them all</span></label>
+        <label class="opt"><input type="radio" name="logsWorth" value="5"><span>Read them twice</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <span class="q">Did the generated text feel like a person wrote it?</span>
+      <div class="scale" role="radiogroup" aria-label="Text felt human">
+        <label class="opt"><input type="radio" name="textQuality" value="1"><span>Word soup</span></label>
+        <label class="opt"><input type="radio" name="textQuality" value="2"><span>Often broken</span></label>
+        <label class="opt"><input type="radio" name="textQuality" value="3"><span>Patchy</span></label>
+        <label class="opt"><input type="radio" name="textQuality" value="4"><span>Mostly convincing</span></label>
+        <label class="opt"><input type="radio" name="textQuality" value="5"><span>Eerily right</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="logUse">Which log line did you actually use at a door?</label>
+      <textarea id="logUse" name="logUse"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">06</span><h2>The sleepers</h2></div>
+    <p class="sec-note">Kneeling now gives a keepsake, a memory, and the chance to say something to the dead.</p>
+    <div class="field">
+      <span class="q">Was kneeling worth doing?</span>
+      <div class="scale" role="radiogroup" aria-label="Kneeling worth doing">
+        <label class="opt"><input type="radio" name="kneelWorth" value="1"><span>Never did it</span></label>
+        <label class="opt"><input type="radio" name="kneelWorth" value="2"><span>Pointless</span></label>
+        <label class="opt"><input type="radio" name="kneelWorth" value="3"><span>Nice, no more</span></label>
+        <label class="opt"><input type="radio" name="kneelWorth" value="4"><span>Useful</span></label>
+        <label class="opt"><input type="radio" name="kneelWorth" value="5"><span>Best part</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="farewell">Did you say a farewell? What did ECHO say back?</label>
+      <textarea id="farewell" name="farewell"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">07</span><h2>Air</h2></div>
+    <p class="sec-note">Air now drains while you read and while you talk to a door, and the lift no longer refills the tank.</p>
+    <div class="field">
+      <span class="q">How much did the air meter matter?</span>
+      <div class="scale" role="radiogroup" aria-label="Air pressure">
+        <label class="opt"><input type="radio" name="airTension" value="1"><span>Never thought about it</span></label>
+        <label class="opt"><input type="radio" name="airTension" value="2"><span>Noticed it once</span></label>
+        <label class="opt"><input type="radio" name="airTension" value="3"><span>Kept an eye on it</span></label>
+        <label class="opt"><input type="radio" name="airTension" value="4"><span>Made me hurry</span></label>
+        <label class="opt"><input type="radio" name="airTension" value="5"><span>Stressed me out</span></label>
+      </div>
+      <div class="ends"><span>no clock</span><span>too punishing</span></div>
+    </div>
+    <div class="field">
+      <label class="q" for="deaths">Did you run out of air? Did it feel fair?</label>
+      <textarea id="deaths" name="deaths"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">08</span><h2>ECHO's mood</h2></div>
+    <p class="sec-note">The HUD shows ECHO as CALM, WARY, SUSPICIOUS or HOSTILE. Failed doors raise it; it dims the lights, drains air faster and can lock a door.</p>
+    <div class="field">
+      <span class="q">Did you notice it?</span>
+      <div class="scale three" role="radiogroup" aria-label="Noticed suspicion">
+        <label class="opt"><input type="radio" name="noticedSuspicion" value="clear"><span>Yes, clearly</span></label>
+        <label class="opt"><input type="radio" name="noticedSuspicion" value="vague"><span>Vaguely</span></label>
+        <label class="opt"><input type="radio" name="noticedSuspicion" value="no"><span>No</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="suspicionEffect">Did it change how you played?</label>
+      <textarea id="suspicionEffect" name="suspicionEffect"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">09</span><h2>Look and sound</h2></div>
+    <p class="sec-note">Unchanged in this build apart from the lights reacting to ECHO's mood. Tell us how far short it falls.</p>
+    <div class="field">
+      <span class="q">How does the wreck look?</span>
+      <div class="scale" role="radiogroup" aria-label="Visuals">
+        <label class="opt"><input type="radio" name="visuals" value="1"><span>Dead still</span></label>
+        <label class="opt"><input type="radio" name="visuals" value="2"><span>Flat</span></label>
+        <label class="opt"><input type="radio" name="visuals" value="3"><span>Acceptable</span></label>
+        <label class="opt"><input type="radio" name="visuals" value="4"><span>Atmospheric</span></label>
+        <label class="opt"><input type="radio" name="visuals" value="5"><span>Alive</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <span class="q">How does it sound?</span>
+      <div class="scale" role="radiogroup" aria-label="Audio">
+        <label class="opt"><input type="radio" name="audio" value="1"><span>Dead still</span></label>
+        <label class="opt"><input type="radio" name="audio" value="2"><span>Flat</span></label>
+        <label class="opt"><input type="radio" name="audio" value="3"><span>Acceptable</span></label>
+        <label class="opt"><input type="radio" name="audio" value="4"><span>Atmospheric</span></label>
+        <label class="opt"><input type="radio" name="audio" value="5"><span>Alive</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="aliveThing">One thing that would make the wreck feel alive</label>
+      <textarea id="aliveThing" name="aliveThing"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">10</span><h2>The ship-mind</h2></div>
+    <p class="sec-note">The whole point of the project: a real neural network, trained on the crew, running on your device.</p>
+    <div class="field">
+      <span class="q">Did ECHO feel like a mind or a gimmick?</span>
+      <div class="scale" role="radiogroup" aria-label="Mind or gimmick">
+        <label class="opt"><input type="radio" name="mindFeel" value="1"><span>Pure gimmick</span></label>
+        <label class="opt"><input type="radio" name="mindFeel" value="2"><span>Mostly gimmick</span></label>
+        <label class="opt"><input type="radio" name="mindFeel" value="3"><span>Hard to say</span></label>
+        <label class="opt"><input type="radio" name="mindFeel" value="4"><span>Felt real</span></label>
+        <label class="opt"><input type="radio" name="mindFeel" value="5"><span>Unsettlingly real</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="whySlm">What did ECHO do that a normal scripted game could not?</label>
+      <div class="hint">If the answer is "nothing", write that. It is the most useful thing you can tell us.</div>
+      <textarea id="whySlm" name="whySlm"></textarea>
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head"><span class="sec-num">11</span><h2>Verdict</h2></div>
+    <div class="field">
+      <span class="q">Was it fun?</span>
+      <div class="scale" role="radiogroup" aria-label="Fun">
+        <label class="opt"><input type="radio" name="fun" value="1"><span>No</span></label>
+        <label class="opt"><input type="radio" name="fun" value="2"><span>Barely</span></label>
+        <label class="opt"><input type="radio" name="fun" value="3"><span>Somewhat</span></label>
+        <label class="opt"><input type="radio" name="fun" value="4"><span>Yes</span></label>
+        <label class="opt"><input type="radio" name="fun" value="5"><span>Very</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <span class="q">Would you play a finished version?</span>
+      <div class="scale three" role="radiogroup" aria-label="Would play again">
+        <label class="opt"><input type="radio" name="playAgain" value="yes"><span>Yes</span></label>
+        <label class="opt"><input type="radio" name="playAgain" value="maybe"><span>Maybe</span></label>
+        <label class="opt"><input type="radio" name="playAgain" value="no"><span>No</span></label>
+      </div>
+    </div>
+    <div class="field">
+      <label class="q" for="changeFirst">The one thing to change first</label>
+      <textarea id="changeFirst" name="changeFirst"></textarea>
+    </div>
+    <div class="field">
+      <label class="q" for="anythingElse">Anything else</label>
+      <textarea id="anythingElse" name="anythingElse"></textarea>
+    </div>
+  </section>
+
+  <div class="submitbar">
+    <button type="submit" class="btn" id="submitBtn">Send debrief</button>
+    <span class="status" id="status">Your answers are saved in this browser as you type.</span>
+  </div>
+
+  <div class="field" id="fallbackBox" hidden style="margin-top:20px">
+    <label class="q" for="fallback">Copy this and send it to the team</label>
+    <div class="hint">This browser cannot file the debrief directly, so paste this block into an email or a chat message.</div>
+    <textarea id="fallback" rows="6" readonly spellcheck="false"></textarea>
+  </div>
+  </form>
+
+  <footer>Ghost in the Wreck runs a 2.9M-parameter transformer inside the page. Nothing you type in the game leaves your device; this form is the only thing that sends anything, and only what you write here.</footer>
+</div>
+
+<!-- ===================== RESULTS ===================== -->
+<div id="panelResults" role="tabpanel" aria-labelledby="tabResults" hidden>
+  <div id="resultsBody"></div>
+  <footer>Results update live as debriefs arrive.</footer>
+</div>
+
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var DOORS = [
+    { key: "KIT", name: "Kit", where: "Seed Vault, Hydroponics" },
+    { key: "OKAFOR", name: "Okafor", where: "Pharmacy, Med Bay" },
+    { key: "CHO", name: "Cho", where: "Drive Core Hatch, Engineering" },
+    { key: "VEGA", name: "Vega", where: "Chart Room, Bridge" },
+    { key: "REYNE", name: "Reyne", where: "Captain's Seal, Bridge" }
+  ];
+  var DOOR_RATINGS = [
+    { v: "easy", label: "Too easy", color: "#7a8b96" },
+    { v: "right", label: "About right", color: "#2c6b4f" },
+    { v: "hard", label: "Hard but fair", color: "#a75f21" },
+    { v: "unfair", label: "Unfair", color: "#9c3226" },
+    { v: "skipped", label: "Did not reach", color: "#b9c2c4" }
+  ];
+  var SCALES = [
+    ["held", "Held my attention"],
+    ["refusalClarity", "Refusals were clear"],
+    ["logsWorth", "Logs worth reading"],
+    ["textQuality", "Generated text quality"],
+    ["kneelWorth", "Kneeling worth doing"],
+    ["airTension", "Air mattered"],
+    ["visuals", "Visuals"],
+    ["audio", "Audio"],
+    ["mindFeel", "Felt like a mind"],
+    ["fun", "Fun"]
+  ];
+  var TEXTS = [
+    ["whySlm", "What ECHO did that a scripted game could not"],
+    ["changeFirst", "Change this first"],
+    ["dip", "Where attention dipped"],
+    ["grab", "Best moment"],
+    ["cheat", "Attempts to cheat a door"],
+    ["doorNotes", "Door notes"],
+    ["logUse", "Log line used at a door"],
+    ["farewell", "Farewell to a sleeper"],
+    ["deaths", "Running out of air"],
+    ["suspicionEffect", "Effect of ECHO's mood"],
+    ["aliveThing", "One thing to make it feel alive"],
+    ["anythingElse", "Anything else"]
+  ];
+  var DECKS = { dock: "Docking Ring", hydro: "Hydroponics", med: "Med Bay", eng: "Engineering", bridge: "Bridge", core: "The Core" };
+  var $ = function (id) { return document.getElementById(id); };
+  var esc = function (s) { return String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;"); };
+
+  // ---------------- door grid ----------------
+  $("doorGrid").innerHTML = DOORS.map(function (d) {
+    return '<div class="doorrow"><div class="doorname"><b>' + d.name + '</b><i>' + d.where + '</i></div>' +
+      '<div class="scale" role="radiogroup" aria-label="' + d.name + ' door">' +
+      DOOR_RATINGS.map(function (r) {
+        return '<label class="opt"><input type="radio" name="door_' + d.key + '" value="' + r.v + '"><span>' + r.label + '</span></label>';
+      }).join("") + "</div></div>";
+  }).join("");
+
+  // ---------------- draft in localStorage ----------------
+  var DRAFT = "gitw_debrief_draft";
+  var form = $("form");
+  function collect() {
+    var out = {};
+    var fd = new FormData(form);
+    fd.forEach(function (v, k) { if (String(v).trim() !== "") out[k] = String(v).trim(); });
+    return out;
+  }
+  function restore() {
+    try {
+      var raw = localStorage.getItem(DRAFT);
+      if (!raw) return;
+      var d = JSON.parse(raw);
+      Object.keys(d).forEach(function (k) {
+        var els = form.elements[k];
+        if (!els) return;
+        if (els.length && els[0] && els[0].type === "radio") {
+          Array.prototype.forEach.call(els, function (el) { if (el.value === d[k]) el.checked = true; });
+        } else if (els.type === "radio") {
+          if (els.value === d[k]) els.checked = true;
+        } else { els.value = d[k]; }
+      });
+      if (d.code) decode(d.code);
+    } catch (e) {}
+  }
+  function saveDraft() {
+    try { localStorage.setItem(DRAFT, JSON.stringify(collect())); } catch (e) {}
+  }
+
+  // ---------------- report code ----------------
+  var decoded = null;
+  function decode(raw) {
+    var box = $("codeStatus");
+    var s = String(raw || "").trim();
+    if (!s) { decoded = null; box.innerHTML = ""; return; }
+    var body = s.replace(/^GITW2:/, "").replace(/\s+/g, "");
+    var obj = null;
+    try { obj = JSON.parse(decodeURIComponent(escape(atob(body)))); } catch (e) { obj = null; }
+    if (!obj || !obj.build) {
+      decoded = null;
+      box.innerHTML = '<div class="badcode">That does not look like a report code. Copy the whole line, starting with GITW2:</div>';
+      return;
+    }
+    decoded = obj;
+    var mm = function (sec) { return Math.floor(sec / 60) + "m " + String(Math.round(sec % 60)).padStart(2, "0") + "s"; };
+    var chips = [];
+    chips.push(["play time", mm(obj.playSec || 0)]);
+    chips.push(["deaths", obj.deaths || 0]);
+    chips.push(["memories found", (obj.cluesSeen || []).length]);
+    chips.push(["logs read", obj.logsRead || 0]);
+    chips.push(["keepsakes", (obj.keepsakes || []).length]);
+    chips.push(["suspicion peak", Math.round(obj.suspicionPeak || 0)]);
+    Object.keys(obj.decks || {}).forEach(function (id) {
+      chips.push([(DECKS[id] || id) + " lowest air", Math.round(obj.decks[id].minO2) + "%"]);
+    });
+    Object.keys(obj.doors || {}).forEach(function (p) {
+      var d = obj.doors[p];
+      chips.push([p.toLowerCase() + " door", d.attempts + (d.attempts === 1 ? " try" : " tries") + (d.openedSec !== null && d.openedSec !== undefined ? "" : ", never opened")]);
+    });
+    box.innerHTML = '<div class="decoded"><h3>Read from your run</h3><div class="chips">' +
+      chips.map(function (c) { return '<span class="chip">' + esc(c[0]) + " <b>" + esc(c[1]) + "</b></span>"; }).join("") +
+      "</div></div>";
+  }
+  $("code").addEventListener("input", function () { decode(this.value); });
+
+  form.addEventListener("input", saveDraft);
+  form.addEventListener("change", saveDraft);
+  restore();
+
+  // ---------------- tabs ----------------
+  function show(which) {
+    var isForm = which === "form";
+    $("panelForm").hidden = !isForm;
+    $("panelResults").hidden = isForm;
+    $("tabForm").setAttribute("aria-selected", isForm ? "true" : "false");
+    $("tabResults").setAttribute("aria-selected", isForm ? "false" : "true");
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }
+  $("tabForm").addEventListener("click", function () { show("form"); });
+  $("tabResults").addEventListener("click", function () { show("results"); renderResults(); });
+
+  // ---------------- submitting ----------------
+  var db = null, responses = [], unsub = null;
+  function setStatus(msg, kind) {
+    var el = $("status");
+    el.textContent = msg;
+    el.className = "status" + (kind ? " " + kind : "");
+  }
+  function payload() {
+    var a = collect();
+    a.telemetry = decoded || null;
+    a.submittedAt = new Date().toISOString();
+    a.formVersion = 1;
+    return a;
+  }
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    var data = payload();
+    if (!data.tester) { setStatus("Put a name at the top first, so we know whose run this is.", "err"); $("tester").focus(); return; }
+    if (!data.fun && !data.held) { setStatus("Answer at least 'did it hold you' and 'was it fun' before sending.", "err"); return; }
+    if (!db) {
+      $("fallbackBox").hidden = false;
+      $("fallback").value = "GHOST IN THE WRECK DEBRIEF\n" + JSON.stringify(data, null, 1);
+      setStatus("This browser cannot file it directly. Copy the block below and send it over.", "err");
+      $("fallback").focus();
+      return;
+    }
+    $("submitBtn").disabled = true;
+    setStatus("Filing ...");
+    db.collection("responses").add(data).then(function () {
+      $("submitBtn").disabled = false;
+      setStatus("Filed. Thank you. Play another run any time and send a second one.", "ok");
+      try { localStorage.removeItem(DRAFT); } catch (e) {}
+    }).catch(function (e) {
+      $("submitBtn").disabled = false;
+      $("fallbackBox").hidden = false;
+      $("fallback").value = "GHOST IN THE WRECK DEBRIEF\n" + JSON.stringify(data, null, 1);
+      setStatus("It would not file (" + (e && e.code ? e.code : "unknown") + "). Copy the block below and send it over instead.", "err");
+    });
+  });
+
+  // ---------------- results ----------------
+  function median(ns) {
+    var a = ns.filter(function (n) { return typeof n === "number" && !isNaN(n); }).sort(function (x, y) { return x - y; });
+    if (!a.length) return null;
+    var m = Math.floor(a.length / 2);
+    return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2;
+  }
+  function avg(ns) {
+    var a = ns.filter(function (n) { return typeof n === "number" && !isNaN(n); });
+    return a.length ? a.reduce(function (x, y) { return x + y; }, 0) / a.length : null;
+  }
+  function renderResults() {
+    var box = $("resultsBody");
+    if (!db) {
+      box.innerHTML = '<div class="empty">Shared results are not available in this browser. Debriefs sent as text blocks still reach the team.</div>';
+      return;
+    }
+    if (!responses.length) {
+      box.innerHTML = '<div class="empty">No debriefs yet. They appear here the moment someone files one.</div>';
+      return;
+    }
+    var n = responses.length;
+    var html = "";
+    var withCode = responses.filter(function (r) { return r.telemetry; });
+    html += '<div class="statrow">' +
+      stat("Debriefs", n) +
+      stat("Fun", fmt(avg(responses.map(function (r) { return +r.fun; }))), "of 5") +
+      stat("Held attention", fmt(avg(responses.map(function (r) { return +r.held; }))), "of 5") +
+      stat("Would play again", responses.filter(function (r) { return r.playAgain === "yes"; }).length + " / " + n) +
+      "</div>";
+
+    html += "<section><div class='sec-head'><span class='sec-num'>A</span><h2>Ratings</h2></div>";
+    SCALES.forEach(function (s) {
+      var a = avg(responses.map(function (r) { return +r[s[0]]; }));
+      if (a === null) return;
+      html += '<div class="meter"><span>' + esc(s[1]) + '</span><span class="track"><span class="fill" style="width:' + (a / 5 * 100).toFixed(1) + '%"></span></span><span class="num">' + a.toFixed(1) + "</span></div>";
+    });
+    html += "</section>";
+
+    html += "<section><div class='sec-head'><span class='sec-num'>B</span><h2>Door difficulty</h2></div>";
+    DOORS.forEach(function (d) {
+      var counts = DOOR_RATINGS.map(function (r) {
+        return responses.filter(function (x) { return x["door_" + d.key] === r.v; }).length;
+      });
+      var total = counts.reduce(function (a, b) { return a + b; }, 0) || 1;
+      html += '<div class="meter"><span>' + esc(d.name) + " &middot; " + esc(d.where) + '</span><span class="stack">' +
+        counts.map(function (c, i) { return c ? '<i style="width:' + (c / total * 100) + '%;background:' + DOOR_RATINGS[i].color + '" title="' + DOOR_RATINGS[i].label + ": " + c + '"></i>' : ""; }).join("") +
+        '</span><span class="num">' + total + "</span></div>";
+    });
+    html += '<div class="legend">' + DOOR_RATINGS.map(function (r) { return '<span><i style="background:' + r.color + '"></i>' + r.label + "</span>"; }).join("") + "</div></section>";
+
+    if (withCode.length) {
+      html += "<section><div class='sec-head'><span class='sec-num'>C</span><h2>From the report codes</h2><span class='sec-num'>" + withCode.length + " runs</span></div><div class='tablewrap'><table><thead><tr><th>Deck</th><th>Median lowest air</th><th>Worst</th><th>Deaths</th></tr></thead><tbody>";
+      Object.keys(DECKS).forEach(function (id) {
+        var mins = withCode.map(function (r) { return r.telemetry.decks && r.telemetry.decks[id] ? r.telemetry.decks[id].minO2 : null; }).filter(function (v) { return v !== null; });
+        if (!mins.length) return;
+        var deaths = withCode.reduce(function (a, r) { return a + ((r.telemetry.decks && r.telemetry.decks[id]) ? r.telemetry.decks[id].deaths : 0); }, 0);
+        html += "<tr><td>" + DECKS[id] + "</td><td>" + Math.round(median(mins)) + "%</td><td>" + Math.round(Math.min.apply(null, mins)) + "%</td><td>" + deaths + "</td></tr>";
+      });
+      html += "</tbody></table></div>";
+      html += "<div class='tablewrap'><table><thead><tr><th>Door</th><th>Median tries</th><th>Opened</th><th>Median time to open</th><th>Most common miss</th></tr></thead><tbody>";
+      DOORS.forEach(function (d) {
+        var rows = withCode.map(function (r) { return r.telemetry.doors ? r.telemetry.doors[d.key] : null; }).filter(Boolean);
+        if (!rows.length) return;
+        var opened = rows.filter(function (x) { return x.openedSec !== null && x.openedSec !== undefined; });
+        var misses = {};
+        rows.forEach(function (x) { Object.keys(x.fails || {}).forEach(function (k) { misses[k] = (misses[k] || 0) + x.fails[k]; }); });
+        var top = Object.keys(misses).sort(function (a, b) { return misses[b] - misses[a]; })[0];
+        html += "<tr><td>" + d.name + "</td><td>" + fmt(median(rows.map(function (x) { return x.attempts; }))) + "</td><td>" + opened.length + " / " + rows.length +
+          "</td><td>" + (opened.length ? Math.round(median(opened.map(function (x) { return x.secToOpen; })) || 0) + "s" : "&mdash;") +
+          "</td><td>" + (top ? esc(top) + " (" + misses[top] + ")" : "&mdash;") + "</td></tr>";
+      });
+      html += "</tbody></table></div></section>";
+    }
+
+    html += "<section><div class='sec-head'><span class='sec-num'>D</span><h2>In their words</h2></div>";
+    TEXTS.forEach(function (t) {
+      var quotes = responses.filter(function (r) { return r[t[0]]; });
+      if (!quotes.length) return;
+      html += "<div class='field'><span class='q'>" + esc(t[1]) + "</span><div class='quotes'>" +
+        quotes.map(function (r) { return '<div class="quote"><div class="who">' + esc(r.tester || "anonymous") + "</div><p>" + esc(r[t[0]]) + "</p></div>"; }).join("") +
+        "</div></div>";
+    });
+    html += "</section>";
+
+    html += "<section><div class='sec-head'><span class='sec-num'>E</span><h2>Every debrief</h2></div>" +
+      responses.map(function (r) {
+        return "<details class='resp'><summary>" + esc(r.tester || "anonymous") + " &middot; " + esc((r.submittedAt || "").slice(0, 16).replace("T", " ")) +
+          " &middot; fun " + esc(r.fun || "?") + "/5</summary><dl>" +
+          Object.keys(r).filter(function (k) { return k !== "telemetry" && k !== "tester"; }).map(function (k) {
+            return "<dt>" + esc(k) + "</dt><dd>" + esc(r[k]) + "</dd>";
+          }).join("") + "</dl></details>";
+      }).join("") +
+      '<div class="submitbar"><button class="btn ghost" id="exportBtn">Download CSV</button><span class="status" id="exportStatus"></span></div></section>';
+
+    box.innerHTML = html;
+    var ex = $("exportBtn");
+    if (ex) ex.addEventListener("click", exportCsv);
+  }
+  function stat(k, v, small) {
+    return '<div class="stat"><div class="k">' + esc(k) + '</div><div class="v">' + esc(v) + (small ? " <small>" + esc(small) + "</small>" : "") + "</div></div>";
+  }
+  function fmt(v) { return v === null || v === undefined ? "&mdash;" : (Math.round(v * 10) / 10); }
+
+  function exportCsv() {
+    var keys = {};
+    responses.forEach(function (r) { Object.keys(r).forEach(function (k) { if (k !== "telemetry") keys[k] = 1; }); });
+    var cols = Object.keys(keys);
+    var tele = ["playSec", "deaths", "logsRead", "suspicionPeak", "ending"];
+    var head = cols.concat(tele.map(function (t) { return "run_" + t; })).join(",");
+    var lines = responses.map(function (r) {
+      return cols.map(function (c) { return csv(r[c]); }).concat(tele.map(function (t) { return csv(r.telemetry ? r.telemetry[t] : ""); })).join(",");
+    });
+    var text = head + "\n" + lines.join("\n");
+    claude.use("downloads").then(function (dl) {
+      if (!dl) { fallbackCsv(text); return; }
+      return dl.save({ filename: "vesper-debriefs.csv", data: text }).then(function () {
+        $("exportStatus").textContent = "Saved.";
+      });
+    }).catch(function () { fallbackCsv(text); });
+  }
+  function fallbackCsv(text) {
+    var ta = document.createElement("textarea");
+    ta.value = text;
+    ta.rows = 8;
+    ta.style.width = "100%";
+    ta.readOnly = true;
+    $("exportStatus").textContent = "Downloads are not available here; copy the rows below.";
+    $("exportStatus").parentNode.appendChild(ta);
+    ta.select();
+  }
+  function csv(v) {
+    var s = v === null || v === undefined ? "" : String(v);
+    return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  }
+
+  // ---------------- capability wiring ----------------
+  if (window.claude && typeof window.claude.use === "function") {
+    window.claude.use("db").then(function (d) {
+      db = d;
+      if (!db) return;
+      unsub = db.collection("responses").orderBy("submittedAt", "desc").limit(500).onSnapshot(function (snap) {
+        responses = snap.docs.map(function (doc) {
+          var data = doc.data() || {};
+          data.__id = doc.id;
+          return data;
+        });
+        if (!$("panelResults").hidden) renderResults();
+        $("tabResults").textContent = responses.length ? "Results (" + responses.length + ")" : "Results";
+      }, function () { /* subscription died; the form still files */ });
+    }).catch(function () {});
+  }
+})();
+</script>
