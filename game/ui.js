@@ -46,12 +46,17 @@ const UI = (() => {
   // ---------------- overlay plumbing ----------------
   function openOverlay(id) {
     Game.overlayOpen = true;
+    Game.overlayId = id;
+    const drains = ((GAMEDATA.tuning.economy.overlay_drain || {})[id] || 0) > 0;
+    document.body.classList.toggle("drain", drains);
     document.querySelectorAll(".overlay").forEach(o => o.classList.remove("show"));
     $(id).classList.add("show");
   }
   function closeOverlays() {
     document.querySelectorAll(".overlay").forEach(o => o.classList.remove("show"));
     Game.overlayOpen = false;
+    Game.overlayId = null;
+    document.body.classList.remove("drain");
     Game.keys = {};
   }
 
@@ -64,6 +69,11 @@ const UI = (() => {
     $("deckname").textContent = Game.deck ? Game.deck.src.name.toUpperCase() : "";
     $("cells").textContent = s.cells;
     $("trustv").textContent = s.trust;
+    const sus = s.suspicion || 0;
+    const mood = suspicionLevel(sus);
+    $("moodLabel").textContent = mood;
+    $("echoMood").className = "mood-" + mood.toLowerCase();
+    $("moodFill").style.width = Math.round(sus) + "%";
     const ne = Game.nearEntity;
     const ib = $("interactBtn");
     if (ne && !Game.overlayOpen) {
@@ -72,7 +82,7 @@ const UI = (() => {
         terminal: "READ " + (ne.label || "TERMINAL"), archive: "PLAY " + (ne.label || "RECORDER"),
         socket: "POWER " + (ne.label || "SOCKET"), lift: ne.label || "LIFT",
         echodoor: "SPEAK : " + (ne.label || "SEALED DOOR"), intercom: "SPEAK : INTERCOM",
-        body: "KNEEL", corealtar: "APPROACH THE LIGHT", hangar: "HANGAR",
+        body: "KNEEL : KEEP WATCH", corealtar: "APPROACH THE LIGHT", hangar: "HANGAR",
       })[ne.type] || "INTERACT";
     } else ib.classList.remove("show");
     // toasts

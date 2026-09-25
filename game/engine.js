@@ -30,6 +30,15 @@ function newRunState() {
     seed: (Math.random() * 1e9) | 0,
     visited: {}, ended: null, failsByDoor: {},
     talkCount: 0,
+    // iteration 2
+    suspicion: 0,        // ECHO's short-term doubt, 0..100
+    cluesSeen: {},       // clue id -> true
+    saidLines: [],       // every door / farewell line, for the repeat check
+    doorTurn: {},        // door key -> current turn index
+    doorLock: {},        // door key -> epoch ms until which it stays dark
+    skipNoted: {},       // deck id -> ECHO already remarked on the unvisited sleeper
+    farewells: {},       // deck id -> true
+    tele: (typeof Tele !== "undefined") ? Tele.blank() : null,
   };
 }
 
@@ -146,17 +155,34 @@ function circleHits(cx, cy, r) {
 function tick(dt) {
   const s = Game.state;
   Game.time += dt;
-  if (Game.overlayOpen || Game.paused) return;
+  if (Game.paused || !s) return;
+  const ECO = GAMEDATA.tuning.economy;
+  const SUS = GAMEDATA.tuning.suspicion;
+  s.suspicion = s.suspicion || 0;
+  const susMul = 1 + (s.suspicion / 100) * SUS.drain_bonus_at_max;
+
+  // iteration 2: air keeps draining while you read and while you speak
+  if (Game.overlayOpen) {
+    const f = (ECO.overlay_drain || {})[Game.overlayId] || 0;
+    if (f > 0 && Game.deathFade === 0) {
+      s.o2 = Math.min(100, s.o2 - (100 / ECO.o2_tank_seconds) * f * susMul * dt);
+      if (typeof Tele !== "undefined") Tele.tick(dt, s.o2, s.suspicion);
+      if (s.o2 <= 0) { s.o2 = 0; onPlayerDeath(); }
+    }
+    return;
+  }
+  if (Game.deathFade > 0) return;
   tryMove(dt);
 
   // tile effects
-  const ECO = GAMEDATA.tuning.economy;
   const tx = Math.floor(s.px / TILE), ty = Math.floor(s.py / TILE);
   const t = (Game.deck.grid[ty] || [])[tx];
-  let drain = 100 / ECO.o2_tank_seconds;
+  let drain = (100 / ECO.o2_tank_seconds) * susMul;
   if (t === 5) { drain += ECO.hazard_drain_per_s; Game.shakeT = 0.15; }
   if (t === 4) drain -= ECO.garden_regen_per_s;  // the garden still breathes
   s.o2 = Math.min(100, s.o2 - drain * dt);
+  s.suspicion = Math.max(0, s.suspicion - SUS.decay_per_s * dt);
+  if (typeof Tele !== "undefined") Tele.tick(dt, s.o2, s.suspicion);
   if (s.o2 <= 0) { s.o2 = 0; onPlayerDeath(); return; }
 
   // pickups
@@ -209,9 +235,26 @@ function tick(dt) {
   Game.shakeT = Math.max(0, Game.shakeT - dt);
 }
 
+// ---------------------------------------------------------------- suspicion
+function addSuspicion(n, why) {
+  const s = Game.state;
+  const before = s.suspicion || 0;
+  s.suspicion = Math.max(0, Math.min(100, before + n));
+  if (n > 0) Game.susFlash = 1;
+  saveState();
+  return s.suspicion;
+}
+function suspicionLevel(v) {
+  const levels = GAMEDATA.tuning.suspicion.levels;
+  let name = levels[0][1];
+  for (const [at, label] of levels) if ((v === undefined ? Game.state.suspicion : v) >= at) name = label;
+  return name;
+}
+
 function onPlayerDeath() {
   if (Game.deathFade > 0) return;
   Game.deathFade = 0.001;
+  if (typeof Tele !== "undefined") Tele.death();
   Audio2.deathSwell();
   if (Game.onDeath) Game.onDeath();
 }
@@ -235,7 +278,9 @@ function gotoDeck(idx, keepPos) {
   Game.state.o2 = Math.max(Game.state.o2, GAMEDATA.tuning.economy.deck_entry_min_o2);
   Game.particles = [];
   const first = !Game.state.visited[Game.deck.src.id];
+  if (first) Game.state.o2 = Math.max(Game.state.o2, GAMEDATA.tuning.economy.first_visit_min_o2 || 0);
   Game.state.visited[Game.deck.src.id] = true;
+  if (typeof Tele !== "undefined") Tele.deckEnter(Game.deck.src.id);
   saveState();
   if (Game.onDeckEnter) Game.onDeckEnter(Game.deck, first);
 }
@@ -356,6 +401,13 @@ function render() {
   vg.addColorStop(1, "rgba(0,0,5,0.55)");
   ctx.fillStyle = vg; ctx.fillRect(0, 0, Wp, Hp);
 
+  const susV = (Game.state && Game.state.suspicion) || 0;
+  if (susV >= 75 || (Game.susFlash || 0) > 0) {
+    Game.susFlash = Math.max(0, (Game.susFlash || 0) - 0.02);
+    const a = Math.max(Game.susFlash * 0.18, susV >= 75 ? 0.06 + 0.05 * Math.sin(Game.time * 2.2) : 0);
+    ctx.fillStyle = `rgba(190,120,40,${a})`;
+    ctx.fillRect(0, 0, Wp, Hp);
+  }
   if (Game.o2LowPulse > 0) {
     const a = 0.12 + 0.1 * Math.sin(Game.o2LowPulse * 4);
     ctx.fillStyle = `rgba(160,20,20,${a})`;
@@ -544,7 +596,11 @@ function renderLights(camX, camY, scale) {
   if (L.width !== cv.width || L.height !== cv.height) { L.width = cv.width; L.height = cv.height; }
   lctx.setTransform(1, 0, 0, 1, 0, 0);
   lctx.globalCompositeOperation = "source-over";
-  lctx.fillStyle = "rgba(2,3,10,0.83)";
+  const sus = (Game.state && Game.state.suspicion) || 0;
+  // ECHO's doubt is visible: the ship dims and stutters as suspicion rises
+  let dark = 0.83 + sus * 0.0011;
+  if (sus >= 50 && Math.sin(Game.time * 23.1) * Math.sin(Game.time * 5.3) > 0.93 - (sus - 50) * 0.004) dark = 0.97;
+  lctx.fillStyle = `rgba(2,3,10,${Math.min(0.97, dark)})`;
   lctx.fillRect(0, 0, L.width, L.height);
   lctx.globalCompositeOperation = "destination-out";
   const s = Game.state;
@@ -637,4 +693,4 @@ function initEngine(canvas) {
   startLoop();
 }
 
-if (typeof module !== "undefined") module.exports = { Game, initEngine, parseDeck, gotoDeck, respawn, toast, newRunState, saveState, loadState, clearSave, entKey, isOpened, setOpened, liftUnlocked, solidAt };
+if (typeof module !== "undefined") module.exports = { Game, initEngine, addSuspicion, suspicionLevel, parseDeck, gotoDeck, respawn, toast, newRunState, saveState, loadState, clearSave, entKey, isOpened, setOpened, liftUnlocked, solidAt };

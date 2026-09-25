@@ -149,3 +149,40 @@ body.touch #interactBtn { bottom: 40px; left: auto; right: 20px; transform: none
   .eframe { font-size: 13px; line-height: 1.6; }
   #endingTitle { letter-spacing: 3px; }
 }
+
+/* ---------------- iteration 2 prototype ---------------- */
+#toasts { z-index: 60; }
+body.drain #hud { z-index: 55; }
+body.drain #hudRight { visibility: hidden; }
+body.drain .overlay { padding-top: 64px; }
+#echoMood { display: flex; align-items: center; gap: 7px; font-size: 10px; letter-spacing: 2px; }
+#echoMood .eye { width: 9px; height: 9px; border-radius: 50%; background: #6fe3c8; box-shadow: 0 0 8px #6fe3c8; transition: background 0.6s, box-shadow 0.6s; }
+#moodLabel { color: #8fd8c6; min-width: 84px; }
+#moodTrack { width: 60px; height: 4px; background: rgba(255,255,255,0.07); border-radius: 2px; overflow: hidden; }
+#moodFill { height: 100%; width: 0; background: #6fe3c8; transition: width 0.5s, background 0.6s; }
+.mood-wary .eye, .mood-wary #moodFill { background: #e8d36a; box-shadow: 0 0 8px #e8d36a; }
+.mood-wary #moodLabel { color: #e8d36a; }
+.mood-suspicious .eye, .mood-suspicious #moodFill { background: #ff9a4a; box-shadow: 0 0 10px #ff9a4a; }
+.mood-suspicious #moodLabel { color: #ff9a4a; }
+.mood-hostile .eye, .mood-hostile #moodFill { background: #ff4b4b; box-shadow: 0 0 14px #ff4b4b; animation: moodpulse 0.9s infinite; }
+.mood-hostile #moodLabel { color: #ff6b6b; }
+@keyframes moodpulse { 50% { opacity: 0.4; } }
+.hudbtn.report { color: #d7b8ff; border-color: rgba(185,138,255,0.45); }
+.doormeta { display: flex; justify-content: space-between; font-size: 10px; letter-spacing: 2px; color: #7f8cab; margin: 8px 0 2px; min-height: 14px; }
+.timer { color: #ffb36b; }
+.timer.hot { color: #ff5b5b; animation: moodpulse 0.6s infinite; }
+.layers { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 2px; }
+.layer { font-size: 10.5px; letter-spacing: 0.5px; padding: 4px 8px; border: 1px solid rgba(140,170,220,0.25); border-radius: 3px; color: #9aa9c6; }
+.layer.ok { color: #7cffbe; border-color: rgba(124,255,190,0.45); }
+.layer.no { color: #ff8f7c; border-color: rgba(255,143,124,0.5); }
+.hintline.source { color: #9fd0ff; font-style: normal; }
+mark { background: rgba(255,214,120,0.16); color: #ffe1a0; padding: 0 2px; border-radius: 2px; }
+mark.faint { background: transparent; color: inherit; }
+.jtag { font-size: 9px; letter-spacing: 1.5px; color: #ffd78a; border: 1px solid rgba(255,215,138,0.4); border-radius: 2px; padding: 1px 5px; margin-right: 7px; vertical-align: 1px; }
+.jtag.keep { color: #c9a6ff; border-color: rgba(201,166,255,0.45); }
+.keepsaketext { white-space: pre-line; }
+#noteEcho { margin-top: 10px; min-height: 0; }
+.reportsum { white-space: pre-wrap; font: inherit; font-size: 11.5px; line-height: 1.6; color: #c4d2ea; background: #0a0e1a; border: 1px solid rgba(140,170,220,0.2); padding: 10px 12px; margin: 10px 0; border-radius: 3px; overflow-x: auto; }
+.reportcode { width: 100%; background: #0b0f1c; color: #9fb4d8; border: 1px solid rgba(140,170,220,0.3); font: inherit; font-size: 10px; padding: 8px; border-radius: 3px; resize: none; word-break: break-all; }
+#doorReply { min-height: 0; font-style: italic; margin: 2px 0 6px; }
+[hidden] { display: none !important; }

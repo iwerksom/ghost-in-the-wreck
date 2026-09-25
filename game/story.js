@@ -27,6 +27,7 @@ const Story = (() => {
     t = t.slice(0, 160).trim();
     // align with the training distribution: sentence case, terminal punctuation
     if (t.length > 0) {
+      t = t.replace(/\bi\b/g, "I");   // the corpus never writes a lowercase "i"
       t = t[0].toUpperCase() + t.slice(1);
       if (!/[.!?"']$/.test(t)) t += ".";
     }
@@ -64,15 +65,24 @@ const Story = (() => {
   async function generateLog(author, seedKey, opts = {}) {
     const rng = LM.mulberry32(seedFrom(seedKey));
     const maxDay = DEATH_DAY[author] || 388;
-    const day = opts.silence ? maxDay : 8 + Math.floor(rng() * 1e6) % 375;
-    const dstr = String(Math.min(day, 388)).padStart(3, "0");
-    const prompt = `[LOG:${author}:D${dstr}]\n`;
-    if (!LM.isLoaded) return { day: dstr, text: FALLBACK.log };
+    const day = opts.day || (opts.silence ? maxDay : 8 + Math.floor(rng() * 1e6) % 375);
+    const dstr = String(Math.min(day, opts.day ? 999 : 388)).padStart(3, "0");
+    // iteration 2: an anchored log starts with an authored clue sentence, so
+    // the fact is guaranteed; the model writes the rest of the entry around it
+    const anchor = opts.anchor ? opts.anchor.trim() : "";
+    const prompt = `[LOG:${author}:D${dstr}]\n` + anchor;
+    if (!LM.isLoaded) return { day: dstr, text: anchor || FALLBACK.log };
+    if (anchor && opts.onToken) opts.onToken(anchor);
+    const maxChars = SAMP.log.maxChars - (anchor ? Math.min(260, anchor.length) : 0);
     const text = await LM.generate(prompt, {
-      maxTokens: SAMP.log.maxTokens, maxChars: SAMP.log.maxChars,
+      maxTokens: SAMP.log.maxTokens, maxChars,
       temp: opts.temp || SAMP.log.temp, topP: SAMP.log.topP,
       seed: seedFrom(seedKey + ":gen"), onToken: opts.onToken, cancelled: opts.cancelled,
     });
+    if (anchor) {
+      const rest = cleanLog(" " + (text || "")).trim();
+      return { day: dstr, text: rest ? anchor + " " + rest : anchor };
+    }
     return { day: dstr, text: cleanLog(text || "") || FALLBACK.log };
   }
 

@@ -142,7 +142,7 @@
       "outputs": ["game/calibration.js"],
       "llm_recipe": "Write fresh out-of-corpus paraphrases per character for the test set; run calibrate; hand-adjust temperature/threshold for the desired pass-feel.",
       "manual_recipe": "Same; a human writes the paraphrases and picks thresholds.",
-      "gate": {"kind": "automated", "cmd": "node test/calibrate.js", "criteria": "Paraphrase top-1 >= 80%; gibberish fully separated on both log-prob and token-ratio axes."},
+      "gate": {"kind": "automated", "cmd": "node test/calibrate.js && node test/door_test.js", "criteria": "Paraphrase top-1 >= 80%; gibberish fully separated on both log-prob and token-ratio axes; no cheese answer opens any door and genuine imitations open >= 60% on the first try."},
       "depends_on": ["export"]
     },
     {

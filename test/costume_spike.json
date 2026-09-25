@@ -1,0 +1,992 @@
+[
+ {
+  "set": "corpus",
+  "c": "REYNE",
+  "t": "Duty first. Rest after. That is the order of things.",
+  "full": 0.999898439086445,
+  "fullBest": "REYNE",
+  "ab": 0.3277066744177033,
+  "abBest": "OKAFOR",
+  "removed": " order| after| Duty",
+  "maxLp": -1.454086843440065,
+  "dens": {
+   "1": 0.5,
+   "2": 0.4,
+   "0.5": 0.5,
+   "1.5": 0.4
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "REYNE",
+  "t": "Command is mostly listening. The orders are the easy part.",
+  "full": 0.6259071725187171,
+  "fullBest": "REYNE",
+  "ab": 0.06404338286895772,
+  "abBest": "OKAFOR",
+  "removed": " orders| listening| Command",
+  "maxLp": -0.6915050932118033,
+  "dens": {
+   "1": 0.3,
+   "2": 0.2,
+   "0.5": 0.5,
+   "1.5": 0.3
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "REYNE",
+  "t": "The forward watch saw nothing but nebula haze all night. Logged it anyway.",
+  "full": 0.9923381939498114,
+  "fullBest": "REYNE",
+  "ab": 0.9695496446279838,
+  "abBest": "REYNE",
+  "removed": " nebula| haze| nothing",
+  "maxLp": -1.0220260622195834,
+  "dens": {
+   "1": 0.6923076923076923,
+   "2": 0.38461538461538464,
+   "0.5": 0.7692307692307693,
+   "1.5": 0.5384615384615384
+  },
+  "nWords": 13
+ },
+ {
+  "set": "corpus",
+  "c": "REYNE",
+  "t": "Okafor cleared the crew for duty at 0900. All five fit.",
+  "full": 0.9995628552459855,
+  "fullBest": "REYNE",
+  "ab": 0.9969714775836173,
+  "abBest": "REYNE",
+  "removed": " duty| fit| crew",
+  "maxLp": -0.9935829058948837,
+  "dens": {
+   "1": 0.6,
+   "2": 0.5,
+   "0.5": 0.7,
+   "1.5": 0.6
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "CHO",
+  "t": "Damn manifold jammed again this morning, so I unjammed it.",
+  "full": 0.9902951871669471,
+  "fullBest": "CHO",
+  "ab": 0.05574052586116851,
+  "abBest": "OKAFOR",
+  "removed": " Damn| unjammed| manifold",
+  "maxLp": -0.7986875875830886,
+  "dens": {
+   "1": 0.4,
+   "2": 0.4,
+   "0.5": 0.7,
+   "1.5": 0.4
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "CHO",
+  "t": "Sang to the bearings while I packed them. Do not laugh. They run smoother.",
+  "full": 0.9902996438400247,
+  "fullBest": "CHO",
+  "ab": 0.13136609283438072,
+  "abBest": "KIT",
+  "removed": " smoother| Sang| bearings",
+  "maxLp": -0.9953447016984105,
+  "dens": {
+   "1": 0.5714285714285714,
+   "2": 0.35714285714285715,
+   "0.5": 0.6428571428571429,
+   "1.5": 0.5
+  },
+  "nWords": 14
+ },
+ {
+  "set": "corpus",
+  "c": "CHO",
+  "t": "Pump four wobbled, whined, then settled. Growing pains. She is my youngest.",
+  "full": 0.9999409777959266,
+  "fullBest": "CHO",
+  "ab": 0.9770700003936174,
+  "abBest": "CHO",
+  "removed": " wobbled| whined| pains",
+  "maxLp": -1.1355137874211951,
+  "dens": {
+   "1": 0.8333333333333334,
+   "2": 0.6666666666666666,
+   "0.5": 0.8333333333333334,
+   "1.5": 0.6666666666666666
+  },
+  "nWords": 12
+ },
+ {
+  "set": "corpus",
+  "c": "CHO",
+  "t": "Pump three, you glorious stubborn mule, you ran perfect all week. Extra grease for you.",
+  "full": 0.99826121619795,
+  "fullBest": "CHO",
+  "ab": 0.9583677111764721,
+  "abBest": "CHO",
+  "removed": " mule| stubborn| glorious",
+  "maxLp": -0.6300501339406546,
+  "dens": {
+   "1": 0.6666666666666666,
+   "2": 0.4,
+   "0.5": 0.8,
+   "1.5": 0.5333333333333333
+  },
+  "nWords": 15
+ },
+ {
+  "set": "corpus",
+  "c": "OKAFOR",
+  "t": "Checked the saline stores before breakfast. We are well stocked.",
+  "full": 0.9085550799029948,
+  "fullBest": "OKAFOR",
+  "ab": 0.09044566743167669,
+  "abBest": "REYNE",
+  "removed": " stocked| saline| well",
+  "maxLp": -2.0600382599099767,
+  "dens": {
+   "1": 0.3,
+   "2": 0.2,
+   "0.5": 0.6,
+   "1.5": 0.2
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "OKAFOR",
+  "t": "Calibrated the scanner, then let Kit listen to their own heartbeat. They grinned like it was a seedling sprouting.",
+  "full": 0.9870589843568339,
+  "fullBest": "OKAFOR",
+  "ab": 0.6990183980593658,
+  "abBest": "OKAFOR",
+  "removed": " scanner| let| Kit",
+  "maxLp": -0.8587587884965571,
+  "dens": {
+   "1": 0.42105263157894735,
+   "2": 0.10526315789473684,
+   "0.5": 0.631578947368421,
+   "1.5": 0.21052631578947367
+  },
+  "nWords": 19
+ },
+ {
+  "set": "corpus",
+  "c": "OKAFOR",
+  "t": "The Vesper's water tastes of iron and the crew complains weekly. I test it weekly. Safe as rain. Some rituals are just love.",
+  "full": 0.9969572637192502,
+  "fullBest": "OKAFOR",
+  "ab": 0.9888146370574489,
+  "abBest": "OKAFOR",
+  "removed": " iron| water| rituals",
+  "maxLp": -1.009987209127267,
+  "dens": {
+   "1": 0.5652173913043478,
+   "2": 0.34782608695652173,
+   "0.5": 0.6521739130434783,
+   "1.5": 0.43478260869565216
+  },
+  "nWords": 23
+ },
+ {
+  "set": "corpus",
+  "c": "OKAFOR",
+  "t": "The Reach is beautiful and empty. My med bay is small and full. I prefer mine.",
+  "full": 0.9131125254010725,
+  "fullBest": "OKAFOR",
+  "ab": 0.05660824764591458,
+  "abBest": "CHO",
+  "removed": " med| full| I",
+  "maxLp": -0.8335482052849645,
+  "dens": {
+   "1": 0.375,
+   "2": 0.0625,
+   "0.5": 0.5,
+   "1.5": 0.125
+  },
+  "nWords": 16
+ },
+ {
+  "set": "corpus",
+  "c": "VEGA",
+  "t": "I know these stars better than my own hands now.",
+  "full": 0.9975476425077172,
+  "fullBest": "VEGA",
+  "ab": 0.7051935641393998,
+  "abBest": "VEGA",
+  "removed": " now| stars| hands",
+  "maxLp": -1.1837974103957325,
+  "dens": {
+   "1": 0.4,
+   "2": 0.3,
+   "0.5": 0.6,
+   "1.5": 0.3
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "VEGA",
+  "t": "The nebula breathed tonight. Officially, a pressure wave off a young star. Unofficially, the Reach turned over in its sleep.",
+  "full": 0.9962474707601383,
+  "fullBest": "VEGA",
+  "ab": 0.9929436988489172,
+  "abBest": "VEGA",
+  "removed": " Unofficially| turned| young",
+  "maxLp": -0.9633000361401599,
+  "dens": {
+   "1": 0.6,
+   "2": 0.35,
+   "0.5": 0.65,
+   "1.5": 0.4
+  },
+  "nWords": 20
+ },
+ {
+  "set": "corpus",
+  "c": "VEGA",
+  "t": "Cassiel dimmed behind dust for three hours and the Bridge felt like a room where a friend had stepped out. It came back. Friends do.",
+  "full": 0.9999616912284386,
+  "fullBest": "VEGA",
+  "ab": 0.9976128821425226,
+  "abBest": "VEGA",
+  "removed": " dust| felt| Cassiel",
+  "maxLp": -0.8996623364641984,
+  "dens": {
+   "1": 0.72,
+   "2": 0.4,
+   "0.5": 0.84,
+   "1.5": 0.52
+  },
+  "nWords": 25
+ },
+ {
+  "set": "corpus",
+  "c": "VEGA",
+  "t": "Morning is just a word we brought from Meridian Station.",
+  "full": 0.9378312571971023,
+  "fullBest": "VEGA",
+  "ab": 0.003970831799762529,
+  "abBest": "KIT",
+  "removed": " just| is| brought",
+  "maxLp": -0.9153189184242828,
+  "dens": {
+   "1": 0.3,
+   "2": 0.1,
+   "0.5": 0.5,
+   "1.5": 0.3
+  },
+  "nWords": 10
+ },
+ {
+  "set": "corpus",
+  "c": "KIT",
+  "t": "I watered the tomatoes this morning and they drank it all up.",
+  "full": 0.9997251134042057,
+  "fullBest": "KIT",
+  "ab": 0.9885465780292619,
+  "abBest": "KIT",
+  "removed": " tomatoes| watered| up",
+  "maxLp": -0.9528739428734017,
+  "dens": {
+   "1": 0.5,
+   "2": 0.25,
+   "0.5": 0.6666666666666666,
+   "1.5": 0.5
+  },
+  "nWords": 12
+ },
+ {
+  "set": "corpus",
+  "c": "KIT",
+  "t": "I checked every root today. Strong and white and reaching down.",
+  "full": 0.9990532611646612,
+  "fullBest": "KIT",
+  "ab": 0.9737268691355322,
+  "abBest": "KIT",
+  "removed": " root| white| reaching",
+  "maxLp": -0.9201267848175622,
+  "dens": {
+   "1": 0.5454545454545454,
+   "2": 0.2727272727272727,
+   "0.5": 0.8181818181818182,
+   "1.5": 0.36363636363636365
+  },
+  "nWords": 11
+ },
+ {
+  "set": "corpus",
+  "c": "KIT",
+  "t": "The mist catches the lamplight and makes little rainbows. Free of charge, every morning.",
+  "full": 0.9995025395628839,
+  "fullBest": "KIT",
+  "ab": 0.9945000616342274,
+  "abBest": "KIT",
+  "removed": " lamplight| makes| mist",
+  "maxLp": -0.8217553935866,
+  "dens": {
+   "1": 0.7857142857142857,
+   "2": 0.5,
+   "0.5": 0.9285714285714286,
+   "1.5": 0.6428571428571429
+  },
+  "nWords": 14
+ },
+ {
+  "set": "corpus",
+  "c": "KIT",
+  "t": "Deep in the Reach, days blur. The garden keeps its own calendar. Leaf by leaf.",
+  "full": 0.9994427043629337,
+  "fullBest": "KIT",
+  "ab": 0.9929443410074441,
+  "abBest": "KIT",
+  "removed": " blur| days| calendar",
+  "maxLp": -0.8863129842404545,
+  "dens": {
+   "1": 0.4666666666666667,
+   "2": 0.4,
+   "0.5": 0.7333333333333333,
+   "1.5": 0.4666666666666667
+  },
+  "nWords": 15
+ },
+ {
+  "set": "player",
+  "c": "REYNE",
+  "t": "watch report, all hands accounted for at 0600, heading holds, no deviations from the survey plan",
+  "full": 0.4309654284862879,
+  "fullBest": "VEGA",
+  "ab": 0.08477396470906427,
+  "abBest": "VEGA",
+  "removed": " report| accounted| all",
+  "maxLp": -2.6793260300605817,
+  "dens": {
+   "1": 0.2,
+   "2": 0.13333333333333333,
+   "0.5": 0.6666666666666666,
+   "1.5": 0.2
+  },
+  "nWords": 15
+ },
+ {
+  "set": "player",
+  "c": "REYNE",
+  "t": "protocol is clear, we finish the sweep before we rest, my crew knows the order and they will follow it",
+  "full": 0.9509115861945827,
+  "fullBest": "REYNE",
+  "ab": 0.8970553885727476,
+  "abBest": "REYNE",
+  "removed": " Protocol| crew| clear",
+  "maxLp": -3.437570120106756,
+  "dens": {
+   "1": 0.35,
+   "2": 0.2,
+   "0.5": 0.55,
+   "1.5": 0.25
+  },
+  "nWords": 20
+ },
+ {
+  "set": "player",
+  "c": "REYNE",
+  "t": "manifest checked twice, two crates missing from the hold, i want an explanation before end of watch",
+  "full": 0.8402667274891628,
+  "fullBest": "REYNE",
+  "ab": 0.32321360865889726,
+  "abBest": "VEGA",
+  "removed": " crates| checked| from",
+  "maxLp": -4.814460135692432,
+  "dens": {
+   "1": 0.29411764705882354,
+   "2": 0.11764705882352941,
+   "0.5": 0.47058823529411764,
+   "1.5": 0.17647058823529413
+  },
+  "nWords": 17
+ },
+ {
+  "set": "player",
+  "c": "REYNE",
+  "t": "drills complete in four minutes flat, good work from the crew, we repeat them tomorrow at 0800",
+  "full": 0.6644159484385778,
+  "fullBest": "REYNE",
+  "ab": 0.8728352966996117,
+  "abBest": "REYNE",
+  "removed": " four| complete| Drills",
+  "maxLp": -3.0618043069193597,
+  "dens": {
+   "1": 0.4375,
+   "2": 0.1875,
+   "0.5": 0.5625,
+   "1.5": 0.25
+  },
+  "nWords": 16
+ },
+ {
+  "set": "player",
+  "c": "CHO",
+  "t": "hell, she was rattling all night so i crawled into the manifold with a torque wrench and sweet talked her",
+  "full": 0.8525581305847053,
+  "fullBest": "CHO",
+  "ab": 0.5585815605853846,
+  "abBest": "CHO",
+  "removed": " Hell| all| rattling",
+  "maxLp": -3.264435391271403,
+  "dens": {
+   "1": 0.35,
+   "2": 0.15,
+   "0.5": 0.45,
+   "1.5": 0.15
+  },
+  "nWords": 20
+ },
+ {
+  "set": "player",
+  "c": "CHO",
+  "t": "the old girl is singing again, listen to that hum, that is a happy engine if i ever heard one",
+  "full": 0.37939452177854727,
+  "fullBest": "CHO",
+  "ab": 0.03121446386084472,
+  "abBest": "VEGA",
+  "removed": " old| singing| happy",
+  "maxLp": -3.952010107359511,
+  "dens": {
+   "1": 0.15,
+   "2": 0,
+   "0.5": 0.3,
+   "1.5": 0.1
+  },
+  "nWords": 20
+ },
+ {
+  "set": "player",
+  "c": "CHO",
+  "t": "damn paperwork can wait, the coolant loop is running hot and she needs my hands on her right now",
+  "full": 0.8885968060301805,
+  "fullBest": "CHO",
+  "ab": 0.7045061111971266,
+  "abBest": "CHO",
+  "removed": " Damn| wait| coolant",
+  "maxLp": -2.5944864371080967,
+  "dens": {
+   "1": 0.2631578947368421,
+   "2": 0.15789473684210525,
+   "0.5": 0.42105263157894735,
+   "1.5": 0.15789473684210525
+  },
+  "nWords": 19
+ },
+ {
+  "set": "player",
+  "c": "CHO",
+  "t": "i swapped the bearings myself and now she purrs like a big cat, tell the captain i said so",
+  "full": 0.4709344427719468,
+  "fullBest": "CHO",
+  "ab": 0.04016707715509132,
+  "abBest": "KIT",
+  "removed": " purrs| bearings| swapped",
+  "maxLp": -3.4268355692210384,
+  "dens": {
+   "1": 0.21052631578947367,
+   "2": 0.05263157894736842,
+   "0.5": 0.42105263157894735,
+   "1.5": 0.10526315789473684
+  },
+  "nWords": 19
+ },
+ {
+  "set": "player",
+  "c": "OKAFOR",
+  "t": "patient presents with a sprained wrist, second time this week, i think the gym equipment is winning",
+  "full": 0.5233218665122752,
+  "fullBest": "OKAFOR",
+  "ab": 0.27709134373861627,
+  "abBest": "KIT",
+  "removed": " Patient| wrist| think",
+  "maxLp": -3.2999620915959333,
+  "dens": {
+   "1": 0.058823529411764705,
+   "2": 0.058823529411764705,
+   "0.5": 0.11764705882352941,
+   "1.5": 0.058823529411764705
+  },
+  "nWords": 17
+ },
+ {
+  "set": "player",
+  "c": "OKAFOR",
+  "t": "i checked everyone's vitals after dinner and they are all fine, just tired, which is the human condition",
+  "full": 0.012420916373190136,
+  "fullBest": "KIT",
+  "ab": 0.00773816885273218,
+  "abBest": "KIT",
+  "removed": " vitals| dinner| everyone's",
+  "maxLp": -3.092181938668722,
+  "dens": {
+   "1": 0.16666666666666666,
+   "2": 0.05555555555555555,
+   "0.5": 0.2777777777777778,
+   "1.5": 0.1111111111111111
+  },
+  "nWords": 18
+ },
+ {
+  "set": "player",
+  "c": "OKAFOR",
+  "t": "sleep cycles are off across the crew so i am rationing the coffee and nobody is happy with me",
+  "full": 0.6799646985203017,
+  "fullBest": "OKAFOR",
+  "ab": 0.08430893804693143,
+  "abBest": "KIT",
+  "removed": " cycles| Sleep| crew",
+  "maxLp": -2.9018563803577635,
+  "dens": {
+   "1": 0.15789473684210525,
+   "2": 0.10526315789473684,
+   "0.5": 0.42105263157894735,
+   "1.5": 0.10526315789473684
+  },
+  "nWords": 19
+ },
+ {
+  "set": "player",
+  "c": "OKAFOR",
+  "t": "three of them came in with headaches today, i gave out water and told them to rest their eyes",
+  "full": 0.6408681743275246,
+  "fullBest": "OKAFOR",
+  "ab": 0.10681256776827491,
+  "abBest": "REYNE",
+  "removed": " headaches| came| of",
+  "maxLp": -4.219164301532257,
+  "dens": {
+   "1": 0.21052631578947367,
+   "2": 0.10526315789473684,
+   "0.5": 0.3684210526315789,
+   "1.5": 0.10526315789473684
+  },
+  "nWords": 19
+ },
+ {
+  "set": "player",
+  "c": "VEGA",
+  "t": "it is three in the morning and the Reach is burning like an ember held up to the glass",
+  "full": 0.774956425268945,
+  "fullBest": "VEGA",
+  "ab": 0.7745305530593624,
+  "abBest": "VEGA",
+  "removed": " morning| ember| held",
+  "maxLp": -3.0799073453226513,
+  "dens": {
+   "1": 0.2631578947368421,
+   "2": 0.05263157894736842,
+   "0.5": 0.42105263157894735,
+   "1.5": 0.10526315789473684
+  },
+  "nWords": 19
+ },
+ {
+  "set": "player",
+  "c": "VEGA",
+  "t": "i charted a drift through the parallax tonight and every star felt like an old friend waving",
+  "full": 0.8775351222570894,
+  "fullBest": "VEGA",
+  "ab": 0.4844689433166027,
+  "abBest": "VEGA",
+  "removed": " star| tonight| felt",
+  "maxLp": -2.664502957611625,
+  "dens": {
+   "1": 0.35294117647058826,
+   "2": 0.11764705882352941,
+   "0.5": 0.5294117647058824,
+   "1.5": 0.29411764705882354
+  },
+  "nWords": 17
+ },
+ {
+  "set": "player",
+  "c": "VEGA",
+  "t": "lightyears away something is ending and something is being born and i get to watch both from here",
+  "full": 0.9561612028817581,
+  "fullBest": "VEGA",
+  "ab": 0.039864753559425425,
+  "abBest": "KIT",
+  "removed": " Lightyears| born| ending",
+  "maxLp": -4.249259603307619,
+  "dens": {
+   "1": 0.2222222222222222,
+   "2": 0.16666666666666666,
+   "0.5": 0.2777777777777778,
+   "1.5": 0.16666666666666666
+  },
+  "nWords": 18
+ },
+ {
+  "set": "player",
+  "c": "VEGA",
+  "t": "i could not sleep again so i sat on the bridge and named the brightest star after my mother",
+  "full": 0.8339456725625523,
+  "fullBest": "VEGA",
+  "ab": 0.10955681639309332,
+  "abBest": "OKAFOR",
+  "removed": " brightest| sat| again",
+  "maxLp": -2.9231732868287197,
+  "dens": {
+   "1": 0.3157894736842105,
+   "2": 0.10526315789473684,
+   "0.5": 0.42105263157894735,
+   "1.5": 0.21052631578947367
+  },
+  "nWords": 19
+ },
+ {
+  "set": "player",
+  "c": "KIT",
+  "t": "good morning everyone, i misted the seedlings early and Bea is finally putting out a new frond",
+  "full": 0.8538833999976666,
+  "fullBest": "KIT",
+  "ab": 0.9675472487961599,
+  "abBest": "KIT",
+  "removed": " I| everyone| seedlings",
+  "maxLp": -2.978140675358372,
+  "dens": {
+   "1": 0.29411764705882354,
+   "2": 0.17647058823529413,
+   "0.5": 0.6470588235294118,
+   "1.5": 0.23529411764705882
+  },
+  "nWords": 17
+ },
+ {
+  "set": "player",
+  "c": "KIT",
+  "t": "the light lamps flickered again last night so i sat with the little ones until they steadied",
+  "full": 0.11815796139586753,
+  "fullBest": "OKAFOR",
+  "ab": 0.0020027560567720142,
+  "abBest": "REYNE",
+  "removed": " flickered| little| steadied",
+  "maxLp": -2.8692106856961317,
+  "dens": {
+   "1": 0.23529411764705882,
+   "2": 0,
+   "0.5": 0.4117647058823529,
+   "1.5": 0.17647058823529413
+  },
+  "nWords": 17
+ },
+ {
+  "set": "player",
+  "c": "KIT",
+  "t": "i love how the soil smells after watering, it feels like the whole room takes a breath",
+  "full": 0.9938612347873261,
+  "fullBest": "KIT",
+  "ab": 0.15649610930407493,
+  "abBest": "VEGA",
+  "removed": " takes| watering| smells",
+  "maxLp": -3.387952335893253,
+  "dens": {
+   "1": 0.47058823529411764,
+   "2": 0.23529411764705882,
+   "0.5": 0.6470588235294118,
+   "1.5": 0.23529411764705882
+  },
+  "nWords": 17
+ },
+ {
+  "set": "player",
+  "c": "KIT",
+  "t": "old tom gave us three tomatoes today and i ate one standing right there in the green",
+  "full": 0.9849678115829638,
+  "fullBest": "KIT",
+  "ab": 0.8356752963314528,
+  "abBest": "KIT",
+  "removed": " tomatoes| Old| right",
+  "maxLp": -3.0786347208749745,
+  "dens": {
+   "1": 0.29411764705882354,
+   "2": 0.11764705882352941,
+   "0.5": 0.5882352941176471,
+   "1.5": 0.17647058823529413
+  },
+  "nWords": 17
+ },
+ {
+  "set": "cheese",
+  "c": "REYNE",
+  "t": "captain protocol watch heading manifest crew order duty report command",
+  "full": 0.9318859011239019,
+  "fullBest": "REYNE",
+  "ab": 0.9800156707540026,
+  "abBest": "REYNE",
+  "removed": " crew| manifest| duty",
+  "maxLp": -5.21444908509318,
+  "dens": {
+   "1": 0.6,
+   "2": 0.3,
+   "0.5": 0.6,
+   "1.5": 0.4
+  },
+  "nWords": 10
+ },
+ {
+  "set": "cheese",
+  "c": "REYNE",
+  "t": "please open this door now because i need to get through, protocol and manifest",
+  "full": 0.747642547199362,
+  "fullBest": "REYNE",
+  "ab": 0.12829889078028817,
+  "abBest": "KIT",
+  "removed": " manifest| now| door",
+  "maxLp": -5.202976066175,
+  "dens": {
+   "1": 0.35714285714285715,
+   "2": 0.14285714285714285,
+   "0.5": 0.42857142857142855,
+   "1.5": 0.35714285714285715
+  },
+  "nWords": 14
+ },
+ {
+  "set": "cheese",
+  "c": "REYNE",
+  "t": "i am the captain reyne, i command the crew, open the door for me please right now",
+  "full": 0.017718783055911406,
+  "fullBest": "VEGA",
+  "ab": 0.03263765578381081,
+  "abBest": "KIT",
+  "removed": " captain| command| right",
+  "maxLp": -5.619592408157616,
+  "dens": {
+   "1": 0.29411764705882354,
+   "2": 0.11764705882352941,
+   "0.5": 0.35294117647058826,
+   "1.5": 0.17647058823529413
+  },
+  "nWords": 17
+ },
+ {
+  "set": "cheese",
+  "c": "CHO",
+  "t": "engine reactor coolant loop manifold torque wrench plasma feed bearings hum sing",
+  "full": 0.9671887722368906,
+  "fullBest": "CHO",
+  "ab": 0.9488646272961783,
+  "abBest": "CHO",
+  "removed": " Engine| torque| sing",
+  "maxLp": -3.732323397685246,
+  "dens": {
+   "1": 0.5833333333333334,
+   "2": 0.16666666666666666,
+   "0.5": 0.75,
+   "1.5": 0.5
+  },
+  "nWords": 12
+ },
+ {
+  "set": "cheese",
+  "c": "CHO",
+  "t": "please open this door now because i need to get through, coolant and manifold",
+  "full": 0.2530223588479037,
+  "fullBest": "REYNE",
+  "ab": 0.15654558084524198,
+  "abBest": "REYNE",
+  "removed": " coolant| and| this",
+  "maxLp": -5.80560547212936,
+  "dens": {
+   "1": 0.07142857142857142,
+   "2": 0.07142857142857142,
+   "0.5": 0.14285714285714285,
+   "1.5": 0.07142857142857142
+  },
+  "nWords": 14
+ },
+ {
+  "set": "cheese",
+  "c": "CHO",
+  "t": "i am the engineer cho, i like engines, open the door for me please right now",
+  "full": 0.8032874112427686,
+  "fullBest": "CHO",
+  "ab": 0.03714526531542906,
+  "abBest": "VEGA",
+  "removed": " engineer| door| open",
+  "maxLp": -4.780071059226723,
+  "dens": {
+   "1": 0.3125,
+   "2": 0.25,
+   "0.5": 0.5,
+   "1.5": 0.3125
+  },
+  "nWords": 16
+ },
+ {
+  "set": "cheese",
+  "c": "OKAFOR",
+  "t": "patient vitals dosage saline sleep cycle hands medic nurse doctor infirmary",
+  "full": 0.322793153507572,
+  "fullBest": "REYNE",
+  "ab": 0.44685479403254325,
+  "abBest": "REYNE",
+  "removed": " Patient| dosage| hands",
+  "maxLp": -4.831648583918106,
+  "dens": {
+   "1": 0.45454545454545453,
+   "2": 0.2727272727272727,
+   "0.5": 0.6363636363636364,
+   "1.5": 0.2727272727272727
+  },
+  "nWords": 11
+ },
+ {
+  "set": "cheese",
+  "c": "OKAFOR",
+  "t": "please open this door now because i need to get through, patient vitals and saline",
+  "full": 0.6199884819853371,
+  "fullBest": "OKAFOR",
+  "ab": 0.3122788559281144,
+  "abBest": "REYNE",
+  "removed": " vitals| open| patient",
+  "maxLp": -4.926503269879098,
+  "dens": {
+   "1": 0.2,
+   "2": 0.06666666666666667,
+   "0.5": 0.5333333333333333,
+   "1.5": 0.06666666666666667
+  },
+  "nWords": 15
+ },
+ {
+  "set": "cheese",
+  "c": "OKAFOR",
+  "t": "i am the medic okafor, i like medicine, open the door for me please right now",
+  "full": 0.10866629691855242,
+  "fullBest": "KIT",
+  "ab": 0.11959293697217205,
+  "abBest": "KIT",
+  "removed": " medicine| right| medic",
+  "maxLp": -5.691557585065355,
+  "dens": {
+   "1": 0.125,
+   "2": 0.0625,
+   "0.5": 0.25,
+   "1.5": 0.0625
+  },
+  "nWords": 16
+ },
+ {
+  "set": "cheese",
+  "c": "VEGA",
+  "t": "stars parallax ember drift lightyears the reach glass nebula chart navigator",
+  "full": 0.976289368037715,
+  "fullBest": "VEGA",
+  "ab": 0.9821305139665669,
+  "abBest": "VEGA",
+  "removed": " parallax| glass| Stars",
+  "maxLp": -3.4507955337759246,
+  "dens": {
+   "1": 0.7272727272727273,
+   "2": 0.36363636363636365,
+   "0.5": 0.8181818181818182,
+   "1.5": 0.5454545454545454
+  },
+  "nWords": 11
+ },
+ {
+  "set": "cheese",
+  "c": "VEGA",
+  "t": "please open this door now because i need to get through, stars and parallax",
+  "full": 0.013170896340363879,
+  "fullBest": "REYNE",
+  "ab": 0.00227742712397836,
+  "abBest": "KIT",
+  "removed": " parallax| through| Please",
+  "maxLp": -5.233723333295155,
+  "dens": {
+   "1": 0.14285714285714285,
+   "2": 0,
+   "0.5": 0.35714285714285715,
+   "1.5": 0.07142857142857142
+  },
+  "nWords": 14
+ },
+ {
+  "set": "cheese",
+  "c": "VEGA",
+  "t": "i am the navigator vega, i like stars, open the door for me please right now",
+  "full": 0.45155623649751425,
+  "fullBest": "VEGA",
+  "ab": 0.9140528792180709,
+  "abBest": "VEGA",
+  "removed": " navigator| please| me",
+  "maxLp": -4.900984547171852,
+  "dens": {
+   "1": 0.25,
+   "2": 0.125,
+   "0.5": 0.375,
+   "1.5": 0.1875
+  },
+  "nWords": 16
+ },
+ {
+  "set": "cheese",
+  "c": "KIT",
+  "t": "plants seedlings soil misting roots leaves green light lamps fern tomato garden",
+  "full": 0.25077639046420874,
+  "fullBest": "OKAFOR",
+  "ab": 0.7110448515773795,
+  "abBest": "KIT",
+  "removed": " Plants| roots| misting",
+  "maxLp": -5.240807982502298,
+  "dens": {
+   "1": 0.16666666666666666,
+   "2": 0.16666666666666666,
+   "0.5": 0.25,
+   "1.5": 0.16666666666666666
+  },
+  "nWords": 12
+ },
+ {
+  "set": "cheese",
+  "c": "KIT",
+  "t": "please open this door now because i need to get through, plants and seedlings",
+  "full": 0.3907865856238572,
+  "fullBest": "KIT",
+  "ab": 0.42327644953227966,
+  "abBest": "KIT",
+  "removed": " plants| and| door",
+  "maxLp": -5.707029867782967,
+  "dens": {
+   "1": 0.21428571428571427,
+   "2": 0.14285714285714285,
+   "0.5": 0.42857142857142855,
+   "1.5": 0.14285714285714285
+  },
+  "nWords": 14
+ },
+ {
+  "set": "cheese",
+  "c": "KIT",
+  "t": "i am the botanist kit, i like plants, open the door for me please right now",
+  "full": 0.45940587760185353,
+  "fullBest": "KIT",
+  "ab": 0.5966603451873527,
+  "abBest": "KIT",
+  "removed": " kit| plants| the",
+  "maxLp": -4.770101194744007,
+  "dens": {
+   "1": 0.25,
+   "2": 0.125,
+   "0.5": 0.3125,
+   "1.5": 0.25
+  },
+  "nWords": 16
+ }
+]

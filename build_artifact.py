@@ -15,7 +15,8 @@ GAME = os.path.join(ROOT, "game")
 DIST = os.path.join(ROOT, "dist")
 
 SCRIPTS = ["weights.js", "calibration.js", "gamedata.js", "lm.js", "audio.js",
-           "maps.js", "engine.js", "story.js", "ui.js", "main.js"]
+           "telemetry.js", "maps.js", "engine.js", "story.js", "doors.js", "ui.js",
+           "main.js"]
 
 HEAD = (
     '<title>Ghost in the Wreck</title>\n'

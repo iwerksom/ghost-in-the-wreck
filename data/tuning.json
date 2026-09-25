@@ -1,12 +1,21 @@
 {
  "economy": {
-  "o2_tank_seconds": 195,
-  "o2_canister": 45,
+  "o2_tank_seconds": 240,
+  "o2_canister": 40,
   "hazard_drain_per_s": 9,
-  "garden_regen_per_s": 3.2,
-  "deck_entry_min_o2": 70,
-  "door_fail_o2_cost": 4,
-  "player_speed": 118
+  "garden_regen_per_s": 1.6,
+  "deck_entry_min_o2": 0,
+  "door_fail_o2_cost": 6,
+  "player_speed": 118,
+  "first_visit_min_o2": 55,
+  "overlay_drain": {
+   "termOverlay": 0.3,
+   "noteOverlay": 0.3,
+   "journalOverlay": 0.3,
+   "reportOverlay": 0,
+   "doorOverlay": 0.5,
+   "comOverlay": 0.4
+  }
  },
  "sampling": {
   "log": {
@@ -65,5 +74,55 @@
  "ambient_interval_s": [
   60,
   105
- ]
+ ],
+ "doors_v2": {
+  "voice_threshold": 0.4,
+  "persona_threshold": {
+   "OKAFOR": 0.3
+  },
+  "min_words": 10,
+  "min_stopword_ratio": 0.18,
+  "max_marker_density": 0.6,
+  "copy_ngram": 10,
+  "repeat_jaccard": 0.6,
+  "fuzzy_min_len": 5,
+  "fuzzy_max_edits": 2,
+  "hint_voice_after_fails": 2,
+  "hint_source_after_fails": 3
+ },
+ "suspicion": {
+  "fail_voice": 12,
+  "fail_structure": 8,
+  "fail_fact": 10,
+  "fail_distractor": 18,
+  "timeout": 15,
+  "door_success": -15,
+  "farewell": -10,
+  "body_skipped": 10,
+  "decay_per_s": 0.12,
+  "drain_bonus_at_max": 0.6,
+  "lockout_at": 75,
+  "lockout_s": 40,
+  "lockout_relief": -20,
+  "calm_below": 25,
+  "calm_door_air": 10,
+  "levels": [
+   [
+    0,
+    "CALM"
+   ],
+   [
+    25,
+    "WARY"
+   ],
+   [
+    50,
+    "SUSPICIOUS"
+   ],
+   [
+    75,
+    "HOSTILE"
+   ]
+  ]
+ }
 }

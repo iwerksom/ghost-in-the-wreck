@@ -22,7 +22,7 @@ const DECKS = [
    "   ######.################          ",
    "        #.#                         ",
    "   ######.########                  ",
-   "   #..~....B..O..#                  ",
+   "   #..~....B.....#                  ",
    "   #.....4.......#                  ",
    "   #..%......~..5#                  ",
    "   ###############                  "
@@ -66,7 +66,7 @@ const DECKS = [
    "   #..GGG......~......GGG....#        ",
    "   #..GGG..%.......%..GGG..1.#        ",
    "   #.........................#        ",
-   "   #.S...GG....B....GG......O#        ",
+   "   #.S...GG....B....GG.......#        ",
    "   #.....GG.........GG.......#        ",
    "   ##.#######.###.#######..###        ",
    "   #..#     #.....#     #..#          ",
@@ -84,7 +84,10 @@ const DECKS = [
    "1": {
     "type": "terminal",
     "author": "KIT",
-    "label": "Garden Console"
+    "label": "Garden Console",
+    "clues": [
+     "kit_plants"
+    ]
    },
    "2": {
     "type": "terminal",
@@ -126,7 +129,7 @@ const DECKS = [
    "      #.#   #................#        ",
    "   ####.#####.################        ",
    "   #.........~.#     ",
-   "   #.O.........#####################  ",
+   "   #...........#####################  ",
    "   #......%........D......~....3.O#   ",
    "   ############.###################   ",
    "   #..........#.#                     ",
@@ -142,7 +145,10 @@ const DECKS = [
    "1": {
     "type": "terminal",
     "author": "OKAFOR",
-    "label": "Patient Records"
+    "label": "Patient Records",
+    "clues": [
+     "okafor_milk"
+    ]
    },
    "2": {
     "type": "intercom",
@@ -163,7 +169,10 @@ const DECKS = [
    "5": {
     "type": "terminal",
     "author": "OKAFOR",
-    "label": "Triage Console"
+    "label": "Triage Console",
+    "clues": [
+     "okafor_pills_distractor"
+    ]
    },
    "6": {
     "type": "lift",
@@ -191,7 +200,7 @@ const DECKS = [
    "   #.2.......................#          ",
    "   ###.####################.##          ",
    "   #...#      #......#    #.#           ",
-   "   #.O.########..4...######.####        ",
+   "   #...########..4...######.####        ",
    "   #.........D......D......~..O#        ",
    "   #.3.......#......#..........#        ",
    "   ##########.......#####.######        ",
@@ -204,7 +213,10 @@ const DECKS = [
    "1": {
     "type": "terminal",
     "author": "CHO",
-    "label": "Reactor Console"
+    "label": "Reactor Console",
+    "clues": [
+     "cho_lever"
+    ]
    },
    "2": {
     "type": "socket",
@@ -267,12 +279,18 @@ const DECKS = [
    "1": {
     "type": "terminal",
     "author": "VEGA",
-    "label": "Nav Station"
+    "label": "Nav Station",
+    "clues": [
+     "vega_star"
+    ]
    },
    "2": {
     "type": "terminal",
     "author": "REYNE",
-    "label": "Command Console"
+    "label": "Command Console",
+    "clues": [
+     "reyne_casualty"
+    ]
    },
    "3": {
     "type": "echodoor",

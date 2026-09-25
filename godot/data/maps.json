@@ -39,7 +39,7 @@
     "   ######.################          ",
     "        #.#                         ",
     "   ######.########                  ",
-    "   #..~....B..O..#                  ",
+    "   #..~....B.....#                  ",
     "   #.....4.......#                  ",
     "   #..%......~..5#                  ",
     "   ###############                  "
@@ -83,7 +83,7 @@
     "   #..GGG......~......GGG....#        ",
     "   #..GGG..%.......%..GGG..1.#        ",
     "   #.........................#        ",
-    "   #.S...GG....B....GG......O#        ",
+    "   #.S...GG....B....GG.......#        ",
     "   #.....GG.........GG.......#        ",
     "   ##.#######.###.#######..###        ",
     "   #..#     #.....#     #..#          ",
@@ -101,7 +101,10 @@
     "1": {
      "type": "terminal",
      "author": "KIT",
-     "label": "Garden Console"
+     "label": "Garden Console",
+     "clues": [
+      "kit_plants"
+     ]
     },
     "2": {
      "type": "terminal",
@@ -143,7 +146,7 @@
     "      #.#   #................#        ",
     "   ####.#####.################        ",
     "   #.........~.#     ",
-    "   #.O.........#####################  ",
+    "   #...........#####################  ",
     "   #......%........D......~....3.O#   ",
     "   ############.###################   ",
     "   #..........#.#                     ",
@@ -159,7 +162,10 @@
     "1": {
      "type": "terminal",
      "author": "OKAFOR",
-     "label": "Patient Records"
+     "label": "Patient Records",
+     "clues": [
+      "okafor_milk"
+     ]
     },
     "2": {
      "type": "intercom",
@@ -180,7 +186,10 @@
     "5": {
      "type": "terminal",
      "author": "OKAFOR",
-     "label": "Triage Console"
+     "label": "Triage Console",
+     "clues": [
+      "okafor_pills_distractor"
+     ]
     },
     "6": {
      "type": "lift",
@@ -208,7 +217,7 @@
     "   #.2.......................#          ",
     "   ###.####################.##          ",
     "   #...#      #......#    #.#           ",
-    "   #.O.########..4...######.####        ",
+    "   #...########..4...######.####        ",
     "   #.........D......D......~..O#        ",
     "   #.3.......#......#..........#        ",
     "   ##########.......#####.######        ",
@@ -221,7 +230,10 @@
     "1": {
      "type": "terminal",
      "author": "CHO",
-     "label": "Reactor Console"
+     "label": "Reactor Console",
+     "clues": [
+      "cho_lever"
+     ]
     },
     "2": {
      "type": "socket",
@@ -284,12 +296,18 @@
     "1": {
      "type": "terminal",
      "author": "VEGA",
-     "label": "Nav Station"
+     "label": "Nav Station",
+     "clues": [
+      "vega_star"
+     ]
     },
     "2": {
      "type": "terminal",
      "author": "REYNE",
-     "label": "Command Console"
+     "label": "Command Console",
+     "clues": [
+      "reyne_casualty"
+     ]
     },
     "3": {
      "type": "echodoor",
