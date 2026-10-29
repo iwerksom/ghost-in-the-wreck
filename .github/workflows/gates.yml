@@ -1,0 +1,126 @@
+# Ghost in the Wreck — the gates, run on every push.
+#
+# This runs `make gates`, the *same* target you run locally, rather than a
+# CI-only list of commands. The Makefile is already the mirror of
+# pipeline.json, so a green dot here, a green `make gates` on the desktop and
+# a green dot in the factory panel all mean the identical thing. Adding a
+# check means editing the Makefile, not this file.
+#
+# Why this exists: iteration 2 (~4,300 lines) sat on main from 25 Sep to
+# 29 Oct 2026 with no gate ever run against it, because the only way to run
+# them was by hand on the one machine that has the toolchain.
+
+name: gates
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  # A new push to the same branch cancels the older run; the gates take a few
+  # minutes and only the newest commit matters.
+  group: gates-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Must match the version the godot/ slice is authored against
+  # (project.godot: config/features = "4.7").
+  GODOT_VERSION: 4.7.2
+
+jobs:
+  gates:
+    # Pinned, not -latest: tools/py works around this image's PEP 668 refusal
+    # to install into the system interpreter.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # README's documented floor is node 20+, so CI runs the floor: anything
+      # that needs a newer node should fail here, not on a contributor's box.
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: test/package-lock.json
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # numpy only, deliberately not -r requirements.txt. The `gates` target
+      # skips gate-train and gate-export, the two steps that import torch, so
+      # pulling the ~200 MB torch wheel would buy nothing. model/prepare.py is
+      # the only python in `gates` with a third-party import, and it needs
+      # numpy; build_artifact.py is stdlib-only.
+      - name: Install python deps
+        run: python3 -m pip install 'numpy>=1.24'
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('test/package-lock.json') }}
+
+      # postinstall fetches chromium, for test/smoke.js in gate-engine.
+      - name: Install node deps
+        run: npm ci
+        working-directory: test
+
+      - name: Cache Godot
+        id: godot-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/bin/godot
+          key: godot-${{ env.GODOT_VERSION }}-${{ runner.os }}
+
+      - name: Install Godot
+        if: steps.godot-cache.outputs.cache-hit != 'true'
+        run: |
+          set -euo pipefail
+          zip="Godot_v${GODOT_VERSION}-stable_linux.x86_64.zip"
+          url="https://github.com/godotengine/godot/releases/download/${GODOT_VERSION}-stable/${zip}"
+          mkdir -p ~/.local/bin
+          curl -fsSL --retry 3 -o /tmp/godot.zip "$url"
+          unzip -q -o /tmp/godot.zip -d /tmp/godot
+          install -m755 "/tmp/godot/Godot_v${GODOT_VERSION}-stable_linux.x86_64" ~/.local/bin/godot
+
+      # The Makefile calls a bare `godot`, as the local toolchain does.
+      - name: Put Godot on PATH
+        run: |
+          echo "$HOME/.local/bin" >> "$GITHUB_PATH"
+
+      - name: Check the toolchain
+        run: |
+          node --version
+          python3 --version
+          godot --version
+
+      - name: make gates
+        run: make gates
+
+      # `gates` regenerates game/maps.js, game/gamedata.js and
+      # corpus/build/tokenizer.json, all of which are committed. If a
+      # regenerated file differs from the committed one, the gates still pass
+      # but the repo is carrying stale derived data, which is exactly the kind
+      # of drift nobody notices by hand.
+      - name: Check committed derived data is current
+        run: |
+          if ! git diff --exit-code --stat; then
+            echo "::error::Generated files differ from the committed ones. Run 'make data' and commit the result."
+            exit 1
+          fi
+
+      - name: Upload the build
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: artifact-html
+          path: dist/artifact.html
+          if-no-files-found: warn
